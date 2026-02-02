@@ -1,0 +1,886 @@
+edition,edition_entry_id,laguna_scan_id,laguna_book,laguna_page,laguna_chapter,laguna_title
+laguna,row2,23,Libro primero,11,Cap I,De la Iris
+laguna,row3,24,Libro primero,12,Cap II,Del Acoro
+laguna,row4,25,Libro primero,13,Cap III,Del Meu
+laguna,row5,26,Libro primero,14,Cap IIII,Del Cypero
+laguna,row6,27,Libro primero,15,Cap V,Del Cardamomo
+laguna,row7,28,Libro primero,16,Cap VI,Del Nardo
+laguna,row8,29,Libro primero,17,Cap VII,"Del Nardo Gallico, o Celtico"
+laguna,row9,30,Libro primero,18,Cap VIII,Del Nardo Montano
+laguna,row10,30,Libro primero,18,Cap IX,Del Afaro
+laguna,row11,31,Libro primero,19,Cap X,Del Phu
+laguna,row12,32,Libro primero,20,Cap XI,Del Malabathro
+laguna,row13,33,Libro primero,21,Cap XII,De la Cassia
+laguna,row14,34,Libro primero,22,Cap XIII,Del Cinnamomo
+laguna,row15,35,Libro primero,23,Cap XIIII,Del Amomo
+laguna,row16,36,Libro primero,24,Cap XV,Del Costo
+laguna,row17,36,Libro primero,24,Cap XVI,Del Junco Oloroso
+laguna,row18,37,Libro primero,25,Cap XVII,Del Calamo Aromatico
+laguna,row19,38,Libro primero,26,Cap XVIII,Del Balsamo
+laguna,row20,40,Libro primero,28,Cap XIX,Del Aspalato
+laguna,row21,40,Libro primero,28,Cap XX,Del Musco de los Arboles
+laguna,row22,42,Libro primero,30,Cap XXI,Del Agaloco
+laguna,row23,42,Libro primero,30,Cap XXII,Del Nascaphto
+laguna,row24,42,Libro primero,30,Cap XXIII,Del Cancamo
+laguna,row25,43,Libro primero,31,Cap XXIIII,Del Cyphi
+laguna,row26,43,Libro primero,31,Cap XXV,Del Açafran
+laguna,row27,44,Libro primero,32,Cap XXVI,Del Crocomagma
+laguna,row28,44,Libro primero,32,Cap XXVII,Del Helenio
+laguna,row29,45,Libro primero,33,Cap XXVIII,Del Azeyte
+laguna,row30,47,Libro primero,35,Cap XXIX,Del Oleomiel
+laguna,row31,47,Libro primero,35,Cap XXX,"Del Oleo Ricino, o Cicino"
+laguna,row32,48,Libro primero,36,Cap XXXI,Del Azeyte de Almendras
+laguna,row33,48,Libro primero,36,Cap XXXII,"Del Oleo Balanino, Sesamino, y de Nuezes"
+laguna,row34,49,Libro primero,37,Cap XXXIII,"De Oleo de Hyoscyamo, de Grano Gnidio, de Cartamo"
+laguna,row35,49,Libro primero,37,Cap XXXIIII,Del Oleo Myrtino
+laguna,row36,50,Libro primero,38,Cap XXXV,Del Oleo Laurino
+laguna,row37,50,Libro primero,38,Cap XXXVI,
+laguna,row38,50,Libro primero,38,Cap XXXVII,
+laguna,row39,50,Libro primero,38,Cap XXXVIII,
+laguna,row40,50,Libro primero,38,Cap XXXIX,Del Unguento rosado
+laguna,row41,51,Libro primero,39,Cap XL,Del Unguento Elatino
+laguna,row42,51,Libro primero,39,Cap XLI,Del Melino
+laguna,row43,52,Libro primero,40,Cap XLII,Del Unguento Enantino
+laguna,row44,52,Libro primero,40,Cap XLIII,Del Unguento Telino
+laguna,row45,52,Libro primero,40,Cap XLIIII,Del Unguento sampsuchino
+laguna,row46,53,Libro primero,41,Cap XLV,"Del Unguento Ocimino, que quiere dezir de Albahaca"
+laguna,row47,53,Libro primero,41,Cap XLVI,
+laguna,row48,53,Libro primero,41,Cap XLVII,
+laguna,row49,53,Libro primero,41,Cap XLVIII,Del Unguento de Lirio Ilamado Susino
+laguna,row50,54,Libro primero,42,Cap XLIX,Del Unguento del Narcisso
+laguna,row51,54,Libro primero,42,Cap L,"Del Unguento Crocino, que quiere dezir de Açafran"
+laguna,row52,55,Libro primero,43,Cap LI,Del Unguento Cyprino
+laguna,row53,55,Libro primero,43,Cap LII,Del Unguento Irino
+laguna,row54,56,Libro primero,44,Cap LIII,Del Gleucino Unguento
+laguna,row55,56,Libro primero,44,Cap LIIII,Del Amaracino Unguento
+laguna,row56,56,Libro primero,44,Cap LV,Del Unguento Megalino
+laguna,row57,57,Libro primero,45,Cap LV,Del Unguento Hedycroo
+laguna,row58,57,Libro primero,45,Cap LVI,
+laguna,row59,57,Libro primero,45,Cap LVII,
+laguna,row60,57,Libro primero,45,Cap LVIII,De la Stacte
+laguna,row61,58,Libro primero,46,Cap LIX,Del Unguento Cinnamomino
+laguna,row62,58,Libro primero,46,Cap LX,Del Nardino Unguento
+laguna,row63,58,Libro primero,46,Cap LXI,Del Malabathrino
+laguna,row64,58,Libro primero,46,Cap LXII,Del Unguento Jasmino
+laguna,row65,59,Libro primero,47,Cap LXIII,De la Myrra
+laguna,row66,60,Libro primero,48,Cap LXIIII,Del Estoraque
+laguna,row67,61,Libro primero,49,Cap LXV,Del Bdelio
+laguna,row68,61,Libro primero,49,Cap LXVI,Del Encienso
+laguna,row69,62,Libro primero,50,Cap LXVII,De la Corteza del Encienso
+laguna,row70,62,Libro primero,50,Cap LXVIII,De la Manna de Encienso
+laguna,row71,62,Libro primero,50,Cap LXIX,Del hollin del Encienso
+laguna,row72,63,Libro primero,51,Cap LXX,Del Pino y de la Picea
+laguna,row73,66,Libro primero,54,Cap LXXI,Del Lentisco
+laguna,row74,68,Libro primero,56,Cap LXXII,Del Terebinto
+laguna,row75,69,Libro primero,57,Cap LXXIIII,De la Pez Liquida
+laguna,row76,70,Libro primero,58,Cap LXXV,Del Azeyte de Pez
+laguna,row77,70,Libro primero,58,Cap LXXVI,
+laguna,row78,70,Libro primero,58,Cap LXXVII,
+laguna,row79,70,Libro primero,58,Cap LXXVIII,De la Zopissa
+laguna,row80,71,Libro primero,61,Cap LXXIX,Del Betun que los Griegos Ilaman asphalto
+laguna,row81,71,Libro primero,61,Cap LXXX,Del Pissasphalto
+laguna,row82,71,Libro primero,61,Cap LXXXI,Del Betun Ilamado Naphta
+laguna,row83,73,Libro primero,61,Cap LXXXII,Del Cypres
+laguna,row84,74,Libro primero,62,Cap LXXXIII,Del Enebro
+laguna,row85,74,Libro primero,62,Cap LXXXIIII,De la sabina
+laguna,row86,75,Libro primero,63,Cap LXXXV,Del Cedro
+laguna,row87,76,Libro primero,64,Cap LXXXVI,Del Laurel
+laguna,row88,77,Libro primero,65,Cap LXXXVII,Del Platano
+laguna,row89,78,Libro primero,66,Cap LXXXVIII,Del fresno
+laguna,row90,79,Libro primero,67,Cap LXXXIX,Del populo blanco
+laguna,row91,79,Libro primero,67,Cap XC,Del populo negro
+laguna,row92,81,Libro primero,69,Cap XCI,Del Macer
+laguna,row93,81,Libro primero,69,cap XCII,Del Olmo
+laguna,row94,81,Libro primero,69,Cap XCIII,De la carcoma de los Maderos
+laguna,row95,82,Libro primero,70,Cap XCIIII,De la Cana
+laguna,row96,83,Libro primero,71,Cap XCV,Del papyro
+laguna,row97,83,Libro primero,71,Cap XCVI,Del Tamarisco
+laguna,row98,84,Libro primero,72,Cap XCVII,De la Erica
+laguna,row99,84,Libro primero,72,Cap XCVIII,Del Ramno
+laguna,row100,85,Libro primero,73,Cap XCVIX,Del Acacalis
+laguna,row101,85,Libro primero,73,Cap C,Del Halimo
+laguna,row102,86,Libro primero,74,Cap CI,Del Paliuro
+laguna,row103,87,Libro primero,75,Cap CII,De la Oxyacanta
+laguna,row104,88,Libro primero,76,Cap CIII,De la Carça Perruna
+laguna,row105,89,Libro primero,77,Cap CIIII,Del Ligustro
+laguna,row106,89,Libro primero,77,Cap CV,De la Philyrea
+laguna,row107,90,Libro primero,78,Cap CVI,Del Cisto
+laguna,row108,91,Libro primero,79,Cap CVII,De la Hypocistide
+laguna,row109,92,Libro primero,80,Cap CVIII,Del Ladano
+laguna,row110,93,Libro primero,81,Cap CIX,Del Ebano
+laguna,row111,95,Libro primero,83,Cap CX,De la Rosa
+laguna,row112,96,Libro primero,84,Cap CXI,De las Pastillas de Rosas
+laguna,row113,97,Libro primero,85,Cap CXII,Del Lycio
+laguna,row114,98,Libro primero,86,Cap CXIII,De la Acacia
+laguna,row115,100,Libro primero,88,Cap CXIIII,Del Agno
+laguna,row116,101,Libro primero,89,Cap CXV,Del Sauz
+laguna,row117,101,Libro primero,89,Cap CXVI,"Del Olivo faluage, y domestico"
+laguna,row118,102,Libro primero,90,Cap CXVII,"De las Azeytunas faladas, y conseruadas en escaueche a adobo"
+laguna,row119,103,Libro primero,91,Cap CXVIII,Del Azeyte de las Azeytunas saluages
+laguna,row120,103,Libro primero,91,Cap CXIX,
+laguna,row121,103,Libro primero,91,Cap CXX,
+laguna,row122,103,Libro primero,91,Cap CXXI,"Del Roble, de la Bellota, de la Haya, y dela Enzina"
+laguna,row123,105,Libro primero,93,Cap CXXII,Delas Castanas
+laguna,row124,106,Libro primero,94,Cap CXXIII,Del Agalla
+laguna,row125,107,Libro primero,95,Cap CXXIIII,Del Rhu
+laguna,row126,108,Libro primero,96,Cap CXXV,De la palma
+laguna,row127,108,Libro primero,96,Cap CXXVI,De la Palma Ilamada Elate
+laguna,row128,109,Libro primero,97,Cap CXXVII,De la Granada
+laguna,row129,111,Libro primero,99,Cap CXXVIII,"Del Arrayhan, y myrtidano"
+laguna,row130,112,Libro primero,100,Cap CXXIX,De las Cerezas
+laguna,row131,113,Libro primero,101,Cap CXXX,De las Algarrouas
+laguna,row132,113,Libro primero,101,Cap CXXXI,De todo genero de Mançanos
+laguna,row133,119,Libro primero,107,Cap CXXXII,De las Peras
+laguna,row134,119,Libro primero,107,Cap CXXXIII,Del Mespero
+laguna,row135,120,Libro primero,108,Cap CXXXIIII,Del Arbol Ilamado Loto
+laguna,row136,121,Libro primero,109,Cap CXXXV,Del Corno
+laguna,row137,122,Libro primero,110,Cap CXXXVII,Del Ciruelo
+laguna,row138,123,Libro primero,111,Cap CXXXVIII,Del Madrono
+laguna,row139,124,Libro primero,112,Cap CXXXIX,De las almendras
+laguna,row140,125,Libro primero,113,Cap CXL,Del Alhocigo
+laguna,row141,125,Libro primero,113,Cap CXLI,De las Nuezes
+laguna,row142,127,Libro primero,115,Cap CXLII,De las Auellanas
+laguna,row143,128,Libro primero,116,Cap CXLIII,Del Moral
+laguna,row144,129,Libro primero,117,Cap CXLIIII,"De la higuera Egyptia, Ilamada Sycomoro en Grigo"
+laguna,row145,130,Libro primero,118,Cap CXLV,"De los Higos, y de la leche de la higueras, y de la lexia de fu ceniza"
+laguna,row146,133,Libro primero,121,Cap CXLVI,De la persea
+laguna,row147,133,Libro primero,121,Cap CXLVII,De la Iberide
+laguna,row148,135,Libro secundo,123,Cap I,Del Erizo marino
+laguna,row149,135,Libro secundo,123,Cap II,Del Erizo terrestre
+laguna,row150,136,Libro secundo,124,Cap III,Del Hippocampo
+laguna,row151,137,Libro secundo,125,Cap IIII,"De la Purpura, y de la Bozina"
+laguna,row152,138,Libro secundo,126,Cap V,De los Mitulos
+laguna,row153,138,Libro secundo,126,Cap VI,De la Telinas
+laguna,row154,138,Libro secundo,126,Cap VII,De las Camas
+laguna,row155,139,Libro secundo,127,Cap VIII,De la Una Olorosa
+laguna,row156,139,Libro secundo,127,Cap IX,De los Caracoles
+laguna,row157,141,Libro secundo,129,Cap X,Del Cangrejo
+laguna,row158,141,Libro secundo,129,Cap XI,Del Alacran Terrestre
+laguna,row159,143,Libro secundo,131,Cap XII,Del Alacran Marino
+laguna,row160,143,Libro secundo,131,Cap XIII,Del dragon Marino
+laguna,row161,143,Libro secundo,131,Cap XIIII,De la Scolopendra
+laguna,row162,144,Libro secundo,132,Cap XV,De la Torpedo
+laguna,row163,144,Libro secundo,132,Cap XVI,De la Biuora
+laguna,row164,146,Libro secundo,134,Cap XVII,Del despojo de las serpientes
+laguna,row165,146,Libro secundo,134,Cap XVIII,"De la liebre marina, y de la terrestre"
+laguna,row166,147,Libro secundo,135,Cap XIX,De la Pastinaca marina
+laguna,row167,148,Libro secundo,136,Cap XX,De la Xibia
+laguna,row168,148,Libro secundo,136,Cap XXI,Del pescado Ilamado Mulo
+laguna,row169,149,Libro secundo,137,Cap XXII,Del Hippopotamo
+laguna,row170,149,Libro secundo,137,Cap XXIII,Del castoreo
+laguna,row171,150,Libro secundo,138,Cap XXIIII,De la Comadreja Casera
+laguna,row172,151,Libro secundo,139,Cap XXV,De las ranas
+laguna,row173,152,Libro secundo,140,Cap XXVI,Del pece Syluro
+laguna,row174,153,Libro secundo,141,Cap XXVII,De las Menas
+laguna,row175,153,Libro secundo,141,cap XXVIII,Del Gobio
+laguna,row176,154,Libro secundo,142,Cap XXIX,Del Atun
+laguna,row177,154,Libro secundo,142,cap XXX,Del Garo
+laguna,row178,154,Libro secundo,142,Cap XXXI,Del Caldo de los peces
+laguna,row179,155,Libro secundo,143,Cap XXXIIII,Del Animalejo Ilamado en Latin Milepeda
+laguna,row180,156,Libro secundo,144,Cap XXXVII,De los Pulmones de Algunos Animales
+laguna,row181,157,Libro secundo,145,Cap XXXVIII,De los higados de algunos animales
+laguna,row182,157,Libro secundo,145,Cap XXXIX,Del Vergajo del Cieruo
+laguna,row183,157,Libro secundo,145,Cap XL,"De las unas de los Asnos, y de las Cabras"
+laguna,row184,158,Libro secundo,146,Cap XLI,"De los empeynes de los cavallos, en griego dichos Lichenes"
+laguna,row185,159,Libro secundo,147,Cap XLII,De las suelas de los ça patos viejos
+laguna,row186,159,Libro secundo,147,Cap XLIII,De los Gallos de las Gallinas
+laguna,row187,160,Libro secundo,148,Cap XLIIII,De los Huevos
+laguna,row188,162,Libro secundo,150,Cap XLV,De las Cigarras
+laguna,row189,162,Libro secundo,150,Cap XLVI,De las langostas
+laguna,row190,162,Libro secundo,150,Cap XLVII,Del paxaro Ilamado Ofsifrago
+laguna,row191,163,Libro secundo,151,Cap XLVIII,De la Cugujada
+laguna,row192,163,Libro secundo,151,Cap XLIX,De las Golondrinas
+laguna,row193,164,Libro secundo,152,Cap L,Del Marfil
+laguna,row194,165,Libro secundo,153,Cap LI,"Del Carnicol del puerco, Ilamado Astragalo"
+laguna,row195,166,Libro secundo,154,Cap LII,Del Cuerno del Ciervo
+laguna,row196,166,Libro secundo,154,Cap LIII,De las Orugas
+laguna,row197,167,Libro secundo,155,Cap LIIII,"De las Cantharides, Buprestes, y Orugas de Pino"
+laguna,row198,168,Libro secundo,156,Cap LV,De la Salamandra
+laguna,row199,168,Libro secundo,156,Cap LVI,De la Arana
+laguna,row200,169,Libro secundo,157,Cap LVII,De la Lagartija
+laguna,row201,170,Libro secundo,158,Cap LVIII,De la sepa
+laguna,row202,171,Libro secundo,159,Cap LIX,Del Scinco
+laguna,row203,172,Libro secundo,160,Cap LX,De los gufanos de tierra
+laguna,row204,172,Libro secundo,160,Cap LXI,Del Mufgano Ilamado mufarana por otro nombre
+laguna,row205,173,Libro secundo,161,Cap LXII,De los ratones
+laguna,row206,173,Libro secundo,161,Cap LXIII,De la leche
+laguna,row207,174,Libro secundo,162,Cap LXIIII,Del Queso
+laguna,row208,175,Libro secundo,163,Cap LXV,"de la Manteca, y de su hollin"
+laguna,row209,177,Libro secundo,165,Cap LXVI,"De las Lanas, y de la graffa que tienen, Ilamada de los Griegos Oefypo"
+laguna,row210,179,Libro secundo,167,Cap LXVII,Del Cuajo de algunos animales
+laguna,row211,179,Libro secundo,167,Cap LXVIII,De la graffa
+laguna,row212,183,Libro secundo,171,Cap LXIX,"De la medula, o tuetano de los hueffos"
+laguna,row213,183,Libro secundo,171,Cap LXX,De la hiel de los animales
+laguna,row214,184,Libro secundo,172,Cap LXXI,De la Sangre
+laguna,row215,185,Libro secundo,173,Cap LXXII,Del estiercol
+laguna,row216,186,Libro secundo,174,Cap LXXIII,De la Orina
+laguna,row217,187,Libro secundo,175,Cap LXXIIII,De la Miel
+laguna,row218,190,Libro secundo,178,Cap LXXV,De la Cera
+laguna,row219,190,Libro secundo,178,Cap LXXVI,Del Betun de las colmenas Ilamado propolis
+laguna,row220,192,Libro secundo,180,Cap LXXVII,Del Trigo
+laguna,row221,193,Libro secundo,181,Cap LXXVIII,De la Ceuada
+laguna,row222,194,Libro secundo,182,Cap LXXIX,"Del Zytho, y del Curmi"
+laguna,row223,195,Libro secundo,183,Cap LXXX,De la Zea
+laguna,row224,196,Libro secundo,184,Cap LXXXI,Del Crimno
+laguna,row225,196,Libro secundo,184,Cap LXXXII,
+laguna,row226,196,Libro secundo,184,Cap LXXXIII,
+laguna,row227,196,Libro secundo,184,Cap LXXXIIII,
+laguna,row228,196,Libro secundo,184,Cap LXXXV,De la Aven
+laguna,row229,197,Libro secundo,185,Cap LXXXVI,Del Arroz
+laguna,row230,197,Libro secundo,185,Cap LXXXVII,Del Condro
+laguna,row231,198,Libro secundo,186,Cap LXXXVIII,Del Mijo
+laguna,row232,198,Libro secundo,186,Cap LXXXIX,Del Panizo
+laguna,row233,199,Libro secundo,187,Cap XC,Del Alegria
+laguna,row234,199,Libro secundo,187,Cap XCI,De la Zizania
+laguna,row235,200,Libro secundo,188,Cap XCII,"Del Almidon, o Amydon"
+laguna,row236,200,Libro secundo,188,Cap XCIII,De las Alholuas
+laguna,row237,201,Libro secundo,189,Cap XCIIII,Del Lino
+laguna,row238,202,Libro secundo,190,Cap XCV,De los Garuanços
+laguna,row239,203,Libro secundo,191,Cap XCVI,De las Huaus
+laguna,row240,203,Libro secundo,191,Cap XCVII,De la haua de Egypto
+laguna,row241,204,Libro secundo,192,Cap XCVIII,De las Lentejas
+laguna,row242,205,Libro secundo,193,Cap XCIX,De los Phasiolos
+laguna,row243,206,Libro secundo,194,Cap C,Del Yeruo
+laguna,row244,207,Libro secundo,159,Cap CI,De los Altramuzes
+laguna,row245,208,Libro secundo,196,Cap CII,"De los Nabos redondos y gressos, y de los nabos saluages"
+laguna,row246,209,Libro secundo,197,Cap CIII,Del Rauano
+laguna,row247,211,Libro secundo,199,Cap CV,Del Sifaro
+laguna,row248,211,Libro secundo,199,Cap CVI,Del lapato
+laguna,row249,213,Libro secundo,201,Cap CVII,De la lampsana
+laguna,row250,213,Libro secundo,201,Cap CVIII,De los bledos
+laguna,row251,213,Libro secundo,201,Cap CIX,De las Maluas
+laguna,row252,215,Libro secundo,203,Cap CX,De los Armuelles
+laguna,row253,215,Libro secundo,203,Cap CXI,De las Verças
+laguna,row254,217,Libro secundo,205,Cap CXII,De las Acelgas
+laguna,row255,218,Libro secundo,206,Cap CXIII,De las Verdolagas
+laguna,row256,219,Libro secundo,207,Cap CXIIII,De los Esparragos
+laguna,row257,220,Libro secundo,208,Cap CXV,Del Llanten
+laguna,row258,222,Libro secundo,210,Cap CXVI,Del sio
+laguna,row259,222,Libro secundo,210,Cap CXVII,Del sysimbrio
+laguna,row260,224,Libro secundo,212,Cap CXVIII,Del Crithmo
+laguna,row261,224,Libro secundo,212,Cap CXIX,Del Coronopode
+laguna,row262,225,Libro secundo,213,Cap CXX,Del sonco
+laguna,row263,226,Libro secundo,214,Cap CXXI,De la endivia
+laguna,row264,228,Libro secundo,216,Cap CXXII,De la Condrila
+laguna,row265,229,Libro secundo,217,Cap CXXIII,De la Calabaça
+laguna,row266,229,Libro secundo,217,Cap CXXIIII,Del pepino domestico y de las Badeas
+laguna,row267,232,Libro secundo,220,Cap CXXV,De la Lechuga
+laguna,row268,234,Libro secundo,222,Cap CXXVI,Del Gingidio
+laguna,row269,234,Libro secundo,222,Cap CXXVII,De la Scandice
+laguna,row270,235,Libro secundo,223,Cap CXXVIII,De la Caucalide
+laguna,row271,235,Libro secundo,223,Cap CXXIX,De la Oruga
+laguna,row272,236,Libro secundo,224,Cap CXXX,Del Ocimo
+laguna,row273,237,Libro secundo,225,Cap CXXXI,De la Orobanca
+laguna,row274,238,Libro secundo,226,Cap CXXXII,De la Barba Cabruna
+laguna,row275,238,Libro secundo,226,Cap CXXXIII,Del Ornithogalo
+laguna,row276,239,Libro secundo,227,Cap CXXXIIII,De las Turmas de tierra
+laguna,row277,239,Libro secundo,227,Cap CXXXV,De la Smilace hortense
+laguna,row278,240,Libro secundo,228,Cap CXXXVI,De la medica
+laguna,row279,241,Libro secundo,229,Cap CXXXVII,De la Aphaca
+laguna,row280,241,Libro secundo,229,Cap CXXXVIII,Del puerro Cabeçudo
+laguna,row281,242,Libro secundo,230,Cap CXXXIX,"Del puerro saluage, quelos Griegos Ilama ampeloprason"
+laguna,row282,242,Libro secundo,230,Cap CXL,De la cebolla
+laguna,row283,243,Libro secundo,231,Cap CXLI,Del Ajo
+laguna,row284,245,Libro secundo,233,Cap CXLII,Del Scorodopraso
+laguna,row285,245,Libro secundo,233,Cap CXLIII,De la Mostaza
+laguna,row286,246,Libro secundo,234,Cap CXLIIII,Del Mastuerço
+laguna,row287,247,Libro secundo,235,Cap CXLV,Del Thlaspi
+laguna,row288,248,Libro secundo,236,Cap CXLVII,"Del Irion, o erysimo"
+laguna,row289,249,Libro secundo,237,Cap CXLIII,De la pimienta
+laguna,row290,250,Libro secundo,238,Cap CXLIX,Del gengibre
+laguna,row291,251,Libro secundo,239,Cap CL,"De la pimienta aquatica, Ilamada hydropiper"
+laguna,row292,251,Libro secundo,239,Cap CLI,De la ptarmica
+laguna,row293,252,Libro secundo,240,Cap CLII,"De la Yerua Lanaria, en griego Ilamada Struthio"
+laguna,row294,252,Libro secundo,240,Cap CLIII,Del Cyclamino
+laguna,row295,253,Libro secundo,241,Cap CLIIII,Del Otro cyclamino
+laguna,row296,254,Libro secundo,242,Cap CLV,De la Dragontea mayor
+laguna,row297,255,Libro secundo,243,Cap CLVI,De la Dragontea menor
+laguna,row298,255,Libro secundo,243,Cap CLVII,Del Aro
+laguna,row299,256,Libro secundo,244,Cap CLVIII,Del Arisaro
+laguna,row300,256,Libro secundo,244,Cap CLIX,Del Alphodelo
+laguna,row301,258,Libro secundo,246,Cap CLX,Del bulbo bueno comer
+laguna,row302,258,Libro secundo,246,Cap CLXI,Del bulbo vomitorio
+laguna,row303,259,Libro secundo,247,Cap CLXII,De la scila o cebolla albarrana
+laguna,row304,259,Libro secundo,247,Cap CLXIII,Del pancratio o scila menor
+laguna,row305,260,Libro secundo,248,Cap CLXIIII,De las Alcaparras
+laguna,row306,262,Libro secundo,250,Cap CLXV,Del lepidio
+laguna,row307,262,Libro secundo,250,Cap CLXVI,Del Ranunculo
+laguna,row308,264,Libro secundo,252,Cap CLVII,De la Anemone
+laguna,row309,265,Libro secundo,253,Cap CLXVIII,De la Argemone
+laguna,row310,265,Libro secundo,253,Cap CLXIX,De la Anagalide
+laguna,row311,267,Libro secundo,255,Cap CLXX,De la yedra
+laguna,row312,268,Libro secundo,256,Cap CLXXI,De la Celidonia mayor
+laguna,row313,269,Libro secundo,257,Cap CLXXII,De la Celidonia menor
+laguna,row314,269,Libro secundo,257,Cap CLXXIII,De la Othona
+laguna,row315,270,Libro secundo,258,Cap CLXXIIII,"De la Oreja del raton, Ilamada Myos otis"
+laguna,row316,271,Libro secundo,259,Cap CLXXV,Del glasto domestico
+laguna,row317,271,Libro secundo,259,Cap CLXXVI,Del glasto saluage
+laguna,row318,272,Libro secundo,260,Cap CLXXVII,Del telephio
+laguna,row319,273,Libro tercero,261,Cap I,Del agarico
+laguna,row320,274,Libro tercero,262,Cap II,Del Reopontico
+laguna,row321,276,Libro tercero,264,Cap III,De la gentiana
+laguna,row322,277,Libro tercero,265,Cap IIII,De la Aristoloquia
+laguna,row323,278,Libro tercero,266,Cap V,De la Regaliza
+laguna,row324,280,Libro tercero,268,Cap VI,De la Centaurea mayor
+laguna,row325,280,Libro tercero,268,Cap VII,De la Centaurea menor
+laguna,row326,281,Libro tercero,269,Cap VIII,Del camaleon blanco
+laguna,row327,282,Libro tercero,270,Cap IX,Del camaleon negro
+laguna,row328,283,Libro tercero,271,Cap X,Del crocodilio
+laguna,row329,284,Libro tercero,272,Cap XI,Del dipsaco
+laguna,row330,284,Libro tercero,272,Cap XII,De la espina blanca
+laguna,row331,285,Libro tercero,273,Cap XIII,De la espina arabica
+laguna,row332,285,Libro tercero,273,Cap XIIII,Del Cardo
+laguna,row333,287,Libro tercero,275,Cap XV,Del Poterio
+laguna,row334,287,Libro tercero,275,Cap XVI,Del Acanthio
+laguna,row335,288,Libro tercero,276,Cap XVII,Del  Acantho
+laguna,row336,288,Libro tercero,276,Cap XVIII,Del Acatho saluage
+laguna,row337,288,Libro tercero,276,cap XIX,De la Ononide
+laguna,row338,289,Libro tercero,277,Cap XX,De la Leucacanta o blanca espina
+laguna,row339,290,Libro tercero,278,Cap XXI,De la tragacanta
+laguna,row340,290,Libro tercero,278,Cap XXII,Del Eryngio
+laguna,row341,291,Libro tercero,279,Cap XXIII,Del Aloe
+laguna,row342,292,Libro tercero,280,Cap XXIIII,Del absinthio
+laguna,row343,293,Libro tercero,281,Cap XXV,"Del Absinthio marino, Ilamada tambien seriphio"
+laguna,row344,294,Libro tercero,282,Cap XXVI,Del Absinthio santonico
+laguna,row345,294,Libro tercero,282,Cap XXVII,Del Abrotano
+laguna,row346,295,Libro tercero,283,Cap XXVIII,Del Hyffopo
+laguna,row347,296,Libro tercero,284,Cap XXIX,Del Cantuesso
+laguna,row348,297,Libro tercero,285,Cap XXX,Del Oregano
+laguna,row349,298,Libro tercero,286,Cap XXXI,"Del Oregano cabruno, Ilamado tragorigano e Griego"
+laguna,row350,299,Libro tercero,287,Cap XXXII,Del Poleo
+laguna,row351,299,Libro tercero,287,Cap XXXIII,Del dictamno
+laguna,row352,300,Libro tercero,288,Cap XXXIIII,"Del dictamno salso, Ilamado speudodisctamno"
+laguna,row353,300,Libro tercero,288,Cap XXXV,Del otro dictamno candioto
+laguna,row354,301,Libro tercero,289,Cap XXXVI,De la Savia
+laguna,row355,302,Libro tercero,290,Cap XXXVII,De la yerua buena
+laguna,row356,302,Libro tercero,290,Cap XXXVIII,"Del Mastranto, Ilamado Mentrasto"
+laguna,row357,303,Libro tercero,291,Cap XXXIX,De la Calaminta
+laguna,row358,304,Libro tercero,292,Cap XL,Del Thymo
+laguna,row359,305,Libro tercero,293,Cap XLI,"De la Thymbra, Ilamada  en espagnol Axedrea"
+laguna,row360,306,Libro tercero,294,Cap XLII,Del Serpol
+laguna,row361,307,Libro tercero,295,Cap XLIII,De la Maiorana
+laguna,row362,307,Libro tercero,295,Cap XLIIII,Del Meliloto
+laguna,row363,308,Libro tercero,296,Cap XLV,Del Maro
+laguna,row364,308,Libro tercero,296,Cap XLVI,Del Acino
+laguna,row365,309,Libro tercero,297,Cap XLVII,De la Bacara
+laguna,row366,310,Libro tercero,298,Cap XLVIII,De la ruda
+laguna,row367,311,Libro tercero,299,Cap XLIX,De la ruda saluage
+laguna,row368,312,Libro tercero,300,Cap L,Del Moly
+laguna,row369,312,Libro tercero,300,Cap LI,Del Panace Heraclio
+laguna,row370,313,Libro tercero,301,Cap LII,Del Panace Asclepio
+laguna,row371,313,Libro tercero,301,cap LIII,Del panace Chironio
+laguna,row372,314,Libro tercero,302,Cap LIIII,Del Ligustico
+laguna,row373,314,Libro tercero,302,Cap LV,De la Pastinaca
+laguna,row374,316,Libro tercero,304,Cap LVI,Del Seseli massiliense
+laguna,row375,316,Libro tercero,304,Cap LVII,Del seseli ethiopico
+laguna,row376,317,Libro tercero,305,Cap LVIII,Del Seseli peloposense
+laguna,row377,317,Libro tercero,305,Cap LIX,"Del seseli cretico, Ilamado tordylio"
+laguna,row378,317,Libro tercero,305,Cap LX,Del sifon
+laguna,row379,317,Libro tercero,305,Cap LXI,Del Anis
+laguna,row380,318,Libro tercero,306,Cap LXII,Del Alcarouea
+laguna,row381,319,Libro tercero,307,Cap LXIII,Del Eneldo
+laguna,row382,319,Libro tercero,307,Cap LXIII,Del Comino hortense
+laguna,row383,320,Libro tercero,308,Cap LXV,Del comino saluage
+laguna,row384,321,Libro tercero,309,Cap LXVI,Del Ammi
+laguna,row385,321,Libro tercero,309,Cap LXVII,Del Culantro
+laguna,row386,322,Libro tercero,310,Cap LXVIII,Del Hieracio mayor
+laguna,row387,322,Libro tercero,310,Cap LXIX,Del Hieracio menor
+laguna,row388,323,Libro tercero,311,Cap LXX,Del Apio
+laguna,row389,323,Libro tercero,311,Cap LXXI,Del Eleoselino
+laguna,row390,323,Libro tercero,311,Cap LXXII,"Del apio montano, Ilamado Oreoselino"
+laguna,row391,324,Libro tercero,312,Cap LXXIII,"Del apio que nace en las piedras, Ilamado petroselino"
+laguna,row392,324,Libro tercero,312,Cap LXXIIII,"Del apio cavallar, Ilamado Hipposelino en Griego"
+laguna,row393,325,Libro tercero,313,Cap LXXV,Del Smyrnio
+laguna,row394,327,Libro tercero,315,Cap LXXVI,Del Elaphobosco
+laguna,row395,328,Libro tercero,316,Cap LXXVII,"Del Hinojo. Del Hinojo saluage, Ilamado Hippomoarathro"
+laguna,row396,329,Libro tercero,317,Cap LXXVIII,Del Dauco
+laguna,row397,330,Libro tercero,318,Cap LXXIX,Del delphinio
+laguna,row398,331,Libro tercero,319,Cap LXXX,"Del pelitre, Ilamado Pyrethro en Griego"
+laguna,row399,332,Libro tercero,320,Cap LXXXI,Del Romero
+laguna,row400,333,Libro tercero,321,Cap LXXXII,Del Cachry
+laguna,row401,333,Libro tercero,321,Cap LXXXIII,Del Romero Coronario
+laguna,row402,333,Libro tercero,321,Cap LXXXIIII,Del Sphondylio
+laguna,row403,334,Libro tercero,322,Cap LXXXV,De la ferula
+laguna,row404,335,Libro tercero,323,Cap LXXXVI,Del Peucedano
+laguna,row405,336,Libro tercero,324,Cap LXXXVII,De la Nigela
+laguna,row406,337,Libro tercero,325,Cap LXXXVIII,Del Laserpitio
+laguna,row407,339,Libro tercero,327,Cap LXXXIX,Del Sagapeno
+laguna,row408,339,Libro tercero,327,Cap XC,Del euphorbio
+laguna,row409,340,Libro tercero,328,Cap XCI,Del Galbano
+laguna,row410,341,Libro tercero,329,Cap XCII,Del Ammoniaco
+laguna,row411,341,Libro tercero,329,Cap XCIII,De la Sarcocola
+laguna,row412,341,Libro tercero,329,Cap XCIIII,Del Glaucio
+laguna,row413,342,Libro tercero,330,Cap XCV,De la Cola
+laguna,row414,342,Libro tercero,330,Cap XCVI,"De la cola de pescado, Ilamada ichtycola"
+laguna,row415,342,Libro tercero,330,Cap XCVII,De la liga
+laguna,row416,343,Libro tercero,331,Cap XCVIII,Del aparine
+laguna,row417,344,Libro tercero,332,Cap XCIX,Del Alysso
+laguna,row418,344,Libro tercero,332,Cap C,Del asclepiade
+laguna,row419,345,Libro tercero,333,Cap CI,Del Atractyl
+laguna,row420,346,Libro tercero,334,Cap CII,Del Polycnemon
+laguna,row421,346,Libro tercero,334,Cap CIII,del Clinopodio
+laguna,row422,346,Libro tercero,334,Cap CIIII,Del Leontopetalo
+laguna,row423,347,Libro tercero,335,Cap CXV,Del Teucrio
+laguna,row424,347,Libro tercero,335,Cap CVI,De la Camedrys
+laguna,row425,348,Libro tercero,336,Cap CVII,De la Leucada
+laguna,row426,348,Libro tercero,336,Cap CVIII,De la lychnide coronaria
+laguna,row427,348,Libro tercero,336,Cap CIX,De la lychnide saluage
+laguna,row428,349,Libro tercero,337,Cap CX,Del Lirio
+laguna,row429,349,Libro tercero,337,Cap CXI,De la Balot
+laguna,row430,350,Libro tercero,338,Cap CXII,Del Torongil
+laguna,row431,351,Libro tercero,339,Cap CXIII,Del Marrubio
+laguna,row432,351,Libro tercero,339,Cap CXIIII,Del Stachy
+laguna,row433,352,Libro tercero,340,Cap CXV,De la Phylitide
+laguna,row434,353,Libro tercero,341,Cap CXVI,Del Phalangio
+laguna,row435,353,Libro tercero,341,Cap CXVII,Del Trabol
+laguna,row436,355,Libro tercero,343,Cap CXVIII,Del Polio
+laguna,row437,355,Libro tercero,343,Cap CXIX,Del scordio
+laguna,row438,356,Libro tercero,344,Cap CXX,De la tussilago
+laguna,row439,357,Libro tercero,345,Cap CXXII,De la Artemisia
+laguna,row440,357,Libro tercero,345,Cap CXXII,De la Artemissia de hojas subtiles
+laguna,row441,358,Libro tercero,346,Cap CXXIII,De la Ambrosia
+laguna,row442,359,Libro tercero,347,Cap CXXIIII,Del Botry
+laguna,row443,359,Libro tercero,347,Cap CXXV,Del Geranio
+laguna,row444,360,Libro tercero,348,Cap CXXVI,Del Gnaphalio
+laguna,row445,360,Libro tercero,348,Cap CXXVII,De la Typha
+laguna,row446,361,Libro tercero,349,Cap CXXVIII,De la Circea
+laguna,row447,361,Libro tercero,349,Cap CXXIX,De la Enanthe
+laguna,row448,362,Libro tercero,350,Cap CXXX,De la Conyza
+laguna,row449,363,Libro tercero,351,Cap CXXXI,"Del Hemerocalles, o lirio saluage"
+laguna,row450,364,Libro tercero,352,Cap CXXXII,"Del Leucoio, que es el Ilamado Alhelys"
+laguna,row451,365,Libro tercero,353,Cap CXXXIII,Del Crateogono
+laguna,row452,365,Libro tercero,353,Cap CXXXIIII,Del Folio
+laguna,row453,365,Libro tercero,353,Cap CXXXV,Del Compagnon del perron
+laguna,row454,366,Libro tercero,354,Cap CXXXVI,De otra fuerte de compagnon
+laguna,row455,366,Libro tercero,354,Cap CXXXVII,Del satyrion
+laguna,row456,367,Libro tercero,355,Cap CXXXVII,Del Satyrion
+laguna,row457,368,Libro tercero,356,Cap CXXXVIII,Del Ormino
+laguna,row458,368,Libro tercero,356,Cap CXXXIX,Del Hedyfaro
+laguna,row459,369,Libro tercero,357,cap CXLI,De la Onosma
+laguna,row460,369,Libro tercero,357,Cap CXLII,De la Nymphea
+laguna,row461,370,Libro tercero,358,Cap CXLIII,De otra espiece nymphea
+laguna,row462,370,Libro tercero,358,Cap CXLIIII,Del Androsace
+laguna,row463,370,Libro tercero,358,Cap CXLV,Del Aspleno
+laguna,row464,371,Libro tercero,359,Cap CXLVI,De la Hemionite
+laguna,row465,372,Libro tercero,360,Cap CXLVII,De la Anthylide
+laguna,row466,372,Libro tercero,360,Cap CXLVIII,De la mancanilla
+laguna,row467,374,Libro tercero,362,Cap CXLIX,Del parthenio
+laguna,row468,375,Libro tercero,363,Cap CL,Del Buphtalmo
+laguna,row469,376,Libro tercero,364,Cap CLI,De la poenia
+laguna,row470,377,Libro tercero,365,Cap CLII,Del Lithospermo
+laguna,row471,378,Libro tercero,366,Cap CLIII,De la phalaride
+laguna,row472,378,Libro tercero,366,Cap CLIIII,De la rubia
+laguna,row473,379,Libro tercero,367,Cap CLV,De la Lonchite
+laguna,row474,379,Libro tercero,367,Cap CLVI,De otra Lonchite
+laguna,row475,379,Libro tercero,367,Cap CLVII,De la althea
+laguna,row476,380,Libro tercero,368,Cap CLVIII,De la Alcea
+laguna,row477,381,Libro tercero,369,Cap CLIX,Del Canamo domestico
+laguna,row478,381,Libro tercero,369,Cap CLX,Del Canamo Saluage
+laguna,row479,381,Libro tercero,369,cap CLXI,Del Anagyris
+laguna,row480,382,Libro tercero,370,Cap CLXII,De la Cepea
+laguna,row481,382,Libro tercero,370,Cap CLXIII,Del Alisma
+laguna,row482,383,Libro tercero,371,Cap CLXIIII,Del Onobryche
+laguna,row483,383,Libro tercero,371,Cap CLXV,Del Hyperico
+laguna,row484,384,Libro tercero,372,Cap CLXVI,Del Ascyro
+laguna,row485,384,Libro tercero,372,Cap CLXVII,Del Androsemo
+laguna,row486,384,Libro tercero,372,Cap CLXVIII,Del Cori
+laguna,row487,385,Libro tercero,373,Cap CLXIX,De la Aiuga o camepitys
+laguna,row488,386,Libro tercero,374,Cap CLXX,De otra especie de Aiuga
+laguna,row489,387,Libro quarto,375,Cap I,Del Cestro
+laguna,row490,388,Libro quarto,376,Cap II,De la Britanica
+laguna,row491,389,Libro quarto,377,Cap III,De la Lysimachia
+laguna,row492,390,Libro quarto,378,Cap IIII,Del polygono macho
+laguna,row493,391,Libro quarto,379,Cap V,Del polygono hembra
+laguna,row494,391,Libro quarto,379,Cap VI,Del Polygonato
+laguna,row495,392,Libro quarto,380,Cap VIII,"De otra clematide, Ilamada Clematitide en Griego"
+laguna,row496,393,Libro quarto,381,Cap IX,De la polemonia
+laguna,row497,393,Libro quarto,381,Cap X,Del Symphyto petreo
+laguna,row498,394,Libro quarto,382,Cap XI,Del otro symphyto
+laguna,row499,395,Libro quarto,383,Cap XII,Del Holostio
+laguna,row500,395,Libro quarto,383,Cap XIII,De la steba
+laguna,row501,396,Libro quarto,384,Cap XIIII,Del Clymeno
+laguna,row502,396,Libro quarto,384,Cap XV,Del periclimeno
+laguna,row503,397,Libro quarto,385,Cap XVI,Del Tribulo
+laguna,row504,398,Libro quarto,386,Cap XVII,Del limonio
+laguna,row505,398,Libro quarto,386,cap XVIII,Del Sarxiphago
+laguna,row506,399,Libro quarto,387,Cap XIX,Del Lagopode o pie de liebre
+laguna,row507,399,Libro quarto,387,Cap XX,Del Medio
+laguna,row508,399,Libro quarto,387,Cap XXI,Del Epimedio
+laguna,row509,400,Libro quarto,388,cap XXII,"Del Xiphio, Ilamado en latin Gladiolo"
+laguna,row510,400,Libro quarto,388,Cap XXIII,Del Sparganio
+laguna,row511,401,Libro quarto,389,Cap XXIIII,De la Xyride
+laguna,row512,401,Libro quarto,389,Cap XXV,De la Ancusa
+laguna,row513,402,Libro quarto,390,Cap XXVI,De la segunda ancusa
+laguna,row514,402,Libro quarto,390,Cap XXVII,De la tercera ancusa
+laguna,row515,403,Libro quarto,391,Cap XXVIII,De la Lycopside
+laguna,row516,404,Libro quarto,392,cap XXIX,Del Echio
+laguna,row517,404,Libro quarto,392,Cap XXX,Del Ocymoide
+laguna,row518,405,Libro quarto,393,Cap XXXI,Del Erino
+laguna,row519,405,Libro quarto,393,Cap XXXII,De la Grama
+laguna,row520,406,Libro quarto,394,Cap XXXIII,De la Grama semejante a la Cana
+laguna,row521,406,Libro quarto,394,Cap XXXIIII,de la Grama que nace en el monte parnaso
+laguna,row522,407,Libro quarto,395,Cap XXXV,De la Sideritide
+laguna,row523,407,Libro quarto,395,Cap XXXVI,De la tercera especie de Sideritide
+laguna,row524,408,Libro quarto,396,Cap XXXVII,De la Achilea
+laguna,row525,409,Libro quarto,397,Cap XXXVIII,De la garça
+laguna,row526,409,Libro quarto,397,Cap XXXIX,De la garça Ilamada Idea
+laguna,row527,410,Libro quarto,398,Cap XL,De la Helxine Hederecea
+laguna,row528,410,Libro quarto,398,Cap XLI,De la Elatine
+laguna,row529,411,Libro quarto,399,Cap XLII,Del Eupatorio
+laguna,row530,412,Libro quarto,400,Cap XLIII,Del Quinquefolio
+laguna,row531,413,Libro quarto,401,Cap XLIIII,De la Pheniz
+laguna,row532,414,Libro quarto,402,Cap XLV,De la Rays Idea
+laguna,row533,414,Libro quarto,402,Cap XLVI,De la Rays Rodia
+laguna,row534,414,Libro quarto,402,Cap XLVII,De la Hippuris
+laguna,row535,415,Libro quarto,403,Cap XLVIII,De la otra hippuris
+laguna,row536,415,Libro quarto,403,Cap XLIX,De la Granade Tintoreros
+laguna,row537,417,Libro quarto,405,Cap L,Del Tragio
+laguna,row538,417,Libro quarto,405,Cap LI,De otra fuerte de tragio
+laguna,row539,417,Libro quarto,405,Cap LII,Del trago
+laguna,row540,418,Libro quarto,406,Cap LIII,Del Iunco
+laguna,row541,419,Libro quarto,407,Cap LIIII,Del Lichen
+laguna,row542,419,Libro quarto,407,Cap LV,De la Paronychia
+laguna,row543,420,Libro quarto,408,Cap LVI,De la Chrysocoma
+laguna,row544,420,Libro quarto,408,Cap LVII,Del Chrysfogono
+laguna,row545,420,Libro quarto,408,Cap LVIII,Del Elichryso
+laguna,row546,421,Libro quarto,409,Cap LIX,Del Chrysanthemo
+laguna,row547,421,Libro quarto,409,Cap LX,Del Agerato
+laguna,row548,422,Libro quarto,410,Cap LXI,De la verbena
+laguna,row549,422,Libro quarto,410,Cap LXII,De la yerua fagrada
+laguna,row550,423,Libro quarto,411,Cap LXIII,Del Astragalo
+laguna,row551,423,Libro quarto,411,Cap LXIIII,Del Hyacinto
+laguna,row552,424,Libro quarto,412,Cap LXV,Del papauer erratico
+laguna,row553,425,Libro quarto,413,Cap LXVI,Del papauer domestico
+laguna,row554,427,Libro quarto,415,Cap LXVII,Del papauer cornudo
+laguna,row555,428,Libro quarto,416,Cap LXVIII,Del espumoso papauer
+laguna,row556,428,Libro quarto,416,Cap LXIX,Del Hypecoo
+laguna,row557,428,Libro quarto,416,Cap LXX,Del Hyoscyamo
+laguna,row558,430,Libro quarto,418,Cap LXXI,Del Psylio
+laguna,row559,431,Libro quarto,419,Cap LXXII,Del Solano Hortense
+laguna,row560,431,Libro quarto,419,Cap LXXIII,Del Solano Illamado Halicacabo
+laguna,row561,432,Libro quarto,420,Cap LXXIIII,Del solano acarreador de fueno
+laguna,row562,432,Libro quarto,420,Cap LXXV,Del solano que engendra locura
+laguna,row563,434,Libro quarto,422,Cap LXXVI,Del Dorycnio
+laguna,row564,434,Libro quarto,422,Cap LXXVII,De la Mandragora
+laguna,row565,437,Libro quarto,425,Cap LXXVIII,Del Aconito
+laguna,row566,437,Libro quarto,425,Cap LXXIX,De otra especie de Aconito
+laguna,row567,439,Libro quarto,427,Cap LXXX,De la Cicuta
+laguna,row568,439,Libro quarto,427,Cap LXXXI,Del arbol Ilamado smylace
+laguna,row569,440,Libro quarto,428,Cap LXXXII,Del apocyno
+laguna,row570,441,Libro quarto,429,Cap LXXXIII,Del Nerio
+laguna,row571,441,Libro quarto,429,Cap LXXXIIII,De los Hongos
+laguna,row572,442,Libro quarto,430,Cap LXXXV,Del colchico
+laguna,row573,443,Libro quarto,431,Cap LXXXVI,Del ephemero
+laguna,row574,443,Libro quarto,431,Cap LXXXVII,De la Helxine
+laguna,row575,444,Libro quarto,432,Cap LXXXVIII,De la Alfine
+laguna,row576,445,Libro quarto,433,Cap LXXXIX,De la Lenteja aquatica
+laguna,row577,445,Libro quarto,433,Cap XC,De la Siepre viva mayor
+laguna,row578,446,Libro quarto,434,Cap XCI,De la siempre viva menor
+laguna,row579,446,Libro quarto,434,Cap XCII,De otra especie de siempre viva
+laguna,row580,447,Libro quarto,435,Cap XCIII,Del ombligo de venus
+laguna,row581,448,Libro quarto,436,Cap XCIIII,De otro ombligo de Venus
+laguna,row582,448,Libro quarto,436,Cap XCV,De la hortiga
+laguna,row583,449,Libro quarto,437,Cap XCVI,De la Galiopsis
+laguna,row584,450,Libro quarto,438,Cap XCVII,Del Galio
+laguna,row585,451,Libro quarto,439,Cap XCVIII,Del Senecio
+laguna,row586,451,Libro quarto,439,Cap XCIX,Del Thalietro
+laguna,row587,452,Libro quarto,440,Cap C,Del musgo marino
+laguna,row588,452,Libro quarto,440,Cap CI,Del alga Marina
+laguna,row589,452,Libro quarto,440,Cap CII,Del potamogeton
+laguna,row590,453,Libro quarto,441,Cap CIII,Cel Stratiote aquatico
+laguna,row591,453,Libro quarto,441,Cap CIIII,Del stratiote milefolio
+laguna,row592,453,Libro quarto,441,Cap CV,Del Gordolobo
+laguna,row593,455,Libro quarto,443,Cap CVI,De la Ethiopide
+laguna,row594,456,Libro quarto,444,Cap CVII,Del Arctio
+laguna,row595,456,Libro quarto,444,Cap CVIII,Del Arcio
+laguna,row596,457,Libro quarto,445,Cap CIX,Del Petasite
+laguna,row597,458,Libro quarto,446,Cap CX,De la Epipactide
+laguna,row598,458,Libro quarto,446,Cap CXI,De la fumaria
+laguna,row599,459,Libro quarto,447,Cap CXII,Del loto domestico
+laguna,row600,459,Libro quarto,447,Cap CXIII,Del loto saluage
+laguna,row601,460,Libro quarto,448,Cap CXIIII,Del Cytifo
+laguna,row602,460,Libro quarto,448,Cap CXV,Del loto egyptiaco
+laguna,row603,460,Libro quarto,448,Cap CXVI,Del myriophylo
+laguna,row604,461,Libro quarto,449,Cap CXVII,De la myrride
+laguna,row605,462,Libro quarto,450,Cap CXVIII,Del Myagro
+laguna,row606,462,Libro quarto,450,Cap CXIX,De la Onagra
+laguna,row607,462,Libro quarto,450,Cap CXX,Del Cirfio
+laguna,row608,463,Libro quarto,451,Cap CXXI,Del aster attico
+laguna,row609,464,Libro quarto,452,Cap CXXII,De la violeta purpurea
+laguna,row610,465,Libro quarto,453,Cap CXXIII,Del Isopyro
+laguna,row611,465,Libro quarto,453,Cap CXXIIII,De la Cacalia
+laguna,row612,466,Libro quarto,454,Cap CXXV,Del bunio
+laguna,row613,466,Libro quarto,454,Cap CXXVI,Del salso bunio
+laguna,row614,466,Libro quarto,454,Cap CXXVII,Del Camecisso
+laguna,row615,466,Libro quarto,454,Cap CXXVIII,De la Cameleuca
+laguna,row616,467,Libro quarto,455,Cap CXXIX,De la Buglossa
+laguna,row617,468,Libro quarto,456,Cap CXXX,De la cynoglossa
+laguna,row618,468,Libro quarto,456,Cap CXXXI,De la Phyteuma
+laguna,row619,468,Libro quarto,456,Cap CXXXII,De leontopodio
+laguna,row620,469,Libro quarto,457,Cap CXXXIII,Del hippoglosso
+laguna,row621,469,Libro quarto,457,Cap CXXXIIII,Del Antirrino
+laguna,row622,470,Libro quarto,458,Cap CXXXV,De la Catanance
+laguna,row623,470,Libro quarto,458,Cap CXXXVI,Del tripolio
+laguna,row624,470,Libro quarto,458,Cap CXXXVII,Del Adianto
+laguna,row625,471,Libro quarto,459,Cap CXXXVIII,Del Tricomanes
+laguna,row626,472,Libro quarto,460,Cap CXXXIX,Del Xanthio
+laguna,row627,472,Libro quarto,460,Cap CXL,De la egilope
+laguna,row628,472,Libro quarto,460,Cap CXLI,Del bromo
+laguna,row629,473,Libro quarto,461,Cap CXLII,Del Glauce
+laguna,row630,473,Libro quarto,461,Cap CXLIII,Del polygalo
+laguna,row631,473,Libro quarto,461,Cap CXLIIII,De la osyride
+laguna,row632,474,Libro quarto,462,Cap CXLV,De la Smilace aspera
+laguna,row633,474,Libro quarto,462,Cap CXLVI,De la smilace lisa
+laguna,row634,475,Libro quarto,463,Cap CXLVII,Del rusco vulgarmente Ilamado brusco
+laguna,row635,476,Libro quarto,464,Cap CXLVIII,Del laurel alexandrino
+laguna,row636,477,Libro quarto,465,Cap CL,De la Camedaphne
+laguna,row637,477,Libro quarto,465,Cap CLI,Del Veratro blanco
+laguna,row638,478,Libro quarto,466,Cap CLII,Del veratro negro
+laguna,row639,480,Libro quarto,468,Cap CLIII,Del sesomoide mayor
+laguna,row640,480,Libro quarto,468,Cap CLIIII,Del Sesamoide menor
+laguna,row641,480,Libro quarto,468,Cap CLV,"Del cogombrillo saluage, o amargo"
+laguna,row642,480,Libro quarto,468,Cap CLVI,Del elaterio
+laguna,row643,483,Libro quarto,471,Cap CLVII,De la Staphis agria
+laguna,row644,483,Libro quarto,471,Cap CLVIII,De la thapsi
+laguna,row645,485,Libro quarto,473,Cap CLIX,Del Spartio
+laguna,row646,486,Libro quarto,474,Cap CLX,Del silybo
+laguna,row647,486,Libro quarto,474,Cap CLXI,De la nuez unguentaria
+laguna,row648,487,Libro quarto,475,Cap CLXII,Del narcisso
+laguna,row649,488,Libro quarto,476,Cap CLXIII,Del hippophae
+laguna,row650,488,Libro quarto,476,Cap CLXIIII,Del hippophesto
+laguna,row651,489,Libro quarto,477,Cap CLXV,Del ricino
+laguna,row652,489,Libro quarto,477,Cap CLXVI,De los titymalos
+laguna,row653,493,Libro quarto,481,Cap CLXVII,De la Pityusa
+laguna,row654,494,Libro quarto,482,Cap CLXVIII,De la lathyris
+laguna,row655,495,Libro quarto,483,Cap CLXIX,De peplo
+laguna,row656,495,Libro quarto,483,Cap CLXX,De la peplide
+laguna,row657,496,Libro quarto,484,Cap CLXXI,De la camesyce
+laguna,row658,496,Libro quarto,484,Cap CLXXII,De la escamonea
+laguna,row659,498,Libro quarto,486,Cap CLXXIIII,De la thymelea
+laguna,row660,500,Libro quarto,488,Cap CLXXVI,Del pycnocomo
+laguna,row661,500,Libro quarto,488,Cap CLXXVII,De la planta Ilamada Apios
+laguna,row662,501,Libro quarto,489,cap CLXXVIII,De la Coloquintida
+laguna,row663,502,Libro quarto,490,Cap CLXXIX,Del epithymo
+laguna,row664,503,Libro quarto,491,Cap CLXXX,Del alypo
+laguna,row665,503,Libro quarto,491,Cap CLXXXI,Del empetro
+laguna,row666,504,Libro quarto,492,Cap CLXXXII,De la vid saluage
+laguna,row667,505,Libro quarto,493,Cap CLXXXIII,De la vid blanca Ilamada vulgarmete Bryonia
+laguna,row668,505,Libro quarto,493,Cap CLXXXIIII,De la vid Negra
+laguna,row669,506,Libro quarto,494,Cap CLXXXV,Del helecho
+laguna,row670,507,Libro quarto,495,Cap CLXXXVI,Del helecho hembra
+laguna,row671,507,Libro quarto,495,Cap CLXXXVII,Del polypodio
+laguna,row672,508,Libro quarto,496,Cap CLXXXVIII,De la dryopteride
+laguna,row673,509,Libro quarto,497,Cap CLXXXIX,Del cartamo
+laguna,row674,509,Libro quarto,497,Cap CXC,De la mercurial
+laguna,row675,511,Libro quarto,499,Cap CXCI,De la cynocrambe
+laguna,row676,511,Libro quarto,499,Cap CXCII,Del heliotropio mayor
+laguna,row677,512,Libro quarto,500,Cap CXCIII,Del heliotropio menor
+laguna,row678,513,Libro quarto,501,Cap CXCIIII,Del scorpioide
+laguna,row679,514,Libro quinto,502,Cap I,De la vid
+laguna,row680,517,Libro quinto,505,Cap II,De la vid saluage o labrusca
+laguna,row681,518,Libro quinto,506,Cap III,De las Vuas
+laguna,row682,518,Libro quinto,506,Cap IIII,De las vuas passas
+laguna,row683,519,Libro quinto,507,Cap V,De la Enanthe
+laguna,row684,519,Libro quinto,507,Cap VI,Del omphacio Ilamado agrazen en castilla
+laguna,row685,520,Libro quinto,508,Cap VII,De la natura del vino
+laguna,row686,523,Libro quinto,511,Cap VIII,Del vino melitite
+laguna,row687,523,Libro quinto,511,Cap IX,Del vino mulso
+laguna,row688,524,Libro quinto,512,Cap X,Del Aguamiel
+laguna,row689,524,Libro quinto,512,Cap XI,Del agua
+laguna,row690,524,Libro quinto,512,Cap XII,Del agua marina
+laguna,row691,526,Libro quinto,514,Cap XIII,Del thalassomeli
+laguna,row692,526,Libro quinto,514,Cap XIIII,Del vinagre
+laguna,row693,528,Libro quinto,516,Cap XV,Del Oxymel
+laguna,row694,528,Libro quinto,516,Cap XVI,
+laguna,row695,528,Libro quinto,516,Cap XVII,
+laguna,row696,528,Libro quinto,516,Cap XVIII,
+laguna,row697,528,Libro quinto,516,Cap XIX,Del vino scillitico
+laguna,row698,529,Libro quinto,517,Cap XX,De los vinos marinos
+laguna,row699,529,Libro quinto,517,Cap XXI,
+laguna,row700,529,Libro quinto,517,Cap XXII,
+laguna,row701,529,Libro quinto,517,Cap XXIII,
+laguna,row702,529,Libro quinto,517,Cap XXIIII,Del omphacomeli
+laguna,row703,530,Libro quinto,518,Cap XXV,Del Apijte
+laguna,row704,530,Libro quinto,518,Cap XXVI,
+laguna,row705,530,Libro quinto,518,Cap XXVII,
+laguna,row706,530,Libro quinto,518,Cap XXVIII,
+laguna,row707,530,Libro quinto,518,Cap XXIX,
+laguna,row708,530,Libro quinto,518,Cap XXX,
+laguna,row709,530,Libro quinto,518,Cap XXXI,
+laguna,row710,530,Libro quinto,518,Cap XXXII,Del Vino de Datiles
+laguna,row711,531,Libro quinto,519,Cap XXXIII,Del vino de Higos secos
+laguna,row712,531,Libro quinto,519,Cap XXXIIII,Del vino resinoso
+laguna,row713,531,Libro quinto,519,Cap XXXV,Del vino preparado con pinas Ilamado Strobilite
+laguna,row714,531,Libro quinto,519,Cap XXXVI,"Del vino cedrino, y de algunos otros"
+laguna,row715,532,Libro quinto,520,Cap XXXVII,Del vino empegado
+laguna,row716,532,Libro quinto,520,Cap XXXVIII,
+laguna,row717,532,Libro quinto,520,Cap XXXIX,
+laguna,row718,532,Libro quinto,520,Cap XL,De muchas fuertes de vinos preparados con plantas diversas
+laguna,row719,533,Libro quinto,521,Cap XLI,Del vino aromatico
+laguna,row720,533,Libro quinto,521,Cap XLII,De otros vinos aromaticos y olorosos
+laguna,row721,534,Libro quinto,522,Cap XLIII,De otros vinos hechos de muchas fuertes de yeruas
+laguna,row722,535,Libro quinto,523,Cap XLIIII,De toda fuerte de mineral et primero de la ilamada cadmia
+laguna,row723,538,Libro quinto,526,Cap XLV,De la pompholyge y del spodio
+laguna,row724,539,Libro quinto,527,Cap XLVI,De los antispodios
+laguna,row725,540,Libro quinto,528,Cap XLVII,Del cobre quemado
+laguna,row726,540,Libro quinto,528,Cap XLVIII,De la flor del cobre
+laguna,row727,541,Libro quinto,529,Cap XLIX,De la escama del cobre
+laguna,row728,541,Libro quinto,529,Cap XLIX,De la Escama del stomoma
+laguna,row729,542,Libro quinto,530,Cap L,Del cardenillo raydo
+laguna,row730,542,Libro quinto,530,Cap LI,Del cardenillo dicho vermicular Ilamado scolecio
+laguna,row731,543,Libro quinto,531,Cap LII,Del Orin del hierro
+laguna,row732,543,Libro quinto,531,Cap LIII,De la escoria del hierro
+laguna,row733,544,Libro quinto,532,Cap LIIII,Del plomo lauado
+laguna,row734,544,Libro quinto,532,Cap LV,Del plomo quemado
+laguna,row735,544,Libro quinto,532,Cap LVI,De la escoria del plomo
+laguna,row736,545,Libro quinto,533,Cap LVII,De la piedra molibdoide o plomera
+laguna,row737,545,Libro quinto,533,Cap LVIII,Del stibio
+laguna,row738,546,Libro quinto,534,Cap LIX,De la molibdena
+laguna,row739,546,Libro quinto,534,Cap LX,De la escoria de la plata
+laguna,row740,546,Libro quinto,534,Cap LXI,Del lithargyrio
+laguna,row741,548,Libro quinto,536,Cap LXII,De la Cerusa
+laguna,row742,549,Libro quinto,537,Cap LXIII,De la chrysocola
+laguna,row743,550,Libro quinto,538,Cap LXIIII,De la piedra Ilamada armenia
+laguna,row744,550,Libro quinto,538,Cap LXV,"De la piedra cerulea, o azul en griego Ilamada cyano"
+laguna,row745,551,Libro quinto,539,Cap LXVI,De la piedra indica
+laguna,row746,551,Libro quinto,539,Cap LXVII,Dela ocra
+laguna,row747,551,Libro quinto,539,Cap LXVIII,Del Cinabrio
+laguna,row748,552,Libro quinto,540,Cap LXIX,Del azogue
+laguna,row749,554,Libro quinto,542,Cap LXX,De la rubrica sinopica
+laguna,row750,555,Libro quinto,543,Cap LXXI,"De la rubrica fabril, o de carpinteros"
+laguna,row751,555,Libro quinto,543,Cap LXXII,De la tierra Lemnia
+laguna,row752,556,Libro quinto,544,Cap LXXIII,Del Calcanto
+laguna,row753,557,Libro quinto,545,Cap LXXIIII,De la calcitide
+laguna,row754,557,Libro quinto,545,Cap LXXV,Del misy
+laguna,row755,557,Libro quinto,545,Cap LXXVI,De la melanteria
+laguna,row756,557,Libro quinto,545,Cap LXXVII,Del Sory
+laguna,row757,558,Libro quinto,546,Cap LXXIII,Del Diphryge
+laguna,row758,559,Libro quinto,547,Cap LXXIX,Del Oropimente
+laguna,row759,559,Libro quinto,547,Cap LXXX,De la sandaraca
+laguna,row760,560,Libro quinto,548,Cap LXXXI,Del Alumbre
+laguna,row761,561,Libro quinto,549,Cap LXXXII,Del Açufre
+laguna,row762,562,Libro quinto,550,Cap LXXXIII,"De la piedra pomez, o espongia"
+laguna,row763,563,Libro quinto,551,Cap LXXXIIII,De la sal
+laguna,row764,563,Libro quinto,551,Cap LXXXV,De la espuma de la sal
+laguna,row765,564,Libro quinto,552,Cap LXXXVI,De la salmuera
+laguna,row766,564,Libro quinto,552,Cap LXXXVII,De la flor de la sal
+laguna,row767,565,Libro quinto,553,Cap LXXXVIII,Del nitro
+laguna,row768,565,Libro quinto,553,Cap LXXXIX,De la espuma del nitro
+laguna,row769,566,Libro quinto,554,Cap XC,De la hez del vino
+laguna,row770,566,Libro quinto,554,Cap XCI,De la cal viva
+laguna,row771,567,Libro quinto,555,Cap XCII,Del Yeffo
+laguna,row772,567,Libro quinto,555,Cap XCIII,De la ceniza de los sarmientos
+laguna,row773,567,Libro quinto,555,Cap XCIIII,Del alcyonio
+laguna,row774,568,Libro quinto,556,Cap XCV,Del Adarce
+laguna,row775,568,Libro quinto,556,Cap XCVI,De las espongias
+laguna,row776,569,Libro quinto,557,Cap XCVII,"Del Coral, y del antipate"
+laguna,row777,570,Libro quinto,558,Cap XCVIII,De la piedra phrygia
+laguna,row778,570,Libro quinto,558,Cap XCIX,De la piedra asia
+laguna,row779,570,Libro quinto,558,Cap C,De la piedra pyrite
+laguna,row780,571,Libro quinto,559,Cap CI,De la piedra Ilamada Hematite
+laguna,row781,572,Libro quinto,560,Cap CII,De la piedra Ilamada schista
+laguna,row782,572,Libro quinto,560,cap CIII,De la piedra Ilamada gagate
+laguna,row783,572,Libro quinto,560,Cap CIIII,De la piedra Ilamada Thracia
+laguna,row784,572,Libro quinto,560,Cap CV,De la piedra Iman
+laguna,row785,573,Libro quinto,561,Cap CVI,De la piedra arabica
+laguna,row786,573,Libro quinto,561,Cap CVII,De la galactite o lechera
+laguna,row787,573,Libro quinto,561,Cap CVIII,De la melitite
+laguna,row788,573,Libro quinto,561,Cap CIX,De la piedra ilamada Morochtho
+laguna,row789,574,Libro quinto,562,Cap CX,De la piedra alabastrite
+laguna,row790,574,Libro quinto,562,Cap CXI,De la piedra thyite
+laguna,row791,574,Libro quinto,562,Cap CXII,De la piedra Iudaica
+laguna,row792,574,Libro quinto,562,Cap CXIII,De la piedra ilamada amianta
+laguna,row793,575,Libro quinto,563,Cap CXIIII,Del saphir
+laguna,row794,575,Libro quinto,563,Cap CXV,De la piedra memphite
+laguna,row795,575,Libro quinto,563,Cap CXVI,De la selenite
+laguna,row796,576,Libro quinto,564,Cap CXVII,Del diaspero
+laguna,row797,576,Libro quinto,564,Cap CXVIII,"De la piedra del aguila, Ilamada Aetite"
+laguna,row798,577,Libro quinto,565,Cap CXIX,De la piedra Ophite
+laguna,row799,577,Libro quinto,565,Cap CXX,
+laguna,row800,577,Libro quinto,565,Cap CXXI,
+laguna,row801,577,Libro quinto,565,Cap CXXII,
+laguna,row802,577,Libro quinto,565,Cap CXXIII,
+laguna,row803,577,Libro quinto,565,Cap CXXIIII,Del arena del mar
+laguna,row804,578,Libro quinto,566,Cap CXXV,De la piedra Naxia.Cap CXXVI
+laguna,row805,578,Libro quinto,566,Cap CXXVII,
+laguna,row806,578,Libro quinto,566,Cap CXXVIII,
+laguna,row807,578,Libro quinto,566,Cap CXXIX,
+laguna,row808,578,Libro quinto,566,Cap CXXX,De la piedra Samia
+laguna,row809,579,Libro quinto,567,Cap CXXXI,De la tierra chia
+laguna,row810,579,Libro quinto,567,Cap CXXXII,
+laguna,row811,579,Libro quinto,567,Cap CXXXIII,
+laguna,row812,579,Libro quinto,567,Cap CXXXIIII,
+laguna,row813,579,Libro quinto,567,Cap CXXXV,
+laguna,row814,579,Libro quinto,567,Cap CXXXVI,
+laguna,row815,579,Libro quinto,567,Cap CXXXVII,
+laguna,row816,579,Libro quinto,567,Cap CXXXVIII,D ela tierra ampelitide
+laguna,row817,580,Libro quinto,568,Cap CXXXIX,Del hollin de los pintores
+laguna,row818,580,Libro quinto,568,Cap CXL,De la tinta para escrivir
+laguna,row819,592,Libro sexto,580,Cap I,De las Cantaridas
+laguna,row820,593,Libro sexto,581,Cap II,De las Orugas del pino
+laguna,row821,594,Libro sexto,582,Cap III,De los buprestes
+laguna,row822,594,Libro sexto,582,Cap IIII,De la salamandra
+laguna,row823,594,Libro sexto,582,Cap V,Del ephemero
+laguna,row824,595,Libro sexto,583,Cap VI,Del Dorycnio
+laguna,row825,595,Libro sexto,583,Cap VII,Del Aconito
+laguna,row826,596,Libro sexto,584,Cap VIII,De la miel Heracleotica
+laguna,row827,596,Libro sexto,584,Cap IX,
+laguna,row828,596,Libro sexto,584,Cap X,
+laguna,row829,596,Libro sexto,584,Cap XI,De la cicuta
+laguna,row830,597,Libro sexto,585,Cap XII,Del texo
+laguna,row831,597,Libro sexto,585,Cap XIII,
+laguna,row832,597,Libro sexto,585,Cap XIIII,
+laguna,row833,597,Libro sexto,585,Cap XV,"Del Hyocyamo, Ilamado en castilla veleno"
+laguna,row834,598,Libro sexto,586,Cap XVI,De la mandragora
+laguna,row835,598,Libro sexto,586,Cap XVII,"Del liquor del papauer, o dormideras Ilamado meconio y opio"
+laguna,row836,598,Libro sexto,586,Cap XVIII,Del papauer cornudo
+laguna,row837,599,Libro sexto,587,Cap XIX,Del pharico
+laguna,row838,599,Libro sexto,587,Cap XX,Del toxico
+laguna,row839,600,Libro sexto,588,Cap XXI,De la Ixia
+laguna,row840,600,Libro sexto,588,Cap XXII,De la Cerusa
+laguna,row841,601,Libro sexto,589,Cap XXIII,De los hongos
+laguna,row842,601,Libro sexto,589,Cap XXIIII,
+laguna,row843,601,Libro sexto,589,Cap XXV,De la sangre de toro fresca
+laguna,row844,603,Libro sexto,591,Cap XXVI,De la leche que tiene mezcla de cuajo
+laguna,row845,603,Libro sexto,591,Cap XXVII,Del lithargyrio
+laguna,row846,604,Libro sexto,592,Cap XXVIII,Del azogue
+laguna,row847,604,Libro sexto,592,Cap XXIX,
+laguna,row848,604,Libro sexto,592,Cap XXX,De la liebre marina
+laguna,row849,605,Libro sexto,593,Cap XXXI,"De la rana ilamada rubeta, y de aqualla de las lagunas"
+laguna,row850,605,Libro sexto,593,Cap XXXII,De las fanguijuelas
+laguna,row851,607,Libro sexto,595,Cap XXXIII,"Del eleboro y de otras algunas cosas, que se dan para cobrar salud"
+laguna,row852,608,Libro sexto,596,Cap XXXIIII,De las cosas que quotidianamete siruen al uso
+laguna,row853,612,Libro sexto,600,Cap XXXVI,De las senales del perro ravioso y de aquellos que son del morbidos
+laguna,row854,615,Libro sexto,603,Cap XXXVII,De los remedios contra las mordeduras de perros raviosos
+laguna,row855,616,Libro sexto,604,Cap XXVIII,Del regimiento conveniente a los mordibos de algun perro ravioso
+laguna,row856,617,Libro sexto,605,Cap XXXIX,De las senales que acompagnana las heridas de los animales emponçonados
+laguna,row857,617,Libro sexto,605,Cap XL,
+laguna,row858,617,Libro sexto,605,Cap XLI,
+laguna,row859,617,Libro sexto,605,cap XLII,De la pastinaca marina
+laguna,row860,618,Libro sexto,606,Cap XLIII,Del musgano o mufarana
+laguna,row861,618,Libro sexto,606,Cap XLIIII,
+laguna,row862,618,Libro sexto,606,Cap XLV,
+laguna,row863,618,Libro sexto,606,Cap XLVI,
+laguna,row864,618,Libro sexto,606,Cap XLVII,
+laguna,row865,618,Libro sexto,606,Cap XLVIII,
+laguna,row866,618,Libro sexto,606,Cap XLIX,
+laguna,row867,618,Libro sexto,606,Cap L,
+laguna,row868,618,Libro sexto,606,Cap LI,Del Ceraste
+laguna,row869,619,Libro sexto,607,Cap LII,Del aspide
+laguna,row870,619,Libro sexto,607,Cap LIII,Del Basilico
+laguna,row871,621,Libro sexto,609,Cap LIIII,De la cura commun a las heridas de las fieras que arrojan de si ponçona
+laguna,row872,624,Libro sexto,612,Cap LV,"De los remedios particulares que a la herida de qualquier enconado animal administrar se deuen : y primero de aquellos que convienen a las de las abispas, y abejas"
+laguna,row873,625,Libro sexto,613,cap LVI,De la cura conviente a las mordeduras de los phalagios
+laguna,row874,625,Libro sexto,613,Cap LVII,
+laguna,row875,625,Libro sexto,613,Cap LVIII,De la puncturas del escorpion
+laguna,row876,626,Libro sexto,614,Cap LIX,
+laguna,row877,626,Libro sexto,614,Cap LX,
+laguna,row878,626,Libro sexto,614,Cap LXI,De los mordidos de alguna bivora
+laguna,row879,627,Libro sexto,615,Cap LXII,"De las mordeduras de la scytala, y de la amphisbena"
+laguna,row880,627,Libro sexto,615,Cap LXIII,
+laguna,row881,627,Libro sexto,615,Cap LXIIII,
+laguna,row882,627,Libro sexto,615,Cap LXV,De los mordidos del hydro
+laguna,row883,628,Libro sexto,616,Cap LXVI,"De los mordidos del cencro, o cencridio"
+laguna,row884,628,Libro sexto,616,Cap LXVII,
+laguna,row885,628,Libro sexto,616,Cap LXVIII,
+laguna,row886,628,Libro sexto,616,Cap LXIX,De los mordidos del basilisco

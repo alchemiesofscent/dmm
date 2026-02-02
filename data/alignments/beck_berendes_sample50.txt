@@ -1,0 +1,51 @@
+Sample: 50 random beck_berendes_edges rows
+01 DMM3136 (ἀνθυλλίς) -> e-557 3.143 Anthyllis | des_pg=501 lag_pg=360 wec_pg=235 mat=3.136
+02 DMM1055 (κυπρίνου στύψις καὶ σκευασία) -> e-72 1.65 Die Verdichtung und Bereitung des (Lawsonien-) Hennasalb?ls | des_pg=65 lag_pg=43 wec_pg=36 mat=1.54
+03 DMM4054 (παρωνυχία) -> e-635 4.54 Paronychia | des_pg=562 lag_pg=407 wec_pg=262 mat=4.49
+04 DMM4031 (ἡ δέ ἐν τῷ Παρνασσῷ ἄγρωστις) -> e-613 4.32 Agrostis aus Parnass | des_pg=544 lag_pg=394 wec_pg=255 mat=
+05 DMM1069 (πίτυς) -> e-93 1.86 Pinie | des_pg=77 lag_pg= wec_pg=47 mat=1.74
+06 DMM4036 (Ἀχίλλειος) -> e-617 4.36 Garbe | des_pg=548 lag_pg=396 wec_pg=257 mat=4.32
+07 DMM1026 (κρόκος) -> e-33 1.25 Safran | des_pg=54 lag_pg=31 wec_pg=20 mat=1.25
+08  () -> e-173 1.166 Medische Aepfel | des_pg=157 lag_pg= wec_pg=80 mat=
+09 DMM5128 (Γαγάτης) -> e-922 5.145 Gagatstein | des_pg=746 lag_pg=560 wec_pg=385 mat=5.103
+10 DMM4004 (πολύγονον ἄρρεν) -> e-584 4.3 Lysimachion | des_pg=522 lag_pg=377 wec_pg=246 mat=4.3
+11 DMM2027 (σίλουρος) -> e-224 2.29 Wels | des_pg=217 lag_pg=140 wec_pg=96 mat=2.26
+12 DMM1116 (ἄπιος) -> e-174 1.167 Birne | des_pg=163 lag_pg=107 wec_pg=81 mat=1.132
+13  () -> e-168 1.161 Honig?pfel | des_pg=157 lag_pg= wec_pg=80 mat=
+14 DMM5088 (ψιμύθιον) -> e-879 5.103 Bleiweiss | des_pg=716 lag_pg=536 wec_pg=364 mat=5.63
+15 DMM4108 (ἐπιπακτίς) -> e-689 4.107 Epipaktis | des_pg=613 lag_pg=446 wec_pg=286 mat=4.104
+16 DMM4037 (βάτος) -> e-618 4.37 Brombeer | des_pg=549 lag_pg=397 wec_pg=257 mat=4.33
+17 DMM4128 (φύτευμα) -> e-710 4.128 Phyteuma | des_pg=628 lag_pg=456 wec_pg=291 mat=4.125
+18 DMM4030 (καλαμάγρωστις) -> e-612 4.31 Kalamagrostis | des_pg=544 lag_pg=394 wec_pg=255 mat=
+19 DMM2050 (ᾠόν) -> e-249 2.54 Ei | des_pg=225 lag_pg=148 wec_pg=100 mat=
+20  () -> e-298 2.103 Pontischer Honig | des_pg=255 lag_pg= wec_pg=122 mat=
+21 DMM2044 (οἱ δὲ τῶν αἰγων ὄνύχες) -> e-241 2.46 Ziegenklauen | des_pg=224 lag_pg=145 wec_pg=99 mat=
+22 DMM5059 (ὁ διὰ τῆς ἀγρίας ἀγρίας) -> e-845 5.69 Wein aus der wilden Narde | des_pg=703 lag_pg= wec_pg=346 mat=
+23 DMM1006 (καρδάμωμον) -> e-13 1.5 Kardamomon | des_pg=23 lag_pg=15 wec_pg=7 mat=1.5
+24 DMM1091 (ἅλιμον) -> e-127 1.120 Melde | des_pg=114 lag_pg=73 wec_pg=62 mat=1.103
+25 DMM3151 (κηπαία) -> e-572 3.158 Zwiebelpfeffer | des_pg=514 lag_pg=370 wec_pg=241 mat=3.150
+26 DMM2186 (τηλεφώνιον) -> e-412 2.217 Wachsblume | des_pg=370 lag_pg=260 wec_pg=169 mat=2.181
+27 DMM5025 (οἰνάνθινος) -> e-809 5.33 Weinbl?thenwein | des_pg=700 lag_pg=518 wec_pg=337 mat=5.28
+28 DMM5149 (ἀκόνης Ναξίας ἀπότριμμα) -> e-944 5.167 Schleifstein | des_pg=753 lag_pg=566 wec_pg=389 mat=5.125
+29 DMM3010 (κροκοδείλεον) -> e-423 3.10 Krokodeilion | des_pg=385 lag_pg=271 wec_pg=177 mat=3.10
+30  () -> e-289 2.94 Die Kraft der Fette | des_pg=247 lag_pg= wec_pg=115 mat=
+31 DMM5021 (μηλόμελι) -> e-805 5.29 Apfelhonig | des_pg=700 lag_pg=517 wec_pg=337 mat=
+32 DMM2181 (χελιδόνιον τὸ μικρόν) -> e-408 2.212 Kleines Chelidonion | des_pg=367 lag_pg=257 wec_pg=167 mat=2.177
+33 DMM4141 (ἐχῖνος) -> e-723 4.141 Osyris | des_pg=636 lag_pg=461 wec_pg=294 mat=4.138
+34 DMM2129 (κρῆθμον) -> e-351 2.156 Meerfenchel | des_pg=305 lag_pg=212 wec_pg=142 mat=2.122
+35 DMM4147 (χαμαιδάφνη) -> e-729 4.147 Chamaidaphne | des_pg=640 lag_pg=465 wec_pg=296 mat=4.144
+36 DMM3126 (ὄρχις) -> e-545 3.131 Knabenkraut | des_pg=491 lag_pg=353 wec_pg=231 mat=3.124
+37 DMM3140 (γλυκισίδη) -> e-561 3.147 Gichtrose | des_pg=506 lag_pg=364 wec_pg=237 mat=3.140
+38 DMM3137 (ἀνθεμίς) -> e-558 3.144 Kamille | des_pg=502 lag_pg=360 wec_pg=235 mat=3.137
+39 DMM2031 (ὠμοτάριχος) -> e-228 2.33 Rohe P?kelung | des_pg=220 lag_pg=142 wec_pg=97 mat=2.30
+40 DMM3019 (λευκάκανθα) -> e-432 3.19 Leukakantha | des_pg=392 lag_pg=277 wec_pg=180 mat=3.19
+41 DMM2023 (ὄρχις ἱπποποτάμου) -> e-220 2.25 Hoden des Flusspferdes | des_pg=212 lag_pg=137 wec_pg=95 mat=2.22
+42 DMM4071 (ἕτερον στρύχνον) -> e-653 4.72 Strychnos Halikakabos | des_pg=577 lag_pg=419 wec_pg=271 mat=4.67
+43 DMM2154 (σίνηπι ἢ νᾶπι) -> e-378 2.183 Senf | des_pg=336 lag_pg=233 wec_pg=151 mat=2.148
+44 DMM2025 (γαλῆ κατοικίδιος) -> e-222 2.27 Hauswiesel | des_pg=215 lag_pg=138 wec_pg=96 mat=2.24
+45 DMM4046 (ἵππουρις) -> e-627 4.46 Hippuris | des_pg=556 lag_pg=402 wec_pg=260 mat=4.42
+46 DMM4058 (ἀγήρατον) -> e-640 4.59 Ageraton | des_pg=566 lag_pg=409 wec_pg=263 mat=4.54
+47 DMM3099 (λευκάς) -> e-517 3.103 Leukas | des_pg=464 lag_pg=336 wec_pg=221 mat=3.97
+48 DMM4047 (ἑτέρα ἵππουρις) -> e-628 4.47 Andere Hippuris | des_pg=556 lag_pg=403 wec_pg=260 mat=
+49 DMM1106 (δρῦς) -> e-149 1.142 Eiche | des_pg=139 lag_pg=91 wec_pg=73 mat=1.121
+50 DMM2075 (πιτύα) -> e-280 2.85 Lab | des_pg=247 lag_pg=167 wec_pg=109 mat=2.68

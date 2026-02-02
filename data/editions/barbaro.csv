@@ -1,0 +1,1010 @@
+edition,edition_entry_id,barbaro_page,barbaro_book,barbaro_chapter,barbaro_term
+barbaro,row1,3,I,1,Iris illyrica
+barbaro,row2,3,II,1,Acorus
+barbaro,row3,4,III,0,Meu
+barbaro,row4,4,IIII,0,Cyperus
+barbaro,row5,4,V,0,Cardamomum
+barbaro,row6,4,VI,0,Nardi spica
+barbaro,row7,5,VII,2,Nardum Gallicum
+barbaro,row8,5,VIII,2,Nardum montanum
+barbaro,row9,5,IX,2,Asaron
+barbaro,row10,5,X,2,Phu
+barbaro,row11,5,XI,2,Malabathrum
+barbaro,row12,6,XII,0,Cassia
+barbaro,row13,6,XIII,0,Cinnamomum
+barbaro,row14,7,XIIII,3,Amomum
+barbaro,row15,7,XV,3,Costum
+barbaro,row16,7,XVI,3,Iuncus odoratus
+barbaro,row17,7,XVII,3,Calamus odoratus
+barbaro,row18,7,XVIII,3,Balsamus
+barbaro,row19,8,XVIIII,0,Aspalathus
+barbaro,row20,8,XX,0,Bryon
+barbaro,row21,8,XXI,0,Agallochum
+barbaro,row22,9,XXII,4,Nascaphthum
+barbaro,row23,9,XXIII,4,Cancamum
+barbaro,row24,9,XXIIII,4,Cyphi
+barbaro,row25,9,XXV,4,Crocum
+barbaro,row26,9,XXVI,4,Crocomagma
+barbaro,row27,9,XXVII,4,Helenium
+barbaro,row28,9,XXVIII,4,Helenium Aegyptium
+barbaro,row29,10,XXIX,0,Omphacinum
+barbaro,row30,10,XXX,0,Oleum ex Drupa
+barbaro,row31,10,XXXI,0,Oleum ex oleastro
+barbaro,row32,10,XXXII,0,Oleum candidum
+barbaro,row33,10,XXXIII,0,Oleum Sicyonium
+barbaro,row34,10,XXXIIII,0,Strigmenta à balneis
+barbaro,row35,10,XXXV,0,Strigmenta palaestritarum
+barbaro,row36,10,XXXVI,0,Strigmenta à partibus gymnasiorum
+barbaro,row37,10,XXXVII,0,Elaeomeli
+barbaro,row38,11,XXXVIII,5,Oleum cicinum
+barbaro,row39,11,XXXIX,5,Oleum amygdalinum
+barbaro,row40,11,XL,5,Oleum balaninum
+barbaro,row41,11,XLI,5,Olleum sesaminum
+barbaro,row42,11,XLII,5,Oleum caryinum
+barbaro,row43,11,XLIII,5,Oleum hyoscyaminum
+barbaro,row44,11,XLIIII,5,Oleum gnidium
+barbaro,row45,11,XLV,5,Oleum cnicium
+barbaro,row46,11,XLVI,5,Oleum raphaninum
+barbaro,row47,11,XLVII,5,Oleum melanthinum
+barbaro,row48,11,XLVIII,5,Oleum sinapinum
+barbaro,row49,11,XLIX,5,Oleum myrteum
+barbaro,row50,11,L,5,Oleum laurinum
+barbaro,row51,11,LI,5,Oleum lentiscinum
+barbaro,row52,11,LII,5,Oleum terebinthinum
+barbaro,row53,11,LIII,5,Oleum mastichinum
+barbaro,row54,11,LIIII,5,Unguenta in commune
+barbaro,row55,12,LV,0,Unguentum rosaceum
+barbaro,row56,12,LVI,0,Unguentum elatinum
+barbaro,row57,12,LVII,0,Unguentum Melinum
+barbaro,row58,12,LVIII,0,Unguentum oenanthinum
+barbaro,row59,13,LIX,6,Unguentum Telinum
+barbaro,row60,13,LX,6,Unguentum sampsychinum
+barbaro,row61,13,LXI,6,Unguentum ociminum
+barbaro,row62,13,LXII,6,Unguentum abrotoninum
+barbaro,row63,13,LXIII,6,Unguentum anethinum
+barbaro,row64,13,LXIIII,6,Unguentum Susinum
+barbaro,row65,13,LXV,6,Unguentum narcissinum
+barbaro,row66,13,LXVI,6,Unguentum crocinum
+barbaro,row67,13,LXVII,6,Unguentum ciprinum
+barbaro,row68,13,LXVIII,6,Unguentum irium
+barbaro,row69,13,LIX,6,Unguentum gleucinum
+barbaro,row70,13,LXX,6,Unguentum Amaracinum
+barbaro,row71,13,LXXI,6,Unguentum Megalium
+barbaro,row72,14,LXXII,0,Unguentum sive masma hedychrum
+barbaro,row73,14,LXXIII,0,Unguentum Metopium
+barbaro,row74,14,LXXIIII,0,Unguentum Mendesium
+barbaro,row75,14,LXXV,0,Stacte unguentum
+barbaro,row76,14,LXXVI,0,Cinnamominum ung
+barbaro,row77,14,LXXVII,0,Unguentum nardinum
+barbaro,row78,14,LXXVIII,0,Unguentum malabathrinum
+barbaro,row79,14,LXXIX,0,Unguentum iasme
+barbaro,row80,14,LXXX,0,Myrrha
+barbaro,row81,15,LXXXI,0,Myrrha Boetica
+barbaro,row82,15,LXXXII,0,Styrax
+barbaro,row83,15,LXXXIII,0,Bdellium
+barbaro,row84,15,LXXXIIII,0,Thus
+barbaro,row85,16,LXXXV,0,Cortex thuris
+barbaro,row86,16,LXXXVI,0,Manna thuris
+barbaro,row87,16,LXXXVII,0,Fuligo thuris
+barbaro,row88,16,LXXXVIII,0,Fuligo myrrhae et aliorum
+barbaro,row89,16,LXXXIX,0,Picea
+barbaro,row90,18,XC,0,Pityides
+barbaro,row91,18,XCI,0,Nuclei pinei
+barbaro,row92,18,XCII,0,Lentiscus
+barbaro,row93,18,XCIII,0,Resina lentiscina
+barbaro,row94,18,XCIIII,0,Terebinthus
+barbaro,row95,19,XCV,8,Resinae
+barbaro,row96,19,XCVI,8,Resinae aliae
+barbaro,row97,19,XCVII,8,Fuligo resinae
+barbaro,row98,19,XCVIII,8,Pix
+barbaro,row99,20,XCIX,0,Oleum picinum
+barbaro,row100,20,C,0,Fuligo picis
+barbaro,row101,20,CI,0,Palimpissa
+barbaro,row102,20,CII,0,Zopissa
+barbaro,row103,20,CIII,0,Bitumen
+barbaro,row104,20,CIIII,0,Pissasphalton
+barbaro,row105,20,CV,0,Naphthe
+barbaro,row106,21,CVI,9,Cupressus
+barbaro,row107,21,CVII,9,Iuniperus
+barbaro,row108,21,CVIII,9,Iuniperus maiuscula
+barbaro,row109,21,CIX,9,Sabina
+barbaro,row110,21,CX,9,Cedrus
+barbaro,row111,21,CXI,9,Cedria
+barbaro,row112,22,CXII,0,Cedrides
+barbaro,row113,22,CXIII,0,Laurus
+barbaro,row114,22,CXIIII,0,Daphnides
+barbaro,row115,23,CXV,10,Platanus
+barbaro,row116,23,CXVI,10,Fraxinus
+barbaro,row117,23,CXVII,10,Populus
+barbaro,row118,24,CXVIII,0,Macir
+barbaro,row119,24,CXIX,0,Populus nigra
+barbaro,row120,24,CXX,0,Ulmus
+barbaro,row121,24,CXXI,0,Caries lignorum
+barbaro,row122,24,CXXII,0,Harundo
+barbaro,row123,26,CXXIII,0,Papyrus
+barbaro,row124,26,CXXIIII,0,Myrice
+barbaro,row125,26,CXXV,0,Erice
+barbaro,row126,26,CXXVI,0,Acacalis
+barbaro,row127,27,CXXVII,14,Rhamnus
+barbaro,row128,27,CXXVIII,14,Halimon
+barbaro,row129,27,CXXIX,14,Paliurus
+barbaro,row130,27,CXXX,14,Oxyacanthos
+barbaro,row131,27,CXXXI,14,Cynosbatos
+barbaro,row132,27,CXXXII,14,Cyprus
+barbaro,row133,28,CXXXIII,0,Tilia
+barbaro,row134,28,CXXXIIII,0,Cistus
+barbaro,row135,28,CXXXV,0,Hypocistis
+barbaro,row136,28,CXXXVI,0,Cistos alia
+barbaro,row137,28,CXXXVII,0,Ebenus
+barbaro,row138,28,CXXXVIII,0,Rosa
+barbaro,row139,29,CXXXIX,13,Rhodides
+barbaro,row140,29,CXL,13,Lycium
+barbaro,row141,29,CXLI,13,Acacia
+barbaro,row142,30,CXLII,0,Acacia alia
+barbaro,row143,30,CXLIII,0,Amurca
+barbaro,row144,30,CXLIIII,0,Vitex
+barbaro,row145,30,CXLV,0,Salix
+barbaro,row146,30,CXLVI,0,Olea sylvestris
+barbaro,row147,31,CXLVII,14,Olea
+barbaro,row148,31,CXLVIII,14,Olivae Colymbades
+barbaro,row149,32,CXLIX,0,Oleum sylvestris oleae
+barbaro,row150,32,CL,0,Oleae Aethiopicae lachryma
+barbaro,row151,32,CLI,0,Quercus
+barbaro,row152,32,CLII,0,Glans
+barbaro,row153,33,CLIII,15,Fagus et ilex
+barbaro,row154,33,CLIIII,15,Castanea
+barbaro,row155,34,CLV,0,Gallae
+barbaro,row156,34,CLVI,0,Rhus
+barbaro,row157,34,CLVII,0,Palma
+barbaro,row158,35,CLVIII,16,Caryotae
+barbaro,row159,35,CLIX,16,Thebaides
+barbaro,row160,35,CLX,16,Palma elate
+barbaro,row161,35,CLXI,16,Malum granatum
+barbaro,row162,36,CLXIII,0,Cytinus
+barbaro,row163,36,CLXIII,0,Malicorium
+barbaro,row164,36,CLXIIII,0,Balaustium
+barbaro,row165,36,CLXV,0,Myrtus
+barbaro,row166,37,CLXVI,17,Myrtidanum
+barbaro,row167,37,CLXVII,17,Cerasus
+barbaro,row168,38,CLXVIII,0,Siliqua
+barbaro,row169,38,CLXIX,0,Malus
+barbaro,row170,39,CLXX,18,Cotonea
+barbaro,row171,39,CLXXI,18,Melimela
+barbaro,row172,39,CLXXII,18,Epirotica
+barbaro,row173,39,CLXXIII,18,Sylvestria mala
+barbaro,row174,39,CLXXIIII,18,Persicus
+barbaro,row175,39,CLXXV,18,Armeniaca
+barbaro,row176,39,CLXXVI,18,Citrea
+barbaro,row177,40,CLXXVII,0,Pirus
+barbaro,row178,41,CLXXVIII,19,Pirus sylvestris
+barbaro,row179,41,CLXXIX,19,Mespilus
+barbaro,row180,41,CLXXX,19,Epimelis
+barbaro,row181,41,CLXXXI,19,Lotus arbor
+barbaro,row182,42,CLXXXII,0,Cornus
+barbaro,row183,42,CLXXXIII,0,Sorbus
+barbaro,row184,43,CLXXXV,20,Arbutus
+barbaro,row185,43,CLXXXVI,20,Amygdalus
+barbaro,row186,43,CLXXXVII,20,Amygdalus dulcis
+barbaro,row187,43,CLXXXVIII,20,Pistacea
+barbaro,row188,44,CLXXXIX,0,Nux iuglans
+barbaro,row189,44,CXC,0,Avellana
+barbaro,row190,44,CXCI,0,Morus
+barbaro,row191,45,CXCII,21,Ficus Aegyptia
+barbaro,row192,45,CXCIII,21,Ficus Cypria
+barbaro,row193,45,CXCIIII,21,Ficus
+barbaro,row194,46,CXCV,0,Caprificus
+barbaro,row195,47,CXCVI,22,Grossi
+barbaro,row196,47,CXCVII,22,Lixivia è ficu
+barbaro,row197,47,CXCVIII,22,Persea
+barbaro,row198,47,CXCIX,22,Hiberis
+barbaro,row199,47,CC,22,Halicacabus
+barbaro,row200,48,CCI,0,Erinaceus marinus
+barbaro,row201,48,CCII,0,Erinaceus terrestris
+barbaro,row202,48,CCIII,0,Hippocampus
+barbaro,row203,48,CCIIII,0,Purpurae
+barbaro,row204,49,CCV,23,Buccina
+barbaro,row205,49,CCVI,23,Ionia
+barbaro,row206,49,CCVII,23,Mituli
+barbaro,row207,49,CCVIII,23,Tellinae
+barbaro,row208,50,CCIX,0,Chamae
+barbaro,row209,50,CCX,0,Unguis odoratus
+barbaro,row210,50,CCXI,0,Cochleae terrestres
+barbaro,row211,50,CCXII,0,Cancri
+barbaro,row212,50,CCXIII,0,Scorpius terrestris
+barbaro,row213,50,CCXIIII,0,Scorpius marinus
+barbaro,row214,50,CCXXV,0,Draco marinus
+barbaro,row215,50,CCXVI,0,Scolopendra marina
+barbaro,row216,50,CCXVII,0,Torpedo
+barbaro,row217,50,CCXVIII,0,Vipera
+barbaro,row218,51,CCXIX,24,Senecta serpentis
+barbaro,row219,52,CCXX,0,Lepus marinus
+barbaro,row220,52,CCXXI,0,Lepus terrestris
+barbaro,row221,52,CCXXII,0,Pastinaca piscis
+barbaro,row222,52,CCXXIII,0,Sepiae
+barbaro,row223,52,CCXXIIII,0,Mulus piscis
+barbaro,row224,52,CCXXV,0,Hippopotamus
+barbaro,row225,52,CCXXVI,0,Fiber
+barbaro,row226,53,CCXXVII,25,Mustella
+barbaro,row227,53,CCXXVIII,25,Rana
+barbaro,row228,53,CCXXIX,25,Silurus
+barbaro,row229,53,CCXXX,25,Smarides
+barbaro,row230,53,CCXXXI,25,Maenae
+barbaro,row231,54,CCXXXII,0,Gobius
+barbaro,row232,54,CCXXXIII,0,Omotarichos
+barbaro,row233,54,CCXXXIIII,0,Garum
+barbaro,row234,55,CCXXXV,26,Pisces saxatiles
+barbaro,row235,55,CCXXXVI,26,Cimices lecti
+barbaro,row236,55,CCXXXVII,26,Onos
+barbaro,row237,55,CCXXXVIII,26,Blattae
+barbaro,row238,55,CCXXXIX,26,Marinus pulmo
+barbaro,row239,55,CCXL,26,Pulmones animalium
+barbaro,row240,56,CCXLI,0,Vulpinus pulmo
+barbaro,row241,56,CCXLII,0,Iecor
+barbaro,row242,56,CCXLIII,0,Genitale cervi
+barbaro,row243,56,CCXLIIII,0,Ungues asini
+barbaro,row244,56,CCXLV,0,Lichnen equi
+barbaro,row245,56,CCXLVI,0,Ungulae caprarum
+barbaro,row246,56,CCXLVII,0,Iecur caprinum
+barbaro,row247,56,CCXLVIII,0,Iecur hircinum
+barbaro,row248,56,CCXLIX,0,Iecur apprinum
+barbaro,row249,56,CCL,0,Iecur et dens canis
+barbaro,row250,56,CCLI,0,Corium
+barbaro,row251,56,CCLII,0,Iecur mergi
+barbaro,row252,56,CCLIII,0,Gallinaceus
+barbaro,row253,57,CCLIIII,27,Ovum
+barbaro,row254,57,CCLV,27,Cicadae
+barbaro,row255,58,CCLVI,0,Locustae
+barbaro,row256,58,CCLVII,0,Ossifragus sive phinis
+barbaro,row257,58,CCLVIII,0,Galerita
+barbaro,row258,58,CCLIX,0,Hirundines
+barbaro,row259,58,CCLX,0,Ebur
+barbaro,row260,58,CCLXI,0,Talus suis
+barbaro,row261,58,CCLXII,0,Cervinum cornu
+barbaro,row262,59,CCLXIII,28,Erucae olerum
+barbaro,row263,59,CCLXIIII,28,Cantharides
+barbaro,row264,59,CCLXV,28,Buprestis et pityocampe
+barbaro,row265,59,CCLXVI,28,Salamandra
+barbaro,row266,59,CCLXVII,28,Araneus
+barbaro,row267,60,CLXVIII,0,Lacerta
+barbaro,row268,60,CCLXIX,0,Seps
+barbaro,row269,61,CCLXX,29,Scinus
+barbaro,row270,61,CCLXXI,29,Vermes terreni
+barbaro,row271,61,CCLXXII,29,Musaraneus
+barbaro,row272,61,CCLXXIII,29,Mures
+barbaro,row273,61,CCLXXIIII,29,Lac
+barbaro,row274,62,CCLXXV,0,Serum
+barbaro,row275,62,CCLXXVI,0,Lac schiston
+barbaro,row276,62,CCLXXVII,0,Lac humanum
+barbaro,row277,62,CCLXXVIII,0,Caseus
+barbaro,row278,62,CCLXXIX,0,Hippace
+barbaro,row279,62,CCLXXX,0,Butyrum
+barbaro,row280,62,CCLXXXI,0,Fuligo butyri
+barbaro,row281,62,CCLXXXII,0,Lana succida
+barbaro,row282,63,CCLXXXIII,30,Lana usta
+barbaro,row283,63,CCLXXXIIII,30,Oesypum
+barbaro,row284,63,CCLXXXV,30,Coagulum
+barbaro,row285,63,CCLXXXVI,30,Adeps
+barbaro,row286,63,CCLXXXVII,30,"Adeps suillus, &amp; angninus"
+barbaro,row287,63,CCLXXXVIII,30,"Adeps cervinus, ovillus, hircinus"
+barbaro,row288,63,CCLXXXIX,30,Adeps bubulus
+barbaro,row289,63,CCXC,30,"Adeps taurinus, pantherinus, leoninus"
+barbaro,row290,64,CCXCI,0,"Adipes odorati è vitulo, tauro, cervo: item medulla cervi"
+barbaro,row291,64,CCXCII,0,Adipes gallinaceorum &amp; anserum
+barbaro,row292,64,CCXCIII,0,Adipes sampsuchini
+barbaro,row293,64,CCXCIIII,0,"Adipes anserini, gallinacei, vitulini"
+barbaro,row294,64,CCXCV,0,Adipum medicinae
+barbaro,row295,64,CCXCVI,0,Medullae animalium
+barbaro,row296,64,CCXCVII,0,Fel animalium
+barbaro,row297,64,CCXCVIII,0,Sanguis
+barbaro,row298,65,CCXCIX,31,Fimum
+barbaro,row299,65,CCC,31,Crocodilea
+barbaro,row300,65,CCCI,31,Urina
+barbaro,row301,65,CCCII,31,Lyncurium
+barbaro,row302,65,CCCIII,31,Mel
+barbaro,row303,65,CCCIIII,31,Mel Sardoum
+barbaro,row304,65,CCCV,31,Mel Ponticum
+barbaro,row305,66,CCCVI,0,Saccharum
+barbaro,row306,66,CCCVII,0,Cera
+barbaro,row307,66,CCCVIII,0,Propolis
+barbaro,row308,66,CCCIX,0,Triticum
+barbaro,row309,69,CCCX,33,Hordeum
+barbaro,row310,69,CCCXI,33,Zythos et curmi
+barbaro,row311,70,CCCXII,0,Zea
+barbaro,row312,70,CCCXIII,0,Crimnon
+barbaro,row313,70,CCCXIIII,0,Olyra
+barbaro,row314,70,CCCXV,0,Athera
+barbaro,row315,70,CCCXVI,0,Tragos
+barbaro,row316,71,CCCXVII,34,Bromos
+barbaro,row317,71,CCCXVIII,34,Oryza
+barbaro,row318,71,CCCXIX,34,Alica sive Chondros
+barbaro,row319,71,CCCXX,34,Milium
+barbaro,row320,71,CCCXX,34,Panicum
+barbaro,row321,71,CCCXXII,34,Sesamum
+barbaro,row322,72,CCCXXIII,0,Lolium
+barbaro,row323,72,CCCXXIIII,0,Amylum
+barbaro,row324,73,CCCXXV,35,Foenum Graecum
+barbaro,row325,73,CCCXXVI,35,Linum
+barbaro,row326,73,CCCXXVII,35,Cicer
+barbaro,row327,74,CCCXXVIII,0,Faba
+barbaro,row328,74,CCCXXIX,0,Faba Aegyptia
+barbaro,row329,75,CCCXXX,36,Lens
+barbaro,row330,75,CCCXXXI,36,Phasiolus
+barbaro,row331,75,CCCXXXII,36,Eruum
+barbaro,row332,75,CCCXXXIII,36,Lupinum
+barbaro,row333,75,CCCXXXIIII,36,Lupinum sylvestre
+barbaro,row334,75,CCCXXXV,36,Rapum
+barbaro,row335,76,CCCXXXVI,0,Rapum sylvestre
+barbaro,row336,76,CCCXXXVII,0,Napum bunias
+barbaro,row337,76,CCCXXXVIII,0,Raphanus
+barbaro,row338,76,CCCXXXIX,0,Agrioraphanos
+barbaro,row339,76,CCCXL,0,Raphanos agria
+barbaro,row340,76,CCCXLI,0,Siser
+barbaro,row341,76,CCCXLII,0,Lapathum
+barbaro,row342,76,CCCXLIII,0,Hippolapathum
+barbaro,row343,77,CCCXLIIII,37,Lapsana
+barbaro,row344,77,CCCXLV,37,Bunion sive napum
+barbaro,row345,77,CCCXLVI,37,Blitum
+barbaro,row346,77,CCCXLVII,37,Malva
+barbaro,row347,77,CCCXLVIII,37,Atraphaxis sive Atriplex
+barbaro,row348,77,CCCXLIX,37,Brassica
+barbaro,row349,78,CCCL,0,Brassica sylvestris
+barbaro,row350,78,CCCLI,0,Brassica marina
+barbaro,row351,78,CCCLII,0,Beta
+barbaro,row352,79,CCCLIII,38,Andrachne sylvestris
+barbaro,row353,79,CCCLIIII,38,Portulaca
+barbaro,row354,79,CCCLV,38,Asparagus
+barbaro,row355,79,CCCLVI,38,Plantago
+barbaro,row356,79,CCCLVII,38,Sium
+barbaro,row357,80,CCCLVIII,0,Sisymbrium
+barbaro,row358,80,CCCLIX,0,Sisymbrium aquaticum aut sylvestre
+barbaro,row359,80,CCCLX,0,Crethmon
+barbaro,row360,80,CCCLXI,0,Coronopus
+barbaro,row361,80,CCCLXII,0,Sonchos
+barbaro,row362,80,CCCLXIII,0,Seris
+barbaro,row363,80,CCCLXIIII,0,Condrilla
+barbaro,row364,81,CCCLXV,37,Cucurbita
+barbaro,row365,81,CCCLXVI,37,Cucumis
+barbaro,row366,81,CCCLXVII,37,Pepo
+barbaro,row367,82,CCCLXVIII,0,Lactuca
+barbaro,row368,82,CCCLXIX,0,Lactuca sylvestris
+barbaro,row369,82,CCCLXX,0,Gingidium
+barbaro,row370,82,CCCLXXI,0,Scandix
+barbaro,row371,82,CCCLXXII,0,Caucalis
+barbaro,row372,82,CCCLXXIII,0,Eruca
+barbaro,row373,82,CCCLXXIIII,0,Ocimum
+barbaro,row374,83,CCCLXXV,38,Orobanche
+barbaro,row375,83,CCCLXXVI,38,Tragopogon
+barbaro,row376,83,CCCLXXVII,38,Ornithogale
+barbaro,row377,83,CCCLXXVIII,38,Tubera terrae
+barbaro,row378,83,CCCLXXIX,38,Smilax hortensis
+barbaro,row379,83,CCCLXXX,38,Medica
+barbaro,row380,84,CCCLXXXI,0,Aphace
+barbaro,row381,84,CCCLXXXII,0,Porrum
+barbaro,row382,84,CCCLXXXIII,0,Ampeloprason
+barbaro,row383,84,CCCLXXXIIII,0,Cepa
+barbaro,row384,84,CCCLXXXV,0,Allium
+barbaro,row385,84,CCCLXXXVI,0,Scorodoprason
+barbaro,row386,84,CCCLXXXVII,0,Sinapi
+barbaro,row387,85,CCCLXXXVIII,39,Nasturtium
+barbaro,row388,85,CCCLXXXIX,39,Thlaspae sive Thlapsi
+barbaro,row389,85,CCCXC,39,Araba
+barbaro,row390,85,CCCXCI,39,Erysimon
+barbaro,row391,85,CCCXCII,39,Piper
+barbaro,row392,85,CCCXCIII,39,Zinziber aut zinziberi
+barbaro,row393,85,CCCXCIIII,39,Hydropiper
+barbaro,row394,85,CCCXCV,39,Ptarmice
+barbaro,row395,86,CCCXCVI,0,Struthion
+barbaro,row396,86,CCCXCVII,0,Cyclaminos
+barbaro,row397,86,CCCXCVIII,0,Altera cyclaminos
+barbaro,row398,86,CCCXCIX,0,Dracunculus maior
+barbaro,row399,86,CCCC,0,Dracunculus minor
+barbaro,row400,86,CCCCI,0,Aros
+barbaro,row401,86,CCCCII,0,Arisaron
+barbaro,row402,87,CCCCIIII,42,Bulbus vomitorius
+barbaro,row403,87,CCCCV,42,Bulbus esculentus
+barbaro,row404,87,CCCCVI,42,Scilla
+barbaro,row405,87,CCCCVII,42,Pancration
+barbaro,row406,87,CCCCVIII,42,Capparis
+barbaro,row407,87,CCCCIX,42,Lepidium
+barbaro,row408,88,CCCCX,0,Batrachion
+barbaro,row409,88,CCCCXI,0,Anemone
+barbaro,row410,88,CCCCXII,0,Argemone
+barbaro,row411,88,CCCCXIII,0,Argemone altera
+barbaro,row412,88,CCCCXIIII,0,Anagallis
+barbaro,row413,88,CCCCXV,0,Hedera
+barbaro,row414,89,CCCCXVI,43,Chelidonium maius
+barbaro,row415,89,CCCCXVII,43,Chelidonium minus
+barbaro,row416,89,CCCCXVIII,43,Othonna
+barbaro,row417,89,CCCCXIX,43,Myosotis
+barbaro,row418,89,CCCCXX,43,Myosotis altera
+barbaro,row419,89,CCCCXXI,43,Isatis
+barbaro,row420,89,CCCCXXII,43,Isatis altera
+barbaro,row421,89,CCCCXXIII,43,Arabis
+barbaro,row422,90,CCCCXXV,0,Agaricum
+barbaro,row423,90,CCCCXXVI,0,Rha Ponticum
+barbaro,row424,90,CCCCXXVII,0,Gentiana
+barbaro,row425,90,CCCCXXVIII,0,Aristolochia
+barbaro,row426,91,CCCCXXIX,44,Aristolochia altera
+barbaro,row427,91,CCCCXXX,44,Aristolochia altera
+barbaro,row428,91,CCCCXXXI,44,Glycyrrhiza
+barbaro,row429,91,CCCCXXXII,44,Centaurium maius
+barbaro,row430,91,CCCCXXXIII,44,Centaurium minus
+barbaro,row431,91,CCCCXXXIIII,44,Chamaeleon albus
+barbaro,row432,91,CCCCXXXV,44,Chamaeleon niger
+barbaro,row433,91,CCCCXXXVI,44,Crocodilion
+barbaro,row434,91,CCCCXXXVII,44,Dipsacos
+barbaro,row435,91,CCCCXXXVIII,44,Acantha leuce
+barbaro,row436,91,CCCCXXXIX,44,Acantha Arabica
+barbaro,row437,92,CCCCXL,0,Scolymos
+barbaro,row438,92,CCCCXLI,0,Poterion
+barbaro,row439,92,CCCCXLII,0,Acanthion
+barbaro,row440,92,CCCCXLIII,0,Acantha
+barbaro,row441,93,CCCCXLIIII,45,Agriacantha
+barbaro,row442,93,CCCCXLV,45,Anonis
+barbaro,row443,93,CCCCXLVI,45,Leucacantha
+barbaro,row444,93,CCCCXLVII,45,Tragacantha
+barbaro,row445,93,CCCCXLVIII,45,Eryngion
+barbaro,row446,93,CCCCXLVIIII,45,Aloë
+barbaro,row447,93,CCCCL,45,Absinthium
+barbaro,row448,93,CCCCLII,45,Absinthium Santonicum
+barbaro,row449,93,CCCCLIII,45,Abrotonum
+barbaro,row450,94,CCCCLIIII,0,Hyssopum
+barbaro,row451,94,CCCCLV,0,Stichas
+barbaro,row452,94,CCCCLVI,0,Origanum
+barbaro,row453,94,CCCCLVII,0,Origanum Ionitis
+barbaro,row454,94,CCCCLVIII,0,Origanum sylvestre de Monstatum est
+barbaro,row455,94,CCCCLIX,0,Tragoriganum
+barbaro,row456,94,CCCCLX,0,Pulegium
+barbaro,row457,94,CCCCLXI,0,Dictamnus
+barbaro,row458,94,CCCCLXII,0,Pseudodictamnum
+barbaro,row459,94,CCCCLXIII,0,Dictamnum aliud
+barbaro,row460,94,CCCCLXIIII,0,Elelisphacos
+barbaro,row461,95,CCCCLXV,46,Menta
+barbaro,row462,95,CCCCLXVI,46,Mentastrum
+barbaro,row463,95,CCCCLXVII,46,Calamintha
+barbaro,row464,95,CCCCLXVIII,46,Thymum
+barbaro,row465,95,CCCCLXVIIII,46,Thymbra
+barbaro,row466,95,CCCCLXX,46,Serpillum
+barbaro,row467,95,CCCCLXXI,46,Sampsuchus
+barbaro,row468,96,CCCCLXXII,0,Melilotos
+barbaro,row469,96,CCCCLXXIII,0,Marum
+barbaro,row470,96,CCCCLXXIIII,0,Acinos
+barbaro,row471,96,CCCCLXXV,0,Baccharis
+barbaro,row472,96,CCCCLXXVI,0,Ruta
+barbaro,row473,97,CCCCLXXVII,47,Ruta sylvestris
+barbaro,row474,97,CCCCLXXVIII,47,Ruta Galatica
+barbaro,row475,97,CCCCLXXIX,47,Moly
+barbaro,row476,97,CCCCLXXX,47,Panaces Heraclion
+barbaro,row477,97,CCCCLXXXI,47,Panaces Asclepion
+barbaro,row478,97,CCCCLXXXII,47,Panaces Chironion
+barbaro,row479,97,CCCCLXXXIII,47,Ligusticum
+barbaro,row480,97,CCCCLXXXIIII,47,Staphylinos agrios
+barbaro,row481,97,CCCCLXXXV,47,Seseli Massiliense
+barbaro,row482,97,CCCCLXXXVI,47,Seseli Aethyopicum
+barbaro,row483,97,CCCCLXXXVII,47,Seseli Peloponesiacum
+barbaro,row484,97,CCCCLXXXVIII,47,Tordylon
+barbaro,row485,98,CCCCLXXXIX,0,Sison
+barbaro,row486,98,CCCCXC,0,Anisum
+barbaro,row487,98,CCCCXCI,0,Caros
+barbaro,row488,98,CCCCXCII,0,Anethum
+barbaro,row489,98,CCCCXCIII,0,Cuminum sativum
+barbaro,row490,98,CCCCXCIIII,0,Cuminum sylvestre
+barbaro,row491,98,CCCCXCV,0,Aliud cuminum sylvestre
+barbaro,row492,98,CCCCXCVI,0,Ammi
+barbaro,row493,98,CCCCXCVII,0,Coriandrum
+barbaro,row494,98,CCCCXCVIII,0,Hieracion maius
+barbaro,row495,98,CCCCXCIX,0,Hieracion minus
+barbaro,row496,98,D,0,Apium
+barbaro,row497,98,DI,0,Eleoselinon
+barbaro,row498,98,DII,0,Oreoselinon
+barbaro,row499,98,DIII,0,Petroselinum
+barbaro,row500,99,DIIII,48,Hipposelinon
+barbaro,row501,99,DV,48,Smyrnium
+barbaro,row502,99,DVI,48,Elaphoboscon
+barbaro,row503,99,DVII,48,Foeniculus
+barbaro,row504,99,DVIII,48,Hippomarathrum
+barbaro,row505,99,DIX,48,Hippomarathrum aliud
+barbaro,row506,99,DX,48,Daucus
+barbaro,row507,99,DXI,48,Delphinium mais
+barbaro,row508,99,DXII,48,Delphinium minus
+barbaro,row509,99,DXIII,48,Pyrethrum
+barbaro,row510,99,DXIIII,48,Libanotis
+barbaro,row511,99,DXV,48,Libanotis coronaria
+barbaro,row512,99,DXVI,48,Sphondylion
+barbaro,row513,99,DXVII,48,Ferula
+barbaro,row514,100,DXVIII,0,Peucedanum
+barbaro,row515,100,DXIX,0,Melanthion
+barbaro,row516,100,DXX,0,Silphion
+barbaro,row517,101,DXXI,49,Magydaris
+barbaro,row518,101,DXXII,49,Sagapenum
+barbaro,row519,101,DXXIII,49,Euphorbium
+barbaro,row520,101,DXXIIII,49,Galbanum
+barbaro,row521,101,DXXV,49,Ammoniacum
+barbaro,row522,101,DXXVI,49,Sarcocolla
+barbaro,row523,101,DXXVII,49,Glaucion
+barbaro,row524,101,DXXVIII,49,Glutinum
+barbaro,row525,101,DXXIX,49,Ichthyocolla
+barbaro,row526,101,DXXX,49,Viscum
+barbaro,row527,102,DXXXI,0,Aparine
+barbaro,row528,102,DXXXII,0,Alysson
+barbaro,row529,102,DXXXIII,0,Atractylis
+barbaro,row530,102,DXXXIIII,0,Asclepias
+barbaro,row531,102,DXXXV,0,Polycnemon
+barbaro,row532,102,DXXXVI,0,Clinopodion
+barbaro,row533,103,DXXXVII,50,Leontopetalon
+barbaro,row534,103,DXXXVIII,50,Teucrion
+barbaro,row535,103,DXXXIX,50,Chamaedrys
+barbaro,row536,103,DXL,50,Leucas
+barbaro,row537,103,DXLI,50,Lychnis coronaria
+barbaro,row538,103,DXLII,50,Lychnis rustica
+barbaro,row539,103,DXLIII,50,Lilium
+barbaro,row540,104,DXLIIII,0,Ballote
+barbaro,row541,104,DXLV,0,Melissophyllon
+barbaro,row542,104,DXLVI,0,Marrubium
+barbaro,row543,104,DXLVII,0,Stachys
+barbaro,row544,104,DXLVIII,0,Phyllitis
+barbaro,row545,104,DXLIX,0,Phalangion
+barbaro,row546,104,DL,0,Trifolium
+barbaro,row547,104,DLI,0,Polium
+barbaro,row548,104,DLII,0,Scordion
+barbaro,row549,104,DLIII,0,Bechion
+barbaro,row550,104,DLIIII,0,Artemisia
+barbaro,row551,105,DLV,51,Artemisia alia
+barbaro,row552,105,DLVI,51,Ambrosia
+barbaro,row553,105,DLVII,51,Botrys
+barbaro,row554,105,DLVIII,51,Geranion
+barbaro,row555,105,DLVIIII,51,Altera geranion
+barbaro,row556,105,DLX,51,Gnaphalion
+barbaro,row557,105,DLXI,51,Typha
+barbaro,row558,105,DLXII,51,Circaea
+barbaro,row559,105,DLXIII,51,Oenanthe
+barbaro,row560,105,DLXIIII,51,Conyza
+barbaro,row561,105,DLXV,51,Conyza minor
+barbaro,row562,105,DLXVI,51,Conyzae tertium genus
+barbaro,row563,106,DLXVII,0,Hemerocalles
+barbaro,row564,106,DLXVIII,0,Leucoion
+barbaro,row565,106,DLXIX,0,Crataegonos
+barbaro,row566,106,DLXX,0,Phyllon
+barbaro,row567,107,DLXXI,52,Orchis
+barbaro,row568,107,DLXXII,52,Orchis Serapias
+barbaro,row569,107,DLXXIII,52,Satyrion
+barbaro,row570,107,DLXXIIII,52,Alterum satyrium
+barbaro,row571,107,DLXXV,52,Orminon
+barbaro,row572,107,DLXXVI,52,Hedysaron
+barbaro,row573,107,CLXXVII,52,Onosma
+barbaro,row574,107,DLXXVIII,52,Nymphea
+barbaro,row575,107,DLXXIX,52,Nymphea alia
+barbaro,row576,107,DLXXX,52,Androsaces
+barbaro,row577,107,DLXXXI,52,Asplenon
+barbaro,row578,107,DLXXXII,52,Hemionitis
+barbaro,row579,108,DLXXXIII,0,Anthyllis
+barbaro,row580,108,DMXXXIIII,0,Anthemis
+barbaro,row581,108,DLXXXV,0,Parthenium
+barbaro,row582,108,DLXXXVI,0,Buphthalmos
+barbaro,row583,108,DLXXXVII,0,Paeonia
+barbaro,row584,108,DLXXXVIII,0,Lithospermon
+barbaro,row585,109,DLXXXIX,53,Phalaris
+barbaro,row586,109,DXC,53,Erythrodanum
+barbaro,row587,109,DXCI,53,Lonchitis
+barbaro,row588,109,DXCII,53,Lonchitis trachea
+barbaro,row589,109,DXCIII,53,Althaea
+barbaro,row590,109,DXCIIII,53,Alcea
+barbaro,row591,109,DXCV,53,Cannabis sylvatica
+barbaro,row592,109,DXCVI,53,Cannabis sativa
+barbaro,row593,109,DXCVII,53,Anagyris
+barbaro,row594,109,DXCVIII,53,Cepaea
+barbaro,row595,109,DXCIX,53,Alisma
+barbaro,row596,109,DC,53,Onobrychis
+barbaro,row597,109,DCI,53,Hypericon
+barbaro,row598,109,DCII,53,Ascyron
+barbaro,row599,109,DCIII,53,Androsaemon
+barbaro,row600,109,DCIIII,53,Coris
+barbaro,row601,109,DCV,53,Chamaepitys
+barbaro,row602,110,DCVI,0,Chamaepitys secunda
+barbaro,row603,110,DCVII,0,Chamaepitys tertia
+barbaro,row604,110,DCVIII,0,Betonica
+barbaro,row605,110,DCIX,0,Britanica
+barbaro,row606,111,DCX,54,Betonicae mentio tertia
+barbaro,row607,111,DCXI,54,Lysimachion
+barbaro,row608,111,DCXII,54,Poligonon mas
+barbaro,row609,111,DCXIII,54,Polygonon foemina
+barbaro,row610,111,DCXIIII,54,Polygonaton
+barbaro,row611,111,DCXV,54,Clematis
+barbaro,row612,111,DCXI,54,Clematis altera
+barbaro,row613,111,DCXVII,54,Polemonion
+barbaro,row614,111,DCXVIII,54,Symphyton petraeum
+barbaro,row615,112,DCXIX,0,Symphyton alterum
+barbaro,row616,112,DCXX,0,Holosteum
+barbaro,row617,112,DCXXI,0,Stoebe
+barbaro,row618,112,DCXXII,0,Clymenos
+barbaro,row619,112,DCXXIII,0,Periclymenos
+barbaro,row620,112,DCXXIIII,0,Trieulum
+barbaro,row621,112,DCXXV,0,Saxifraga
+barbaro,row622,113,DCXXVI,55,Limonium
+barbaro,row623,113,DCXXVII,55,Lagopus
+barbaro,row624,113,DCXXVIII,55,Medion
+barbaro,row625,113,DCXXIX,55,Epimedion
+barbaro,row626,113,DCXXX,55,Xiphion
+barbaro,row627,113,DCXXXI,55,Sparganion
+barbaro,row628,113,DCXXXII,55,Xyris
+barbaro,row629,113,DCXXXIII,55,Anchusa
+barbaro,row630,113,DCXXXIIII,55,Anchusa onochelos
+barbaro,row631,113,DCXXXV,55,Anchusa tertia sine nomine
+barbaro,row632,113,DCXXXVI,55,Lycopsos vel Lycopsis anchusae genus
+barbaro,row633,113,DCXXXVII,55,Echion
+barbaro,row634,114,DCXXXVIII,0,Ocimoides
+barbaro,row635,114,DCXXXIX,0,Erinos
+barbaro,row636,114,DCXL,0,Gramen
+barbaro,row637,114,DCXLI,0,Calamagrostis
+barbaro,row638,114,DCXLII,0,Gramen Parnasion
+barbaro,row639,114,DCXLIII,0,Gramen Cilicium
+barbaro,row640,114,DCXLIIII,0,Sideritis prima
+barbaro,row641,114,DCXLV,0,Sideritis secunda
+barbaro,row642,114,DCXLVI,0,Sideritis tertia
+barbaro,row643,114,DCXLVII,0,Sideritis quarta
+barbaro,row644,114,DCXLVIII,0,Rubus
+barbaro,row645,114,DCXLIX,0,Rubus idaeus
+barbaro,row646,115,DCL,56,Helxine
+barbaro,row647,115,DCLI,56,Elatine
+barbaro,row648,115,DCLII,56,Eupatorium
+barbaro,row649,115,DCLIII,56,Pentaphyllon
+barbaro,row650,115,DCLIIII,56,Phoenix herba
+barbaro,row651,115,DCLV,56,Idaea radix
+barbaro,row652,115,DCLV,56,Radix rhodia
+barbaro,row653,115,DCLVII,56,Hippuris
+barbaro,row654,116,DCLVIII,0,Hippuris altera
+barbaro,row655,116,DCLVIIII,0,Coccus baphica
+barbaro,row656,116,DCLX,0,Tragion
+barbaro,row657,116,DCLXI,0,Tragion altera
+barbaro,row658,116,DCLXII,0,Tragos
+barbaro,row659,116,DCLXIII,0,Oxyschoenos et iuncus palustris
+barbaro,row660,117,DCLXIIII,57,Euripice
+barbaro,row661,117,DCLXV,57,Lichen in Saxis
+barbaro,row662,117,DCLXVI,57,Paronychia
+barbaro,row663,117,DCLXVII,57,Chrysocome
+barbaro,row664,117,DCLXVIII,57,Chrysogonon
+barbaro,row665,117,DCLXIX,57,Helichrysos
+barbaro,row666,117,DCLXX,57,Chrysanthemos
+barbaro,row667,117,DCLXXI,57,Peristereon
+barbaro,row668,118,DCLXXIII,0,Peristereon supina
+barbaro,row669,118,DCLXXIIII,0,Astragalos
+barbaro,row670,118,DCLXXV,0,Hyacinthus
+barbaro,row671,118,DCLXXVI,0,Papaver rhoeas
+barbaro,row672,118,DCLXXVII,0,Papaver satimum
+barbaro,row673,118,DCLXXVIII,0,De opio et meconio
+barbaro,row674,119,DCLXXIX,58,Papaver ceratitis
+barbaro,row675,119,DCLXXX,58,Papaver aphrodes
+barbaro,row676,119,DCLXXXI,58,Hypecoon
+barbaro,row677,119,DCLXXXII,58,Hyoscyamos
+barbaro,row678,119,DCLXXXIIII,58,Psyllium
+barbaro,row679,119,DCLXXXIIII,58,Strychnon
+barbaro,row680,119,DCLXXXV,58,Strychnon halicacabum
+barbaro,row681,119,DCLXXXVI,58,Strychnon soporiferum
+barbaro,row682,119,DCLXXXVII,58,Strychnon manicon
+barbaro,row683,120,DCLXXXVIII,0,Dorycnion
+barbaro,row684,120,DCLXXXIX,0,Mandragoras
+barbaro,row685,120,DCXC,0,Morion id est alter mandragoras
+barbaro,row686,120,DCXCI,0,Aconitum
+barbaro,row687,120,DCXCII,0,Aconitum cynoctonon
+barbaro,row688,121,DCXCIII,59,Aconitum lycoctonon
+barbaro,row689,121,DCXCIIII,59,Cicuta
+barbaro,row690,121,DCLXXXXV,59,Smilax
+barbaro,row691,122,DCLXXXXVI,0,Apocynon
+barbaro,row692,122,DCLXXXXVII,0,Nerion sive rhododendron
+barbaro,row693,122,DCLXXXXVIII,0,Fungi
+barbaro,row694,122,DCLXXXXIX,0,Colchicon
+barbaro,row695,123,DCC,60,Ephemeron
+barbaro,row696,123,DCCI,60,Lens palustris
+barbaro,row697,123,DCCII,60,Aizoon maius
+barbaro,row698,123,DCCIII,60,Aizoon minus
+barbaro,row699,123,DCCIIII,60,Aizoon leptophyllon sive portulaca sylvestris
+barbaro,row700,123,DCCV,60,Cotyledon
+barbaro,row701,123,DCCVI,60,Cotyledon secunda
+barbaro,row702,123,DCCVII,60,Urtica sive acalypha
+barbaro,row703,123,DCCVIII,60,Galiopsis
+barbaro,row704,123,DCCIX,60,Galion
+barbaro,row705,123,DCCX,60,Erigeron
+barbaro,row706,123,DCCXI,60,Thalictron
+barbaro,row707,124,DCCXII,0,Bryon thalassion
+barbaro,row708,124,DCCXIII,0,Phycos
+barbaro,row709,124,DCCXIIII,0,Potamogeton
+barbaro,row710,124,DCCXV,0,Stratiotes
+barbaro,row711,124,DCCXVI,0,Stratiotes terrestris vel millefolia
+barbaro,row712,124,DCCXVII,0,Phlomos
+barbaro,row713,124,DCCXVIII,0,Phlomides
+barbaro,row714,124,DCCXIX,0,Aethiopis
+barbaro,row715,124,DCCXX,0,Arction
+barbaro,row716,124,DCCXXI,0,Arcion
+barbaro,row717,125,DCCXXII,61,Petasites
+barbaro,row718,125,DCCXXIII,61,Epipactis
+barbaro,row719,125,DCCXXIIII,61,Capnos
+barbaro,row720,125,DCCXXV,61,Lotus sativa
+barbaro,row721,125,DCCXXVI,61,Lotus sylvestris
+barbaro,row722,125,DCCXXVII,61,Cytisus
+barbaro,row723,125,DCCXXVIII,61,Lotus Aegyptia
+barbaro,row724,126,DCCXXIX,0,Myriophyllon
+barbaro,row725,126,DCCXXX,0,Myrrhis
+barbaro,row726,126,DCCXXXI,0,Myagros
+barbaro,row727,126,DCCXXXII,0,Oenagra
+barbaro,row728,126,DCCXXXIII,0,Cirsion
+barbaro,row729,126,DCCXXXIIII,0,Aster Atticus
+barbaro,row730,126,DCCXXXV,0,Isopyron
+barbaro,row731,126,DCCXXXVI,0,Viola purpurea
+barbaro,row732,127,DCCXXXVII,62,Cacalia
+barbaro,row733,127,DCCXXXVIII,62,Pseudobunion
+barbaro,row734,127,DCCXXXIX,62,Chamaecissos
+barbaro,row735,127,DCCXL,62,Camaepeuce
+barbaro,row736,127,DCCXLII,62,Buglosson
+barbaro,row737,127,DCCXLII,62,Cynoglosson
+barbaro,row738,127,DCCXLIII,62,Phyteuma
+barbaro,row739,127,DCCXLIIII,62,Leontopodion
+barbaro,row740,127,DCCXLV,62,Hypoglosson
+barbaro,row741,127,DCCXLVI,62,Antirrhinon
+barbaro,row742,127,DCCXLVII,62,Catanance
+barbaro,row743,127,DCCXLVIII,62,Tripolium
+barbaro,row744,127,DCCXLIX,62,Adianton
+barbaro,row745,127,DCCL,62,Trichomanes
+barbaro,row746,127,DCCLI,62,Xanthion
+barbaro,row747,128,DCCLII,0,Aegilops
+barbaro,row748,128,DCCLIII,0,Bromos
+barbaro,row749,128,DCCLIIII,0,Glaux
+barbaro,row750,128,DCCLV,0,Polygalon
+barbaro,row751,128,DCCLVI,0,Osiris
+barbaro,row752,128,DCCLVII,0,Smilax trachea
+barbaro,row753,128,DCCLVIII,0,Smilax lia
+barbaro,row754,128,DCCLIX,0,Myrtus sylvestris
+barbaro,row755,129,DCCLX,63,Laurus Alexandrina
+barbaro,row756,129,DCCLXI,63,Daphnoides
+barbaro,row757,129,DCCLXII,63,Chamaedaphne
+barbaro,row758,129,DCCLXIII,63,Elleborus candidus
+barbaro,row759,129,DCCLXIIII,63,Elleborum nigrum
+barbaro,row760,129,DCCLXV,63,Sesamoides maius
+barbaro,row761,129,DCCLXVI,63,Sesamoides minus
+barbaro,row762,130,DCCLXVII,0,Cucumis sylvestris sive anguinus
+barbaro,row763,130,DCCLXVIII,0,Elaterium
+barbaro,row764,130,DCCLXIX,0,Staphis agria
+barbaro,row765,130,DCCLXX,0,Thapsia
+barbaro,row766,130,DCCLXXI,0,Spartum
+barbaro,row767,131,DCCLXXII,64,Silybon
+barbaro,row768,131,DCCLXXIII,64,Balanus myrepsica
+barbaro,row769,131,DCCLXXIIII,64,Narcissus
+barbaro,row770,131,DCCLXXV,64,Hippophaes
+barbaro,row771,131,DCCLXXVI,64,Hippophaeston
+barbaro,row772,132,DCCLXXVII,0,Cici
+barbaro,row773,132,DCCLXXVIII,0,Tithymali septem
+barbaro,row774,132,DCCLXXIX,0,Characias primum genus tithymali
+barbaro,row775,132,DCCLXXX,0,Tithymalus myrsinites
+barbaro,row776,132,DCCLXXXI,0,Tithymalus paralios
+barbaro,row777,132,DCCLXXXII,0,Tithymalus helioscopios
+barbaro,row778,132,DCCLXXXIII,0,Tithymalus cyparissias
+barbaro,row779,132,DCCLXXXIIII,0,Tithymalus dendroides
+barbaro,row780,132,DCCLXXXV,0,Tithymalus platyphyllos
+barbaro,row781,132,DCCLXXXVI,0,Pityusa
+barbaro,row782,132,DCCLXXXVII,0,Lathyris
+barbaro,row783,132,DCCLXXXVIII,0,Peplos
+barbaro,row784,132,DCCLXXXIX,0,Peplis
+barbaro,row785,133,DCCXC,65,Chamaesyce
+barbaro,row786,133,DCCXCI,65,Scammonion
+barbaro,row787,133,DCCXCII,65,Chamaelaea
+barbaro,row788,133,DCCXCIII,65,Thymelaea
+barbaro,row789,133,DCCXCIIII,65,Sabucus
+barbaro,row790,133,DCCXCV,65,Ebulus
+barbaro,row791,134,DCCXCVI,0,Pycnocomon
+barbaro,row792,134,DCCXCVII,0,Api os
+barbaro,row793,134,DCCXCVIII,0,Colocynthis
+barbaro,row794,134,DCCXCIX,0,Epithymum
+barbaro,row795,134,DCCC,0,Alypon
+barbaro,row796,134,DCCCI,0,Empetron
+barbaro,row797,134,DCCCII,0,Ampelos agria
+barbaro,row798,134,DCCCIII,0,Ampelos leuce
+barbaro,row799,134,DCCCIIII,0,Ampelos melaena
+barbaro,row800,134,DCCCV,0,Pteris
+barbaro,row801,134,DCCCVI,0,Thelypteris
+barbaro,row802,135,DCCCVII,66,Polypodion
+barbaro,row803,135,DCCCVIII,66,Pryopteris
+barbaro,row804,135,DCCCIX,66,Cnecos
+barbaro,row805,135,DCCCX,66,Linozostis
+barbaro,row806,135,DCCCXI,66,Cynia
+barbaro,row807,135,DCCCXII,66,Heliotropium maius
+barbaro,row808,135,DCCCXIII,66,Heliotropium minus
+barbaro,row809,135,DCCCXIIII,66,Scorpioides
+barbaro,row810,137,DCCCXV,67,Vitis sativa
+barbaro,row811,137,DCCCXVI,67,Vitis sylvestris
+barbaro,row812,137,DCCCXVII,67,Uvae
+barbaro,row813,137,DCCCXVIII,67,Vinacei
+barbaro,row814,137,DCCCXIX,67,Nuclei acinorum
+barbaro,row815,138,DCCCXX,0,Uva passa
+barbaro,row816,138,DCCCXXI,0,Uva oenanthe
+barbaro,row817,138,DCCCXXII,0,Omphacium vitis
+barbaro,row818,138,DCCCXXIII,0,Vinum
+barbaro,row819,138,DCCCXXIIII,0,Vini qualitas
+barbaro,row820,139,DCCCXXV,68,"Passum, et vinum Protropon, sive Creticum, sive Pramnon"
+barbaro,row821,139,DCCCXXVI,68,Vinum gypsatum
+barbaro,row822,139,DCCCXXVII,68,Vinum picatum sive resinatum
+barbaro,row823,139,DCCCXXVIII,68,Vinum parachyton
+barbaro,row824,139,DCCCXXIX,68,Phalernum
+barbaro,row825,139,DCCCXXX,68,Albanum
+barbaro,row826,140,DCCCXXXI,0,Cecubum
+barbaro,row827,140,DCCCXXXII,0,Surentinum
+barbaro,row828,140,DCCCXXXIII,0,Adrianum
+barbaro,row829,140,DCCCXXXIIII,0,Praetucium
+barbaro,row830,140,DCCCXXXV,0,Histrianum
+barbaro,row831,140,DCCCXXXVI,0,Chium
+barbaro,row832,141,DCCCXXXVII,69,Lesbium
+barbaro,row833,141,DCCCXXXVIII,69,Ephesium
+barbaro,row834,141,DCCCXXXIX,69,Messogites
+barbaro,row835,141,DCCCXL,69,Vinum in commune
+barbaro,row836,141,DCCCXLI,69,Vinum omphacites
+barbaro,row837,141,DCCCXLII,69,Vinum deuteria
+barbaro,row838,141,DCCCXLIII,69,Vinum adynamon
+barbaro,row839,141,DCCCXLIIII,69,Vinum nigrum è labrusca
+barbaro,row840,141,DCCCXLV,69,Vinum melitites
+barbaro,row841,141,DCCCXLVI,69,Oenomell
+barbaro,row842,142,DCCCXLVII,0,Melicraton
+barbaro,row843,142,DCCCXLVIII,0,Hydromel
+barbaro,row844,142,DCCCXLIX,0,Aquae in commune
+barbaro,row845,142,DCCCL,0,Apomeli
+barbaro,row846,142,DCCCLI,0,Aqua maris
+barbaro,row847,142,DCCCLII,0,Thalassomeli
+barbaro,row848,142,DCCCLIII,0,Acetum
+barbaro,row849,143,DCCCLIIII,70,Oxymeli
+barbaro,row850,143,DCCCLV,70,Oxalme
+barbaro,row851,143,DCCCLVI,70,Thymosalme
+barbaro,row852,143,DCCCLVII,70,Vinum scilliticum
+barbaro,row853,143,DCCCLIX,70,Vinum tethalassomenon
+barbaro,row854,143,DCCCLX,70,Vinum factitium in commune
+barbaro,row855,143,DCCCLXI,70,Vinum cidonites
+barbaro,row856,143,DCCCLXII,70,Vinum melomeli
+barbaro,row857,143,DCCCLXIII,70,Vinum hydromelon
+barbaro,row858,143,DCCCLXIIII,70,Omphacomeli
+barbaro,row859,143,DCCCLXV,70,"Vinum apites, oites, mespilites, ceratites"
+barbaro,row860,143,DCCCLXVI,70,Vinum oenanthinum
+barbaro,row861,143,DCCCLXVII,70,Vinum rhoites
+barbaro,row862,143,DCCCLXVIII,70,Vinum rhodites
+barbaro,row863,143,DCCCLXIX,70,Rhodomeli
+barbaro,row864,143,DCCCLXX,70,Vinum myrtites
+barbaro,row865,143,DCCCLXXI,70,Vinum myrsintes
+barbaro,row866,143,DCCCLXXII,70,Vinum schininum
+barbaro,row867,143,DCCCLXXIII,70,Vinum terebinthinum
+barbaro,row868,143,DCCCLXXIIII,70,Vinum Phoenicites sive palmeum
+barbaro,row869,143,DCCCLXXV,70,Vinum catorchites aut sycites
+barbaro,row870,143,DCCCLXXVII,70,Vinum rhetinites
+barbaro,row871,143,DCCCLXXVIII,70,Vinum strobilites
+barbaro,row872,144,DCCCLXXIX,0,"Vinum è cedro cupresso, lauro, picea, iunipero, abiete"
+barbaro,row873,144,DCCCLXXX,0,Vinum cedrites
+barbaro,row874,144,DCCCLXXXI,0,Vinum pissites
+barbaro,row875,144,DCCCLXXXII,0,Vinum absinthites
+barbaro,row876,144,DCCCLXXXIII,0,Vinum hysopites
+barbaro,row877,144,DCCCLXXXIIII,0,Vinum chamaedrites
+barbaro,row878,144,DCCCLXXXV,0,Vinum stoechadites
+barbaro,row879,144,DCCCLXXXVI,0,Acetum stoechadites
+barbaro,row880,144,DCCCLXXXVII,0,Vinum cestrites
+barbaro,row881,144,DCCCLXXXVIII,0,Vinum tragoriganites
+barbaro,row882,144,DCCCLXXXIX,0,Vinum bunionites
+barbaro,row883,144,DCCCXC,0,Vinum dictamnites
+barbaro,row884,144,DCCCXCI,0,Vinum prasiites
+barbaro,row885,144,DCCCXCII,0,Vinum thymisites
+barbaro,row886,144,DCCCXCIII,0,Vinum thimbrites
+barbaro,row887,144,DCCCXCIV,0,Vinum origanites
+barbaro,row888,144,DCCCXCV,0,"Vinum calaminthites, gleconites, abrotonites"
+barbaro,row889,144,DCCCXCVI,0,Vinum conyzites
+barbaro,row890,144,DCCCXCVII,0,Vinum aromatites
+barbaro,row891,144,DCCCXCVIII,0,Aromatites aliud
+barbaro,row892,144,DCCCXCIX,0,Vinum nectarites
+barbaro,row893,144,DCCCC,0,Vinum nardites
+barbaro,row894,144,DCCCCI,0,Vinum asarites
+barbaro,row895,144,DCCCCIII,0,Vinum ex sylvestri nardo DCCCCII Vinum daucites
+barbaro,row896,144,DCCCIIII,0,Vinum elelisphacites
+barbaro,row897,144,DCCCCV,0,Vinum panacites
+barbaro,row898,144,DCCCCVI,0,Vinum acorites et glycyrhitites
+barbaro,row899,144,DCCCCVII,0,Vinum selenites sive apiatum
+barbaro,row900,144,DCCCCVIII,0,"Vinum marathrites, anethites, petroselenites"
+barbaro,row901,144,DCCCCVIIII,0,Vinum halosanthites
+barbaro,row902,144,DCCCCX,0,Vinum phthorion
+barbaro,row903,144,DCCCCXI,0,Vinum chamaelaites
+barbaro,row904,144,DCCCCXII,0,Vinum chamaepitytes
+barbaro,row905,144,DCCCCXIII,0,Vinum mandragorites
+barbaro,row906,144,DCCCCXIIII,0,Vinum elleborites
+barbaro,row907,144,DCCCCXV,0,Vinum scammonites
+barbaro,row908,144,DCCCCXVI,0,Cadmia
+barbaro,row909,144,DCCCCXVII,0,Pompholyx et spodion
+barbaro,row910,145,DCCCCXVIII,71,Antispodion
+barbaro,row911,145,DCCCCXIX,71,Aes ustum
+barbaro,row912,145,DCCCCXX,71,Scoria aeris
+barbaro,row913,145,DCCCCXXI,71,Flos aeris
+barbaro,row914,145,DCCCCXXII,71,Squama aeris
+barbaro,row915,145,DCCCCXXIII,71,Squama altera hoc est stomoma
+barbaro,row916,145,DCCCCXXIIII,71,Aerugo rasilis
+barbaro,row917,145,DCCCCXXV,71,Aerugo scolecia
+barbaro,row918,145,DCCCCXXVI,71,Aerugo aurificum
+barbaro,row919,146,DCCCCXXVII,0,Aerugo usta
+barbaro,row920,146,DCCCCXXVIII,0,Aerugo ferri
+barbaro,row921,146,DCCCCXXIX,0,Ferrum
+barbaro,row922,146,DCCCCXXX,0,Scoria ferri
+barbaro,row923,146,DCCCCXXXI,0,Plumbum elutum
+barbaro,row924,146,DCCCCXXXII,0,Plumbum syncerum
+barbaro,row925,146,DCCCCXXXIII,0,Scoria plumbi
+barbaro,row926,146,DCCCCXXXIIII,0,Lapis plumbris
+barbaro,row927,146,DCCCCXXXV,0,Stimmi
+barbaro,row928,146,DCCCCXXXVI,0,Molibdaena
+barbaro,row929,146,DCCCCXXXVII,0,Scoria argenti
+barbaro,row930,146,DCCCCXXXVIII,0,Spuma argenti
+barbaro,row931,146,DCCCCXXXIX,0,Cerussa
+barbaro,row932,146,DCCCCXL,0,Chrysocolla
+barbaro,row933,147,DCCCCXLI,72,Armenium
+barbaro,row934,147,DCCCCXLII,72,Coeruleum
+barbaro,row935,148,DCCCCXLIII,0,Indicum
+barbaro,row936,148,DCCCCXLIIII,0,Ochra
+barbaro,row937,148,DCCCCXLV,0,Cinnabari
+barbaro,row938,148,DCCCCXLVI,0,Hydrargyros
+barbaro,row939,149,DCCCCXLVII,73,Rubrica sinopis
+barbaro,row940,149,DCCCCXLVIII,73,Rubrica fabrilis
+barbaro,row941,149,DCCCCXLIX,73,Rubrica lemnia
+barbaro,row942,149,DCCCCL,73,Chalcanthon
+barbaro,row943,150,DCCCCLI,0,Chalcitis lapis
+barbaro,row944,150,DCCCCLII,0,Misy
+barbaro,row945,150,DCCCCLIII,0,Melanteria
+barbaro,row946,150,DCCCCLIIII,0,Sori
+barbaro,row947,150,DCCCCLV,0,Diphryges
+barbaro,row948,150,DCCCCLVI,0,Arsenicum
+barbaro,row949,150,DCCCCLVII,0,Sandaracha
+barbaro,row950,150,DCCCCLVIII,0,Alumen
+barbaro,row951,150,DCCCCLIX,0,Sulphur
+barbaro,row952,151,DCCCCLX,74,Pumex
+barbaro,row953,151,DCCCCLXI,74,Sal
+barbaro,row954,152,DCCCCLXII,0,Halosachne
+barbaro,row955,152,DCCCCLXIII,0,Salsugo
+barbaro,row956,152,DCCCCLXIIII,0,Flos salis
+barbaro,row957,153,DCCCCLXV,75,Nitrum
+barbaro,row958,153,DCCCCLXVI,75,Aphronitrum
+barbaro,row959,153,DCCCCLXVII,75,Fex vini
+barbaro,row960,153,DCCCCLXVIII,75,Calx viva
+barbaro,row961,153,DCCCCLXIX,75,Gypsum
+barbaro,row962,153,DCCCCLXX,75,Cinis vitium
+barbaro,row963,154,DCCCCLXXI,0,Alcyonium
+barbaro,row964,154,DCCCCLXXII,0,Adarca
+barbaro,row965,154,DCCCCLXXIII,0,Spongiae
+barbaro,row966,154,DCCCCLXXIIII,0,Corallium
+barbaro,row967,154,DCCCCLXXV,0,Antipathes
+barbaro,row968,154,DCCCCLXXVI,0,Lapis Phrygius
+barbaro,row969,154,DCCCCLXXVII,0,Lapis asius
+barbaro,row970,155,DCCCCLXXVIII,76,Pyrites
+barbaro,row971,155,DCCCCLXXIX,76,Lapis haematites
+barbaro,row972,155,DCCCCLXXX,76,Lapis schistos
+barbaro,row973,155,DCCCCLXXXI,76,Lapis Gagates
+barbaro,row974,155,DCCCCLXXXII,76,Lapis Thracias
+barbaro,row975,155,DCCCCLXXXIII,76,Lapis Magnes
+barbaro,row976,156,DCCCCLXXXIIII,0,Lapis arabius
+barbaro,row977,156,DCCCCLXXXV,0,Lapis galactites
+barbaro,row978,156,DCCCCLXXXVI,0,Lapis melitites
+barbaro,row979,156,DCCCCLXXXVII,0,Lapis molochthus
+barbaro,row980,156,DCCCCLXXXVIII,0,Lapis alabastrites
+barbaro,row981,156,DCCCCLXXXIX,0,Lapis Thyites
+barbaro,row982,156,DCCCCXC,0,Lapis iudaicis
+barbaro,row983,156,DCCCCXCI,0,Lapis amiantus
+barbaro,row984,156,DCCCCXCII,0,Lapis Saphirus
+barbaro,row985,156,DCCCCXCIII,0,Lapis Memphites
+barbaro,row986,156,DCCCCXCIIII,0,Lapis selenites
+barbaro,row987,157,DCCCCXCV,77,Lapis iaspis
+barbaro,row988,157,DCCCCXCVII,77,Lapis aetites DCCCCXCVI Lapis ophites
+barbaro,row989,157,DCCCCXCVIII,77,Lapides spongiarum
+barbaro,row990,157,DCCCCXCIX,77,Lithocolla
+barbaro,row991,157,M,77,Lapis ostracites
+barbaro,row992,157,MI,77,Lapis smiris
+barbaro,row993,157,MII,77,Harena littorum
+barbaro,row994,158,MIII,0,Cotes
+barbaro,row995,158,MIIII,0,Lapis geodeos
+barbaro,row996,158,MV,0,Terra in commune
+barbaro,row997,158,MVI,0,Terra Eretria
+barbaro,row998,158,MVII,0,Terra Samia
+barbaro,row999,158,MVIII,0,Lapis samius
+barbaro,row1000,158,MIX,0,Terra Chia
+barbaro,row1001,158,MX,0,Terra Selenusia
+barbaro,row1002,158,MXI,0,Terra Cimolia
+barbaro,row1003,158,MXII,0,Terra Pnigitis
+barbaro,row1004,158,MXIII,0,Testae fornacium
+barbaro,row1005,158,MXIIII,0,Terra usta
+barbaro,row1006,159,MXV,78,Terra Melina
+barbaro,row1007,159,MXVI,78,Terra ampelitis
+barbaro,row1008,159,MXVII,78,Fuligo pictoria
+barbaro,row1009,159,MXVIII,78,Atramentum scriptorium

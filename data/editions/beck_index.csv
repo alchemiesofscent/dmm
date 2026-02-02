@@ -1,0 +1,828 @@
+edition,edition_entry_id,dmm_id,greek_lemma,latin_lemma
+beck,row1,DMM1001,ἶρις,Iris
+beck,row2,DMM1002,ἄκορον,Yellow flag
+beck,row3,DMM1003,μῆον,Baldmoney
+beck,row4,DMM1004,κύπερος,Galingale
+beck,row5,DMM1005,ἕτερον εἶδος κυπέρου,Turmeric
+beck,row6,DMM1006,καρδάμωμον,Cardamom
+beck,row7,DMM1007,νάρδος,Spikenard
+beck,row8,DMM1008,κελτικὴ νάρδος,Celtic spikenard
+beck,row9,DMM1009,ὀρεινὴ νάρδος,Mountain spikenard
+beck,row10,DMM1010,ἄσαρον,Hazelwort
+beck,row11,DMM1011,φοῦ,Cretan spikenard
+beck,row12,DMM1012,μαλάβαθρον,Malabar
+beck,row13,DMM1013,κασσία,Cassia
+beck,row14,DMM1014,κινάμωμον,Cinnamon
+beck,row15,DMM1015,ἄμωμον,Nepal cardamom
+beck,row16,DMM1016,κόστος,Costusroot
+beck,row17,DMM1017,σχοῖνος,Camel hay
+beck,row18,DMM1018,κάλαμος ἀρωματικός,Sweet flag
+beck,row19,DMM1019,βάλσαμον,Mecca balsam
+beck,row20,DMM1020,ἀσπάλαθος,Camel’s-thorn
+beck,row21,DMM1021,βρύον,Tree moss
+beck,row22,DMM1022,ἀγάλοχον,Aloewood/Eagle-wood
+beck,row23,DMM1023,νάσκαφθον,Nascaphthon
+beck,row24,DMM1024,κάγκαμον,Bisabol
+beck,row25,DMM1025,κῦφι,Cyphi
+beck,row26,DMM1026,κρόκος,Saffron
+beck,row27,DMM1027,κροκόμαγμα,Saffron residuum
+beck,row28,DMM1028,ἑλένιον,Elecampane
+beck,row29,DMM1029,ἑλένιον ἄλλο,Another elecampane
+beck,row30,DMM1030,ἔλαιον,Olive oil
+beck,row31,DMM1031,ἐλαιόμελι,Olive tree sweet gum
+beck,row32,DMM1032,κίκινον ἔλαιον,Castor oil
+beck,row33,DMM1033,ἀμυγδάλινον ἔλαιον,Almond oil
+beck,row34,DMM1034,βαλάνινον,Oil from the nut of the ben tree
+beck,row35,DMM1035,ὑοσκυάμινον,Oil of henbane
+beck,row36,DMM1036,Κνιδίου κόκκου,Oil from berries of spurge flax
+beck,row37,DMM1037,ῥαφάνινον,Oil of radish
+beck,row38,DMM1038,σινάπινον,Mustard oil
+beck,row39,DMM1039,μυρσίνινον,Oil of myrtle
+beck,row40,DMM1040,δάφνινον,Oil of sweet bay
+beck,row41,DMM1041,σχίνινον,Oil of mastic
+beck,row42,DMM1042,μαστίχινον,Mastic oil
+beck,row43,DMM1043,ῥοδίνου σκευασία,Preparation of unguent of roses
+beck,row44,DMM1044,ἐλατίνου σκευασία,Preparation of unguent of date palm
+beck,row45,DMM1045,μελίνου σκευασία,Preparation of unguent of quince
+beck,row46,DMM1046,οἰνανθίνου σκευασία,Preparation of unguent of wild vine inflorescence
+beck,row47,DMM1047,τελίνου σκευασία,Preparation of unguent of fenugreek
+beck,row48,DMM1048,σαμψουχίνου σκευασία,Preparation of unguent of marjoram
+beck,row49,DMM1049,ὠκιμίνου σκευασία,Preparation of unguent of basil
+beck,row50,DMM1050,ἀβροτονίνου σκευασία,Preparation of unguent of wormwood
+beck,row51,DMM1051,ἀνηθίνου σκευασία,Preparation of unguent of dill
+beck,row52,DMM1052,σουσίνου σκευασία,Preparation of unguent of lily
+beck,row53,DMM1053,ναρκίσσινον,Preparation of unguent of narcissus
+beck,row54,DMM1054,κρόκινον,Preparation of unguent of saffron
+beck,row55,DMM1055,κυπρίνου στύψις καὶ σκευασία,Thickening and preparation of unguent of henna
+beck,row56,DMM1056,ἰρίνου στύψις,Thickening of unguent of iris
+beck,row57,DMM1057,γλεύκινον,Unguent of new sweet wine
+beck,row58,DMM1058,ἀμαράκινον,Unguent of marjoram
+beck,row59,DMM1059,μετώπιον,Metopion
+beck,row60,DMM1060,στακτή,Stacte
+beck,row61,DMM1061,κιναμώμινον,Unguent of cinnamon
+beck,row62,DMM1062,νάρδινον μύρον,Unguent of spikenard
+beck,row63,DMM1063,μαλαβάθρινον,Unguent of the leaf of malabar
+beck,row64,DMM1064,σμύρνα,Myrrh
+beck,row65,DMM1065,Βοιωτικὴ σμύρνα,Boiotian myrrh
+beck,row66,DMM1066,στύραξ,Storax
+beck,row67,DMM1067,βδέλλιον,Bdellium
+beck,row68,DMM1068,λίβανος,Frankincense
+beck,row69,DMM1069,πίτυς,Pitys pine
+beck,row70,DMM1070,σχῖνος,Mastic
+beck,row71,DMM1071,τέρμινθος,Terebinth
+beck,row72,DMM1072,πίσσα,Pitch
+beck,row73,DMM1073,ἀσφαλτος,Asphalt
+beck,row74,DMM1074,κυπάρισσος,Cypress
+beck,row75,DMM1075,ἄρκευθος,Juniper
+beck,row76,DMM1076,βράθυ,Savin
+beck,row77,DMM1077,κέδρος,Cedar
+beck,row78,DMM1078,δάφνη,Sweet bay
+beck,row79,DMM1079,πλάτανος,Plane
+beck,row80,DMM1080,μελία,Manna ash
+beck,row81,DMM1081,λεύκη,White poplar
+beck,row82,DMM1082,μάκιρ,Mace
+beck,row83,DMM1083,αἴγειρος,Black poplar
+beck,row84,DMM1084,πτελέα,Elm
+beck,row85,DMM1085,κάλαμος,Reed
+beck,row86,DMM1086,πάπυρος,Papyrus
+beck,row87,DMM1087,μυρίκη,Tamarisk
+beck,row88,DMM1088,ἐρείκη,Tree heath
+beck,row89,DMM1089,ἀκακαλλίς,Acacallis
+beck,row90,DMM1090,ῥάμνος,Boxthorn
+beck,row91,DMM1091,ἅλιμον,Tree purslane
+beck,row92,DMM1092,παλίουρος,Christ’s-thorn
+beck,row93,DMM1093,ὀξυάκανθα,Fiery thorn
+beck,row94,DMM1094,κυνόσβατος,White rose
+beck,row95,DMM1095,κύπρος,Henna
+beck,row96,DMM1096,φιλύρα,Lime tree
+beck,row97,DMM1097,κισθός,Rock rose
+beck,row98,DMM1098,ἔβενος,Ebony
+beck,row99,DMM1099,ῥόδα,Roses
+beck,row100,DMM1100,λύκιον,Dyer’s buckthorn
+beck,row101,DMM1010,ἀκακία,Shittah tree
+beck,row102,DMM1102,ἀμόργη,Amorge
+beck,row103,DMM1103,ἄγνος ἢ λύγος,Chaste tree
+beck,row104,DMM1104,ἰτέα,Willow
+beck,row105,DMM1105,ἀγριελαία,Wild olive tree
+beck,row106,DMM1106,δρῦς,Oak
+beck,row107,DMM1107,κηκίς,Cecis
+beck,row108,DMM1108,ῥοῦς ὁ ἐπὶ τά ὄψα,Sumac
+beck,row109,DMM1109,φοῖνιξ,Date palm
+beck,row110,DMM1110,ῥόα,Pomegranate
+beck,row111,DMM1111,βαλαύστιον,Flower of the wild pomegranate
+beck,row112,DMM1112,μυρσίνη ἡ ἥμερος,Cultivated myrtle
+beck,row113,DMM1113,κεράσια,Fruit of the cherry tree
+beck,row114,DMM1114,κεράτια,Fruit of the carob tree
+beck,row115,DMM1115,μηλέα,Apple tree
+beck,row116,DMM1116,ἄπιος,Pear
+beck,row117,DMM1117,λωτός,Nettle tree
+beck,row118,DMM1118,μέσπιλον,Medlar tree
+beck,row119,DMM1119,κρανία,Cornelian cherry tree
+beck,row120,DMM1120,οὖα,Sorb apples
+beck,row121,DMM1121,κοκκυμηλέα,Plum tree
+beck,row122,DMM1122,κόμαρος,Strawberry tree
+beck,row123,DMM1123,ἀμυγδάλη,Almond
+beck,row124,DMM1124,πιστάκια,Pistachio nuts
+beck,row125,DMM1125,κάρυα βασιλικά,Walnuts
+beck,row126,DMM1126,μορέα ἢ συκάμινον,Mulberry tree
+beck,row127,DMM1127,συκόμορον,Sycamore fig
+beck,row128,DMM1128,σῦκα,Figs
+beck,row129,DMM1129,περσαία,Persea
+beck,row130,DMM2001,ἐχῖνος θαλάσσιος,Sea urchin
+beck,row131,DMM2002,ἐχῖνος χερσαῖος,Hedgehog
+beck,row132,DMM2003,ἱππόκαμπος,Sea horse
+beck,row133,DMM2004,πορφύρα,Murex
+beck,row134,DMM2005,μύακες Ποντικοί,Pontic sea mussels
+beck,row135,DMM2006,τελλῖναι,Tellina
+beck,row136,DMM2007,πορφύρας πώματα,Opereula of murex
+beck,row137,DMM2008,ὄνυξ,Onyx
+beck,row138,DMM2009,κοχλίας χερσαῖος,Land snail
+beck,row139,DMM2010,καρκίνων ποταμίων καέντων ἡ τέφρα,Ash of calcined riverine crabs.
+beck,row140,DMM2011,σκόρπιος χερσαῖος,Land scorpion
+beck,row141,DMM2012,θαλασσίου σκορπίου,Bile of sea scorpion
+beck,row142,DMM2013,δράκων θαλάσσιος,Greater weever
+beck,row143,DMM2014,σκολοπένδρα θαλασσία,Sea scolopendra
+beck,row144,DMM2015,νάρκη θαλασσία,Electric ray
+beck,row145,DMM2016,ἐχίδνη,Viper
+beck,row146,DMM2017,ὄφις,Serpent
+beck,row147,DMM2018,λαγωὸς θαλάσσιος,Sea hare
+beck,row148,DMM2019,τοῦ δὲ χερσαίου λαγωοῦ ὁ ἐγκέφαλος,The brain of the land hare
+beck,row149,DMM2020,τρυγόνος θαλασσίας τὸ κέντρον,Stingray sting
+beck,row150,DMM2021,σηπίας τὸ μέλαν,Ink of boiled cuttlefish
+beck,row151,DMM2022,τρίγλα,Red mullet
+beck,row152,DMM2023,ὄρχις ἱπποποτάμου,Testicle of hippopotamus
+beck,row153,DMM2024,καὶ ὁ τοῦ κάστορος ὄρχις,Testicle of beaver
+beck,row154,DMM2025,γαλῆ κατοικίδιος,Domesticated weasel
+beck,row155,DMM2026,βάτραχοι,Frogs
+beck,row156,DMM2027,σίλουρος,Sheatfish
+beck,row157,DMM2028,σμαρίδος ταριχηρᾶς ἡ κεφαλὴ καεῖσα,Head of salted smarts
+beck,row158,DMM2029,καὶ ἡ τῆς μαινίδος κεφαλὴ,Head of Mainis
+beck,row159,DMM2030,κωβίος,Goby
+beck,row160,DMM2031,ὠμοτάριχος,Omotarichos
+beck,row161,DMM2032,γάρος,Garum
+beck,row162,DMM2033,ζωμὸς ἰχθύων,Fish broth
+beck,row163,DMM2034,κόρεις οἱ ἀπὸ κλίνης,Bed-bugs
+beck,row164,DMM2035,ὄνοι οἱ ὑπὸ τὰς ὑδρίας,Wood lice
+beck,row165,DMM2036,σίλφη,Cockroach
+beck,row166,DMM2037,πνεύμων θαλάσσιος,Jellyfish
+beck,row167,DMM2038,ὁ δὲ χοίρειος καὶ ἄρνειος [καὶ ἅρκειος] πνεύμων,"Pig, lamb, [and bear] lung"
+beck,row168,DMM2039,ἀλώπεκος πνεύμων,Lung of fox
+beck,row169,DMM2040,ἧπαρ ὄνειον,Ass’s liver
+beck,row170,DMM2041,αἰδοῖον ἄρρενος ἐλάφου,Genitalia of stag
+beck,row171,DMM2042,ὄνυχες ὄνων,Asses’ hooves
+beck,row172,DMM2043,λειχῆνες ἵππων,Chestnuts of horses
+beck,row173,DMM2044,οἱ δὲ τῶν αἰγων ὄνύχες,Hooves of she-goats
+beck,row174,DMM2045,τοῦ δὲ ἤπατος τῆς αἰγὸς ἰχώρ,Juice of she-goat liver
+beck,row175,DMM2046,τὸ δὲ τοῦ κάπρου ἧπαρ,Boar’s liver
+beck,row176,DMM2047,κυνὸς δὲ λυσσῶντος ἧπαρ,Liver of rabid dog
+beck,row177,DMM2048,κασσυμάτων παλαιὰ δέρματα,Leather of shoe soles
+beck,row178,DMM2049,ἀλεκτορίδες,Hens
+beck,row179,DMM2050,ᾠόν,Egg
+beck,row180,DMM2051,τέττιγες,Cicadas
+beck,row181,DMM2052,ἀκρίδες,Locusts
+beck,row182,DMM2053,φήνη,Phene
+beck,row183,DMM2054,κορυδαλλός,Lark
+beck,row184,DMM2055,ἧπαρ,Liver of shearwater
+beck,row185,DMM2056,χελιδὸνος νεοσσοί,Swallow’s nestlings
+beck,row186,DMM2057,ἐλέφαντος ὀδούς,Elephant’s tooth
+beck,row187,DMM2058,ἀστράγαλος ὑός,Hog’s hock
+beck,row188,DMM2059,ἐλάφου κέρας,Hart’s horn
+beck,row189,DMM2060,κάμπαι,Caterpillars
+beck,row190,DMM2061,κανθαρίδες,Blister beetles
+beck,row191,DMM2062,σαλαμάνδρα,Salamander
+beck,row192,DMM2063,ἀράχνη τὸ ζῷον,Spider
+beck,row193,DMM2064,σαύρας ἡ κεφαλὴ,Head of lizard
+beck,row194,DMM2065,σήψ,Seps
+beck,row195,DMM2066,σκίγκος,Skink
+beck,row196,DMM2067,γῆς ἔντερα,Earthworms
+beck,row197,DMM2068,μυογαλῆ,Shrewmouse
+beck,row198,DMM2069,μύες,Mice
+beck,row199,DMM2070,γάλα,Milk
+beck,row200,DMM2071,τυρός,Cheese
+beck,row201,DMM2072,βούτυρον,Butter
+beck,row202,DMM2073,ἔρια οἰσυπηρά,Greasy wool
+beck,row203,DMM2074,οἴσυπος,Fat from greasy wool
+beck,row204,DMM2075,πιτύα,Rennet
+beck,row205,DMM2076,στέαρ,Fat
+beck,row206,DMM2077,μυελός,Marrow
+beck,row207,DMM2078,χολή,Bile
+beck,row208,DMM2079,αἷμα,Blood
+beck,row209,DMM2080,ἀπόπατος,Dung
+beck,row210,DMM2081,οὖρον,Urine
+beck,row211,DMM2082,μέλι,Honey
+beck,row212,DMM2083,κηρός,Wax
+beck,row213,DMM2084,πρόπολις,Bee glue
+beck,row214,DMM2085,πυροί,Wheat
+beck,row215,DMM2086,κριθή,Barley
+beck,row216,DMM2087,ζύθος,Beer
+beck,row217,DMM2088,κοῦρμι,Courmi
+beck,row218,DMM2089,ζέα,Zea
+beck,row219,DMM2090,κρίμνον,Crimnon
+beck,row220,DMM2091,ὄλυρα,Rice-wheat
+beck,row221,DMM2092,ἀθήρα,Gruel
+beck,row222,DMM2093,τράγος,Spelt
+beck,row223,DMM2094,βρόμος,Oats
+beck,row224,DMM2095,ὄρυζα,Rice
+beck,row225,DMM2096,χόνδρος,Groats
+beck,row226,DMM2097,κέγχρος,Millet
+beck,row227,DMM2098,ἔλυμος,Italian millet
+beck,row228,DMM2099,σήσαμον,Sesame
+beck,row229,DMM2100,αἶρα,Darnel
+beck,row230,DMM2101,ἄμυλον,Starch
+beck,row231,DMM2102,τέλεως ἄλευρον,Meal of fenugreek
+beck,row232,DMM2103,λινόσπερμον,Linseed
+beck,row233,DMM2104,ἐρέβινθος ὁ ἥμερος,Cultivated chick- pea
+beck,row234,DMM2105,κύαμος Ἑλληνικός,Greek bean
+beck,row235,DMM2106,Αἰγύπτιος κύαμος,Egyptian bean
+beck,row236,DMM2107,φακός,Lentil
+beck,row237,DMM2108,ὄροβος,Bitter vetch
+beck,row238,DMM2109,θέρμος,Lupine
+beck,row239,DMM2110,γογγύλη,Turnip
+beck,row240,DMM2111,βουνιάς,French turnip
+beck,row241,DMM2112,ῥαφανίς,Radish
+beck,row242,DMM2113,σίσαρον,Parsnip
+beck,row243,DMM2114,λάπαθον,Monk’s rhubarb
+beck,row244,DMM2115,ἱππολάπαθον,Dock sorrel
+beck,row245,DMM2116,λαμψάνη,Charlock
+beck,row246,DMM2117,βλίτον,Blite
+beck,row247,DMM2118,μολόχη,Mallow
+beck,row248,DMM2119,ἀνδράφαξυς,Orach
+beck,row249,DMM2120,κράμβη ἥμερος,Cultivated cabbage
+beck,row250,DMM2121,κράμβη ἀγρία,~ B. cretica. Wild cabbage
+beck,row251,DMM2122,κράμβη ἡ θαλασσία,Sea cole
+beck,row252,DMM2123,σεῦτλον,Beet
+beck,row253,DMM2124,ἀνδράχνη,Purslane
+beck,row254,DMM2125,ἀσπάραγος πετραῖος ἢ μυάκανθος,Asparagus
+beck,row255,DMM2126,ἀρνόγλωσσον,Plantain
+beck,row256,DMM2127,σίον,Water parsnip
+beck,row257,DMM2128,σισύμβριον,Watercress
+beck,row258,DMM2129,κρῆθμον,Samphire
+beck,row259,DMM2130,κορωνόπους,Hartshorn
+beck,row260,DMM2131,σόγχος,Sow thistle
+beck,row261,DMM2132,σέρις,Chicory or Endive
+beck,row262,DMM2133,χονδρίλη,Gum
+beck,row263,DMM2134,κολοκύνθα,Edible bottle gourd
+beck,row264,DMM2135,σίκυς ἥμερος,Cucumber
+beck,row265,DMM2136,θρίδαξ ἥμερος,Cultivated lettuce
+beck,row266,DMM2137,γιγγίδιον,Gingidium
+beck,row267,DMM2138,σκάνδιξ,Wild chervil
+beck,row268,DMM2139,καυκαλίς,Caucalis
+beck,row269,DMM2140,εὔζωμον,Rocket
+beck,row270,DMM2141,ὤκιμον,Basil
+beck,row271,DMM2142,ὀροβάγχη,Chokefitch
+beck,row272,DMM2143,τραγοπώγων,Salsify
+beck,row273,DMM2144,ὄρνιθος γάλα,Starflower
+beck,row274,DMM2145,ὕδνον,Truffle
+beck,row275,DMM2146,σμῖλαξ κηπαία,Cowpea
+beck,row276,DMM2147,Μηδική,Alfalfa
+beck,row277,DMM2148,ἀφάκη,Tare
+beck,row278,DMM2149,πράσον κεφαλωτόν,Leek
+beck,row279,DMM2150,ἀμπελόπρασον,Wild leek
+beck,row280,DMM2151,κρόμυον,Onion
+beck,row281,DMM2152,σκόρδον,Garlic
+beck,row282,DMM2153,σκορδόπρασον,Garlic leek
+beck,row283,DMM2154,σίνηπι ἢ νᾶπι,Mustard
+beck,row284,DMM2155,καρδάμον,Garden cress
+beck,row285,DMM2156,θλάσπι,Shepherd’s-purse
+beck,row286,DMM2157,δράβη,Arabian mustard
+beck,row287,DMM2158,ἐρύσιμον,Hedge mustard
+beck,row288,DMM2159,πέπερι,Pepper
+beck,row289,DMM2160,ζιγγίβερι,Ginger
+beck,row290,DMM2161,ὑδροπέπερι,Smartweed
+beck,row291,DMM2162,πταρμική,Sneezewort
+beck,row292,DMM2163,στρούθιον,Soapwort
+beck,row293,DMM2164,κυκλάμινος,Cyclamen
+beck,row294,DMM2165,κυκλάμινος ἑτέρα,Another cyclamen
+beck,row295,DMM2166,δρακόντιον,Dragon arum
+beck,row296,DMM2167,ἄρον,Cuckoopint
+beck,row297,DMM2168,ἀρίσαρον,Hooded arum
+beck,row298,DMM2169,ἀσφόδελος,Asphodel
+beck,row299,DMM2170,βολβὸς ἐδώδιμος,Purse tassels
+beck,row300,DMM2171,σκίλλα,Squill or Scilla
+beck,row301,DMM2172,παγκράτιον,Sea daffodil
+beck,row302,DMM2173,κάππαρις,Caper
+beck,row303,DMM2174,λεπίδιον,Pepperwort
+beck,row304,DMM2175,βατράχιον,sp. Ranunculus
+beck,row305,DMM2176,ἀνεμώνη,Poppy anemone
+beck,row306,DMM2177,ἀργεμώνη,Wind-rose
+beck,row307,DMM2178,ἀναγαλλίς,Pimpernel
+beck,row308,DMM2179,κισσός,Ivy
+beck,row309,DMM2180,χελιδόνιον μέγα,Celandine
+beck,row310,DMM2181,χελιδόνιον τὸ μικρόν,Pilewort
+beck,row311,DMM2182,ὀθόννα,Othonna
+beck,row312,DMM2183,μυὸς ὦτα,Madwort
+beck,row313,DMM2184,ἰσάτις,Woad
+beck,row314,DMM2185,ἰσάτις ἄγρια,Wild woad
+beck,row315,DMM2186,τηλεφώνιον,Telephonion
+beck,row316,DMM3001,ἀγαρικόν,Agaric
+beck,row317,DMM3002,ῥᾶ,Rhubarb
+beck,row318,DMM3003,γεντιανή,Gentian
+beck,row319,DMM3004,ἀριστολόχεια,Birthwort
+beck,row320,DMM3005,γλυκύρριζα,Licorice
+beck,row321,DMM3006,κενταύριον τὸ μέγα,Centaury
+beck,row322,DMM3007,κενταύρειον τὸ λεπτόν ἢ μικρόν,Feverfew
+beck,row323,DMM3008,χαμαιλέων λευκός,Pine thistle
+beck,row324,DMM3009,[χαμαιλέων] ὁ μέλας,Chameleon thistle
+beck,row325,DMM3010,κροκοδείλεον,Sea holly
+beck,row326,DMM3011,δίψακος,Teasle
+beck,row327,DMM3012,ἄκανθα λευκή,Fish thistle
+beck,row328,DMM3013,ἄκανθα Ἀραβική,Smaller milk thistle
+beck,row329,DMM3014,σκόλυμος,Golden thistle
+beck,row330,DMM3015,ποτίρριον,Goat’s thorn
+beck,row331,DMM3016,ἀκάνθιον,Cotton thistle
+beck,row332,DMM3017,ἄκανθος,Bear’s-foot
+beck,row333,DMM3018,ἀνωνίς,Rest harrow
+beck,row334,DMM3019,λευκάκανθα,Tuberous thistle
+beck,row335,DMM3020,τραγακάνθα,Tragacanth
+beck,row336,DMM3021,ἠρύγγη,Eryngo
+beck,row337,DMM3022,ἀλόη,Aloe
+beck,row338,DMM3023,ἀψίνθιον,Wormwood
+beck,row339,DMM3024,ἀβρότονον,Wormwood
+beck,row340,DMM3025,ὕσσωπος,Hyssop
+beck,row341,DMM3026,στοιχάς,French lavender
+beck,row342,DMM3027,ὀρίγανος Ἡρακλεωτική,Oregano
+beck,row343,DMM3028,ὀνῖτις,Oregano onitis
+beck,row344,DMM3029,ἀγριορίγανος,Marjoram
+beck,row345,DMM3030,τραγορίγανος,Goat’s marjoram
+beck,row346,DMM3031,γλήχων,Pennyroyal
+beck,row347,DMM3032,δίκταμνον,Dittany of Crete
+beck,row348,DMM3033,ἐλελίσφακον,Sage
+beck,row349,DMM3034,ἡδύοσμον,Green mint
+beck,row350,DMM3035,καλαμίνθη,Catmint
+beck,row351,DMM3036,θύμος,Cretan thyme
+beck,row352,DMM3037,θύμβρα,Savory
+beck,row353,DMM3038,ἕρπυλος,Tufted thyme
+beck,row354,DMM3039,σάμψουχον,Marjoram
+beck,row355,DMM3040,μελίλωτος,King’s clover
+beck,row356,DMM3041,σισύβριον,Bergamot
+beck,row357,DMM3042,μᾶρον ἢ ὑσόβρυον,Maron or Hysobryon
+beck,row358,DMM3043,ἄκινος ἢ ἄκονος,Wild basil
+beck,row359,DMM3044,βάκχαρις,Sowbread
+beck,row360,DMM3045,πήγανον,Rue
+beck,row361,DMM3046,πήγανον ἄγριον,Wild rue
+beck,row362,DMM3047,μῶλυ,Garlic
+beck,row363,DMM3048,πάνακες Ἡράκλειον,Hercules’ woundwort
+beck,row364,DMM3049,πάνακες Ἀσκληπίειον,Aesculapius’ allheal
+beck,row365,DMM3050,πάνακες Χειρώνιον,Panaces olympicum Chiron’s allheal
+beck,row366,DMM3051,λιγυστικόν,Lovage
+beck,row367,DMM3052,σταφυλῖνος ἄγριος,Wild carrot
+beck,row368,DMM3053,σέσελι,Massilian hartwort
+beck,row369,DMM3054,τόρδιλον,Cretan hartwort
+beck,row370,DMM3055,σίνων,Stone parsley
+beck,row371,DMM3056,ἄνησσον,Anise
+beck,row372,DMM3057,καρώ,Caraway
+beck,row373,DMM3058,ἄνηθον,Dill
+beck,row374,DMM3059,κύμινον ἥμερον,Cultivated cumin
+beck,row375,DMM3060,κύμινον ἄγριον,Wild cumin
+beck,row376,DMM3061,ἕτερον γένος ἀγρίου κυμίνου,Another kind of wild cumin
+beck,row377,DMM3062,ἄμι,Ajowan
+beck,row378,DMM3063,κόριον,Coriander
+beck,row379,DMM3064,σέλινον κηπαῖον,Garden celery
+beck,row380,DMM3065,ὀρεοσέλινον,Mountain parsley
+beck,row381,DMM3066,πετροσέλινον,Parsley
+beck,row382,DMM3067,ἱπποσέλινον,Alexanders
+beck,row383,DMM3068,σμύρνιον,Cretan alexanders
+beck,row384,DMM3069,ἐλαφοβόσκον,Parsnip
+beck,row385,DMM3070,μάραθον,Fennel
+beck,row386,DMM3071,ἱππομάραθον,Horse fennel
+beck,row387,DMM3072,δαῦκος,Daucos
+beck,row388,DMM3073,πύρεθρος,Pellitory
+beck,row389,DMM3074,λιβανωτίς,Rosemary frankincense
+beck,row390,DMM3075,λιβανωτίς,Rosemary
+beck,row391,DMM3076,σφονδύλιον,Cow-parsnip
+beck,row392,DMM3077,νάρθηξ,Giant fennel
+beck,row393,DMM3078,πευκέδανον,Sulphurwort
+beck,row394,DMM3079,μελάνθιον,Black cumin
+beck,row395,DMM3080,σίλφιον,Laserwort
+beck,row396,DMM3081,σαγάπηνον,Sagapenon
+beck,row397,DMM3082,εὐφόρβιον,Spurge
+beck,row398,DMM3083,χαλβάνη,Galbanum
+beck,row399,DMM3084,ἀμμωνιακόν,Gum ammoniac
+beck,row400,DMM3085,σαρκοκόλλα,Sarcocolla
+beck,row401,DMM3086,γλαύκιον,Glaucion
+beck,row402,DMM3087,κόλλα,Glue
+beck,row403,DMM3088,ἰχθυκόλλα,Fish glue
+beck,row404,DMM3089,ἰξός,Oak-mistletoe
+beck,row405,DMM3090,ἀπαρίνη,Cleavers
+beck,row406,DMM3091,ἄλυσσον,Madwort
+beck,row407,DMM3092,ἀσκληπιάς,Swallowwort
+beck,row408,DMM3093,ἀτρακτυλίς,Spindle thistle
+beck,row409,DMM3094,πολύκνημον,Field basil
+beck,row410,DMM3095,κλινοπόδιον,Horse thyme
+beck,row411,DMM3096,λεοντοπέταλον,Leontopetalon
+beck,row412,DMM3097,Τεύκριον,Tree germander
+beck,row413,DMM3098,χαμαίρωψ,Wall germander
+beck,row414,DMM3099,λευκάς,Dead nettle
+beck,row415,DMM3100,λυχνὶς στεφανωματική,Rose campion
+beck,row416,DMM3101,λυχνὶς ἀγρία,Corn cockle
+beck,row417,DMM3102,κρίνον,Lily
+beck,row418,DMM3103,βαλλωτή,Black horehound
+beck,row419,DMM3104,μελισσόφυλλον,Balm
+beck,row420,DMM3105,πράσιον,Horehound
+beck,row421,DMM3106,στάχυς,Base horehound
+beck,row422,DMM3107,φυλλῖτις,Hart’s tongue
+beck,row423,DMM3108,φαλλάγγιον,Spiderwort
+beck,row424,DMM3109,τρίφυλλον,Treacle clover
+beck,row425,DMM3110,πόλιον,Hulwort
+beck,row426,DMM3111,σκόρδιον,Garlic germander
+beck,row427,DMM3112,βήχιον,Colt’s foot
+beck,row428,DMM3113,ἀρτεμισία,Wormwood
+beck,row429,DMM3114,ἀμβροσία,Ambrose
+beck,row430,DMM3115,βότρυς,Oak of Jerusalem
+beck,row431,DMM3116,γεράνιον,Cranesbill
+beck,row432,DMM3117,γναφάλλιον,Cottonweed
+beck,row433,DMM3118,τύφη,Reed mace
+beck,row434,DMM3119,κιρκαία,Black swallow- wort
+beck,row435,DMM3120,οἰνάνθη,Dropwort
+beck,row436,DMM3121,κόνυζα,Fleabane
+beck,row437,DMM3122,ἡμεροκαλλές,Martagon lily
+beck,row438,DMM3123,λευκόϊον,Gillyflower
+beck,row439,DMM3124,κραταιόγονον,Willow weed
+beck,row440,DMM3125,φύλλον,Dog mercury
+beck,row441,DMM3126,ὄρχις,Orchid
+beck,row442,DMM3127,ὄρχις ἕτερος,Another orchid
+beck,row443,DMM3128,σατύριον,Man orchis
+beck,row444,DMM3129,ὅρμινον,Clary
+beck,row445,DMM3130,ἡδύσαρον,Axweed
+beck,row446,DMM3131,ὄνοσμα,Stone bugloss
+beck,row447,DMM3132,νυμφαία,White water lily
+beck,row448,DMM3133,ἀνδρόσακες,Sea navel
+beck,row449,DMM3134,ἄσπληνος,Miltwaste
+beck,row450,DMM3135,ἡμιονῖτις,Mule fern
+beck,row451,DMM3136,ἀνθυλλίς,Anthyllis
+beck,row452,DMM3137,ἀνθεμίς,Camomile
+beck,row453,DMM3138,παρθένιον,Feverfew
+beck,row454,DMM3139,βούφθαλμον,Oxeye
+beck,row455,DMM3140,γλυκισίδη,Peony
+beck,row456,DMM3141,λιθόσπερμον,Groomwell
+beck,row457,DMM3142,φαληρίς,Canary grass
+beck,row458,DMM3143,ἐρυθρόδανον ἢ ἐρευθέδανον,Madder
+beck,row459,DMM3144,λογχῖτις,Lonchitis
+beck,row460,DMM3145,λογχῖτις ἕτερα,Holy fern
+beck,row461,DMM3146,ἀλθαία,Marsh mallow
+beck,row462,DMM3147,ἀλκαία,Vervain mallow
+beck,row463,DMM3148,κάνναβις,Hemp
+beck,row464,DMM3149,ἀγρία κάνναβις,Hemp mallow
+beck,row465,DMM3150,ἀνάγυρος,Stinking bean trefoil
+beck,row466,DMM3151,κηπαία,Cepaia
+beck,row467,DMM3152,ἄλισμα,Water plantain
+beck,row468,DMM3153,ὀνοβρυχίς,Cock’s head
+beck,row469,DMM3154,ὑπερικόν,St. John’s wort
+beck,row470,***DMM3135 MISSING,ἄσκυρον,St. John’s wort
+beck,row471,DMM3156,ἀνδρόσαιμον,St. John’s wort
+beck,row472,DMM3157,κόρις,St. John’s wort
+beck,row473,DMM3158,χαμαίπιτυς,Ground pine
+beck,row474,DMM4001,κέστρον,Betony
+beck,row475,DMM4002,βρεττανική,Water dock
+beck,row476,DMM4003,λυσιμάχειος,Loosestrife
+beck,row477,DMM4004,πολύγονον ἄρρεν,Knotgrass
+beck,row478,DMM4005,πολύγονον θῆλυ,Mare’s tail
+beck,row479,DMM4006,πολυγόνατον,P. officinale
+beck,row480,DMM4007,κληματίς,Periwinkle
+beck,row481,DMM4008,πολεμώνιον,Jacob’s ladder
+beck,row482,DMM4009,σύμφυτον πετραῖον,Low pine
+beck,row483,DMM4010,σύμφυτον ἄλλο,Comfrey
+beck,row484,DMM4011,ὁλόστεον,Allbone
+beck,row485,DMM4012,στοιβή,Thorny burnet
+beck,row486,DMM4013,κλύμενον,Bearbind
+beck,row487,DMM4014,περικλύμενον,Honeysuckle
+beck,row488,DMM4015,τρίβολος χερσαῖος,Caltrops
+beck,row489,DMM4016,λειμώνιον,Sea lavender
+beck,row490,DMM4017,λαγώπουν,Hare’s foot trefoil
+beck,row491,DMM4018,μήδιον,Medion
+beck,row492,DMM4019,ἐπιμήδιον,Epimedion
+beck,row493,DMM4020,ξίφιον,Corn flag
+beck,row494,DMM4021,σπαργάνιον,Bur reed
+beck,row495,DMM4022,ξυρίς,Gladwyn
+beck,row496,DMM4023,ἄγχουσα,Alkanet
+beck,row497,DMM4024,ἄγχουσα ἑτέρα,Another alkanet
+beck,row498,DMM4025,ἄγχουσα ἄλλη,Another alkanet
+beck,row499,DMM4026,λυκαψός,Viper’s herb
+beck,row500,DMM4027,ἕχιον,Echion
+beck,row501,DMM4028,ὠκιμοειδές,Catchfly
+beck,row502,DMM4029,ἄγρωστις,Dogs-tooth grass
+beck,row503,DMM4030,καλαμάγρωστις,Calamagrostis
+beck,row504,DMM4031,ἡ δέ ἐν τῷ Παρνασσῷ ἄγρωστις,Grass of Parnassus
+beck,row505,DMM4032,ἡ δέ ἐν Κιλικίᾳ γεννωμένη [ἄγρωστις],Wall barley
+beck,row506,DMM4033,σιδηρῖτις,Iron wo rt
+beck,row507,DMM4034,ἄλλη σιδηρῖτις,Burnet
+beck,row508,DMM4035,σιδηρῖτις ἑτέρα,Figwort
+beck,row509,DMM4036,Ἀχίλλειος,Achilles woundwort
+beck,row510,DMM4037,βάτος,Bramble
+beck,row511,DMM4038,βάτος Ἰδαία,Raspberry
+beck,row512,DMM4039,ἑλξίνη,Bindweed
+beck,row513,DMM4040,ἐλατίνη,Cankerwort
+beck,row514,DMM4041,Εὐπατόριος,Agrimony
+beck,row515,DMM4042,πεντέφυλλον,Cinquefoil
+beck,row516,DMM4043,φοῖνιξ,Rye grass
+beck,row517,DMM4044,Ἰδαία ῥιζα,Idaia rhiza
+beck,row518,DMM4045,Ῥοδία ῥίζα,Shodia rhiza
+beck,row519,DMM4046,ἵππουρις,Horsetail
+beck,row520,DMM4047,ἑτέρα ἵππουρις,Another horse tail
+beck,row521,DMM4048,κόκκος βαφική,Kermes oak
+beck,row522,DMM4049,τράγιον,Stinking tutsan
+beck,row523,DMM4050,τράγιον ἄλλο,Pimpinell
+beck,row524,DMM4051,τράγος,Tragos
+beck,row525,DMM4052,σχοῖνος ἐλείας,Rush
+beck,row526,DMM4053,λειχήν ὁ ἐπὶ τῶν πετρῶν,The lichen growing on stones
+beck,row527,DMM4054,παρωνυχία,Paronychia
+beck,row528,DMM4055,χρυσοκόμη,Immortelle
+beck,row529,DMM4056,χρυσόγονον,Black turrnip
+beck,row530,DMM4057,ἐλίχρυσον ἢ χρυσάνθεμον,Gold flower
+beck,row531,DMM4058,ἀγήρατον,Pot marjoram
+beck,row532,DMM4059,περιστέριον,Vervain
+beck,row533,DMM4060,ἱερὰ βοτάνη,Holy vervain
+beck,row534,DMM4061,ἀστράγαλος,Milk vetch
+beck,row535,DMM4062,ὑάκινθος,Wild hyacinth
+beck,row536,DMM4063,μήκων ῥοιάς,Corn poppy
+beck,row537,DMM4064,μήκων,Opium poppy
+beck,row538,DMM4065,μήκων κερατῖτις,Horned poppy
+beck,row539,DMM4066,μήκων ἀφρώδης,Frothy poppy
+beck,row540,DMM4067,ὑπήκοον,Horned cumin
+beck,row541,DMM4068,ὑοσκύαμος,Henbane
+beck,row542,DMM4069,ψύλλιον,Fleawort
+beck,row543,DMM4070,στρύχνον κηπαῖον,Hound’s berry
+beck,row544,DMM4071,ἕτερον στρύχνον,Another hound’s
+beck,row545,DMM4072,στρύχνον ὑπνωτικόν,Sleepy nightshade
+beck,row546,DMM4073,στρύχνον μανικόν,Thorn apple
+beck,row547,DMM4074,δορύκνιον,Convulvulus oleaefolius Desr. Dorycnion
+beck,row548,DMM4075,μανδραγόρας,Mandrake
+beck,row549,DMM4076,ἀκόνιτον,Leopard’s bane
+beck,row550,DMM4077,ἀκόνιτον ἕτερον,Wolfsbane
+beck,row551,DMM4078,κώνειον,Hemlock
+beck,row552,DMM4079,σμῖλαξ,Yew
+beck,row553,DMM4080,ἀπόκυνον,Dogbane
+beck,row554,DMM4081,νήριον,Oleander
+beck,row555,DMM4082,μύκητες,Mushrooms
+beck,row556,DMM4083,Κολχικόν,Meadow saffron
+beck,row557,DMM4084,ἐφήμερον,Ephemeron
+beck,row558,DMM4085,ἐλξίνη,Pellitory
+beck,row559,DMM4086,ἀλσίνη,Lichwort
+beck,row560,DMM4087,φακὸς ὁ ἐπὶ τῶν τελμάτων,Duckweed
+beck,row561,DMM4088,ἀείζῳον μέγα,Houseleek
+beck,row562,DMM4089,ἀείζῳον τὸ μικρόν,Houseleek
+beck,row563,DMM4090,τρίτον εἶδος ἀείζῳον,Stonecrop
+beck,row564,DMM4091,κοτυληδών,Navelwort
+beck,row565,DMM4092,ἕτερον εἶδος κοτυληδόνος,Another kind of navelwort
+beck,row566,DMM4093,ἀκαλήφη,Stinging nettle
+beck,row567,DMM4094,γαλήοψις,Brownwort
+beck,row568,DMM4095,γάλιον,Bedstraw
+beck,row569,DMM4096,ἠριγέρων,Groundsel
+beck,row570,DMM4097,θαλίητρον,Meadow
+beck,row571,DMM4098,βρύον θαλάσσιον,Sea lettuce
+beck,row572,DMM4099,φῦκος,Seaweed
+beck,row573,DMM4100,ποταμογείτων,Pondweed
+beck,row574,DMM4101,στρατιώτης ὁ ἐπὶ τῶν ὑδάτων,Water lettuce
+beck,row575,DMM4102,στρατιώτης ὁ χιλιόφυλλος,Yarrow or Milfoil
+beck,row576,DMM4103,φλόμος,Mullein
+beck,row577,DMM4104,Αἰθιοπίς,Silver sage
+beck,row578,DMM4105,ἄρκτιον,Bearwort
+beck,row579,DMM4106,ἄρκιον,Burdock
+beck,row580,DMM4107,πετασῖτις,Butterbur
+beck,row581,DMM4108,ἐπιπακτίς,Rupturewort
+beck,row582,DMM4109,καπνὸς ὁ ἐν ταῖς κριθαῖς φυόμενος,Fumitory
+beck,row583,DMM4110,λωτὸς ὁ ἐν τοῖς παραδείσοις φυόμενος,Italian melilot
+beck,row584,DMM4111,λωτὸς ἄγριος,Wild fenugreek
+beck,row585,DMM4112,κύτισος,Tree medick
+beck,row586,DMM4113,λωτὸς ὁ ἐν Αἰγύπτῳ γεννώμενος,Egyptian lotus
+beck,row587,DMM4114,μυριόφυλλον,Water milfoil
+beck,row588,DMM4115,μυρρίς,Sweet cicely
+beck,row589,DMM4116,μύαγρον,Ball mustard
+beck,row590,DMM4117,ὀνάγρα,Oleander
+beck,row591,DMM4118,κρίσσιον,Thistle
+beck,row592,DMM4119,ἀστὴρ Ἀττικός,Blue daisy
+beck,row593,DMM4120,ἰσόπυρον,Fumitory
+beck,row594,DMM4121,ἴον,Violet
+beck,row595,DMM4122,κακκαλία,Caccalia
+beck,row596,DMM4123,βούνιον,Earthnut
+beck,row597,DMM4124,ψευδοβούνιον,Cretan pimpinel
+beck,row598,DMM4125,χαμαίκισσος,Ground ivy
+beck,row599,DMM4126,χαμαιπεύκη,Fishbone thistle
+beck,row600,DMM4127,βούγλωσσον,Bugloss
+beck,row601,DMM4128,φύτευμα,Montpellier rocket
+beck,row602,DMM4129,ὑπόγλωσσον,Horse tongue
+beck,row603,DMM4130,ἀντίρρινον,Calf' s snout
+beck,row604,DMM4131,κατανάγκη,Vetch
+beck,row605,DMM4132,τριπόλιον,Sea starwort
+beck,row606,DMM4133,κῆμος,Cemos
+beck,row607,DMM4134,ἀδίαντον,Maidenhair
+beck,row608,DMM4135,τριχομανές,Waterwort
+beck,row609,DMM4136,ξάνθιον,Broad-leaved burweed
+beck,row610,DMM4137,αἰγίλωψ,Haver grass
+beck,row611,DMM4138,γλαύξ,Wart cress
+beck,row612,DMM4139,πολύγαλον,Milkwort
+beck,row613,DMM4140,ὄσιρις,Poet’s cassia
+beck,row614,DMM4141,ἐχῖνος,Echinos
+beck,row615,DMM4142,μῖλαξ τραχεῖα,Rough bindweed
+beck,row616,DMM4143,μῖλαξ λεία,Great bindweed
+beck,row617,DMM4144,μυρσίνη ἀγρία,Butcher’s broom
+beck,row618,DMM4145,δάφνη Ἀλεξάνδρεια,Daphne
+beck,row619,DMM4146,δαφνοειδές,Spurge laurel
+beck,row620,DMM4147,χαμαιδάφνη,Chamaidaphne
+beck,row621,DMM4148,ἐλλέβορος,White hellebore
+beck,row622,DMM4149,σησαμοειδὲς τὸ μέγα,Bastard rocket
+beck,row623,DMM4150,σίκυς ἄγριος,Squirting cu- cumber
+beck,row624,DMM4151,ἡμέρου σικύου ἡ ῥιζα,Root of the cultivated cucumber
+beck,row625,DMM4152,σταφὶς ἁγρία,Stavesacre
+beck,row626,DMM4153,θαψία,Deadly carrot
+beck,row627,DMM4154,σπάρτιον,Spanish broom
+beck,row628,DMM4155,σίλλυβον,Milk thistle
+beck,row629,DMM4156,βολβός ὁ ἐμετικός,Narcissus tazetta
+beck,row630,DMM4157,βάλανος μυρεψική,Moringa sp. Ben
+beck,row631,DMM4158,νάρκισσος,Narcissus
+beck,row632,DMM4159,ἱπποφαές,Spurge
+beck,row633,DMM4160,ἱππόφαιστον,Hippophaiston
+beck,row634,DMM4161,κίκι,Castor oil tree
+beck,row635,DMM4162,ἐλλέβορος ὁ μέλας,Black hellebore
+beck,row636,DMM4163,σεσαμοειδὲς τὸ μικρόν,Purple rock
+beck,row637,DMM4164,τιθύμαλλος,Euphorbia L. sp. Spurge
+beck,row638,DMM4165,πιτυούσα,Quacksalver’s spurge
+beck,row639,DMM4166,λαθυρίς,Caper spurge
+beck,row640,DMM4167,πέπλος,Wartweed
+beck,row641,DMM4168,πεπλίς,Wild purslane
+beck,row642,DMM4169,χαμαισύκη,Thyme spurge
+beck,row643,DMM4170,σκαμμωνία,Scam mony
+beck,row644,DMM4171,χαμελαία,Spurge olive
+beck,row645,DMM4172,θυμελαία ἢ χαμελαία,Spurge flax
+beck,row646,DMM4173,ἀκτῆ,Elder
+beck,row647,DMM4174,πυκνόκομον,Motherwort
+beck,row648,DMM4175,ἄπιος,Tuberous spurge
+beck,row649,DMM4176,κολόκυνθα ἀγρία,Colocynth
+beck,row650,DMM4177,ἐπίθυμον,Epithymon
+beck,row651,DMM4178,ἄλυπον,Herb terrible
+beck,row652,DMM4179,ἔμπετρον,Sea heath
+beck,row653,DMM4180,κληματίς,Traveler’s joy
+beck,row654,DMM4181,ἄμπελος ἀγρία,Wild grapevine
+beck,row655,DMM4182,ἄμπελος λευκή,Bryony
+beck,row656,DMM4183,ἄμπελος μέλαινα,Black bryony
+beck,row657,DMM4184,πετρίς,Male fern
+beck,row658,DMM4185,θηλυπτερίς,Bracken
+beck,row659,DMM4186,πολυπόδιον,Polypody
+beck,row660,DMM4187,δρυπτερίς,Black oak fern
+beck,row661,DMM4188,κνῆκος,Safflower
+beck,row662,DMM4189,λινόζωστις,Mercury
+beck,row663,DMM4190,ἡλιοτρόπιον τὸ μέγα,Large heliotrope
+beck,row664,DMM4191,ἡλιοτρόπιον τὸ μικρόν,Small heliotrope
+beck,row665,DMM4192,σκορπιοειδές,Scorpionwort
+beck,row666,DMM5001,ἄμπελος οἰνοφόρος,Grapevine
+beck,row667,DMM5002,ἄμπελος ἀγρία,Wild grapevine
+beck,row668,DMM5003,σταφυλή,Grape
+beck,row669,DMM5004,οἰνάνθη,Oinanthe
+beck,row670,DMM5005,ὀμφάκιον,Omphacion
+beck,row671,DMM5006,οἶνοι,Wines
+beck,row672,DMM5007,μελιλίτης,Melitites
+beck,row673,DMM5008,οἰνόμελι,Wine and honey mixture
+beck,row674,DMM5009,μελίκρατον,Mixture of honey and water = Hydromel
+beck,row675,DMM5010,ὕδωρ,Water
+beck,row676,DMM5011,θαλάττιον ὕδωρ,Seawater
+beck,row677,DMM5012,θαλασσόμελι,Seawater mixed with honey
+beck,row678,DMM5013,ὄξος,Vinegar
+beck,row679,DMM5014,ὀξύμελι,Oxymel
+beck,row680,DMM5015,ὀξάλμη,Brine vinegar
+beck,row681,DMM5016,θυμοξάλμη,Brine vinegar flavored with Cretan thyme
+beck,row682,DMM5017,τὸ σκιλλητικὸν ὄξος,Vinegar flavored with squill
+beck,row683,DMM5018,ὁ ἀπὸ τῆς σκίλλης οἶνος,Wine from squill
+beck,row684,DMM5019,οἱ διὰ θαλάττης οἶνοι,Wines made with seawater
+beck,row685,DMM5020,ὁ κυδωνίτης,Wine flavored with quinces
+beck,row686,DMM5021,μηλόμελι,Honey flavored with quinces
+beck,row687,DMM5022,ὑδρόμηλον,Water and honey flavored with quinces
+beck,row688,DMM5023,ὀμφακόμελι,Unripe grapes and honey drink
+beck,row689,DMM5024,ἀπίτης,Pear wine
+beck,row690,DMM5025,οἰνάνθινος,Wine flavored with flowers of the wild grape
+beck,row691,DMM5026,ῥοίτης,Pomegranate wine
+beck,row692,DMM5027,ῥοδίτης,Wine flavored with roses
+beck,row693,DMM5028,μυρτίτης,Myrtle wine
+beck,row694,DMM5029,μυρσινίτης,Wine flavored with myrtles
+beck,row695,DMM5306,σχίνινος,Mastic wine
+beck,row696,DMM5031,φοινικίτης,Date palm wine
+beck,row697,DMM5032,ὁ τροχίτης,Fig wine
+beck,row698,DMM5033,ὁ ἐκ τῶν συκομόρων,Wine of sycamore figs
+beck,row699,DMM5034,ὁ ῥητινίτης,Wine flavored with resin
+beck,row700,DMM5035,6 στροβιλίτης,Wine flavored with strobilos pine cones
+beck,row701,DMM5036,ὁ κέδρινος ἢ ἀρκεύθινος ἢ κυπαρίσσινος ἢ δάφνινος πιτύινος ἢ ἐλάτινος,Wine flavored with cedar or juniper or cypress or sweet bay or pitys pine or fir
+beck,row702,DMM5037,κεδρίτης,Wine flavored with resin of Syrian cedar
+beck,row703,DMM5038,οἶνος πισσίτης,Wine flavored with pitch
+beck,row704,DMM5039,ἀψινθίτης,Wine flavored with wormwood artemisia absinthium
+beck,row705,DMM5040,ὑσσωπίτης,Wine flavored with hyssop
+beck,row706,DMM5041,ὁ χαμαιδρυίτης,Wine flavored with germander
+beck,row707,DMM5042,ὁ > στοιχαδίτης,Wine flavored with French lavender
+beck,row708,DMM5043,ὂξος διὰ στοιχάδος,French lavender vinegar
+beck,row709,DMM5044,ἐκ κέστρου τοῦ ψυχροτρόφου οἶνος,Wine made from betony
+beck,row710,DMM5045,τραγοριγανίτης,Wine flavored with goat’s marjoram
+beck,row711,DMM5046,οἶνος διὰ βουνίου,Wine flavored with earthnuts
+beck,row712,DMM5047,δικταμνίτης,Wine flavored with dittany of Crete
+beck,row713,DMM5048,ὁ διὰ πρασίου,Wine flavored with horehound
+beck,row714,DMM5049,θυμίτης,Wine flavored with Cretan thyme
+beck,row715,DMM5050,θυμβρίτης,Wine flavored with savory
+beck,row716,DMM5051,οἶνος ὀριγανίτης,Wine flavored with oregano
+beck,row717,DMM5052,οἶνος καλαμινθίτης,wormwood artemisia abrotonon
+beck,row718,DMM5053,οἶνος κονυζίτης,Wine flavored with fleabane
+beck,row719,DMM5054,οἶνος ἀρωματίτης,Wine made with aromatics
+beck,row720,DMM5055,οἶνος πρὸς κατάρρους,Wine for catarrhs
+beck,row721,DMM5056,ὁ νεκταρίτης,Wine flavored with elecampane
+beck,row722,DMM5057,ὁ διὰ Συριακῆς νάρδου καὶ Κελτικῆς καὶ μαλαβάθρου,and leaf of malabar
+beck,row723,DMM5058,ἀσαρίτης,Wine flavored with hazelwort
+beck,row724,DMM5059,ὁ διὰ τῆς ἀγρίας ἀγρίας,Wine flavored with Cretan spikenard
+beck,row725,DMM5060,δαυκίτης,Wine flavored with daucos
+beck,row726,DMM5061,ἐλελισφακίτης,Wine flavored with sage
+beck,row727,DMM5062,πανακίτης,Wine flavored with allheal
+beck,row728,DMM5063,ἀκορίτης καὶ ὁ ἀπὸ γλυκορρίζης,Wine flavored with yellow flag and wine flavored with licorice
+beck,row729,DMM5064,σελινίτης,Wine flavored with celery
+beck,row730,DMM5065,μαραθίτης καὶ ἀνήθινος καὶ πετροσελινίτης,and wine flavored parsley
+beck,row731,DMM5066,δι' ἁλὸς ἄνθους οἶνος,Wine from salt-water froth
+beck,row732,DMM5067,φθόριος ἐμβρύων οἶνος,Abortifacient wine
+beck,row733,DMM5068,θυμελαίτης,Wine flavored with spurge flax
+beck,row734,DMM5069,χαμελαίτης,Wine flavored with spurge olive
+beck,row735,DMM5070,χαμαιπιτύινος,Wine flavored with ground pine
+beck,row736,DMM5071,μανδραγορίτης,Wine flavored with mandrake
+beck,row737,DMM5072,ἐλλεβορίτης,Wine flavored with hellebore
+beck,row738,DMM5073,σκαμμωνίτης,Wine flavored with scammony
+beck,row739,DMM5074,καδμεία,Calamine
+beck,row740,DMM5075,πομφόλυξ,Pompholyx
+beck,row741,DMM5076,κεκαυμένος χαλκός,Burned copper
+beck,row742,DMM5077,χαλχοῦ ἄνθος,Flower of copper
+beck,row743,DMM5078,λεπίς,Flake [of copper ore]
+beck,row744,DMM5079,ἰὸς ξυστός,Verdigris
+beck,row745,DMM5080,ἰὸς σιδίρου,Iron rust
+beck,row746,DMM5081,πεπλυμένος μόλυβδος,Washed lead
+beck,row747,DMM5082,σκωρία μολύβδου,Lead dross
+beck,row748,DMM5083,ὁ μολυβδοειδὴς λίθος,Leadstone
+beck,row749,DMM5084,στίβι,Antimony
+beck,row750,DMM5085,μολύβδαινα,Galena
+beck,row751,DMM5086,ἡ τοῦ ἀργρύρου σκωρία,Silver dross
+beck,row752,DMM5087,λιθάργυρος,Litharge
+beck,row753,DMM5088,ψιμύθιον,White lead
+beck,row754,DMM5089,χρυσοκόλλα,Basic copper carbonate
+beck,row755,DMM5090,Ἀρμένιον,Azurite
+beck,row756,DMM5091,κύανος,Lapis lazuli
+beck,row757,DMM5092,Ἰνδικόν,Indigo
+beck,row758,DMM5093,ὦχρα,Yellow ocher
+beck,row759,DMM5094,κιννάβαρι,Cinnabar
+beck,row760,DMM5095,ὑδράργυρος,Mercury
+beck,row761,DMM5096,μίλτος Σινωπική,Sinopic red earth
+beck,row762,DMM5097,Λημνία γῆ,Lemnian earth
+beck,row763,DMM5098,χαλκανθές,Vitriol
+beck,row764,DMM5099,χαλκῖτις,Rock alum
+beck,row765,DMM5100,μίσυ,Misy
+beck,row766,DMM5101,μελαντηρία,Shoemaker’s black
+beck,row767,DMM5102,σῶρι,Melanterite
+beck,row768,DMM5103,διφρυγές,Pyrites
+beck,row769,DMM5104,ἀρσενικόν,Yellow orpiment
+beck,row770,DMM5105,σανδαράκη,Arsenic sulfide
+beck,row771,DMM5106,στυπτηρία,Alum
+beck,row772,DMM5107,θεῖον,Sulfur
+beck,row773,DMM5108,κίσηρις,Pumice stone
+beck,row774,DMM5109,ἅλς,Salt
+beck,row775,DMM5110,ἁλὸς ἄχνη,Salt froth
+beck,row776,DMM5111,ἅλμη,Brine
+beck,row777,DMM5112,ἄνθος ἁλός,Salt efflorescenee/Salt scum
+beck,row778,DMM5113,νίτρον,Soda
+beck,row779,DMM5114,τρύξ,Wine lees
+beck,row780,DMM5115,ἄσβεστος,Unslaked lime
+beck,row781,DMM5116,γύψος,Gypsum
+beck,row782,DMM5117,τέφρα κλημαντίνη,Ash of vine twigs
+beck,row783,DMM5118,ἀλκυόνιον,Alcyonion
+beck,row784,DMM5119,ἀδάρκης,Adarces
+beck,row785,DMM5120,σπόγγοι,Sponges
+beck,row786,DMM5121,τὸ κοράλιον,Coral
+beck,row787,DMM5122,ἀντιπαθές,Antipathes
+beck,row788,DMM5123,λίθος Φρύγιος,Phrygian stone
+beck,row789,DMM5124,Ἄσσιος λίθος,Assian stone
+beck,row790,DMM5125,πυρίτης λίθος,Copper pyrites
+beck,row791,DMM5126,αἱματίτης λίθος,Hematite
+beck,row792,DMM5127,σχιστὸς λίθος,Talc
+beck,row793,DMM5128,Γαγάτης,Lignite
+beck,row794,DMM5129,Θρακίας,Thracian stone
+beck,row795,DMM5130,μαγνῆτις λίθος,Magnet
+beck,row796,DMM5131,Ἀραβικὸς λίθος,Arabian stone
+beck,row797,DMM5132,γαλακτίτης,Milkstone
+beck,row798,DMM5133,μελιτίτης,Honeystone
+beck,row799,DMM5134,λίθος μόροχθος,Pipe clay
+beck,row800,DMM5135,λίθος ἀλαβαστρίτης,Alabaster
+beck,row801,DMM5136,θυίτης,Thyites
+beck,row802,DMM5137,Ἰουδαικὸς λίθος,Judaic stone
+beck,row803,DMM5138,λίθος ἀμίαντος,Asbestos
+beck,row804,DMM5139,λίθος σάπφειρος,Lapis lazuli
+beck,row805,DMM5140,λίθος Μεμφίτης,~ Memphitic stone
+beck,row806,DMM5141,λίθος σεληνίτης,Selenite
+beck,row807,DMM5142,λίθος ἴασπις,Jasper
+beck,row808,DMM5143,λίθος ὀφίτης,Serpentine
+beck,row809,DMM5144,λίθοι οἱ ἐν τοῖς σπόγγοις,The stones in the sponges
+beck,row810,DMM5145,λιθοκόλλα,Stone glue
+beck,row811,DMM5146,λίθος ὀστρακίτης,Clay stone
+beck,row812,DMM5147,σμύρις,Emery
+beck,row813,DMM5148,ἄμμος,Sand
+beck,row814,DMM5149,ἀκόνης Ναξίας ἀπότριμμα,Naxian whetstone powder
+beck,row815,DMM5150,λίθος γεώδης,Earth-like stone
+beck,row816,DMM5151,γῆ,Earth
+beck,row817,DMM5152,Ἑρετριάδος γῆ,Eretrian earth
+beck,row818,DMM5153,Σαμία γῆ,Samian earth
+beck,row819,DMM5154,ἐν τῇ Σαμίᾳ γῇ λίθος,Stone found in Samian earth
+beck,row820,DMM5155,Χία γῆ,Chian earth
+beck,row821,DMM5156,Κιμωλία γῆ,Cimolian earth
+beck,row822,DMM5157,πνιγῖτις γῆ,Pnigitis earth
+beck,row823,DMM5158,ὄστρακα,Potsherds
+beck,row824,DMM5159,Μηλία γῆ,Melian earth
+beck,row825,DMM5160,ἀμπελῖτις γῆ,Ampelitis earth
+beck,row826,DMM5161,ἀσβόλη,Soot
+beck,row827,DMM5162,μέλαν,Black ink

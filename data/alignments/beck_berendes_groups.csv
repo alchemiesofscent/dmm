@@ -1,0 +1,826 @@
+beck_dmm_id,beck_greek_lemma,beck_latin_lemma,beck_degree,berendes_teitok_ids,berendes_chapter_keys,berendes_terms,desmoulins_pages,laguna_pages,wechel_pages,mattioli_chapters
+DMM1001,ἶρις,Iris,1,e-9,1.1,Iris,17,11,4,1.1
+DMM1002,ἄκορον,Yellow flag,1,e-10,1.2,Akoron,19,12,6,1.2
+DMM1003,μῆον,Baldmoney,1,e-11,1.3,Bärwurz,22,13,6,1.3
+DMM1004,κύπερος,Galingale,1,e-12,1.4,Cyperngras,22,14,6,1.4
+DMM1005,ἕτερον εἶδος κυπέρου,Turmeric,1,,,,,,,
+DMM1006,καρδάμωμον,Cardamom,1,e-13,1.5,Kardamomon,23,15,7,1.5
+DMM1007,νάρδος,Spikenard,1,e-14,1.6,Narde,25,16,8,1.6
+DMM1008,κελτικὴ νάρδος,Celtic spikenard,1,e-15,1.7,Keltische Narde,27,17,9,1.7
+DMM1009,ὀρεινὴ νάρδος,Mountain spikenard,1,e-16,1.8,Bergnarde,29,18,10,1.8
+DMM1010,ἄσαρον,Hazelwort,2,e-17; e-140,1.9; 1.133,Haselwurz; Akazie,30; 134,18; 86,10; 68,1.9; 1.115
+DMM1011,φοῦ,Cretan spikenard,1,e-18,1.10,Phu,31,19,10,1.10
+DMM1012,μαλάβαθρον,Malabar,1,e-19,1.11,Malabathron,33,20,11,1.11
+DMM1013,κασσία,Cassia,1,e-20,1.12,Kassia,35,21,11,1.12
+DMM1014,κινάμωμον,Cinnamon,1,e-21,1.13,Zimmt,35,22,12,1.13
+DMM1015,ἄμωμον,Nepal cardamom,1,e-22,1.14,Amomum,41,23,14,1.14
+DMM1016,κόστος,Costusroot,1,e-23,1.15,Kostus,42,24,15,1.15
+DMM1017,σχοῖνος,Camel hay,1,e-24,1.16,Bartgras,43,24,15,1.16
+DMM1018,κάλαμος ἀρωματικός,Sweet flag,1,e-25,1.17,Kalmus,44,25,16,1.17
+DMM1019,βάλσαμον,Mecca balsam,1,e-26,1.18,Balsam,46,26,16,1.18
+DMM1020,ἀσπάλαθος,Camel’s-thorn,1,e-27,1.19,Aspalathos,48,28,18,1.19
+DMM1021,βρύον,Tree moss,1,e-28,1.20,Bryon,48,28,19,1.20
+DMM1022,ἀγάλοχον,Aloewood/Eagle-wood,1,e-29,1.21,Agallochon,51,30,19,1.21
+DMM1023,νάσκαφθον,Nascaphthon,1,e-30,1.22,Naskaphthon,52,30,19,1.22
+DMM1024,κάγκαμον,Bisabol,1,e-31,1.23,Kankamon,52,30,19,1.23
+DMM1025,κῦφι,Cyphi,1,e-32,1.24,Kyphi,54,31,20,1.24
+DMM1026,κρόκος,Saffron,1,e-33,1.25,Safran,54,31,20,1.25
+DMM1027,κροκόμαγμα,Saffron residuum,1,e-34,1.26,Krokomagma,54,32,21,1.26
+DMM1028,ἑλένιον,Elecampane,1,e-35,1.27,Alant,55,32,22,1.27
+DMM1029,ἑλένιον ἄλλο,Another elecampane,1,e-36,1.28,Aegyptischer Alant,55,,22,
+DMM1030,ἔλαιον,Olive oil,1,e-37,1.29,Oel aus unreifen Oliven,56,33,22,1.28
+DMM1031,ἐλαιόμελι,Olive tree sweet gum,1,e-45,1.37,Honigöl,58,35,25,1.32
+DMM1032,κίκινον ἔλαιον,Castor oil,1,e-46,1.38,Ricinusöl,58,35,25,1.33
+DMM1033,ἀμυγδάλινον ἔλαιον,Almond oil,1,e-47,1.39,Mandelöl,59,36,26,1.34
+DMM1034,βαλάνινον,Oil from the nut of the ben tree,1,e-48,1.40,Behenöl,59,36,26,1.35
+DMM1035,ὑοσκυάμινον,Oil of henbane,1,e-50,1.42,Bilsenöl,60,37,27,1.36
+DMM1036,Κνιδίου κόκκου,Oil from berries of spurge flax,1,e-51,1.43,Knidisches Oel,,,27,
+DMM1037,ῥαφάνινον,Oil of radish,1,e-53,1.45,Rettigöl,,,27,
+DMM1038,σινάπινον,Mustard oil,1,e-55,1.47,Senföl,,,27,
+DMM1039,μυρσίνινον,Oil of myrtle,1,e-56,1.48,Myrtenöl,,37,27,1.37
+DMM1040,δάφνινον,Oil of sweet bay,1,e-57,1.49,Lorbeeröl,61,38,28,1.38
+DMM1041,σχίνινον,Oil of mastic,1,e-58,1.50,Oel des Mastixbaumes,61,38,28,1.39
+DMM1042,μαστίχινον,Mastic oil,1,e-59,1.52,Die Zusammensetzung der Salböle,62,38,29,1.41
+DMM1043,ῥοδίνου σκευασία,Preparation of unguent of roses,1,e-60,1.53,Die Bereitung des Rosenöls,62,38,29,1.42
+DMM1044,ἐλατίνου σκευασία,Preparation of unguent of date palm,1,e-61,1.54,Die Bereitung des Elatsöls,62,39,30,1.43
+DMM1045,μελίνου σκευασία,Preparation of unguent of quince,1,e-62,1.55,Die Bereitung des Quittenöls,63,39,31,1.44
+DMM1046,οἰνανθίνου σκευασία,Preparation of unguent of wild vine inflorescence,1,e-63,1.56,Die Bereitung des Weinblüthenöls,63,40,31,1.45
+DMM1047,τελίνου σκευασία,Preparation of unguent of fenugreek,1,e-64,1.57,Die Bereitung des Bockshornöls,63,40,31,1.46
+DMM1048,σαμψουχίνου σκευασία,Preparation of unguent of marjoram,1,e-65,1.58,Die Bereitung des Majoranöls,63,40,32,1.47
+DMM1049,ὠκιμίνου σκευασία,Preparation of unguent of basil,1,e-66,1.59,Die Bereitung des Basilicumöls,64,41,32,1.48
+DMM1050,ἀβροτονίνου σκευασία,Preparation of unguent of wormwood,1,e-67,1.60,Die Bereitung des Beifussöls,64,41,33,1.49
+DMM1051,ἀνηθίνου σκευασία,Preparation of unguent of dill,1,e-68,1.61,Die Bereitung des Dillöls,64,41,33,1.50
+DMM1052,σουσίνου σκευασία,Preparation of unguent of lily,1,e-69,1.62,Die Bereitung des susischen Salböls,64,41,33,1.51
+DMM1053,ναρκίσσινον,Preparation of unguent of narcissus,1,e-70,1.63,Die Bereitung des Narzissensalböls,64,42,35,1.52
+DMM1054,κρόκινον,Preparation of unguent of saffron,1,e-71,1.64,Die Bereitung des Safransalböls,65,42,35,1.53
+DMM1055,κυπρίνου στύψις καὶ σκευασία,Thickening and preparation of unguent of henna,1,e-72,1.65,Die Verdichtung und Bereitung des (Lawsonien-) Hennasalböls,65,43,36,1.54
+DMM1056,ἰρίνου στύψις,Thickening of unguent of iris,1,e-73,1.66,Die Verdichtung des Schwertlilienöls,65,43,37,1.55
+DMM1057,γλεύκινον,Unguent of new sweet wine,1,e-74,1.67,Die Bereitung des Mostöls,65,44,38,1.56
+DMM1058,ἀμαράκινον,Unguent of marjoram,1,e-75,1.68,Amarakinon (Majoransalböl),66,44,38,1.57
+DMM1059,μετώπιον,Metopion,1,e-78,1.71,Metopion,66,45,39,1.60
+DMM1060,στακτή,Stacte,1,e-80,1.73,Stakte,66,45,40,1.62
+DMM1061,κιναμώμινον,Unguent of cinnamon,1,e-81,1.74,Zimmtsalböl,67,46,40,1.63
+DMM1062,νάρδινον μύρον,Unguent of spikenard,1,e-82,1.75,Nardensalböl,67,46,41,1.64
+DMM1063,μαλαβάθρινον,Unguent of the leaf of malabar,1,e-83,1.76.5,Jasminöl,67,46,,
+DMM1064,σμύρνα,Myrrh,1,e-84,1.77,Myrrhe,68,47,41,1.67
+DMM1065,Βοιωτικὴ σμύρνα,Boiotian myrrh,1,e-85,1.78,Böotische Myrrhe,68,,43,
+DMM1066,στύραξ,Storax,1,e-86,1.79,Styrax,70,48,43,1.68
+DMM1067,βδέλλιον,Bdellium,1,e-87,1.80,Bdellion,71,49,44,1.69
+DMM1068,λίβανος,Frankincense,1,e-88,1.81,Weihrauch,73,49,45,1.70
+DMM1069,πίτυς,Pitys pine,1,e-93,1.86,Pinie,77,,47,1.74
+DMM1070,σχῖνος,Mastic,1,e-96,1.89,Schinos,84,54,49,1.75
+DMM1071,τέρμινθος,Terebinth,1,e-98,1.91,Terebinthe,86,56,50,1.76
+DMM1072,πίσσα,Pitch,1,e-101,1.94,Flüssiges Pech,88,57,52,1.78
+DMM1073,ἀσφαλτος,Asphalt,1,e-106,1.99,Asphalt,89,61,53,1.83
+DMM1074,κυπάρισσος,Cypress,1,e-109,1.102,Cypresse,92,61,54,1.86
+DMM1075,ἄρκευθος,Juniper,1,e-110,1.103,Wachholder,93,62,55,1.87
+DMM1076,βράθυ,Savin,1,e-111,1.104,Sadebaum,94,62,55,1.88
+DMM1077,κέδρος,Cedar,1,e-112,1.105,Ceder,96,63,56,1.89
+DMM1078,δάφνη,Sweet bay,1,e-113,1.106,Lorbeer,99,64,57,1.90
+DMM1079,πλάτανος,Plane,1,e-114,1.107,Platane,100,65,58,1.91
+DMM1080,μελία,Manna ash,1,e-115,1.108,Manna-Esche,101,66,58,1.92
+DMM1081,λεύκη,White poplar,1,e-116,1.109,Weisspappel,102,67,58,1.93
+DMM1082,μάκιρ,Mace,1,e-118,1.111,Makir,106,69,58,1.94
+DMM1083,αἴγειρος,Black poplar,1,e-117,1.110,Schwarzpappel,102,67,59,
+DMM1084,πτελέα,Elm,1,e-119,1.112,Ulme,107,69,59,1.95
+DMM1085,κάλαμος,Reed,1,e-121,1.114,Rohr,109,70,59,1.97
+DMM1086,πάπυρος,Papyrus,1,e-122,1.115,Papyrus,110,71,60,1.98
+DMM1087,μυρίκη,Tamarisk,1,e-123,1.116,Tamariske,110,71,60,1.99
+DMM1088,ἐρείκη,Tree heath,1,e-124,1.117,Heide,111,72,61,1.100
+DMM1089,ἀκακαλλίς,Acacallis,1,e-125,1.118,Akakalis,112,73,61,1.101
+DMM1090,ῥάμνος,Boxthorn,1,e-126,1.119,Wegdorn,113,72,61,1.102
+DMM1091,ἅλιμον,Tree purslane,1,e-127,1.120,Melde,114,73,62,1.103
+DMM1092,παλίουρος,Christ’s-thorn,1,e-128,1.121,Paliuros,115,74,62,1.104
+DMM1093,ὀξυάκανθα,Fiery thorn,1,e-129,1.122,Oxyankantha,116,75,62,1.105
+DMM1094,κυνόσβατος,White rose,1,e-130,1.123,Kynosbatos,120,76,63,1.106
+DMM1095,κύπρος,Henna,1,e-131,1.124,Lawsonia,120,77,63,1.107
+DMM1096,φιλύρα,Lime tree,1,e-132,1.125,Phillyrea,122,77,63,1.108
+DMM1097,κισθός,Rock rose,1,e-133,1.126,Kistos,123,78,64,1.109
+DMM1098,ἔβενος,Ebony,1,e-136,1.129,Ebenholz,126,81,65,1.111
+DMM1099,ῥόδα,Roses,1,e-137,1.130,Rosen,129,83,66,1.112
+DMM1100,λύκιον,Dyer’s buckthorn,1,e-139,1.132,Lykion,131,85,67,1.114
+DMM1102,ἀμόργη,Amorge,1,,,,,,,
+DMM1103,ἄγνος ἢ λύγος,Chaste tree,1,e-141,1.134,Keuschlammstrauch,135,88,70,1.116
+DMM1104,ἰτέα,Willow,1,e-142,1.135,Weide,137,89,70,1.117
+DMM1105,ἀγριελαία,Wild olive tree,1,e-143,1.136,Wilder Oelbaum,137,89,71,1.118
+DMM1106,δρῦς,Oak,1,e-149,1.142,Eiche,139,91,73,1.121
+DMM1107,κηκίς,Cecis,1,e-153,1.146,Galläpfel,143,94,73,1.123
+DMM1108,ῥοῦς ὁ ἐπὶ τά ὄψα,Sumac,1,e-154,1.147,Gerbersumach,145,95,74,1.124
+DMM1109,φοῖνιξ,Date palm,1,e-155,1.148,Dattelpalme,147,96,75,1.125
+DMM1110,ῥόα,Pomegranate,1,e-158,1.151,Granatapfel,151,97,76,1.127
+DMM1111,βαλαύστιον,Flower of the wild pomegranate,1,e-159,1.152,Granatblüthe,151,,77,
+DMM1112,μυρσίνη ἡ ἥμερος,Cultivated myrtle,1,e-162,1.155,Myrte,152,99,77,1.128
+DMM1113,κεράσια,Fruit of the cherry tree,1,e-164,1.157,Kirschen,154,100,79,1.129
+DMM1114,κεράτια,Fruit of the carob tree,1,e-165,1.158,Johannisbrodfrucht,156,101,79,1.130
+DMM1115,μηλέα,Apple tree,1,e-166,1.159,Apfelbaum,157,101,79,1.131
+DMM1116,ἄπιος,Pear,1,e-174,1.167,Birne,163,107,81,1.132
+DMM1117,λωτός,Nettle tree,1,e-178,1.171,Lotos,165,108,82,1.134
+DMM1118,μέσπιλον,Medlar tree,1,e-176,1.169,Mispel,163,107,81,1.133
+DMM1119,κρανία,Cornelian cherry tree,1,e-179,1.172,Kornelkirsche,167,109,82,1.135
+DMM1120,οὖα,Sorb apples,1,e-180,1.173,Speierlingsfrucht,168,,82,1.136
+DMM1121,κοκκυμηλέα,Plum tree,1,e-181,1.174,Pflaumenbaum,169,110,82,1.137
+DMM1122,κόμαρος,Strawberry tree,1,e-182,1.175,Erdbeerbaum,172,111,82,1.138
+DMM1123,ἀμυγδάλη,Almond,1,e-183,1.176,Mandelbaum,173,112,83,1.139
+DMM1124,πιστάκια,Pistachio nuts,1,e-184,1.177,Pistacien,174,113,83,1.140
+DMM1125,κάρυα βασιλικά,Walnuts,1,e-185,1.178,Wallnüsse,175,113,83,1.141
+DMM1126,μορέα ἢ συκάμινον,Mulberry tree,1,e-187,1.180,Maulbeerbaum,179,116,84,1.143
+DMM1127,συκόμορον,Sycamore fig,1,e-188,1.181,Sykomore,181,117,85,1.144
+DMM1128,σῦκα,Figs,1,e-189,1.182,Feige auf Kypern,182,,86,
+DMM1129,περσαία,Persea,1,e-194,1.187,Persea,184,121,88,1.146
+DMM2001,ἐχῖνος θαλάσσιος,Sea urchin,1,e-196,2.1,Seeigel,187,123,89,2.1
+DMM2002,ἐχῖνος χερσαῖος,Hedgehog,1,e-197,2.2,Landigel,188,123,90,2.2
+DMM2003,ἱππόκαμπος,Sea horse,1,e-198,2.3,Seepferdchen,189,124,90,2.3
+DMM2004,πορφύρα,Murex,1,e-199,2.4,Purpurschnecke,190,125,90,2.4
+DMM2005,μύακες Ποντικοί,Pontic sea mussels,1,e-202,2.7,Miesmuschel,191,126,90,2.5
+DMM2006,τελλῖναι,Tellina,1,e-203,2.8,Plattmuscheln,192,126,91,2.6
+DMM2007,πορφύρας πώματα,Opereula of murex,1,e-204,2.9,Chienmuschel,192,126,91,2.7
+DMM2008,ὄνυξ,Onyx,1,e-205,2.10,Onyx,193,127,91,2.8
+DMM2009,κοχλίας χερσαῖος,Land snail,1,e-206,2.11,Schnecken,195,127,91,2.9
+DMM2010,καρκίνων ποταμίων καέντων ἡ τέφρα,Ash of calcined riverine crabs.,1,e-207,2.12,Krebse,196,129,92,2.10
+DMM2011,σκόρπιος χερσαῖος,Land scorpion,1,e-208,2.13,Landskorpion,200,129,92,2.11
+DMM2012,θαλασσίου σκορπίου,Bile of sea scorpion,1,e-209,2.14,Seeskorpion,201,131,93,2.12
+DMM2013,δράκων θαλάσσιος,Greater weever,1,e-210,2.15,Meerdrache,202,131,93,2.13
+DMM2014,σκολοπένδρα θαλασσία,Sea scolopendra,1,e-211,2.16,Skolopender,203,131,93,2.14
+DMM2015,νάρκη θαλασσία,Electric ray,1,e-212,2.17,Zitterrochen,204,132,93,2.15
+DMM2016,ἐχίδνη,Viper,1,e-213,2.18,Otter,205,132,93,2.16
+DMM2017,ὄφις,Serpent,1,e-214,2.19,Schlangenhaut,207,134,94,2.17
+DMM2018,λαγωὸς θαλάσσιος,Sea hare,1,e-215,2.20,Meerhase,208,134,94,2.18
+DMM2019,τοῦ δὲ χερσαίου λαγωοῦ ὁ ἐγκέφαλος,The brain of the land hare,1,e-216,2.21,Landhase,208,,94,
+DMM2020,τρυγόνος θαλασσίας τὸ κέντρον,Stingray sting,1,e-217,2.22,Stechrochen,210,135,94,2.19
+DMM2021,σηπίας τὸ μέλαν,Ink of boiled cuttlefish,1,e-218,2.23,Tintenfisch,210,136,94,2.20
+DMM2022,τρίγλα,Red mullet,1,e-219,2.24,Seebarbe,211,136,95,2.21
+DMM2023,ὄρχις ἱπποποτάμου,Testicle of hippopotamus,1,e-220,2.25,Hoden des Flusspferdes,212,137,95,2.22
+DMM2024,καὶ ὁ τοῦ κάστορος ὄρχις,Testicle of beaver,1,e-221,2.26,Hoden des Bibers,213,137,95,2.23
+DMM2025,γαλῆ κατοικίδιος,Domesticated weasel,1,e-222,2.27,Hauswiesel,215,138,96,2.24
+DMM2026,βάτραχοι,Frogs,1,e-223,2.28,Frösche,216,139,96,2.25
+DMM2027,σίλουρος,Sheatfish,1,e-224,2.29,Wels,217,140,96,2.26
+DMM2028,σμαρίδος ταριχηρᾶς ἡ κεφαλὴ καεῖσα,Head of salted smarts,1,e-225,2.30,Brasse,217,,96,2.27
+DMM2029,καὶ ἡ τῆς μαινίδος κεφαλὴ,Head of Mainis,1,e-226,2.31,Mäna,218,141,96,2.28
+DMM2030,κωβίος,Goby,1,e-227,2.32,Gobion,218,141,97,2.29
+DMM2031,ὠμοτάριχος,Omotarichos,1,e-228,2.33,Rohe P?kelung,220,142,97,2.30
+DMM2032,γάρος,Garum,1,e-229,2.34,Garum,221,142,97,2.31
+DMM2033,ζωμὸς ἰχθύων,Fish broth,1,e-230,2.35,Br?he von frischen Fischen,221,142,97,2.32
+DMM2034,κόρεις οἱ ἀπὸ κλίνης,Bed-bugs,1,e-231,2.36,Wanzen,221,143,97,2.33
+DMM2035,ὄνοι οἱ ὑπὸ τὰς ὑδρίας,Wood lice,1,e-232,2.37,Kubariden,221,,98,2.34
+DMM2036,σίλφη,Cockroach,1,e-233,2.38,Schabe,222,,98,2.35
+DMM2037,πνεύμων θαλάσσιος,Jellyfish,1,e-234,2.39,Seelunge,222,,98,2.36
+DMM2038,ὁ δὲ χοίρειος καὶ ἄρνειος [καὶ ἅρκειος] πνεύμων,"Pig, lamb, [and bear] lung",1,e-235,2.40,Schweinelunge,222,144,98,2.37
+DMM2039,ἀλώπεκος πνεύμων,Lung of fox,1,e-236,2.41,Fuchslunge,222,144,98,
+DMM2040,ἧπαρ ὄνειον,Ass’s liver,1,e-237,2.42,Eselleber,223,145,98,2.38
+DMM2041,αἰδοῖον ἄρρενος ἐλάφου,Genitalia of stag,1,e-238,2.43,Kurzwildpret des Edelhirsches,224,145,98,2.39
+DMM2042,ὄνυχες ὄνων,Asses’ hooves,1,e-239,2.44,Eselshufe,224,145,98,2.40
+DMM2043,λειχῆνες ἵππων,Chestnuts of horses,1,e-240,2.45,Flechten der Pferde,224,146,99,2.41
+DMM2044,οἱ δὲ τῶν αἰγων ὄνύχες,Hooves of she-goats,1,e-241,2.46,Ziegenklauen,224,145,99,
+DMM2045,τοῦ δὲ ἤπατος τῆς αἰγὸς ἰχώρ,Juice of she-goat liver,1,e-242,2.47,Ziegenleber,223,145,99,2.38
+DMM2046,τὸ δὲ τοῦ κάπρου ἧπαρ,Boar’s liver,1,e-243,2.48,Leber des Ebers,223,145,99,2.38
+DMM2047,κυνὸς δὲ λυσσῶντος ἧπαρ,Liver of rabid dog,1,e-244,2.49,Leber des tollen Hundes,223,145,99,2.38
+DMM2048,κασσυμάτων παλαιὰ δέρματα,Leather of shoe soles,1,e-246,2.51,Sohlleder,224,147,99,2.42
+DMM2049,ἀλεκτορίδες,Hens,1,e-247,2.52,H?hner,225,147,99,2.43
+DMM2050,ᾠόν,Egg,1,e-249,2.54,Ei,225,148,100,
+DMM2051,τέττιγες,Cicadas,1,e-251,2.56,Cikaden,227,150,100,2.45
+DMM2052,ἀκρίδες,Locusts,1,e-252,2.57,Heuschrecken,227,150,101,2.46
+DMM2053,φήνη,Phene,1,e-253,2.58,Phinis,228,150,101,2.47
+DMM2054,κορυδαλλός,Lark,1,e-254,2.59,Haubenlerche,228,151,101,2.48
+DMM2055,αἰθυίας ἧπαρ,Liver of shearwater,1,e-245,2.50,Leber des Tauchers,223,145,99,2.38
+DMM2056,χελιδὸνος νεοσσοί,Swallow’s nestlings,1,e-255,2.60,Schwalbe,229,151,101,2.49
+DMM2057,ἐλέφαντος ὀδούς,Elephant’s tooth,1,e-256,2.61,Elephant,229,152,101,2.50
+DMM2058,ἀστράγαλος ὑός,Hog’s hock,1,e-257,2.62,Sprungbein des Schweines,231,153,101,2.51
+DMM2059,ἐλάφου κέρας,Hart’s horn,1,e-258,2.63,Hirschhorn,231,154,102,2.52
+DMM2060,κάμπαι,Caterpillars,1,e-259,2.64,Raupen,233,154,102,2.53
+DMM2061,κανθαρίδες,Blister beetles,1,e-260,2.65,Kanthariden,234,155,102,2.54
+DMM2062,σαλαμάνδρα,Salamander,1,e-262,2.67,Salamander,235,156,103,2.56
+DMM2063,ἀράχνη τὸ ζῷον,Spider,1,e-263,2.68,Spinne,236,156,103,2.57
+DMM2064,σαύρας ἡ κεφαλὴ,Head of lizard,1,e-264,2.69,Eidechse,237,157,103,2.58
+DMM2065,σήψ,Seps,1,e-265,2.70,Seps,237,158,103,2.59
+DMM2066,σκίγκος,Skink,1,e-266,2.71,Skink,238,159,103,2.60
+DMM2067,γῆς ἔντερα,Earthworms,1,e-267,2.72,Eingeweide der Erde (Erdw?rmer),240,160,104,2.61
+DMM2068,μυογαλῆ,Shrewmouse,1,e-268,2.73,Spitzmaus,240,160,104,2.62
+DMM2069,μύες,Mice,1,e-269,2.74,M?use,241,161,104,2.63
+DMM2070,γάλα,Milk,1,e-270,2.75,Milch,243,161,104,2.64
+DMM2071,τυρός,Cheese,1,e-274,2.79,Frischer K?se,243,162,106,2.65
+DMM2072,βούτυρον,Butter,1,e-276,2.81,Butter und der aus ihr bereitete Russ,243,163,107,2.66
+DMM2073,ἔρια οἰσυπηρά,Greasy wool,1,e-277,2.82,Wolle,246,165,107,2.67
+DMM2074,οἴσυπος,Fat from greasy wool,1,e-279,2.84,Wollfett,246,,108,
+DMM2075,πιτύα,Rennet,1,e-280,2.85,Lab,247,167,109,2.68
+DMM2076,στέαρ,Fat,1,e-281,2.86,Fett,247,167,110,2.69
+DMM2077,μυελός,Marrow,1,e-290,2.95,Mark,250,171,116,2.70
+DMM2078,χολή,Bile,1,e-291,2.96,Jegliche Art Galle,250,171,117,2.71
+DMM2079,αἷμα,Blood,1,e-292,2.97,Blut,251,172,118,2.72
+DMM2080,ἀπόπατος,Dung,1,e-293,2.98,Koth,252,173,119,2.73
+DMM2081,οὖρον,Urine,1,e-294,2.99,Urin,254,174,120,2.74
+DMM2082,μέλι,Honey,1,e-296,2.101,Honig,255,175,121,2.75
+DMM2083,κηρός,Wax,1,e-300,2.105,Wachs,258,178,123,2.76
+DMM2084,πρόπολις,Bee glue,1,e-301,2.106,Vorwachs,258,178,124,2.77
+DMM2085,πυροί,Wheat,1,e-302,2.107,Weizen,260,180,124,2.78
+DMM2086,κριθή,Barley,1,e-303,2.108,Gerste,263,181,125,2.79
+DMM2087,ζύθος,Beer,1,e-304,2.109,Zythos,264,182,125,2.80
+DMM2088,κοῦρμι,Courmi,1,e-305,2.110,Kurmi,264,,126,2.81
+DMM2089,ζέα,Zea,1,e-306,2.111,Dinkel,264,183,126,2.82
+DMM2090,κρίμνον,Crimnon,1,e-307,2.112,Schrot,265,184,126,2.83
+DMM2091,ὄλυρα,Rice-wheat,1,e-308,2.113,Olyra,265,184,126,2.84
+DMM2092,ἀθήρα,Gruel,1,e-309,2.114,Athera,266,184,126,2.85
+DMM2093,τράγος,Spelt,1,e-310,2.115,Tragos,266,184,126,2.86
+DMM2094,βρόμος,Oats,1,e-311,2.116,Hafer,266,184,126,2.87
+DMM2095,ὄρυζα,Rice,1,e-312,2.117,Reis,267,185,127,2.88
+DMM2096,χόνδρος,Groats,1,e-313,2.118,Graupen,268,185,127,2.89
+DMM2097,κέγχρος,Millet,1,e-314,2.119,Hirse,268,186,127,2.90
+DMM2098,ἔλυμος,Italian millet,1,e-315,2.120,Mohrenhirse,269,186,127,2.91
+DMM2099,σήσαμον,Sesame,1,e-316,2.121,Sesam,270,187,127,2.92
+DMM2100,αἶρα,Darnel,1,e-317,2.122,Taumellolch,271,187,127,2.93
+DMM2101,ἄμυλον,Starch,1,e-318,2.123,St?rkemehl,272,188,128,2.94
+DMM2102,τέλεως ἄλευρον,Meal of fenugreek,1,e-319,2.124,Bockshornmehl,272,188,128,2.95
+DMM2103,λινόσπερμον,Linseed,1,e-320,2.125,Lein,273,189,129,2.96
+DMM2104,ἐρέβινθος ὁ ἥμερος,Cultivated chick- pea,1,e-321,2.126,Erbse,274,190,129,2.97
+DMM2105,κύαμος Ἑλληνικός,Greek bean,1,e-322,2.127,Griechische Bohne,275,191,130,2.98
+DMM2106,Αἰγύπτιος κύαμος,Egyptian bean,1,e-323,2.128,Aegyptische Bohne,277,191,131,2.99
+DMM2107,φακός,Lentil,1,e-324,2.129,Linse,278,192,131,2.100
+DMM2108,ὄροβος,Bitter vetch,1,e-326,2.131,Linsenwicke,281,194,132,2.102
+DMM2109,θέρμος,Lupine,1,e-327,2.132,Lupine,282,159,133,2.103
+DMM2110,γογγύλη,Turnip,1,e-329,2.134,Weisse R?be,283,196,133,2.104
+DMM2111,βουνιάς,French turnip,1,e-331,2.136,Feldkohl,284,197,134,2.105
+DMM2112,ῥαφανίς,Radish,1,e-332,2.137,Rettig,285,,134,2.106
+DMM2113,σίσαρον,Parsnip,1,e-334,2.139,Sisaron,286,199,135,2.107
+DMM2114,λάπαθον,Monk’s rhubarb,1,e-335,2.140,Ampfer,288,199,135,2.108
+DMM2115,ἱππολάπαθον,Dock sorrel,1,e-336,2.141,Hippolapathon,288,,136,
+DMM2116,λαμψάνη,Charlock,1,e-337,2.142,Grauer Senf,290,201,136,2.109
+DMM2117,βλίτον,Blite,1,e-338,2.143,Gem?seamaranth,290,201,136,2.110
+DMM2118,μολόχη,Mallow,1,e-339,2.144,Malve,291,201,136,2.111
+DMM2119,ἀνδράφαξυς,Orach,1,e-340,2.145,Gartenmelde,293,203,137,2.112
+DMM2120,κράμβη ἥμερος,Cultivated cabbage,1,e-341,2.146,Kohl,295,203,137,2.113
+DMM2121,κράμβη ἀγρία,~ B. cretica. Wild cabbage,1,e-342,2.147,Wilder Kohl,296,,138,2.114
+DMM2122,κράμβη ἡ θαλασσία,Sea cole,1,e-343,2.148,Meerkohl,296,,138,2.115
+DMM2123,σεῦτλον,Beet,1,e-344,2.149,Bete,297,205,138,2.116
+DMM2124,ἀνδράχνη,Purslane,1,e-345,2.150,Portulak,299,206,138,2.117
+DMM2125,ἀσπάραγος πετραῖος ἢ μυάκανθος,Asparagus,1,e-346,2.151,Spargel,299,207,139,2.118
+DMM2126,ἀρνόγλωσσον,Plantain,1,e-347,2.152,Wegerich,300,208,140,2.119
+DMM2127,σίον,Water parsnip,1,e-348,2.153,Merk,302,210,141,2.120
+DMM2128,σισύμβριον,Watercress,1,e-349,2.154,Sisymbrion,303,210,141,2.121
+DMM2129,κρῆθμον,Samphire,1,e-351,2.156,Meerfenchel,305,212,142,2.122
+DMM2130,κορωνόπους,Hartshorn,1,e-352,2.157,Niedriger Schotenklee,306,212,142,2.123
+DMM2131,σόγχος,Sow thistle,1,e-353,2.158,G?nsedistel,307,213,143,2.124
+DMM2132,σέρις,Chicory or Endive,1,e-354,2.159,Seris,309,214,143,2.125
+DMM2133,χονδρίλη,Gum,1,e-355,2.160,Knorpelsalat,312,216,143,2.126
+DMM2134,κολοκύνθα,Edible bottle gourd,1,e-356,2.161,K?rbis,313,217,144,2.127
+DMM2135,σίκυς ἥμερος,Cucumber,1,e-357,2.162,Gebaute Gurke,314,217,144,2.128
+DMM2136,θρίδαξ ἥμερος,Cultivated lettuce,1,e-359,2.164,Gartenlattich,318,220,145,2.129
+DMM2137,γιγγίδιον,Gingidium,1,e-361,2.166,Gingidion,319,222,146,2.131
+DMM2138,σκάνδιξ,Wild chervil,1,e-362,2.167,Venuskamm,321,222,146,2.132
+DMM2139,καυκαλίς,Caucalis,1,e-363,2.168,Steinbrech,322,223,146,2.133
+DMM2140,εὔζωμον,Rocket,1,e-364,2.169,Rauke,322,223,146,2.134
+DMM2141,ὤκιμον,Basil,1,e-365,2.170,Basilicum,323,224,146,2.135
+DMM2142,ὀροβάγχη,Chokefitch,1,e-366,2.171,Orobanche,325,225,147,2.136
+DMM2143,τραγοπώγων,Salsify,1,e-367,2.172,Bocksbart,325,226,147,2.137
+DMM2144,ὄρνιθος γάλα,Starflower,1,e-368,2.173,Vogelmilch,327,226,147,2.138
+DMM2145,ὕδνον,Truffle,1,e-369,2.174,Tr?ffel,328,227,148,2.139
+DMM2146,σμῖλαξ κηπαία,Cowpea,1,e-370,2.175,Vietsbohne,328,227,148,2.140
+DMM2147,Μηδική,Alfalfa,1,e-371,2.176,Luzerne,329,228,148,2.141
+DMM2148,ἀφάκη,Tare,1,e-372,2.177,Vogelwicke,330,229,148,2.142
+DMM2149,πράσον κεφαλωτόν,Leek,1,e-373,2.178,Lauch,330,229,149,2.143
+DMM2150,ἀμπελόπρασον,Wild leek,1,e-374,2.179,Weinlauch,332,230,149,2.144
+DMM2151,κρόμυον,Onion,1,e-375,2.180,Zwiebeln,332,230,149,2.145
+DMM2152,σκόρδον,Garlic,1,e-376,2.181,Knoblauch,334,231,150,2.146
+DMM2153,σκορδόπρασον,Garlic leek,1,e-377,2.182,Skorodoprason,335,233,151,2.147
+DMM2154,σίνηπι ἢ νᾶπι,Mustard,1,e-378,2.183,Senf,336,233,151,2.148
+DMM2155,καρδάμον,Garden cress,1,e-379,2.184,Kardamon,337,234,152,2.149
+DMM2156,θλάσπι,Shepherd’s-purse,1,e-380,2.185,Hirtent?schlein,337,235,152,2.150
+DMM2157,δράβη,Arabian mustard,1,e-381,2.186,T?rkische Kresse,339,,153,2.151
+DMM2158,ἐρύσιμον,Hedge mustard,1,e-382,2.187,Vielschotige Rauke,340,236,153,2.152
+DMM2159,πέπερι,Pepper,1,e-383,2.188,Pfeffer,341,237,154,2.153
+DMM2160,ζιγγίβερι,Ginger,1,e-384,2.189,Ingwer,344,238,155,2.154
+DMM2161,ὑδροπέπερι,Smartweed,1,e-385,2.190,Wasserpfeffer,345,239,155,2.155
+DMM2162,πταρμική,Sneezewort,1,e-386,2.191,Niesgarbe,346,239,155,2.156
+DMM2163,στρούθιον,Soapwort,1,e-387,2.192,Seifenkraut,347,240,156,2.157
+DMM2164,κυκλάμινος,Cyclamen,1,e-388,2.193,Erdscheibe,347,240,156,2.158
+DMM2165,κυκλάμινος ἑτέρα,Another cyclamen,1,e-389,2.194,Der andere Kyklaminos,348,241,157,2.159
+DMM2166,δρακόντιον,Dragon arum,1,e-390,2.195,Grosse Drachenwurz,349,242,158,2.160
+DMM2167,ἄρον,Cuckoopint,1,e-392,2.197,Aron,351,243,159,2.162
+DMM2168,ἀρίσαρον,Hooded arum,1,e-393,2.198,Arisaron,353,244,159,2.163
+DMM2169,ἀσφόδελος,Asphodel,1,e-394,2.199,Asphodelos,354,244,159,2.164
+DMM2170,βολβὸς ἐδώδιμος,Purse tassels,1,e-395,2.200,Speisezwiebel,354,246,160,2.165
+DMM2171,σκίλλα,Squill or Scilla,1,e-397,2.202,Meerzwiebel,355,247,161,2.167
+DMM2172,παγκράτιον,Sea daffodil,1,e-398,2.203,Gilge,356,247,162,2.168
+DMM2173,κάππαρις,Caper,1,e-399,2.204,Kapper,356,248,162,2.169
+DMM2174,λεπίδιον,Pepperwort,1,e-400,2.205,Gartenkresse,358,250,163,2.170
+DMM2175,βατράχιον,sp. Ranunculus,1,e-402,2.206,Batrachion,358,250,163,2.171
+DMM2176,ἀνεμώνη,Poppy anemone,1,e-403,2.207,Anemone,360,252,164,2.172
+DMM2177,ἀργεμώνη,Wind-rose,1,e-404,2.208,Argemone,362,253,165,2.173
+DMM2178,ἀναγαλλίς,Pimpernel,1,e-405,2.209,Gauchheil,362,253,165,2.174
+DMM2179,κισσός,Ivy,1,e-406,2.210,Epheu,364,255,166,2.175
+DMM2180,χελιδόνιον μέγα,Celandine,1,e-407,2.211,Grosses Chedonion,365,256,167,2.176
+DMM2181,χελιδόνιον τὸ μικρόν,Pilewort,1,e-408,2.212,Kleines Chelidonion,367,257,167,2.177
+DMM2182,ὀθόννα,Othonna,1,e-409,2.213,Othonna,367,257,168,2.178
+DMM2183,μυὸς ὦτα,Madwort,1,e-410,2.214,Mauseohr,368,258,168,2.179
+DMM2184,ἰσάτις,Woad,1,e-XXX,2.215,Waid,,,,
+DMM2185,ἰσάτις ἄγρια,Wild woad,1,e-411,2.216,Wilder Waid,369,259,169,
+DMM2186,τηλεφώνιον,Telephonion,1,e-412,2.217,Wachsblume,370,260,169,2.181
+DMM3001,ἀγαρικόν,Agaric,1,e-414,3.1,L?rchenschwamm,371,261,170,3.1
+DMM3002,ῥᾶ,Rhubarb,1,e-415,3.2,Rhapontik,372,262,171,3.2
+DMM3003,γεντιανή,Gentian,1,e-416,3.3,Enzian,376,264,172,3.3
+DMM3004,ἀριστολόχεια,Birthwort,1,e-417,3.4,Osterluzei,377,265,173,3.4
+DMM3005,γλυκύρριζα,Licorice,1,e-418,3.5,S?ssholz,380,266,174,3.5
+DMM3006,κενταύριον τὸ μέγα,Centaury,1,e-419,3.6,Grosses Kentaurion,381,268,174,3.6
+DMM3007,κενταύρειον τὸ λεπτόν ἢ μικρόν,Feverfew,1,e-420,3.7,Kleines Kentaurion,382,268,175,3.7
+DMM3008,χαμαιλέων λευκός,Pine thistle,1,e-421,3.8,Weisses Chamaileon,383,269,176,3.8
+DMM3009,[χαμαιλέων] ὁ μέλας,Chameleon thistle,1,e-422,3.9,Schwarzes Chamaileon,383,270,177,3.9
+DMM3010,κροκοδείλεον,Sea holly,1,e-423,3.10,Krokodeilion,385,271,177,3.10
+DMM3011,δίψακος,Teasle,1,e-424,3.11,Karde,385,272,177,3.11
+DMM3012,ἄκανθα λευκή,Fish thistle,1,e-425,3.12,Weisse Akantha,386,272,178,3.12
+DMM3013,ἄκανθα Ἀραβική,Smaller milk thistle,1,e-426,3.13,Arabische Akantha,388,273,178,3.13
+DMM3014,σκόλυμος,Golden thistle,1,e-427,3.14,Golddistel,388,273,179,3.14
+DMM3015,ποτίρριον,Goat’s thorn,1,e-428,3.15,Poterion,389,275,179,3.15
+DMM3016,ἀκάνθιον,Cotton thistle,1,e-429,3.16,Eselsdistel,390,275,179,3.16
+DMM3017,ἄκανθος,Bear’s-foot,1,e-430,3.17,Akantha,390,276,179,3.17
+DMM3018,ἀνωνίς,Rest harrow,1,e-431,3.18,Hauhechel,391,276,180,3.18
+DMM3019,λευκάκανθα,Tuberous thistle,1,e-432,3.19,Leukakantha,392,277,180,3.19
+DMM3020,τραγακάνθα,Tragacanth,1,e-433,3.20,Tragakantha,393,278,180,3.20
+DMM3021,ἠρύγγη,Eryngo,1,e-434,3.21,Mannstreu,394,278,181,3.21
+DMM3022,ἀλόη,Aloe,1,e-435,3.22,Alo?,395,279,181,3.22
+DMM3023,ἀψίνθιον,Wormwood,1,e-436,3.23,Wermuth,397,280,183,3.23
+DMM3024,ἀβρότονον,Wormwood,1,e-439,3.26,Abrotonon,399,282,184,3.25
+DMM3025,ὕσσωπος,Hyssop,1,e-440,3.27,Hyssopos,401,283,185,3.26
+DMM3026,στοιχάς,French lavender,1,e-441,3.28,Stoichas,402,284,186,3.27
+DMM3027,ὀρίγανος Ἡρακλεωτική,Oregano,1,e-442,3.29,Dosten,403,,186,3.28
+DMM3028,ὀνῖτις,Oregano onitis,1,e-443,3.30,Onetis,403,,186,
+DMM3029,ἀγριορίγανος,Marjoram,1,e-444,3.31,Wilder Dosten,403,285,186,
+DMM3030,τραγορίγανος,Goat’s marjoram,1,e-445,3.32,Tragoriganon,403,286,187,3.29
+DMM3031,γλήχων,Pennyroyal,1,e-446,3.33,Polei,405,287,187,3.30
+DMM3032,δίκταμνον,Dittany of Crete,1,e-447,3.34,Diptam,406,287,188,3.31
+DMM3033,ἐλελίσφακον,Sage,1,e-448,3.35,Salbei,407,289,189,3.34
+DMM3034,ἡδύοσμον,Green mint,1,e-449,3.36,Gebaute Minze,409,290,190,3.35
+DMM3035,καλαμίνθη,Catmint,1,e-450,3.37,Kalamintha,411,291,190,3.36
+DMM3036,θύμος,Cretan thyme,1,e-451,3.38,Saturei,413,292,190,3.37
+DMM3037,θύμβρα,Savory,1,e-452,3.39,Thymbra,413,293,191,3.38
+DMM3038,ἕρπυλος,Tufted thyme,1,e-453,3.40,Quendel,414,294,191,3.39
+DMM3039,σάμψουχον,Marjoram,1,e-454,3.41a,Majoran,416,295,192,3.40
+DMM3040,μελίλωτος,King’s clover,1,e-455,3.41b,Steinklee,417,295,192,3.41
+DMM3041,σισύβριον,Bergamot,1,,,,,,,
+DMM3042,μᾶρον ἢ ὑσόβρυον,Maron or Hysobryon,1,e-456,3.42,Maron,417,296,193,3.42
+DMM3043,ἄκινος ἢ ἄκονος,Wild basil,1,e-457,3.43,Akinos,418,296,193,3.43
+DMM3044,βάκχαρις,Sowbread,1,e-458,3.44,Bakcharis,418,297,193,3.44
+DMM3045,πήγανον,Rue,1,e-459,3.45,Raute,420,298,193,3.45
+DMM3046,πήγανον ἄγριον,Wild rue,1,e-460,3.46,Wilde Raute,421,299,195,3.46
+DMM3047,μῶλυ,Garlic,1,e-461,3.47,Moly,423,300,196,3.47
+DMM3048,πάνακες Ἡράκλειον,Hercules’ woundwort,1,e-462,3.48,Panakes,424,300,196,3.48
+DMM3049,πάνακες Ἀσκληπίειον,Aesculapius’ allheal,1,e-463,3.49,Asklepisches Panakes,424,301,197,3.49
+DMM3050,πάνακες Χειρώνιον,Panaces olympicum Chiron’s allheal,1,e-464,3.50,Cheironisches Panakes,424,301,197,3.50
+DMM3051,λιγυστικόν,Lovage,1,e-465,3.51,Ligustikon,425,302,198,3.51
+DMM3052,σταφυλῖνος ἄγριος,Wild carrot,1,e-466,3.52,M?hre,426,302,198,3.52
+DMM3053,σέσελι,Massilian hartwort,1,e-467,3.53,Massiliensisches Seseli,428,304,199,3.53
+DMM3054,τόρδιλον,Cretan hartwort,1,e-468,3.54,Aethiopisches Seseli,428,304,199,
+DMM3055,σίνων,Stone parsley,1,e-469,3.55,Peleponnesisches Seseli,428,305,199,
+DMM3056,ἄνησσον,Anise,1,e-470,3.56,Tordylion,428,305,200,3.54
+DMM3057,καρώ,Caraway,1,e-473,3.59,K?mmel,430,306,200,3.57
+DMM3058,ἄνηθον,Dill,1,e-474,3.60,Dill,430,307,201,3.58
+DMM3059,κύμινον ἥμερον,Cultivated cumin,1,e-475,3.61,Mutterk?mmel,431,307,201,3.59
+DMM3060,κύμινον ἄγριον,Wild cumin,1,e-476,3.62,Wilder Mutterk?mmel,431,308,201,3.60
+DMM3061,ἕτερον γένος ἀγρίου κυμίνου,Another kind of wild cumin,1,,,,,,,
+DMM3062,ἄμι,Ajowan,1,e-477,3.63,Ammi,432,309,202,3.61
+DMM3063,κόριον,Coriander,1,e-478,3.64,Koriander,433,309,202,3.62
+DMM3064,σέλινον κηπαῖον,Garden celery,1,e-481,3.67,Gartensellerie,436,311,203,3.64
+DMM3065,ὀρεοσέλινον,Mountain parsley,1,e-483,3.69,Oreoselinon,436,311,203,
+DMM3066,πετροσέλινον,Parsley,1,e-484,3.71,Petroselinon,436,312,,
+DMM3067,ἱπποσέλινον,Alexanders,1,e-485,3.71,Hipposelinon,436,312,,
+DMM3068,σμύρνιον,Cretan alexanders,1,e-486,3.72,Smyrnion,438,313,204,3.65
+DMM3069,ἐλαφοβόσκον,Parsnip,1,e-487,3.73,Pastinak,440,315,205,3.66
+DMM3070,μάραθον,Fennel,1,e-488,3.74,Fenchel,441,316,205,3.67
+DMM3071,ἱππομάραθον,Horse fennel,1,e-489,3.75,Hippomarathron,441,,206,3.68
+DMM3072,δαῦκος,Daucos,1,e-490,3.76,Daukos,441,317,206,3.69
+DMM3073,πύρεθρος,Pellitory,1,e-492,3.78,Bertramwurz,445,319,207,3.71
+DMM3074,λιβανωτίς,Rosemary frankincense,1,e-493,3.79,Libanotis,446,320; 321,208; 209,3.72; 3.73
+DMM3075,λιβανωτίς,Rosemary,1,,,,,,,
+DMM3076,σφονδύλιον,Cow-parsnip,1,e-494,3.80,B?renklau,446,321,209,3.74
+DMM3077,νάρθηξ,Giant fennel,1,e-495,3.81,Steckenkraut,447,322,210,3.75
+DMM3078,πευκέδανον,Sulphurwort,1,e-496,3.82,Haarstrang,448,323,210,3.76
+DMM3079,μελάνθιον,Black cumin,1,e-497,3.83,Schwarzk?mmel,449,324,211,3.77
+DMM3080,σίλφιον,Laserwort,1,e-498,3.84,Silphion,450,325,212,3.78
+DMM3081,σαγάπηνον,Sagapenon,1,e-499,3.85,Sagapenon,451,327,214,3.79
+DMM3082,εὐφόρβιον,Spurge,1,e-500,3.86,Euphorbion,453,327,214,3.80
+DMM3083,χαλβάνη,Galbanum,1,e-501,3.87,Galbanum,454,328,215,3.81
+DMM3084,ἀμμωνιακόν,Gum ammoniac,1,e-502,3.88,Ammoniakum,455,329,216,3.82
+DMM3085,σαρκοκόλλα,Sarcocolla,1,e-503,3.89,Sarkokolla,455,329,217,3.83
+DMM3086,γλαύκιον,Glaucion,1,e-504,3.90,Glaukion,456,329,217,3.84
+DMM3087,κόλλα,Glue,1,e-505,3.91,Leim,456,330,217,3.85
+DMM3088,ἰχθυκόλλα,Fish glue,1,e-506,3.92,Ichthyokolla,456,330,217,3.86
+DMM3089,ἰξός,Oak-mistletoe,1,e-507,3.93,Ixos,457,330,217,3.87
+DMM3090,ἀπαρίνη,Cleavers,1,e-508,3.94,Wandlabkraut,457,331,218,3.88
+DMM3091,ἄλυσσον,Madwort,1,e-509,3.95,Alysson,458,332,218,3.89
+DMM3092,ἀσκληπιάς,Swallowwort,1,e-510,3.96,Asklepias,458,332,219,3.90
+DMM3093,ἀτρακτυλίς,Spindle thistle,1,e-511,3.97,Atraktylis,459,333,219,3.91
+DMM3094,πολύκνημον,Field basil,1,e-512,3.98,Polyknemon,460,334,219,3.92
+DMM3095,κλινοπόδιον,Horse thyme,1,e-513,3.99,Wirbeldosten,462,334,219,3.93
+DMM3096,λεοντοπέταλον,Leontopetalon,1,e-514,3.100,Leontopetalon,462,334,220,3.94
+DMM3097,Τεύκριον,Tree germander,1,e-515,3.101,Gamander (Teukrion),463,335,220,3.95
+DMM3098,χαμαίρωψ,Wall germander,1,e-516,3.102,Chamaidrys,463,335,220,3.96
+DMM3099,λευκάς,Dead nettle,1,e-517,3.103,Leukas,464,336,221,3.97
+DMM3100,λυχνὶς στεφανωματική,Rose campion,1,e-518,3.104,Kranznelke,465,336,221,3.98
+DMM3101,λυχνὶς ἀγρία,Corn cockle,1,e-519,3.105,Wilde Nelke,465,336,221,
+DMM3102,κρίνον,Lily,1,e-520,3.106,Lilie,466,337,221,3.99
+DMM3103,βαλλωτή,Black horehound,1,e-521,3.107,Ballote,467,337,222,3.100
+DMM3104,μελισσόφυλλον,Balm,1,e-522,3.108,Melisse,468,338,222,3.101
+DMM3105,πράσιον,Horehound,1,e-523,3.109,Prasion,469,339,223,3.102
+DMM3106,στάχυς,Base horehound,1,e-524,3.110,Ziest,470,339,223,3.103
+DMM3107,φυλλῖτις,Hart’s tongue,1,e-525,3.111,Hirschzunge (111),471,340,224,3.104
+DMM3108,φαλλάγγιον,Spiderwort,1,e-526,3.112,Phalangion,471,341,224,3.105
+DMM3109,τρίφυλλον,Treacle clover,1,e-527,3.113,Asphaltklee,472,341,224,3.106
+DMM3110,πόλιον,Hulwort,1,e-528,3.114,Gamander (Polion),474,343,225,3.107
+DMM3111,σκόρδιον,Garlic germander,1,e-529,3.115,Knoblauch-Gamander,475,343,225,3.108
+DMM3112,βήχιον,Colt’s foot,1,e-530,3.116,Huflattich,476,344,226,3.109
+DMM3113,ἀρτεμισία,Wormwood,1,e-531,3.117,Beifuss,478,345,226,3.110
+DMM3114,ἀμβροσία,Ambrose,1,e-533,3.119,Ambrosia,480,346,227,3.112
+DMM3115,βότρυς,Oak of Jerusalem,1,e-534,3.120,Traubenkraut,481,347,227,3.113
+DMM3116,γεράνιον,Cranesbill,1,e-535,3.121,Storchschnabel,481,347,228,3.114
+DMM3117,γναφάλλιον,Cottonweed,1,e-536,3.122,Gnaphalion,484,348,228,3.115
+DMM3118,τύφη,Reed mace,1,e-537,3.123,Rohkolben,485,348,228,3.116
+DMM3119,κιρκαία,Black swallow- wort,1,e-538,3.124,Kirkaia,485,349,228,3.117
+DMM3120,οἰνάνθη,Dropwort,1,e-539,3.125,Oinanthe,486,349,229,3.118
+DMM3121,κόνυζα,Fleabane,1,e-540,3.126,Konyza,487,350,229,3.119
+DMM3122,ἡμεροκαλλές,Martagon lily,1,e-541,3.127,Hemerokallis,488,351,229,3.120
+DMM3123,λευκόϊον,Gillyflower,1,e-542,3.128,Goldlack,489,352,230,3.121
+DMM3124,κραταιόγονον,Willow weed,1,e-543,3.129,Krataiogonon,490,353,230,3.122
+DMM3125,φύλλον,Dog mercury,1,e-544,3.130,Phyllon,491,353,230,3.123
+DMM3126,ὄρχις,Orchid,1,e-545,3.131,Knabenkraut,491,353,231,3.124
+DMM3127,ὄρχις ἕτερος,Another orchid,1,e-546,3.132,Anderes Knabenkraut,491,354,231,3.125
+DMM3128,σατύριον,Man orchis,1,e-547,3.133,Satyrion,491,354,232,3.126
+DMM3129,ὅρμινον,Clary,1,e-549,3.135,Kleiner Salbei,494,356,232,3.128
+DMM3130,ἡδύσαρον,Axweed,1,e-550,3.136,Hedysaron,495,356,232,3.129
+DMM3131,ὄνοσμα,Stone bugloss,1,e-551,3.137,Onosma,496,357,233,3.130
+DMM3132,νυμφαία,White water lily,1,e-552,3.138,Weisse Seerose,497,357,233,3.131
+DMM3133,ἀνδρόσακες,Sea navel,1,e-554,3.140,Androsakes,498,358,234,3.133
+DMM3134,ἄσπληνος,Miltwaste,1,e-555,3.141,Milzfarn,499,358,234,3.134
+DMM3135,ἡμιονῖτις,Mule fern,1,e-556,3.142,Hirschzunge (142),500,359,234,3.135
+DMM3136,ἀνθυλλίς,Anthyllis,1,e-557,3.143,Anthyllis,501,360,235,3.136
+DMM3137,ἀνθεμίς,Camomile,1,e-558,3.144,Kamille,502,360,235,3.137
+DMM3138,παρθένιον,Feverfew,1,e-559,3.145,Parthenion,503,362,236,3.138
+DMM3139,βούφθαλμον,Oxeye,1,e-560,3.146,Wucherblume,504,363,236,3.139
+DMM3140,γλυκισίδη,Peony,1,e-561,3.147,Gichtrose,506,364,237,3.140
+DMM3141,λιθόσπερμον,Groomwell,1,e-562,3.148,Steinsamen,507,365,237,3.141
+DMM3142,φαληρίς,Canary grass,1,e-563,3.149,Glanzgras,508,366,238,3.142
+DMM3143,ἐρυθρόδανον ἢ ἐρευθέδανον,Madder,1,e-564,3.150,Krapp,508,366,238,3.143
+DMM3144,λογχῖτις,Lonchitis,1,e-565,3.151,Zungensumpfwurz,509,367,239,3.144
+DMM3145,λογχῖτις ἕτερα,Holy fern,1,e-566,3.152,Andere Zungensumpfwurz,509,367,239,3.145
+DMM3146,ἀλθαία,Marsh mallow,1,e-567,3.153,Eibisch,510,367,239,3.146
+DMM3147,ἀλκαία,Vervain mallow,1,e-568,3.154,Malope,511,368,240,3.147
+DMM3148,κάνναβις,Hemp,1,e-569,3.155,Gebauter Hanf,512,369,240,3.148
+DMM3149,ἀγρία κάνναβις,Hemp mallow,1,e-570,3.156,Wilder Hanf,512,369,240,
+DMM3150,ἀνάγυρος,Stinking bean trefoil,1,e-571,3.157,Stinkstrauch,513,369,241,3.149
+DMM3151,κηπαία,Cepaia,1,e-572,3.158,Zwiebelpfeffer,514,370,241,3.150
+DMM3152,ἄλισμα,Water plantain,1,e-573,3.159,Froschl?ffel,514,370,241,3.151
+DMM3153,ὀνοβρυχίς,Cock’s head,1,e-574,3.160,Esparset,515,371,242,3.152
+DMM3154,ὑπερικόν,St. John’s wort,1,e-575,3.161,Hartheu,515,371,242,3.153
+DMM3156,ἀνδρόσαιμον,St. John’s wort,1,e-577,3.163,Androsaimon,515,372,242,3.155
+DMM3157,κόρις,St. John’s wort,1,e-578,3.164,Koris,515,372,243,3.156
+DMM3158,χαμαίπιτυς,Ground pine,1,e-579,3.165,Chamaipitys,517,373,243,3.157
+DMM4001,κέστρον,Betony,1,e-580,3.166,Andere Chamaipitys,517,374,244,
+DMM4002,βρεττανική,Water dock,1,e-582,4.1,Kestron,519,375,245,4.1
+DMM4003,λυσιμάχειος,Loosestrife,1,e-583,4.2,Bretannika,520,376,246,4.2
+DMM4004,πολύγονον ἄρρεν,Knotgrass,1,e-584,4.3,Lysimachion,522,377,246,4.3
+DMM4005,πολύγονον θῆλυ,Mare’s tail,1,e-585,4.4,M?nnliches Polygonon,523,378,247,4.4
+DMM4006,πολυγόνατον,P. officinale,1,e-586,4.5,Weibliches Polygonon,523,379,247,4.5
+DMM4007,κληματίς,Periwinkle,1,e-587,4.7,Immergr?n,525,379; 380,248,4.6; 4.7
+DMM4008,πολεμώνιον,Jacob’s ladder,1,e-588,4.8,Polemonion,525,381,248,4.8
+DMM4009,σύμφυτον πετραῖον,Low pine,1,e-589,4.9,Felsensymphyton,526,381,248,4.9
+DMM4010,σύμφυτον ἄλλο,Comfrey,1,e-590,4.10,Anderes Symphyton,527,382,249,
+DMM4011,ὁλόστεον,Allbone,1,e-591,4.11,Holosteon,530,383,249,4.10
+DMM4012,στοιβή,Thorny burnet,1,e-592,4.12,Becherblume,531,383,249,4.11
+DMM4013,κλύμενον,Bearbind,1,e-593,4.13,Klymenon,532,384,250,4.12
+DMM4014,περικλύμενον,Honeysuckle,1,e-594,4.14,Periklymenon,532,384,250,4.13
+DMM4015,τρίβολος χερσαῖος,Caltrops,1,e-595,4.15,Tribolos,533,385,250,4.14
+DMM4016,λειμώνιον,Sea lavender,1,e-597,4.16,Limoneion,536,386,251,4.16
+DMM4017,λαγώπουν,Hare’s foot trefoil,1,e-598,4.17,Hasenklee,537,387,251,4.17
+DMM4018,μήδιον,Medion,1,e-599,4.18,Medion,539,387,251,4.18
+DMM4019,ἐπιμήδιον,Epimedion,1,e-600,4.19,Epimedion,539,387,252,4.19
+DMM4020,ξίφιον,Corn flag,1,e-601,4.20,Siegwurz,540,388,252,4.20
+DMM4021,σπαργάνιον,Bur reed,1,e-602,4.21,Sparganion,540,388,252,4.21
+DMM4022,ξυρίς,Gladwyn,1,e-603,4.22,Xyris,541,389,253,4.22
+DMM4023,ἄγχουσα,Alkanet,1,e-604,4.23,Ochsenzunge,541,389,253,4.23
+DMM4024,ἄγχουσα ἑτέρα,Another alkanet,1,e-605,4.24,Andere Anchusa,541,390,253,
+DMM4025,ἄγχουσα ἄλλη,Another alkanet,1,e-606,4.25,Weitere Anchusa,541,390,254,
+DMM4026,λυκαψός,Viper’s herb,1,e-607,4.26,Natternkopf,542,391,254,4.24
+DMM4027,ἕχιον,Echion,1,e-608,4.27,Echion,543,392,254,4.25
+DMM4028,ὠκιμοειδές,Catchfly,1,e-609,4.28,Okimoeides,543,392,255,4.26
+DMM4029,ἄγρωστις,Dogs-tooth grass,1,e-611,4.30,Agrostis,544,393,255,4.28
+DMM4030,καλαμάγρωστις,Calamagrostis,1,e-612,4.31,Kalamagrostis,544,394,255,
+DMM4031,ἡ δέ ἐν τῷ Παρνασσῷ ἄγρωστις,Grass of Parnassus,1,e-613,4.32,Agrostis aus Parnass,544,394,255,
+DMM4032,ἡ δέ ἐν Κιλικίᾳ γεννωμένη [ἄγρωστις],Wall barley,1,,,,,,,
+DMM4033,σιδηρῖτις,Iron wo rt,1,e-614,4.33,Sideritis,546,395,256,4.29
+DMM4034,ἄλλη σιδηρῖτις,Burnet,1,e-615,4.34,Andere Sideritis,546,395,256,4.30
+DMM4035,σιδηρῖτις ἑτέρα,Figwort,1,e-616,4.35,Weitere Sideritis,546,395,256,4.31
+DMM4036,Ἀχίλλειος,Achilles woundwort,1,e-617,4.36,Garbe,548,396,257,4.32
+DMM4037,βάτος,Bramble,1,e-618,4.37,Brombeer,549,397,257,4.33
+DMM4038,βάτος Ἰδαία,Raspberry,1,e-619,4.38,Himbeer,549,397,257,4.34
+DMM4039,ἑλξίνη,Bindweed,1,e-620,4.39,Ackerwinde,550,398,258,4.35
+DMM4040,ἐλατίνη,Cankerwort,1,e-621,4.40,Elatine,550,398,258,4.36
+DMM4041,Εὐπατόριος,Agrimony,1,e-622,4.41,Odermenning,551,399,258,4.37
+DMM4042,πεντέφυλλον,Cinquefoil,1,e-623,4.42,G?nsefuss,553,400,258,4.38
+DMM4043,φοῖνιξ,Rye grass,1,e-624,4.43,Phoinix,555,401,259,4.39
+DMM4044,Ἰδαία ῥιζα,Idaia rhiza,1,e-625,4.44,Id?ische Wurzel,555,402,260,4.40
+DMM4045,Ῥοδία ῥίζα,Shodia rhiza,1,e-626,4.45,Rhodiaswurzel,555,402,260,4.41
+DMM4046,ἵππουρις,Horsetail,1,e-627,4.46,Hippuris,556,402,260,4.42
+DMM4047,ἑτέρα ἵππουρις,Another horse tail,1,e-628,4.47,Andere Hippuris,556,403,260,
+DMM4048,κόκκος βαφική,Kermes oak,1,e-629,4.48,F?rberkokkos,557,403,260,4.43
+DMM4049,τράγιον,Stinking tutsan,1,e-630,4.49,Tragion,558,405,261,4.44
+DMM4050,τράγιον ἄλλο,Pimpinell,1,e-631,4.50,Anderes Tragion,558,405,261,4.45
+DMM4051,τράγος,Tragos,1,e-632,4.51,Tragos (Skorpion),560,405,261,4.46
+DMM4052,σχοῖνος ἐλείας,Rush,1,e-633,4.52,Sumpfschoinos,560,406,262,4.47
+DMM4053,λειχήν ὁ ἐπὶ τῶν πετρῶν,The lichen growing on stones,1,e-634,4.53,Flechte,561,407,262,4.48
+DMM4054,παρωνυχία,Paronychia,1,e-635,4.54,Paronychia,562,407,262,4.49
+DMM4055,χρυσοκόμη,Immortelle,1,e-636,4.55,Goldhaar,563,408,262,4.50
+DMM4056,χρυσόγονον,Black turrnip,1,e-637,4.56,Chrysogonon,563,408,263,4.51
+DMM4057,ἐλίχρυσον ἢ χρυσάνθεμον,Gold flower,1,e-638,4.57,Elichryson,563,408,263,4.52
+DMM4058,ἀγήρατον,Pot marjoram,1,e-640,4.59,Ageraton,566,409,263,4.54
+DMM4059,περιστέριον,Vervain,1,e-641,4.60,Taubenkraut,567,410,264,4.55
+DMM4060,ἱερὰ βοτάνη,Holy vervain,1,e-642,4.61,Zur?ckgebogenes Peristereon,568,410,264,4.56
+DMM4061,ἀστράγαλος,Milk vetch,1,e-643,4.62,Walderbse,569,411,265,4.57
+DMM4062,ὑάκινθος,Wild hyacinth,1,e-644,4.63,Hyacinthe,569,411,265,4.58
+DMM4063,μήκων ῥοιάς,Corn poppy,1,e-645,4.64,Mekon Rhoias,570,412,265,4.59
+DMM4064,μήκων,Opium poppy,1,e-646,4.65,Gartenmohn,570,413,266,4.60
+DMM4065,μήκων κερατῖτις,Horned poppy,1,e-647,4.66,Hornmohn,572,415,268,4.61
+DMM4066,μήκων ἀφρώδης,Frothy poppy,1,e-648,4.67,Mekon aphrodes,572,416,268,4.62
+DMM4067,ὑπήκοον,Horned cumin,1,e-649,4.68,Hypekoon,573,416,269,4.63
+DMM4068,ὑοσκύαμος,Henbane,1,e-650,4.69,Bilsenkraut,573,416,269,4.64
+DMM4069,ψύλλιον,Fleawort,1,e-651,4.70,Flohkraut,575,418,270,4.65
+DMM4070,στρύχνον κηπαῖον,Hound’s berry,1,e-652,4.71,Strychnos,576,419,271,4.66
+DMM4071,ἕτερον στρύχνον,Another hound’s,1,e-653,4.72,Strychnos Halikakabos,577,419,271,4.67
+DMM4072,στρύχνον ὑπνωτικόν,Sleepy nightshade,1,e-654,4.73,Schlafstrychnos,577,420,271,4.68
+DMM4073,στρύχνον μανικόν,Thorn apple,1,e-655,4.74,Strychnos manikos,577,420,272,4.69
+DMM4074,δορύκνιον,Convulvulus oleaefolius Desr. Dorycnion,1,e-656,4.75,Doryknion,580,422,273,4.70
+DMM4075,μανδραγόρας,Mandrake,1,e-657,4.76,Alraun,580,422,273,4.71
+DMM4076,ἀκόνιτον,Leopard’s bane,1,e-658,4.77,Akoniton,582,425,275,4.72
+DMM4077,ἀκόνιτον ἕτερον,Wolfsbane,1,e-659,4.78,Anderes Akoniton,582,425,275,4.73
+DMM4078,κώνειον,Hemlock,1,e-660,4.79,Schierling,589,427,276,4.74
+DMM4079,σμῖλαξ,Yew,1,e-661,4.80,Eibe,590,427,276,4.75
+DMM4080,ἀπόκυνον,Dogbane,1,e-662,4.81,Hundsw?rger,590,428,276,4.76
+DMM4081,νήριον,Oleander,1,e-663,4.82,Oleander,591,429,277,4.77
+DMM4082,μύκητες,Mushrooms,1,e-664,4.83,Pilze,592,429,277,4.78
+DMM4083,Κολχικόν,Meadow saffron,1,e-665,4.84,Zeitlose,593,430,278,4.79
+DMM4084,ἐφήμερον,Ephemeron,1,e-666,4.85,Ephemeron,594,431,278,4.80
+DMM4085,ἐλξίνη,Pellitory,1,e-667,4.86,Glaskraut,596,431,278,4.81
+DMM4086,ἀλσίνη,Lichwort,1,,,,,,,
+DMM4087,φακὸς ὁ ἐπὶ τῶν τελμάτων,Duckweed,1,e-668,4.87,Wasserlinse,597,433,279,4.83
+DMM4088,ἀείζῳον μέγα,Houseleek,1,e-669,4.88,Grosse Hauswurz,598,433,279,4.84
+DMM4089,ἀείζῳον τὸ μικρόν,Houseleek,1,e-670,4.89,Kleine Hauswurz,598,434,280,4.85; 4.86
+DMM4090,τρίτον εἶδος ἀείζῳον,Stonecrop,1,e-671,4.91,Andere Hauswurz,598,436,280,4.88
+DMM4091,κοτυληδών,Navelwort,1,e-672,4.90,Nabelblatt,600,435,280,4.87
+DMM4092,ἕτερον εἶδος κοτυληδόνος,Another kind of navelwort,1,e-673,4.91,Anderes Nabelkraut,600,436,280,4.88
+DMM4093,ἀκαλήφη,Stinging nettle,1,e-674,4.92,Nessel,601,436,281,4.89
+DMM4094,γαλήοψις,Brownwort,1,e-675,4.93,Galiopsis,602,437,281,4.90
+DMM4095,γάλιον,Bedstraw,1,e-676,4.94,Labkraut,603,438,282,4.91
+DMM4096,ἠριγέρων,Groundsel,1,e-677,4.95,Kreuzwurz,604,439,282,4.92
+DMM4097,θαλίητρον,Meadow,1,e-678,4.96,Wiesenraute,604,439,282,4.93
+DMM4098,βρύον θαλάσσιον,Sea lettuce,1,e-679,4.97,Meerlattich,605,440,283,4.94
+DMM4099,φῦκος,Seaweed,1,e-680,4.98,Meertang,605,440,283,4.95
+DMM4100,ποταμογείτων,Pondweed,1,e-681,4.99,Laichkraut,606,440,283,4.96
+DMM4101,στρατιώτης ὁ ἐπὶ τῶν ὑδάτων,Water lettuce,1,e-682,4.100,Stratiotes,607,441,283,4.97
+DMM4102,στρατιώτης ὁ χιλιόφυλλος,Yarrow or Milfoil,1,e-683,4.101,Tausendbl?tteriger Stratiotes,607,441,283,4.98
+DMM4103,φλόμος,Mullein,1,e-684,4.102,K?nigskerze,608,441,284,4.99
+DMM4104,Αἰθιοπίς,Silver sage,1,e-685,4.103,Aithiopis,611,443,285,4.100
+DMM4105,ἄρκτιον,Bearwort,1,e-686,4.104,Arktion,612,444,285,4.101
+DMM4106,ἄρκιον,Burdock,1,e-687,4.105,Klette,612,444,285,4.102
+DMM4107,πετασῖτις,Butterbur,1,e-688,4.106,Petasites,613,445,286,4.103
+DMM4108,ἐπιπακτίς,Rupturewort,1,e-689,4.107,Epipaktis,613,446,286,4.104
+DMM4109,καπνὸς ὁ ἐν ταῖς κριθαῖς φυόμενος,Fumitory,1,e-690,4.108,Erdrauch,614,446,286,4.105
+DMM4110,λωτὸς ὁ ἐν τοῖς παραδείσοις φυόμενος,Italian melilot,1,e-691,4.109,Gebauter Lotos,615,447,286,4.106
+DMM4111,λωτὸς ἄγριος,Wild fenugreek,1,e-692,4.110,Wilder Lotos,615,447,286,4.107
+DMM4112,κύτισος,Tree medick,1,e-693,4.111,Schneckenklee,616,448,286,4.108
+DMM4113,λωτὸς ὁ ἐν Αἰγύπτῳ γεννώμενος,Egyptian lotus,1,e-694,4.112,Aegyptischer Lotos,617,448,287,4.109
+DMM4114,μυριόφυλλον,Water milfoil,1,e-695,4.113,Tausendblatt,618,448,287,4.110
+DMM4115,μυρρίς,Sweet cicely,1,e-696,4.114,K?rbel,619,449,287,4.111
+DMM4116,μύαγρον,Ball mustard,1,e-697,4.115,Myagros,620,450,288,4.112
+DMM4117,ὀνάγρα,Oleander,1,e-698,4.116,Weidenr?schen,620,450,288,4.113
+DMM4118,κρίσσιον,Thistle,1,e-699,4.117,Kirsion,621,450,288,4.114
+DMM4119,ἀστὴρ Ἀττικός,Blue daisy,1,e-700,4.118,Attische Aster,621,451,288,4.115
+DMM4120,ἰσόπυρον,Fumitory,1,e-701,4.119,Isopyron,623,452,289,4.116
+DMM4121,ἴον,Violet,1,e-702,4.120,Veilchen,623,453,289,4.117
+DMM4122,κακκαλία,Caccalia,1,e-703,4.121,Kakalia,625,453,289,4.118
+DMM4123,βούνιον,Earthnut,1,e-704,4.122,Bunion,625,454,289,4.119
+DMM4124,ψευδοβούνιον,Cretan pimpinel,1,e-705,4.123,Pseudobunion,625,454,290,4.120
+DMM4125,χαμαίκισσος,Ground ivy,1,e-706,4.124,Chamaikissos,625,454,290,4.121
+DMM4126,χαμαιπεύκη,Fishbone thistle,1,e-707,4.125,Chamaipeuke,626,454,290,4.122
+DMM4127,βούγλωσσον,Bugloss,1,e-708,4.126,Italienische Ochsenzunge,626,455,290,4.123
+DMM4128,φύτευμα,Montpellier rocket,1,e-710,4.128,Phyteuma,628,456,291,4.125
+DMM4129,ὑπόγλωσσον,Horse tongue,1,e-712,4.130,Hypoglosson,629,457,291,4.127
+DMM4130,ἀντίρρινον,Calf' s snout,1,e-713,4.131,L?wenmaul,630,457,291,4.128
+DMM4131,κατανάγκη,Vetch,1,e-714,4.132,Katananka,631,458,291,4.129
+DMM4132,τριπόλιον,Sea starwort,1,e-715,4.133,Tripolion,631,458,292,4.130
+DMM4133,κῆμος,Cemos,1,,,,,,,
+DMM4134,ἀδίαντον,Maidenhair,1,e-716,4.134,Frauenhaar,632,458,292,4.131
+DMM4135,τριχομανές,Waterwort,1,e-717,4.135,Streifenfarn,632,459,293,4.132
+DMM4136,ξάνθιον,Broad-leaved burweed,1,e-718,4.136,Spitzklee,633,460,293,4.133
+DMM4137,αἰγίλωψ,Haver grass,1,e-719,4.137,Aigilops,634,460,293,4.134
+DMM4138,γλαύξ,Wart cress,1,e-720,4.138,Bromos,635,460,294,4.135
+DMM4139,πολύγαλον,Milkwort,1,e-721,4.139,Glaux,635,461,294,4.136
+DMM4140,ὄσιρις,Poet’s cassia,1,e-722,4.140,Kreuzblume,636,461,294,4.137
+DMM4141,ἐχῖνος,Echinos,1,e-723,4.141,Osyris,636,461,294,4.138
+DMM4142,μῖλαξ τραχεῖα,Rough bindweed,1,e-724,4.142,Rauher Smilax,636,462,294,4.139
+DMM4143,μῖλαξ λεία,Great bindweed,1,e-725,4.143,Glatter Smilax,637,462,295,4.140
+DMM4144,μυρσίνη ἀγρία,Butcher’s broom,1,e-726,4.144,Stechmyrte,638,463,295,4.141
+DMM4145,δάφνη Ἀλεξάνδρεια,Daphne,1,e-727,4.145,Alexandrinische Daphne,639,464,295,4.142
+DMM4146,δαφνοειδές,Spurge laurel,1,e-728,4.146,Daphnoides,640,465,296,4.143
+DMM4147,χαμαιδάφνη,Chamaidaphne,1,e-729,4.147,Chamaidaphne,640,465,296,4.144
+DMM4148,ἐλλέβορος,White hellebore,1,e-730,4.148,Weisse Nieswurz,641,465,296,4.145
+DMM4149,σησαμοειδὲς τὸ μέγα,Bastard rocket,1,e-732,4.150,Grosses Sesamoeides,645,468,299,4.147
+DMM4150,σίκυς ἄγριος,Squirting cu- cumber,1,e-734,4.152,Wilde Gurke,645,468,299; 300,4.149; 4.150
+DMM4151,ἡμέρου σικύου ἡ ῥιζα,Root of the cultivated cucumber,1,e-735,4.155,Elaterion,646,473,303,4.152
+DMM4152,σταφὶς ἁγρία,Stavesacre,1,e-736,4.153,Scharfer Rittersporn,647,471,301,
+DMM4153,θαψία,Deadly carrot,1,e-737,4.154,Thapsia,648,471,302,4.151
+DMM4154,σπάρτιον,Spanish broom,1,e-738,4.155,Pfriemen,649,473,303,4.152
+DMM4155,σίλλυβον,Milk thistle,1,e-739,4.156,Mariendistel,650,474,304,4.153
+DMM4156,βολβός ὁ ἐμετικός,Narcissus tazetta,1,,,,,,,
+DMM4157,βάλανος μυρεψική,Moringa sp. Ben,1,e-740,4.157,Salbeneichel,650,474,304,4.154
+DMM4158,νάρκισσος,Narcissus,1,e-741,4.158,Narzisse,653,475,304,4.155
+DMM4159,ἱπποφαές,Spurge,1,e-742,4.159,Stachelige Wolfsmilch,655,476,305,4.156
+DMM4160,ἱππόφαιστον,Hippophaiston,1,e-743,4.160,Hippophaiston,655,476,305,4.157
+DMM4161,κίκι,Castor oil tree,1,e-744,4.161,Wunderbaum,656,477,306,4.158
+DMM4162,ἐλλέβορος ὁ μέλας,Black hellebore,1,,,,,,,
+DMM4163,σεσαμοειδὲς τὸ μικρόν,Purple rock,1,,,,,,,
+DMM4164,τιθύμαλλος,Euphorbia L. sp. Spurge,1,e-745,4.162,Wolfsmilcharten,656,477,306; 308,4.159
+DMM4165,πιτυούσα,Quacksalver’s spurge,1,e-746,4.163,Pityusa,660,481,309,4.160
+DMM4166,λαθυρίς,Caper spurge,1,e-747,4.164,Lathyris,660,482,309,4.161
+DMM4167,πέπλος,Wartweed,1,e-748,4.165,Peplos,661,483,310,4.162
+DMM4168,πεπλίς,Wild purslane,1,e-749,4.166,Peplis,661,483,310,4.163
+DMM4169,χαμαισύκη,Thyme spurge,1,e-750,4.167,Erdfeige,662,484,311,4.164
+DMM4170,σκαμμωνία,Scam mony,1,e-751,4.168,Purgirwinde,662,484,311,4.165
+DMM4171,χαμελαία,Spurge olive,1,e-752,4.169,Bergseidelbast,663,485,312,4.166
+DMM4172,θυμελαία ἢ χαμελαία,Spurge flax,1,e-753,4.170,S?dlicher Seidelbast,663,486,313,4.167
+DMM4173,ἀκτῆ,Elder,1,e-754,4.171,Hollunder,664,486,313,4.168
+DMM4174,πυκνόκομον,Motherwort,1,e-756,4.173,Pyknokomon,667,488,314,4.169
+DMM4175,ἄπιος,Tuberous spurge,1,e-757,4.174,Birnwolfsmilch,667,488,315,4.170
+DMM4176,κολόκυνθα ἀγρία,Colocynth,1,e-758,4.175,Koloquinthe,668,489,315,4.171
+DMM4177,ἐπίθυμον,Epithymon,1,e-759,4.176,Flachsseide,668,490,316,4.172
+DMM4178,ἄλυπον,Herb terrible,1,e-760,4.177,Alypon,671,491,316,4.173
+DMM4179,ἔμπετρον,Sea heath,1,e-761,4.178,Empetron,671,491,316,4.174
+DMM4180,κληματίς,Traveler’s joy,1,e-762,4.179,Klematis,671,,316,
+DMM4181,ἄμπελος ἀγρία,Wild grapevine,1,e-763,4.180,Wilde Rebe,672,492,317,4.175
+DMM4182,ἄμπελος λευκή,Bryony,1,e-764,4.181,Weisse Rebe,672,493,317,4.176
+DMM4183,ἄμπελος μέλαινα,Black bryony,1,e-765,4.182,Schwarze Rebe,673,493,318,4.177
+DMM4184,πετρίς,Male fern,1,e-766,4.183,Wurmfarn,675,494,318,4.178
+DMM4185,θηλυπτερίς,Bracken,1,e-767,4.184,Saumfarn,675,495,319,4.179
+DMM4186,πολυπόδιον,Polypody,1,e-768,4.185,T?pfelfarn,676,495,319,4.180
+DMM4187,δρυπτερίς,Black oak fern,1,e-769,4.186,Eichenfarn,677,496,320,4.181
+DMM4188,κνῆκος,Safflower,1,e-770,4.187,Saflor,678,497,320,4.182
+DMM4189,λινόζωστις,Mercury,1,e-771,4.188,Bingelkraut,678,497,320,4.183
+DMM4190,ἡλιοτρόπιον τὸ μέγα,Large heliotrope,1,e-773,4.190,Grosses Heliotropion,680,499,321,4.185
+DMM4191,ἡλιοτρόπιον τὸ μικρόν,Small heliotrope,1,e-774,4.191,Kleines Heliotropion,680,500,322,4.186
+DMM4192,σκορπιοειδές,Scorpionwort,1,e-775,4.192,Skorpionskraut,682,501,322,4.187
+DMM5001,ἄμπελος οἰνοφόρος,Grapevine,1,e-777,5.1,Weinstock,689,502,323,5.1
+DMM5002,ἄμπελος ἀγρία,Wild grapevine,1,e-778,5.2,Wilder Weinstock,689,505,323,5.2
+DMM5003,σταφυλή,Grape,1,e-779,5.3,Weintraube,689,506,323,5.3
+DMM5004,οἰνάνθη,Oinanthe,1,e-781,5.5,Oinanthe (Frucht des wilden Weinstockes),691,507,324,5.5
+DMM5005,ὀμφάκιον,Omphacion,1,e-782,5.6,Omphakion,691,507,325,5.6
+DMM5006,οἶνοι,Wines,1,e-783,5.7,Die Eigenschaft der Weine nach ihrem Alter,692,508,325,5.7
+DMM5007,μελιλίτης,Melitites,1,e-791,5.15,Honigwein,695,511,330,5.11
+DMM5008,οἰνόμελι,Wine and honey mixture,1,e-792,5.16,Oinomeli,695,511,330,5.12
+DMM5009,μελίκρατον,Mixture of honey and water = Hydromel,1,e-793,5.17,Melikraton,695,512,331,5.13
+DMM5010,ὕδωρ,Water,1,e-794,5.18,Wasser,696,512,331,5.14
+DMM5011,θαλάττιον ὕδωρ,Seawater,1,e-795,5.19,Meerwasser,697,512,332,5.15
+DMM5012,θαλασσόμελι,Seawater mixed with honey,1,e-796,5.20,Honigmeerwasser,697,514,332,5.16
+DMM5013,ὄξος,Vinegar,1,e-797,5.21,Essig,697,514,333,5.17
+DMM5014,ὀξύμελι,Oxymel,1,e-798,5.22,Sauerhonig,698,516,333,5.18
+DMM5015,ὀξάλμη,Brine vinegar,1,e-799,5.23,Salzessig,698,516,334,5.19
+DMM5016,θυμοξάλμη,Brine vinegar flavored with Cretan thyme,1,e-800,5.24,Thymoxalme,698,516,334,5.20
+DMM5017,τὸ σκιλλητικὸν ὄξος,Vinegar flavored with squill,1,e-801,5.25,Meerzwiebelessig,698,516,334,5.21
+DMM5018,ὁ ἀπὸ τῆς σκίλλης οἶνος,Wine from squill,1,e-802,5.26,Meerzwiebelwein,699,516,335,5.22
+DMM5019,οἱ διὰ θαλάττης οἶνοι,Wines made with seawater,1,e-803,5.27,Meerwasserwein,699,517,336,5.23
+DMM5020,ὁ κυδωνίτης,Wine flavored with quinces,1,e-804,5.28,Andere k?nstliche Weine,700,517,336,5.24
+DMM5021,μηλόμελι,Honey flavored with quinces,1,e-805,5.29,Apfelhonig,700,517,337,
+DMM5022,ὑδρόμηλον,Water and honey flavored with quinces,1,e-806,5.30,Wassermeth,700,517,337,5.25
+DMM5023,ὀμφακόμελι,Unripe grapes and honey drink,1,e-807,5.31,Herbetraubenmeth,700,517,337,5.26
+DMM5024,ἀπίτης,Pear wine,1,e-808,5.32,Birnenwein,700,518,337,5.27
+DMM5025,οἰνάνθινος,Wine flavored with flowers of the wild grape,1,e-809,5.33,Weinbl?thenwein,700,518,337,5.28
+DMM5026,ῥοίτης,Pomegranate wine,1,e-810,5.34,Granatenwein,700,518,337,5.29
+DMM5027,ῥοδίτης,Wine flavored with roses,1,e-811,5.35,Rosenwein,700,518,338,5.30
+DMM5028,μυρτίτης,Myrtle wine,1,e-812,5.36,Myrtenbeerenwein,700,518,338,5.31
+DMM5029,μυρσινίτης,Wine flavored with myrtles,1,e-813,5.37,Myrtenwein,701,518,338,5.32
+DMM5031,φοινικίτης,Date palm wine,1,e-816,5.40,Dattelwein,701,518,339,5.34
+DMM5032,ὁ τροχίτης,Fig wine,1,e-817,5.41,Feigenwein,701,519,339,5.35
+DMM5033,ὁ ἐκ τῶν συκομόρων,Wine of sycamore figs,1,e-818,5.42,Sykomorenwein,701,,340,
+DMM5034,ὁ ῥητινίτης,Wine flavored with resin,1,e-819,5.43,Geharzter Wein,701,519,340,5.36
+DMM5035,6 στροβιλίτης,Wine flavored with strobilos pine cones,1,e-820,5.44,Zirbelnusswein,701,519,340,5.37
+DMM5036,ὁ κέδρινος ἢ ἀρκεύθινος ἢ κυπαρίσσινος ἢ δάφνινος πιτύινος ἢ ἐλάτινος,Wine flavored with cedar or juniper or cypress or sweet bay or pitys pine or fir,1,e-821,5.45,Cedernwein,701,519,340,5.38
+DMM5037,κεδρίτης,Wine flavored with resin of Syrian cedar,1,e-823,5.47,Cedernharzwein,701,519,341,
+DMM5038,οἶνος πισσίτης,Wine flavored with pitch,1,e-824,5.48,Pechwein,702,520,341,5.39
+DMM5039,ἀψινθίτης,Wine flavored with wormwood artemisia absinthium,1,e-825,5.49,Wermuthwein,702,520,342,5.40
+DMM5040,ὑσσωπίτης,Wine flavored with hyssop,1,e-826,5.50,Hysopwein,702,520,342,5.41
+DMM5041,ὁ χαμαιδρυίτης,Wine flavored with germander,1,e-827,5.51,Gamanderwein,702,520,343,5.42
+DMM5042,ὁ > στοιχαδίτης,Wine flavored with French lavender,1,e-828,5.52,Lavendelwein,702,,343,
+DMM5043,ὂξος διὰ στοιχάδος,French lavender vinegar,1,e-829,5.53,Lavendelessig,702,,343,
+DMM5044,ἐκ κέστρου τοῦ ψυχροτρόφου οἶνος,Wine made from betony,1,e-830,5.54,Gliedkrautwein,702,,343,
+DMM5045,τραγοριγανίτης,Wine flavored with goat’s marjoram,1,e-831,5.55,Tragoriganoswein,702,,343,
+DMM5046,οἶνος διὰ βουνίου,Wine flavored with earthnuts,1,e-832,5.56,Erdknotenwein,702,,344,
+DMM5047,δικταμνίτης,Wine flavored with dittany of Crete,1,e-833,5.57,Diptamwein,702,,344,
+DMM5048,ὁ διὰ πρασίου,Wine flavored with horehound,1,e-834,5.58,Andornwein,702,,344,
+DMM5049,θυμίτης,Wine flavored with Cretan thyme,1,e-835,5.59,Thymianwein,702,,344,
+DMM5050,θυμβρίτης,Wine flavored with savory,1,e-836,5.60,Satureiwein,702,,344,
+DMM5051,οἶνος ὀριγανίτης,Wine flavored with oregano,1,e-837,5.61,Dostenwein,702,,344,
+DMM5052,οἶνος καλαμινθίτης,wormwood artemisia abrotonon,1,e-838,5.62,"Minzen-, Polei- und Beifusswein",702,,344,
+DMM5053,οἶνος κονυζίτης,Wine flavored with fleabane,1,e-839,5.63,Berufskrautwein,702,,344,
+DMM5054,οἶνος ἀρωματίτης,Wine made with aromatics,1,e-840,5.64,Gew?rzter Wein,702,521,344,5.43
+DMM5055,οἶνος πρὸς κατάρρους,Wine for catarrhs,1,e-841,5.65,"Wein aus Myrrhe, Pfeffer und Schwertlilie",703,521,345,5.44
+DMM5056,ὁ νεκταρίτης,Wine flavored with elecampane,1,e-842,5.66,Nektarwein,703,,345,
+DMM5057,ὁ διὰ Συριακῆς νάρδου καὶ Κελτικῆς καὶ μαλαβάθρου,and leaf of malabar,1,e-843,5.67,Wein aus syrischer und keltischer Narde und aus Malabathron,703,,345; 346,
+DMM5058,ἀσαρίτης,Wine flavored with hazelwort,1,e-844,5.68,Aronswein,703,,345; 346,
+DMM5059,ὁ διὰ τῆς ἀγρίας ἀγρίας,Wine flavored with Cretan spikenard,1,e-845,5.69,Wein aus der wilden Narde,703,,346,
+DMM5060,δαυκίτης,Wine flavored with daucos,1,e-846,5.70,M?hrenwein,703,522,346,5.45
+DMM5061,ἐλελισφακίτης,Wine flavored with sage,1,e-847,5.71,Salbeiwein,703,,346,
+DMM5062,πανακίτης,Wine flavored with allheal,1,e-848,5.72,Panaxwein,703,,346,
+DMM5063,ἀκορίτης καὶ ὁ ἀπὸ γλυκορρίζης,Wine flavored with yellow flag and wine flavored with licorice,1,e-849,5.73,Akoronwein,703,,346,
+DMM5064,σελινίτης,Wine flavored with celery,1,e-850,5.74,Selleriewein,703,,347,
+DMM5065,μαραθίτης καὶ ἀνήθινος καὶ πετροσελινίτης,and wine flavored parsley,1,e-851,5.75,Fenchel- und Dillwein,703,,347,
+DMM5066,δι' ἁλὸς ἄνθους οἶνος,Wine from salt-water froth,1,e-852,5.76,Salzbl?thewein,703,,347,
+DMM5067,φθόριος ἐμβρύων οἶνος,Abortifacient wine,1,e-853,5.77,Abortivwein,703,,347,
+DMM5068,θυμελαίτης,Wine flavored with spurge flax,1,e-854,5.78,Seidelbastwein,703,,347,
+DMM5069,χαμελαίτης,Wine flavored with spurge olive,1,e-855,5.79,Bergseidelbastwein,703,,347,
+DMM5070,χαμαιπιτύινος,Wine flavored with ground pine,1,e-856,5.80,G?nselwein,703,,347,
+DMM5071,μανδραγορίτης,Wine flavored with mandrake,1,e-857,5.81,Mandragorawein,703,,348,
+DMM5072,ἐλλεβορίτης,Wine flavored with hellebore,1,e-858,5.82,Nieswurzwein,703,,348,
+DMM5073,σκαμμωνίτης,Wine flavored with scammony,1,e-859,5.83,Purgirwindenwein,703,,349,
+DMM5074,καδμεία,Calamine,1,e-860,5.84,Kadmeia,704,523,349,5.46
+DMM5075,πομφόλυξ,Pompholyx,1,e-861,5.85,Pompholyx,705,526,351,
+DMM5076,κεκαυμένος χαλκός,Burned copper,1,e-862,5.86,Antispodon,705,527,353,
+DMM5077,χαλχοῦ ἄνθος,Flower of copper,1,e-863,5.87,Gebranntes Kupfer,707,528,354,5.47
+DMM5078,λεπίς,Flake [of copper ore],1,e-864,5.88,Kupferbl?the,707,528,355,5.48
+DMM5079,ἰὸς ξυστός,Verdigris,1,e-867,5.91,Abgekratzter Gr?nspan,709,530,356,5.51
+DMM5080,ἰὸς σιδίρου,Iron rust,1,e-869,5.93,Eisenrost,710,531,359,5.53
+DMM5081,πεπλυμένος μόλυβδος,Washed lead,1,e-871,5.95,Gewaschenes Blei,711,532,359,5.55
+DMM5082,σκωρία μολύβδου,Lead dross,1,e-873,5.97,Bleischlacke,711,532,360,5.57
+DMM5083,ὁ μολυβδοειδὴς λίθος,Leadstone,1,e-874,5.98,Bleistein,711,533,361,5.58
+DMM5084,στίβι,Antimony,1,e-875,5.99,Stimmi,712,533,361,5.59
+DMM5085,μολύβδαινα,Galena,1,e-876,5.100,Molybdaina,714,534,361,5.60
+DMM5086,ἡ τοῦ ἀργρύρου σκωρία,Silver dross,1,e-877,5.101,Silberschlacke,715,534,362,5.61
+DMM5087,λιθάργυρος,Litharge,1,e-878,5.102,Bleigl?tte,715,534,362,5.62
+DMM5088,ψιμύθιον,White lead,1,e-879,5.103,Bleiweiss,716,536,364,5.63
+DMM5089,χρυσοκόλλα,Basic copper carbonate,1,e-880,5.104,Chrysokolla,717,537,365,5.64
+DMM5090,Ἀρμένιον,Azurite,1,e-881,5.105,Armenion,717,538,366,5.65
+DMM5091,κύανος,Lapis lazuli,1,e-882,5.106,Kyanos,719,538,366,5.66
+DMM5092,Ἰνδικόν,Indigo,1,e-883,5.107,Indikon,719,539,366,5.67
+DMM5093,ὦχρα,Yellow ocher,1,e-884,5.108,Ochra,720,539,367,5.68
+DMM5094,κιννάβαρι,Cinnabar,1,e-885,5.109,Kinnabari,720,539,367,5.69
+DMM5095,ὑδράργυρος,Mercury,1,e-886,5.110,Quecksilber,722,540,367,5.70
+DMM5096,μίλτος Σινωπική,Sinopic red earth,1,e-887,5.111,Sinopischer R?thel,723,542,368,5.71
+DMM5097,Λημνία γῆ,Lemnian earth,1,e-889,5.113,Lemnische Erde,724,543,368,5.73
+DMM5098,χαλκανθές,Vitriol,1,e-890,5.114,Chalkanthos,727,544,369,5.74
+DMM5099,χαλκῖτις,Rock alum,1,e-891,5.115,Chalkitis,729,545,369,5.75
+DMM5100,μίσυ,Misy,1,e-893,5.116,Misy,729,545,370,5.76
+DMM5101,μελαντηρία,Shoemaker’s black,1,e-894,5.117,Melanteria,729,545,371,5.77
+DMM5102,σῶρι,Melanterite,1,e-895,5.118,Sory,729,545,371,5.78
+DMM5103,διφρυγές,Pyrites,1,e-896,5.119,Diphryges,731,546,371,5.79
+DMM5104,ἀρσενικόν,Yellow orpiment,1,e-897,5.120,Arsenikon,731,547,372,5.80
+DMM5105,σανδαράκη,Arsenic sulfide,1,e-898,5.121,Sandaracha,731,547,373,5.81
+DMM5106,στυπτηρία,Alum,1,e-899,5.122,Stypteria,732,548,373,5.82
+DMM5107,θεῖον,Sulfur,1,e-900,5.123,Schwefel,734,549,374,5.83
+DMM5108,κίσηρις,Pumice stone,1,e-901,5.124,Bimsstein,735,550,375,5.84
+DMM5109,ἅλς,Salt,1,e-902,5.125,Salze,735,551,376,5.85
+DMM5110,ἁλὸς ἄχνη,Salt froth,1,e-903,5.126,Salzschaum,736,551,377,5.86
+DMM5111,ἅλμη,Brine,1,e-904,5.127,Salzlake,736,552,377,5.87
+DMM5112,ἄνθος ἁλός,Salt efflorescenee/Salt scum,1,e-905,5.128,Salzbl?the,736,552,377,5.88
+DMM5113,νίτρον,Soda,1,e-906,5.129,Natron,738,553,378,5.89
+DMM5114,τρύξ,Wine lees,1,e-908,5.131,Weinabsatz,739,554,379,5.90
+DMM5115,ἄσβεστος,Unslaked lime,1,e-909,5.132,Gebrannter Kalk,739,554,379,5.91
+DMM5116,γύψος,Gypsum,1,e-910,5.133,Gyps,739,555,380,5.92
+DMM5117,τέφρα κλημαντίνη,Ash of vine twigs,1,e-911,5.134,Weinrebenasche,740,555,380,5.93
+DMM5118,ἀλκυόνιον,Alcyonion,1,e-912,5.135,Halkyonion,740,555,380,5.94
+DMM5119,ἀδάρκης,Adarces,1,e-913,5.136,Adarkes,741,556,381,5.95
+DMM5120,σπόγγοι,Sponges,1,e-914,5.137,Schw?mme,741,556,381,5.96
+DMM5121,τὸ κοράλιον,Coral,1,e-915,5.138,Koralle,742,557,382,5.97
+DMM5122,ἀντιπαθές,Antipathes,1,e-916,5.139,Antipathes,742,557,382,
+DMM5123,λίθος Φρύγιος,Phrygian stone,1,e-917,5.140,Phrygischer Stein,743,558,383,5.98
+DMM5124,Ἄσσιος λίθος,Assian stone,1,e-918,5.141,Assischer Stein,743,558,383,5.99
+DMM5125,πυρίτης λίθος,Copper pyrites,1,e-919,5.142,Pyritesstein,744,558,384,5.100
+DMM5126,αἱματίτης λίθος,Hematite,1,e-920,5.143,Blutstein,745,559,384,5.101
+DMM5127,σχιστὸς λίθος,Talc,1,e-921,5.144,Spaltstein,745,560,385,5.102
+DMM5128,Γαγάτης,Lignite,1,e-922,5.145,Gagatstein,746,560,385,5.103
+DMM5129,Θρακίας,Thracian stone,1,e-923,5.146,Thrakischer Stein,747,560,386,5.104
+DMM5130,μαγνῆτις λίθος,Magnet,1,e-924,5.147,Magnetstein,747,560,386,5.105
+DMM5131,Ἀραβικὸς λίθος,Arabian stone,1,e-925,5.148,Arabischer Stein,748,561,386,5.106
+DMM5132,γαλακτίτης,Milkstone,1,e-926,5.149,Milchstein,748,561,386,5.107
+DMM5133,μελιτίτης,Honeystone,1,e-927,5.150,Honigstein,748,561,386,5.108
+DMM5134,λίθος μόροχθος,Pipe clay,1,e-928,5.151,Morochthosstein,748,561,386,5.109
+DMM5135,λίθος ἀλαβαστρίτης,Alabaster,1,e-929,5.152,Alabasterstein,749,562,387,5.110
+DMM5136,θυίτης,Thyites,1,e-930,5.153,Thy?tesstein,749,562,387,5.111
+DMM5137,Ἰουδαικὸς λίθος,Judaic stone,1,e-931,5.154,Judenstein,749,562,387,5.112
+DMM5138,λίθος ἀμίαντος,Asbestos,1,e-932,5.155,Amiantstein,750,562,387,5.113
+DMM5139,λίθος σάπφειρος,Lapis lazuli,1,e-933,5.156,Sapphir,750,563,387,5.114
+DMM5140,λίθος Μεμφίτης,~ Memphitic stone,1,e-934,5.157,Memphitstein,750,563,388,5.115
+DMM5141,λίθος σεληνίτης,Selenite,1,e-935,5.158,Selenitstein,751,563,388,5.116
+DMM5142,λίθος ἴασπις,Jasper,1,e-936,5.159,Jaspisstein,751,564,388,5.117
+DMM5143,λίθος ὀφίτης,Serpentine,1,e-938,5.161,Schlangenstein,752,565,389,5.119
+DMM5144,λίθοι οἱ ἐν τοῖς σπόγγοις,The stones in the sponges,1,e-939,5.162,Schwammsteine,752,565,389,5.120
+DMM5145,λιθοκόλλα,Stone glue,1,e-940,5.163,Steinkitt,752,565,389,5.121
+DMM5146,λίθος ὀστρακίτης,Clay stone,1,e-941,5.164,Ostrakitstein,753,565,389,5.122
+DMM5147,σμύρις,Emery,1,e-942,5.165,Smirgel,753,565,389,5.123
+DMM5148,ἄμμος,Sand,1,e-943,5.166,Sand,753,565,389,5.124
+DMM5149,ἀκόνης Ναξίας ἀπότριμμα,Naxian whetstone powder,1,e-944,5.167,Schleifstein,753,566,389,5.125
+DMM5150,λίθος γεώδης,Earth-like stone,1,e-945,5.168,Geodes-Stein,753,566,390,5.126
+DMM5151,γῆ,Earth,1,e-946,5.169,Erde,753,566,390,5.127
+DMM5152,Ἑρετριάδος γῆ,Eretrian earth,1,e-947,5.170,Eretrische Erde,753,566,390,5.128
+DMM5153,Σαμία γῆ,Samian earth,1,e-948,5.171,Samische Erde,754,566,390,5.129
+DMM5154,ἐν τῇ Σαμίᾳ γῇ λίθος,Stone found in Samian earth,1,e-949,5.172,Stein in der samischen Erde,754,566,391,5.130
+DMM5155,Χία γῆ,Chian earth,1,e-950,5.173,Erde von Chios,754,567,391,5.131
+DMM5156,Κιμωλία γῆ,Cimolian earth,1,e-952,5.175,Kimolissche Erde,754,567,391,5.133
+DMM5157,πνιγῖτις γῆ,Pnigitis earth,1,e-953,5.176,Pnigit-Erde,754,567,391,5.134
+DMM5158,ὄστρακα,Potsherds,1,e-955,5.178,Erde aus den Oefen,754,567,392,5.136
+DMM5159,Μηλία γῆ,Melian earth,1,e-956,5.179,Melische Erde,755,567,392,5.137
+DMM5160,ἀμπελῖτις γῆ,Ampelitis earth,1,e-957,5.180,Weinstockerde,755,567,392,5.138
+DMM5161,ἀσβόλη,Soot,1,e-958,5.181,Russ,755,568,393,5.139
+DMM5162,μέλαν,Black ink,1,e-959,5.182,Tinte,755,568,393,5.140
+DMM5306,σχίνινος,Mastic wine,1,e-814,5.38,Mastixwein,701,518,338,5.33

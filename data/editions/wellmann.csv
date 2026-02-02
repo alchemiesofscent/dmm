@@ -1,0 +1,832 @@
+edition,edition_entry_id,wellmann_id,wellmann_book,wellmann_chapter,wellmann_greek_text
+wellmann,row1,w-1,1,1,ἶρις Ἰλλυρική; ἶρις Μακεδονική; ἶρις Λιβυκὴ
+wellmann,row2,w-2,1,2,ἄκορον
+wellmann,row3,w-3,1,3,μῆον
+wellmann,row4,w-4,1,4,κύπερος
+wellmann,row5,w-5,1,5,ἕτερον εἶδος κυπέρου
+wellmann,row6,w-6,1,6,καρδάμωμον
+wellmann,row7,w-7,1,7,νάρδος
+wellmann,row8,w-8,1,8,Κελτικὴ νάρδος
+wellmann,row9,w-9,1,9,ὀρεινὴ νάρδος
+wellmann,row10,w-10,1,10,ἄσαρον
+wellmann,row11,w-11,1,11,φοῦ
+wellmann,row12,w-12,1,12,μαλάβαθρον
+wellmann,row13,w-13,1,13,κασσία
+wellmann,row14,w-14,1,14,κινάμωμον
+wellmann,row15,w-15,1,15,ἄμωμον
+wellmann,row16,w-16,1,16,κόστος
+wellmann,row17,w-17,1,17,σχοῖνος
+wellmann,row18,w-18,1,18,κάλαμος ἀρωματικός
+wellmann,row19,w-19,1,19,βάλσαμον
+wellmann,row20,w-20,1,20,ἀσπάλαθος
+wellmann,row21,w-21,1,21,βρύον
+wellmann,row22,w-22,1,22,ἀγάλοχον
+wellmann,row23,w-23,1,23,νάσκαφθον
+wellmann,row24,w-24,1,24,κάγκαμον
+wellmann,row25,w-25,1,25,κῦφι
+wellmann,row26,w-26,1,26,κρόκος
+wellmann,row27,w-27,1,27,κροκόμαγμα
+wellmann,row28,w-28,1,28,ἐλένιον
+wellmann,row29,w-29,1,29,ἐλένιον ἄλλο
+wellmann,row30,w-30,1,30,ἔλαιον
+wellmann,row31,w-31,1,31,ἐλαιόμελι
+wellmann,row32,w-32,1,32,κίκινον
+wellmann,row33,w-33,1,33,ἀμυγδάλινον
+wellmann,row34,w-34,1,34,βαλάνινον
+wellmann,row35,w-35,1,35,ὑοσκυάμινον
+wellmann,row36,w-36,1,36,"Κνιδίου κόκκου, ἔλαιον σκευάζεται διὰ τοῦ"
+wellmann,row37,w-37,1,37,ῥαφάνινον
+wellmann,row38,w-38,1,38,σινάπινον
+wellmann,row39,w-39,1,39,μυρσίνινον
+wellmann,row40,w-40,1,40,δάφνινον
+wellmann,row41,w-41,1,41,σχίνινον
+wellmann,row42,w-42,1,42,μαστίχινον
+wellmann,row43,w-43,1,43,ῥοδίνου σκευασία
+wellmann,row44,w-44,1,44,ἐλατίνου σκευασία
+wellmann,row45,w-45,1,45,μηλίνου σκευασία
+wellmann,row46,w-46,1,46,οἰνανθίνου σκευασία
+wellmann,row47,w-47,1,47,τηλίνου σκευασία
+wellmann,row48,w-48,1,48,σαμψουχίνου σκευασία
+wellmann,row49,w-49,1,49,ὠκιμίνου σκευασία
+wellmann,row50,w-50,1,50,ἁβροτονίνου σκευασία
+wellmann,row51,w-51,1,51,ἀνηθίνου σκευασία
+wellmann,row52,w-52,1,52,σουσίνου σκευασία
+wellmann,row53,w-53,1,53,ναρκίσσινον
+wellmann,row54,w-54,1,54,κρόκινον
+wellmann,row55,w-55,1,55,κυπρίνου στύψις καὶ σκευασία
+wellmann,row56,w-56,1,56,ἰρίνου στύψις
+wellmann,row57,w-57,1,57,γλεύκινον
+wellmann,row58,w-58,1,58,ἀμαράκινον
+wellmann,row59,w-59,1,59,μετώπιον
+wellmann,row60,w-60,1,60,στακτή
+wellmann,row61,w-61,1,61,κιναμώμινον
+wellmann,row62,w-62,1,62,νάρδινον
+wellmann,row63,w-63,1,63,μαλαβάθρινον
+wellmann,row64,w-64,1,64,σμύρνα
+wellmann,row65,w-65,1,65,Βοιωτιακὴ σμύρνα
+wellmann,row66,w-66,1,66,στύραξ
+wellmann,row67,w-67,1,67,βδέλλιον
+wellmann,row68,w-68,1,68,λίβανος
+wellmann,row69,w-69,1,69,πίτυς
+wellmann,row70,w-70,1,70,σχῖνος
+wellmann,row71,w-71,1,71,τέρμινθος
+wellmann,row72,w-72,1,72,πίσσα
+wellmann,row73,w-73,1,73,ἄσφαλτος
+wellmann,row74,w-74,1,74,κυπάρισσος
+wellmann,row75,w-75,1,75,ἄρκευθος
+wellmann,row76,w-76,1,76,βράθυ
+wellmann,row77,w-77,1,77,κέδρος
+wellmann,row78,w-78,1,78,δάφνη
+wellmann,row79,w-79,1,79,πλατάνου
+wellmann,row80,w-80,1,80,μελία
+wellmann,row81,w-81,1,81,λεύκη
+wellmann,row82,w-82,1,82,μάκιρ
+wellmann,row83,w-83,1,83,αἴγειρος
+wellmann,row84,w-84,1,84,πτελέας
+wellmann,row85,w-85,1,85,καλάμων
+wellmann,row86,w-86,1,86,πάπυρος
+wellmann,row87,w-87,1,87,μυρίκη
+wellmann,row88,w-88,1,88,ἐρείκη
+wellmann,row89,w-89,1,89,ἀκακαλλίς
+wellmann,row90,w-90,1,90,ῥάμνος
+wellmann,row91,w-91,1,91,ἅλιμον
+wellmann,row92,w-92,1,92,παλίουρος
+wellmann,row93,w-93,1,93,ὀξυάκανθα
+wellmann,row94,w-94,1,94,κυνόσβατος
+wellmann,row95,w-95,1,95,κύπρος
+wellmann,row96,w-96,1,96,φιλύρα
+wellmann,row97,w-97,1,97,κίσθος
+wellmann,row98,w-98,1,98,ἔβενος
+wellmann,row99,w-99,1,99,ῥόδα
+wellmann,row100,w-100,1,100,λύκιον
+wellmann,row101,w-101,1,101,ἀκακία
+wellmann,row102,w-102,1,102,ἀμόργη
+wellmann,row103,w-103,1,103,ἄγνος
+wellmann,row104,w-104,1,104,ἰτέα
+wellmann,row105,w-105,1,105,ἀγριελαία
+wellmann,row106,w-106,1,106,δρῦς
+wellmann,row107,w-107,1,107,κηκίς
+wellmann,row108,w-108,1,108,ῥοῦς
+wellmann,row109,w-109,1,109,φοῖνιξ
+wellmann,row110,w-110,1,110,ῥόα
+wellmann,row111,w-111,1,111,βαλαύστιον
+wellmann,row112,w-112,1,112,μυρσίνη
+wellmann,row113,w-113,1,113,κεράσια
+wellmann,row114,w-114,1,114,κεράτια
+wellmann,row115,w-115,1,115,μηλέα
+wellmann,row116,w-116,1,116,ἄπιος
+wellmann,row117,w-117,1,117,λωτός
+wellmann,row118,w-118,1,118,μέσπιλον
+wellmann,row119,w-119,1,119,κρανία
+wellmann,row120,w-120,1,120,οὖα
+wellmann,row121,w-121,1,121,κοκκυμηλέα
+wellmann,row122,w-122,1,122,κόμαρος
+wellmann,row123,w-123,1,123,ἀμυγδάλης
+wellmann,row124,w-124,1,124,πιστάκια
+wellmann,row125,w-125,1,125,κάρυα βασιλικά
+wellmann,row126,w-126,1,126,μορέα
+wellmann,row127,w-127,1,127,συκόμορον
+wellmann,row128,w-128,1,128,σῦκα
+wellmann,row129,w-129,1,129,περσαία
+wellmann,row130,w-130,2,0,
+wellmann,row131,w-131,2,1,ἐχῖνος θαλάσσιος
+wellmann,row132,w-132,2,2,ἐχῖνος χερσαῖος
+wellmann,row133,w-133,2,3,ἱππόκαμπος
+wellmann,row134,w-134,2,4,πορφύρα
+wellmann,row135,w-135,2,5,μύακες Ποντικοί
+wellmann,row136,w-136,2,6,τελλῖναι
+wellmann,row137,w-137,2,7,πορφύρας πώματα
+wellmann,row138,w-138,2,8,ὄνυξ
+wellmann,row139,w-139,2,9,κοχλίας χερσαῖος
+wellmann,row140,w-140,2,10,"καρκίνων ποταμίων καέντων ἡ τέφρα,"
+wellmann,row141,w-141,2,11,σκόρπιος χερσαῖος
+wellmann,row142,w-142,2,12,θαλασσίου σκορπίου ἡ χολὴ
+wellmann,row143,w-143,2,13,δράκων θαλάσσιος
+wellmann,row144,w-144,2,14,σκολοπένδρα θαλασσία
+wellmann,row145,w-145,2,15,νάρκη θαλασσία
+wellmann,row146,w-146,2,16,ἐχίδνης
+wellmann,row147,w-147,2,17,ὄφις
+wellmann,row148,w-148,2,18,λαγωὸς θαλάσσιος
+wellmann,row149,w-149,2,19,τοῦ δὲ χερσαίου λαγωοῦ ὁ ἐγκέφαλος
+wellmann,row150,w-150,2,20,τρυγόνος θαλασσίας
+wellmann,row151,w-151,2,21,σηπίας τὸ μέλαν
+wellmann,row152,w-152,2,22,τρίγλα
+wellmann,row153,w-153,2,23,ὄρχις ἱπποποτάμου
+wellmann,row154,w-154,2,24,ὁ τοῦ κάστορος ὄρχις
+wellmann,row155,w-155,2,25,γαλῆ κατοικίδιος
+wellmann,row156,w-156,2,26,βάτραχοι
+wellmann,row157,w-157,2,27,σίλουρος
+wellmann,row158,w-158,2,28,σμαρίδος ταριχηρᾶς ἡ κεφαλὴ καεῖσα
+wellmann,row159,w-159,2,29,καὶ ἡ τῆς μαινίδος κεφαλή
+wellmann,row160,w-160,2,30,κωβίος
+wellmann,row161,w-161,2,31,ὠμοτάριχος
+wellmann,row162,w-162,2,32,γάρος
+wellmann,row163,w-163,2,33,ζωμὸς ἰχθύων
+wellmann,row164,w-164,2,34,κόρεις οἱ ἀπὸ κλίνης
+wellmann,row165,w-165,2,35,ὄνοι οἱ ὑπὸ τὰς ὑδρίας
+wellmann,row166,w-166,2,36,σίλφη
+wellmann,row167,w-167,2,37,πνεύμων θαλάσσιος
+wellmann,row168,w-168,2,38,ὁ χοίρειος καὶ ἄρνειος [καὶ ἅρκειος] πνεύμων
+wellmann,row169,w-169,2,39,ἀλώπεκος πνεύμων
+wellmann,row170,w-170,2,40,ἧπαρ ὄνειον
+wellmann,row171,w-171,2,41,αἰδοῖον ἄρρενος ἐλάφου
+wellmann,row172,w-172,2,42,ὄνυχες ὄνων
+wellmann,row173,w-173,2,43,λειχῆνες ἵππων
+wellmann,row174,w-174,2,44,οἱ τῶν αἰγων ὄνύχες
+wellmann,row175,w-175,2,45,τοῦ δὲ ἤπατος τῆς αἰγὸς ἰχώρ
+wellmann,row176,w-176,2,46,τὸ δὲ τοῦ κάπρου ἧπαρ
+wellmann,row177,w-177,2,47,κυνὸς δὲ λυσσῶντος ἧπαρ
+wellmann,row178,w-178,2,48,κασσυμάτων παλαιὰ δέρματα
+wellmann,row179,w-179,2,49,ἀλεκτορίδες
+wellmann,row180,w-180,2,50,ᾠόν
+wellmann,row181,w-181,2,51,τέττιγες
+wellmann,row182,w-182,2,52,ἀκρίδες
+wellmann,row183,w-183,2,53,φήνη
+wellmann,row184,w-184,2,54,κορυδαλλός
+wellmann,row185,w-185,2,55,αἰθυίας ἧπαρ
+wellmann,row186,w-186,2,56,χελιδὸνος νεοσσοί
+wellmann,row187,w-187,2,57,ἐλέφαντος ὀδούς
+wellmann,row188,w-188,2,58,ἀστράγαλος ὑὸς
+wellmann,row189,w-189,2,59,ἐλάφου κέρας
+wellmann,row190,w-190,2,60,κάμπαι
+wellmann,row191,w-191,2,61,κανθαρίδες
+wellmann,row192,w-192,2,62,σαλαμάνδρα
+wellmann,row193,w-193,2,63,ἀράχνη τὸ ζῷον
+wellmann,row194,w-194,2,64,σαύρας
+wellmann,row195,w-195,2,65,σήψ
+wellmann,row196,w-196,2,66,σκίγκος
+wellmann,row197,w-197,2,67,γῆς ἔντερα
+wellmann,row198,w-198,2,68,μυογαλῆ
+wellmann,row199,w-199,2,69,μύες
+wellmann,row200,w-200,2,70,γάλα
+wellmann,row201,w-201,2,71,τυρὸς
+wellmann,row202,w-202,2,72,βούτυρον
+wellmann,row203,w-203,2,73,ἔρια οἰσυπηρά
+wellmann,row204,w-204,2,74,οἴσυπος
+wellmann,row205,w-205,2,75,πιτύα
+wellmann,row206,w-206,2,76,στέαρ
+wellmann,row207,w-207,2,77,μυελῶν
+wellmann,row208,w-208,2,78,χολὴ
+wellmann,row209,w-209,2,79,αἷμα
+wellmann,row210,w-210,2,80,ἀπόπατος
+wellmann,row211,w-211,2,81,οὖρον
+wellmann,row212,w-212,2,82,μέλι
+wellmann,row213,w-213,2,83,κηρός
+wellmann,row214,w-214,2,84,πρόπολις
+wellmann,row215,w-215,2,85,πυροί
+wellmann,row216,w-216,2,86,κριθή
+wellmann,row217,w-217,2,87,ζύθος
+wellmann,row218,w-218,2,88,κοῦρμι
+wellmann,row219,w-219,2,89,ζέα
+wellmann,row220,w-220,2,90,κρίμνον
+wellmann,row221,w-221,2,91,ὄλυρα
+wellmann,row222,w-222,2,92,ἀθήρα
+wellmann,row223,w-223,2,93,τράγος
+wellmann,row224,w-224,2,94,βρόμος
+wellmann,row225,w-225,2,95,ὄρυζα
+wellmann,row226,w-226,2,96,χόνδρος
+wellmann,row227,w-227,2,97,κέγχρος
+wellmann,row228,w-228,2,98,ἔλυμος
+wellmann,row229,w-229,2,99,σήσαμον
+wellmann,row230,w-230,2,100,αἶρα
+wellmann,row231,w-231,2,101,ἄμυλον
+wellmann,row232,w-232,2,102,τήλεως ἄλευρον
+wellmann,row233,w-233,2,103,λινόσπερμον
+wellmann,row234,w-234,2,104,ἐρέβινθος ὁ ἥμερος
+wellmann,row235,w-235,2,105,κύαμος Ἑλληνικός
+wellmann,row236,w-236,2,106,Αἰγύπτιος κύαμος
+wellmann,row237,w-237,2,107,φακός
+wellmann,row238,w-238,2,108,ὄροβος
+wellmann,row239,w-239,2,109,θέρμος
+wellmann,row240,w-240,2,110,γογγύλη
+wellmann,row241,w-241,2,111,βουνιάς
+wellmann,row242,w-242,2,112,ῥαφανίς
+wellmann,row243,w-243,2,113,σίσαρον
+wellmann,row244,w-244,2,114,λάπαθον
+wellmann,row245,w-245,2,115,ἱππολάπαθον
+wellmann,row246,w-246,2,116,λαμψάνη
+wellmann,row247,w-247,2,117,βλίτον
+wellmann,row248,w-248,2,118,μολόχη
+wellmann,row249,w-249,2,119,ἀνδράφαξυς
+wellmann,row250,w-250,2,120,κράμβη ἥμερος
+wellmann,row251,w-251,2,121,κράμβη ἀγρία
+wellmann,row252,w-252,2,122,κράμβη ἡ θαλασσία
+wellmann,row253,w-253,2,123,σεῦτλον
+wellmann,row254,w-254,2,124,ἀνδράχνη
+wellmann,row255,w-255,2,125,ἀσπάραγος πετραῖος ἢ μυάκανθος
+wellmann,row256,w-256,2,126,ἀρνόγλωσσον
+wellmann,row257,w-257,2,127,σίον
+wellmann,row258,w-258,2,128,σισύμβριον
+wellmann,row259,w-259,2,129,κρῆθμον
+wellmann,row260,w-260,2,130,κορωνόπους
+wellmann,row261,w-261,2,131,σόγχος
+wellmann,row262,w-262,2,132,σέρις
+wellmann,row263,w-263,2,133,χονδρίλη
+wellmann,row264,w-264,2,134,κολοκύνθα
+wellmann,row265,w-265,2,135,σίκυς ἥμερος
+wellmann,row266,w-266,2,136,θρίδαξ ἥμερος
+wellmann,row267,w-267,2,137,γιγγίδιον
+wellmann,row268,w-268,2,138,σκάνδιξ
+wellmann,row269,w-269,2,139,καυκαλίς
+wellmann,row270,w-270,2,140,εὔζωμον
+wellmann,row271,w-271,2,141,ὤκιμον
+wellmann,row272,w-272,2,142,ὀροβάγχη
+wellmann,row273,w-273,2,143,τραγοπώγων
+wellmann,row274,w-274,2,144,ὄρνιθος
+wellmann,row275,w-275,2,145,ὕδνον
+wellmann,row276,w-276,2,146,σμῖλαξ κηπαία
+wellmann,row277,w-277,2,147,Μηδικὴ
+wellmann,row278,w-278,2,148,ἀφάκη
+wellmann,row279,w-279,2,149,πράσον κεφαλωτὸν
+wellmann,row280,w-280,2,150,ἀμπελόπρασον
+wellmann,row281,w-281,2,151,κρόμυον
+wellmann,row282,w-282,2,152,σκόρδον
+wellmann,row283,w-283,2,153,σκορδόπρασον
+wellmann,row284,w-284,2,154,σίνηπι ἢ νᾶπι
+wellmann,row285,w-285,2,155,κάρδαμον
+wellmann,row286,w-286,2,156,θλάσπι
+wellmann,row287,w-287,2,157,δράβη
+wellmann,row288,w-288,2,158,ἐρύσιμον
+wellmann,row289,w-289,2,159,πέπερι
+wellmann,row290,w-290,2,160,ζιγγίβερι
+wellmann,row291,w-291,2,161,ὑδροπέπερι
+wellmann,row292,w-292,2,162,πταρμική
+wellmann,row293,w-293,2,163,στρούθιον
+wellmann,row294,w-294,2,164,κυκλάμινος
+wellmann,row295,w-295,2,165,κυκλάμινος ἑτέρα
+wellmann,row296,w-296,2,166,δρακόντιον
+wellmann,row297,w-297,2,167,ἄρον
+wellmann,row298,w-298,2,168,ἀρίσαρόν
+wellmann,row299,w-299,2,169,ἀσφόδελος
+wellmann,row300,w-300,2,170,βολβὸς ἐδώδιμος
+wellmann,row301,w-301,2,171,σκίλλα
+wellmann,row302,w-302,2,172,παγκράτιον
+wellmann,row303,w-303,2,173,κάππαρις
+wellmann,row304,w-304,2,174,λεπίδιον
+wellmann,row305,w-305,2,175,βατράχιον
+wellmann,row306,w-306,2,176,ἀνεμώνη
+wellmann,row307,w-307,2,177,ἀργεμώνη
+wellmann,row308,w-308,2,178,ἀργεμώνη ἑτέρα
+wellmann,row309,w-309,2,178,ἀναγαλλίς
+wellmann,row310,w-310,2,179,κισσὸς
+wellmann,row311,w-311,2,180,χελιδόνιον μέγα
+wellmann,row312,w-312,2,181,χελιδόνιον τὸ μικρόν
+wellmann,row313,w-313,2,182,ὀθόννα
+wellmann,row314,w-314,2,183,μυὸς ὦτα
+wellmann,row315,w-315,2,184,ἰσάτις
+wellmann,row316,w-316,2,185,ἰσάτις ἀγρία
+wellmann,row317,w-317,2,186,τηλεφώνιον
+wellmann,row318,w-318,3,0,
+wellmann,row319,w-319,3,1,ἀγαρικόν
+wellmann,row320,w-320,3,2,ῥᾶ
+wellmann,row321,w-321,3,3,γεντιανή
+wellmann,row322,w-322,3,4,ἀριστολοχεία
+wellmann,row323,w-323,3,5,γλυκύρριζα
+wellmann,row324,w-324,3,6,κενταύρειον τὸ μέγα
+wellmann,row325,w-325,3,7,κενταύρειον τὸ λεπτὸν ἢ μικρόν
+wellmann,row326,w-326,3,8,χαμαιλέων λευκός
+wellmann,row327,w-327,3,9,[χαμαιλέων] ὁ δὲ μέλας
+wellmann,row328,w-328,3,10,κροκοδείλεον
+wellmann,row329,w-329,3,11,δίψακος
+wellmann,row330,w-330,3,12,ἄκανθα λευκή
+wellmann,row331,w-331,3,13,ἄκανθα Ἀραβική
+wellmann,row332,w-332,3,14,σκόλυμος
+wellmann,row333,w-333,3,15,ποτίρριον
+wellmann,row334,w-334,3,16,ἀκάνθιον
+wellmann,row335,w-335,3,18,ἀνωνίς
+wellmann,row336,w-336,3,19,λευκάκανθα
+wellmann,row337,w-337,3,20,τραγάκανθα
+wellmann,row338,w-338,3,21,ἠρύγγη
+wellmann,row339,w-339,3,22,ἀλόη
+wellmann,row340,w-340,3,23,ἀψίνθιον
+wellmann,row341,w-341,3,24,ἁβρότονον
+wellmann,row342,w-342,3,25,ὕσσωπος
+wellmann,row343,w-343,3,26,στοιχάς
+wellmann,row344,w-344,3,27,ὀρίγανος
+wellmann,row345,w-345,3,28,ὀνῖτις
+wellmann,row346,w-346,3,29,ἀγριορίγανος
+wellmann,row347,w-347,3,30,τραγορίγανος
+wellmann,row348,w-348,3,31,γλήχων
+wellmann,row349,w-349,3,32,δίκταμνον
+wellmann,row350,w-350,3,33,ἐλελίσφακον
+wellmann,row351,w-351,3,34,ἡδύοσμον
+wellmann,row352,w-352,3,35,καλαμίνθη
+wellmann,row353,w-353,3,36,θύμος
+wellmann,row354,w-354,3,37,θύμβρα
+wellmann,row355,w-355,3,38,ἕρπυλλος
+wellmann,row356,w-356,3,39,σάμψουχον
+wellmann,row357,w-357,3,40,μελίλωτος
+wellmann,row358,w-358,3,41,σισύμβριον
+wellmann,row359,w-359,3,43,ἄκινος
+wellmann,row360,w-360,3,44,βάκχαρις
+wellmann,row361,w-361,3,45,πήγανον
+wellmann,row362,w-362,3,46,πήγανον ἄγριον
+wellmann,row363,w-363,3,47,μῶλυ
+wellmann,row364,w-364,3,48,πάνακες Ἡράκλειον
+wellmann,row365,w-365,3,49,πάνακες Ἀσκληπίει
+wellmann,row366,w-366,3,50,πάνακες Χειρώνιον
+wellmann,row367,w-367,3,51,λιγυστικόν
+wellmann,row368,w-368,3,52,σταφυλῖνος ἄγριος
+wellmann,row369,w-369,3,53,σέσελι
+wellmann,row370,w-370,3,54,τόρδιλον
+wellmann,row371,w-371,3,55,σίνων
+wellmann,row372,w-372,3,56,ἄνησσον
+wellmann,row373,w-373,3,57,καρώ
+wellmann,row374,w-374,3,58,ἀνήθου
+wellmann,row375,w-375,3,59,κύμινον τὸ ἥμερον
+wellmann,row376,w-376,3,60,κύμινον ἄγριον
+wellmann,row377,w-377,3,61,ἕτερον γένος ἀγρίου κυμίνου
+wellmann,row378,w-378,3,62,ἄμι
+wellmann,row379,w-379,3,63,κόριον
+wellmann,row380,w-380,3,64,σέλινον κηπαῖον
+wellmann,row381,w-381,3,65,ὀρεοσέλινον
+wellmann,row382,w-382,3,66,πετροσέλινον
+wellmann,row383,w-383,3,67,ἱπποσέλινον
+wellmann,row384,w-384,3,68,σμύρνιον
+wellmann,row385,w-385,3,69,ἐλαφοβόσκον
+wellmann,row386,w-386,3,70,μάραθον
+wellmann,row387,w-387,3,71,ἱππομάραθον
+wellmann,row388,w-388,3,72,δαῦκος
+wellmann,row389,w-389,3,73,πύρεθρος
+wellmann,row390,w-390,3,74,λιβανωτίς
+wellmann,row391,w-391,3,75,λιβανωτίς
+wellmann,row392,w-392,3,76,σφονδύλιον
+wellmann,row393,w-393,3,77,νάρθηκος
+wellmann,row394,w-394,3,78,πευκέδανον
+wellmann,row395,w-395,3,79,μελάνθιον
+wellmann,row396,w-396,3,80,σίλφιον
+wellmann,row397,w-397,3,81,σαγαπηνόν
+wellmann,row398,w-398,3,82,εὐφόρβιον
+wellmann,row399,w-399,3,83,χαλβάνη
+wellmann,row400,w-400,3,84,ἀμμωνιακόν
+wellmann,row401,w-401,3,85,σαρκοκόλλα
+wellmann,row402,w-402,3,86,γλαύκιον
+wellmann,row403,w-403,3,87,κόλλα
+wellmann,row404,w-404,3,88,ἰχθυοκόλλα
+wellmann,row405,w-405,3,89,ἰξός
+wellmann,row406,w-406,3,90,ἀπαρίνη
+wellmann,row407,w-407,3,91,ἄλυσσον
+wellmann,row408,w-408,3,92,ἀσκληπιάς
+wellmann,row409,w-409,3,93,ἀτρακτυλίς
+wellmann,row410,w-410,3,94,πολύκνημον
+wellmann,row411,w-411,3,95,κλινοπόδιον
+wellmann,row412,w-412,3,96,λεοντοπέταλον
+wellmann,row413,w-413,3,97,Τεύκριον
+wellmann,row414,w-414,3,98,χαμαίρωψ
+wellmann,row415,w-415,3,99,λευκάς
+wellmann,row416,w-416,3,100,λυχνὶς στεφανωματική
+wellmann,row417,w-417,3,101,λυχνὶς ἀγρία
+wellmann,row418,w-418,3,102,κρίνον
+wellmann,row419,w-419,3,103,βαλλωτή
+wellmann,row420,w-420,3,104,μελισσόφυλλον
+wellmann,row421,w-421,3,105,πράσιον
+wellmann,row422,w-422,3,106,στάχυς
+wellmann,row423,w-423,3,107,φυλλῖτις
+wellmann,row424,w-424,3,108,φαλάγγιον
+wellmann,row425,w-425,3,109,τρίφυλλον
+wellmann,row426,w-426,3,110,πόλιον
+wellmann,row427,w-427,3,111,σκόρδιον
+wellmann,row428,w-428,3,112,βήχιον
+wellmann,row429,w-429,3,113,ἀρτεμισία
+wellmann,row430,w-430,3,114,ἀμβροσία
+wellmann,row431,w-431,3,115,βότρυς
+wellmann,row432,w-432,3,116,γεράνιον
+wellmann,row433,w-433,3,117,γναφάλλιον
+wellmann,row434,w-434,3,118,τύφη
+wellmann,row435,w-435,3,119,κιρκαία
+wellmann,row436,w-436,3,120,οἰνάνθη
+wellmann,row437,w-437,3,121,κόνυζα
+wellmann,row438,w-438,3,122,ἡμεροκαλλές
+wellmann,row439,w-439,3,123,λευκόϊον
+wellmann,row440,w-440,3,124,κραταιόγονον
+wellmann,row441,w-441,3,125,φύλλον
+wellmann,row442,w-442,3,126,ὄρχις
+wellmann,row443,w-443,3,127,ὄρχις ἕτερος
+wellmann,row444,w-444,3,128,σατύριον
+wellmann,row445,w-445,3,129,ὅρμινον
+wellmann,row446,w-446,3,130,ἡδύσαρον
+wellmann,row447,w-447,3,131,ὄνοσμα
+wellmann,row448,w-448,3,132,νυμφαία
+wellmann,row449,w-449,3,133,ἀνδρόσακες
+wellmann,row450,w-450,3,134,ἄσπληνος
+wellmann,row451,w-451,3,135,ἡμιονῖτις
+wellmann,row452,w-452,3,136,ἀνθυλλίς
+wellmann,row453,w-453,3,137,ἀνθεμίς
+wellmann,row454,w-454,3,138,παρθένιον
+wellmann,row455,w-455,3,139,βούφθαλμον
+wellmann,row456,w-456,3,140,γλυκυσίδη
+wellmann,row457,w-457,3,141,λιθόσπερμον
+wellmann,row458,w-458,3,142,φαληρίς
+wellmann,row459,w-459,3,143,ἐρυθρόδανον
+wellmann,row460,w-460,3,144,λογχῖτις
+wellmann,row461,w-461,3,145,λογχῖτις ἕτερα
+wellmann,row462,w-462,3,146,ἀλθαία
+wellmann,row463,w-463,3,147,ἀλκαία
+wellmann,row464,w-464,3,148,κάνναβις
+wellmann,row465,w-465,3,149,ἀγρία κάνναβις
+wellmann,row466,w-466,3,150,ἀνάγυρος
+wellmann,row467,w-467,3,151,κηπαία
+wellmann,row468,w-468,3,152,ἄλισμα
+wellmann,row469,w-469,3,153,ὀνοβρυχίς
+wellmann,row470,w-470,3,154,ὑπερικόν
+wellmann,row471,w-471,3,155,ἄσκυρον
+wellmann,row472,w-472,3,156,ἀνδρόσαιμον
+wellmann,row473,w-473,3,157,κόρις
+wellmann,row474,w-474,3,158,χαμαίπιτυς
+wellmann,row475,w-475,4,0,
+wellmann,row476,w-476,4,1,κέστρον
+wellmann,row477,w-477,4,2,βρεττανική
+wellmann,row478,w-478,4,3,Λυσιμάχειος
+wellmann,row479,w-479,4,4,πολύγονον ἄρρεν
+wellmann,row480,w-480,4,5,πολύγονον θῆλυ
+wellmann,row481,w-481,4,6,πολυγόνατον
+wellmann,row482,w-482,4,7,κληματίς
+wellmann,row483,w-483,4,8,Πολεμώνιον
+wellmann,row484,w-484,4,9,σύμφυτον πετραῖον
+wellmann,row485,w-485,4,10,σύμφυτον ἄλλο
+wellmann,row486,w-486,4,11,ὁλόστεον
+wellmann,row487,w-487,4,12,στοιβῆς
+wellmann,row488,w-488,4,13,κλύμενον
+wellmann,row489,w-489,4,14,περικλύμενον
+wellmann,row490,w-490,4,15,τρίβολος χερσαῖος
+wellmann,row491,w-491,4,16,λειμώνιον
+wellmann,row492,w-492,4,17,λαγώπουν
+wellmann,row493,w-493,4,18,μήδιον
+wellmann,row494,w-494,4,19,ἐπιμήδιον
+wellmann,row495,w-495,4,20,ξιφίον
+wellmann,row496,w-496,4,21,σπαργάνιον
+wellmann,row497,w-497,4,22,ξυρίς
+wellmann,row498,w-498,4,23,ἄγχουσα
+wellmann,row499,w-499,4,24,ἄγχουσα ἑτέρα
+wellmann,row500,w-500,4,25,ἄγχουσα ἄλλη
+wellmann,row501,w-501,4,26,λυκαψός
+wellmann,row502,w-502,4,27,ἔχιον
+wellmann,row503,w-503,4,28,ὠκιμοειδές
+wellmann,row504,w-504,4,29,ἄγρωστις
+wellmann,row505,w-505,4,30,καλαμάγρωστις
+wellmann,row506,w-506,4,31,ἡ δέ ἐν τῷ Παρνασσῷ ἄγρωστις
+wellmann,row507,w-507,4,32,ἡ δέ ἐν Κιλικίᾳ γεννωμένη [ἄγρωστις]
+wellmann,row508,w-508,4,33,σιδηρῖτις
+wellmann,row509,w-509,4,34,ἄλλη σιδηρῖτις
+wellmann,row510,w-510,4,35,σιδηρῖτις ἑτέρα
+wellmann,row511,w-511,4,36,Ἀχίλλειος
+wellmann,row512,w-512,4,37,βάτος
+wellmann,row513,w-513,4,38,βάτος Ἰδαία
+wellmann,row514,w-514,4,39,ἑλξίνη
+wellmann,row515,w-515,4,40,ἐλατίνη
+wellmann,row516,w-516,4,41,Εὐπατόριος
+wellmann,row517,w-517,4,42,πεντέφυλλον
+wellmann,row518,w-518,4,43,φοῖνιξ
+wellmann,row519,w-519,4,44,Ἰδαία ῥίζα
+wellmann,row520,w-520,4,45,Ῥοδία ῥίζα
+wellmann,row521,w-521,4,46,ἵππουρις
+wellmann,row522,w-522,4,47,ἑτέρα ἵππουρις
+wellmann,row523,w-523,4,48,κόκκος βαφική
+wellmann,row524,w-524,4,49,τράγιον
+wellmann,row525,w-525,4,50,τράγιον ἄλλο
+wellmann,row526,w-526,4,51,τράγος
+wellmann,row527,w-527,4,52,σχοῖνος ἑλείας
+wellmann,row528,w-528,4,53,λειχὴν ὁ ἐπὶ τῶν πετρῶν
+wellmann,row529,w-529,4,54,παρωνυχία
+wellmann,row530,w-530,4,55,χρυσοκόμη
+wellmann,row531,w-531,4,56,χρυσόγονον
+wellmann,row532,w-532,4,57,ἑλίχρυσον ἢ χρυσάνθεμον
+wellmann,row533,w-533,4,58_RV,χρυσάνθεμον ἢ χάλκας
+wellmann,row534,w-534,4,58,ἀγήρατον
+wellmann,row535,w-535,4,59,περιστέριον
+wellmann,row536,w-536,4,60,ἱερὰ βοτάνη
+wellmann,row537,w-537,4,61,ἀστράγαλος
+wellmann,row538,w-538,4,62,ὑάκινθος
+wellmann,row539,w-539,4,63,μήκων ῥοιάς
+wellmann,row540,w-540,4,64,μήκων
+wellmann,row541,w-541,4,65,μήκων κερατῖτις
+wellmann,row542,w-542,4,66,μήκων ἀφρώδης
+wellmann,row543,w-543,4,67,ὑπήκοον
+wellmann,row544,w-544,4,68,ὑοσκύαμος
+wellmann,row545,w-545,4,69,ψύλλιον
+wellmann,row546,w-546,4,70,στρύχνον κηπαῖον
+wellmann,row547,w-547,4,71,στρύχνον
+wellmann,row548,w-548,4,72,στρύχνον ὑπνωτικόν
+wellmann,row549,w-549,4,73,στρύχνον μανικόν
+wellmann,row550,w-550,4,74,δορύκνιον
+wellmann,row551,w-551,4,75,μανδραγόρας
+wellmann,row552,w-552,4,76,ἀκόνιτον
+wellmann,row553,w-553,4,77,ἀκόνιτον ἕτερον
+wellmann,row554,w-554,4,78,κώνειον
+wellmann,row555,w-555,4,79,σμῖλαξ
+wellmann,row556,w-556,4,80,ἀπόκυνον
+wellmann,row557,w-557,4,81,νήριον
+wellmann,row558,w-558,4,82,μύκητες
+wellmann,row559,w-559,4,83,Κολχικόν
+wellmann,row560,w-560,4,84,ἐφήμερον
+wellmann,row561,w-561,4,85,ἑλξίνη
+wellmann,row562,w-562,4,86,ἀλσίνη
+wellmann,row563,w-563,4,87,φακὸς ὁ ἐπὶ τῶν τελμάτων
+wellmann,row564,w-564,4,88,ἀείζῳον μέγα
+wellmann,row565,w-565,4,89,ἀείζῳον τὸ μικρόν
+wellmann,row566,w-566,4,90,τρίτον εἶδος ἀείζῳον
+wellmann,row567,w-567,4,91,κοτυληδών
+wellmann,row568,w-568,4,92,ἕτερον εἶδος κοτυληδόνος
+wellmann,row569,w-569,4,93,ἀκαλήφη
+wellmann,row570,w-570,4,94,γαλήοψις
+wellmann,row571,w-571,4,95,γάλιον
+wellmann,row572,w-572,4,96,ἠριγέρων
+wellmann,row573,w-573,4,97,θαλίητρον
+wellmann,row574,w-574,4,98,βρύον θαλάσσιον
+wellmann,row575,w-575,4,99,φῦκος θαλάσσιον
+wellmann,row576,w-576,4,100,ποταμογείτων
+wellmann,row577,w-577,4,101,στρατιώτης ὁ ἐπὶ τῶν ὑδάτων
+wellmann,row578,w-578,4,102,στρατιώτης ὁ χιλιόφυλλος
+wellmann,row579,w-579,4,103,φλόμος
+wellmann,row580,w-580,4,104,Αἰθιοπίς
+wellmann,row581,w-581,4,105,ἄρκτιον
+wellmann,row582,w-582,4,106,ἄρκιον
+wellmann,row583,w-583,4,107,πετασῖτις
+wellmann,row584,w-584,4,108,ἐπιπακτίς
+wellmann,row585,w-585,4,109,καπνὸς ὁ ἐν ταῖς κριθαῖς φυόμενος
+wellmann,row586,w-586,4,110,λωτὸς ὁ ἐν τοῖς παραδείσοις φυόμενος
+wellmann,row587,w-587,4,111,λωτὸς ἄγριος
+wellmann,row588,w-588,4,112,κύτισος
+wellmann,row589,w-589,4,113,λωτὸς ὁ ἐν Αἰγύπτῳ γεννώμενος
+wellmann,row590,w-590,4,114,μυριόφυλλον
+wellmann,row591,w-591,4,115,μυρρίς
+wellmann,row592,w-592,4,116,μύαγρον
+wellmann,row593,w-593,4,117,ὀνάγρα
+wellmann,row594,w-594,4,118,κρίσσιον
+wellmann,row595,w-595,4,119,ἀστὴρ Ἀττικός
+wellmann,row596,w-596,4,120,ἰσόπυρον
+wellmann,row597,w-597,4,121,ἴον
+wellmann,row598,w-598,4,122,κακκαλία
+wellmann,row599,w-599,4,123,βούνιον
+wellmann,row600,w-600,4,124,ψευδοβούνιον
+wellmann,row601,w-601,4,125,χαμαίκισσος
+wellmann,row602,w-602,4,126,χαμαιπεύκη
+wellmann,row603,w-603,4,127,βούγλωσσον
+wellmann,row604,w-604,4,128,φύτευμα
+wellmann,row605,w-605,4,129,ὑπόγλωσσον
+wellmann,row606,w-606,4,130,ἀντίρρινον
+wellmann,row607,w-607,4,131,κατανάγκη
+wellmann,row608,w-608,4,132,τριπόλιον
+wellmann,row609,w-609,4,133,κῆμος
+wellmann,row610,w-610,4,134,ἀδίαντον
+wellmann,row611,w-611,4,135,τριχομανές
+wellmann,row612,w-612,4,136,ξάνθιον
+wellmann,row613,w-613,4,137,αἰγίλωψ
+wellmann,row614,w-614,4,138,γλαύξ
+wellmann,row615,w-615,4,139,πολύγαλον
+wellmann,row616,w-616,4,140,ὄσιρις
+wellmann,row617,w-617,4,141,ἐχῖνος
+wellmann,row618,w-618,4,142,μῖλαξ τραχεῖα
+wellmann,row619,w-619,4,143,μῖλαξ λεία
+wellmann,row620,w-620,4,144,μυρσίνη ἀγρία
+wellmann,row621,w-621,4,145,δάφνη Ἀλεξάνδρεια
+wellmann,row622,w-622,4,146,δαφνοειδές
+wellmann,row623,w-623,4,147,χαμαιδάφνη
+wellmann,row624,w-624,4,148,ἐλλέβορος λευκός
+wellmann,row625,w-625,4,149,σησαμοειδὲς τὸ μέγα
+wellmann,row626,w-626,4,150,σίκυς ἄγριος
+wellmann,row627,w-627,4,151,ἡμέρου σικύου ἡ ῥιζα
+wellmann,row628,w-628,4,152,σταφὶς ἀγρία
+wellmann,row629,w-629,4,153,θαψία
+wellmann,row630,w-630,4,154,σπαρτίον
+wellmann,row631,w-631,4,155,σίλλυβον
+wellmann,row632,w-632,4,156,βολβὸς ὁ ἐμετικός
+wellmann,row633,w-633,4,157,βάλανος μυρεψική
+wellmann,row634,w-634,4,158,νάρκισσος
+wellmann,row635,w-635,4,159,ἱπποφαές
+wellmann,row636,w-636,4,160,ἱππόφαιστον
+wellmann,row637,w-637,4,161,κίκι
+wellmann,row638,w-638,4,162,ἐλλέβορος ὁ μέλας
+wellmann,row639,w-639,4,163,σησαμοειδὲς τὸ μικρόν
+wellmann,row640,w-640,4,164,τιθύμαλλος
+wellmann,row641,w-641,4,165,πιτύουσα
+wellmann,row642,w-642,4,166,λαθυρίς
+wellmann,row643,w-643,4,167,πέπλος
+wellmann,row644,w-644,4,168,πεπλίς
+wellmann,row645,w-645,4,169,χαμαισύκη
+wellmann,row646,w-646,4,170,σκαμμωνία
+wellmann,row647,w-647,4,171,χαμελαία
+wellmann,row648,w-648,4,172,θυμελαία
+wellmann,row649,w-649,4,173,ἀκτῆ
+wellmann,row650,w-650,4,174,πυκνόκομον
+wellmann,row651,w-651,4,175,ἄπιος
+wellmann,row652,w-652,4,176,κολόκυνθα ἀγρία
+wellmann,row653,w-653,4,177,ἐπίθυμον
+wellmann,row654,w-654,4,178,ἄλυπον
+wellmann,row655,w-655,4,179,ἔμπετρον
+wellmann,row656,w-656,4,180,κληματίς
+wellmann,row657,w-657,4,181,ἄμπελος ἀγρία
+wellmann,row658,w-658,4,182,ἄμπελος λευκή
+wellmann,row659,w-659,4,183,ἄμπελος μέλαινα
+wellmann,row660,w-660,4,184,πτέρις
+wellmann,row661,w-661,4,185,θηλυπτερίς
+wellmann,row662,w-662,4,186,πολυπόδιον
+wellmann,row663,w-663,4,187,δρυοπτερίς
+wellmann,row664,w-664,4,188,κνῆκος
+wellmann,row665,w-665,4,189,λινόζωστις
+wellmann,row666,w-666,4,190_RV,κυνέα ἢ κυνοκράμβη
+wellmann,row667,w-667,4,190,ἡλιοτρόπιον τὸ μέγα
+wellmann,row668,w-668,4,192,σκορπιοειδές
+wellmann,row669,w-669,5,0,
+wellmann,row670,w-670,5,1,ἄμπελος οἰνοφόρος
+wellmann,row671,w-671,5,2,ἄμπελος ἀγρία
+wellmann,row672,w-672,5,3,σταφυλή
+wellmann,row673,w-673,5,4,οἰνάνθη
+wellmann,row674,w-674,5,5,ὀμφάκιον
+wellmann,row675,w-675,5,6,οἶνοι
+wellmann,row676,w-676,5,7,μελιτίτης
+wellmann,row677,w-677,5,8,οἰνόμελι
+wellmann,row678,w-678,5,9,μελίκρατον
+wellmann,row679,w-679,5,10,ὕδωρ
+wellmann,row680,w-680,5,11,θαλάττιον ὕδωρ
+wellmann,row681,w-681,5,12,θαλασσόμελι
+wellmann,row682,w-682,5,13,ὄξος
+wellmann,row683,w-683,5,14,ὀξύμελι
+wellmann,row684,w-684,5,15,ὀξάλμη
+wellmann,row685,w-685,5,16,θυμοξάλμη
+wellmann,row686,w-686,5,17,τὸ σκιλλητικὸν ὄξος
+wellmann,row687,w-687,5,18,ὁ ἀπὸ τῆς σκίλλης οἶνος
+wellmann,row688,w-688,5,19,οἱ διὰ θαλάττης οἶνοι
+wellmann,row689,w-689,5,20,ὁ κυδωνίτης
+wellmann,row690,w-690,5,21,μηλόμελι
+wellmann,row691,w-691,5,22,ὑδρόμηλον
+wellmann,row692,w-692,5,23,ὀμφακόμελι
+wellmann,row693,w-693,5,24,ἀπίτης
+wellmann,row694,w-694,5,25,οἰνάνθινος
+wellmann,row695,w-695,5,26,ῥοίτης
+wellmann,row696,w-696,5,27,ῥοδίτης
+wellmann,row697,w-697,5,28,μυρτίτην
+wellmann,row698,w-698,5,29,μυρσινίτης
+wellmann,row699,w-699,5,30,σχίνινος
+wellmann,row700,w-700,5,31,φοινικίτης
+wellmann,row701,w-701,5,32,ὁ τροχίτης
+wellmann,row702,w-702,5,33,ὁ ἐκ τῶν συκομόρων
+wellmann,row703,w-703,5,34,ὁ ῥητινίτης
+wellmann,row704,w-704,5,35,ὁ στροβιλίτης
+wellmann,row705,w-705,5,36,κέδρινος ἢ ἀρκεύθινος ἢ κυπαρίσσινος ἢ δάφνινος πιτύινος ἢ ἐλάτινος
+wellmann,row706,w-706,5,37,κεδρίτης
+wellmann,row707,w-707,5,38,οἶνος πισσίτης
+wellmann,row708,w-708,5,39,ἀψινθίτης
+wellmann,row709,w-709,5,40,ὑσσωπίτης
+wellmann,row710,w-710,5,41,ὁ χαμαιδρυίτης
+wellmann,row711,w-711,5,42,<ὁ> στοιχαδίτης
+wellmann,row712,w-712,5,43,ὂξος διὰ στοιχάδος
+wellmann,row713,w-713,5,44,ἐκ κέστρου τοῦ ψυχροτρόφου οἶνος
+wellmann,row714,w-714,5,45,τραγοριγανίτης
+wellmann,row715,w-715,5,46,οἶνος διὰ βουνίου
+wellmann,row716,w-716,5,47,δικταμνίτης
+wellmann,row717,w-717,5,48,ὁ διὰ πρασίου
+wellmann,row718,w-718,5,49,θυμίτης
+wellmann,row719,w-719,5,50,θυμβρίτης
+wellmann,row720,w-720,5,51,οἶνος ὀριγανίτης
+wellmann,row721,w-721,5,52,"οἶνος καλαμινθίτης, γληχωνίτης, ἀβροτονίτης"
+wellmann,row722,w-722,5,53,οἶνος κονυζίτης
+wellmann,row723,w-723,5,54,οἶνος ἀρωματίτης
+wellmann,row724,w-724,5,55,οἶνος πρὸς κατάρρους
+wellmann,row725,w-725,5,56,ὁ νεκταρίτης
+wellmann,row726,w-726,5,57,ὁ διὰ Συριακῆς νάρδου καὶ Κελτικῆς καὶ μαλαβάθρου
+wellmann,row727,w-727,5,58,ἀσαρίτης
+wellmann,row728,w-728,5,59,ὁ διὰ τῆς ἀγρίας νάρδου
+wellmann,row729,w-729,5,60,δαυκίτης
+wellmann,row730,w-730,5,61,ἐλελισφακίτης
+wellmann,row731,w-731,5,62,πανακίτης
+wellmann,row732,w-732,5,63,ἀκορίτης καὶ ὁ ἀπὸ γλυκορρίζης
+wellmann,row733,w-733,5,64,σελινίτης
+wellmann,row734,w-734,5,65,μαραθίτης καὶ ἀνήθινος καὶ πετροσελινίτης
+wellmann,row735,w-735,5,66,δι' ἁλὸς ἄνθους οἶνος
+wellmann,row736,w-736,5,67,φθόριος ἐμβρύων οἶνος
+wellmann,row737,w-737,5,68,θυμελαίτης
+wellmann,row738,w-738,5,69,χαμελαίτης
+wellmann,row739,w-739,5,70,χαμαιπιτύινος
+wellmann,row740,w-740,5,71,μανδραγορίτης
+wellmann,row741,w-741,5,72,ἐλλεβορίτης
+wellmann,row742,w-742,5,73,σκαμμωνίτης
+wellmann,row743,w-743,5,74,καδμεία
+wellmann,row744,w-744,5,75,πομφόλυξ
+wellmann,row745,w-745,5,76,κεκαυμένος χαλκός
+wellmann,row746,w-746,5,77,χαλκοῦ ἄνθος
+wellmann,row747,w-747,5,78,λεπὶς
+wellmann,row748,w-748,5,79,ἰὸς ξυστός
+wellmann,row749,w-749,5,80,ἰὸς σιδίρου
+wellmann,row750,w-750,5,81,πεπλυμένος μόλυβδος
+wellmann,row751,w-751,5,82,σκωρία μολύβδου
+wellmann,row752,w-752,5,83,μολυβδοειδὴς λίθος
+wellmann,row753,w-753,5,84,στίβι
+wellmann,row754,w-754,5,85,μολύβδαινα
+wellmann,row755,w-755,5,86,ἡ τοῦ ἀργρύρου σκωρία
+wellmann,row756,w-756,5,87,λιθάργυρος
+wellmann,row757,w-757,5,88,ψιμύθιον
+wellmann,row758,w-758,5,89,χρυσοκόλλα
+wellmann,row759,w-759,5,90,Ἀρμένιον
+wellmann,row760,w-760,5,91,κύανος
+wellmann,row761,w-761,5,92,Ἰνδικόν
+wellmann,row762,w-762,5,93,ὦχρα
+wellmann,row763,w-763,5,94,κιννάβαρι
+wellmann,row764,w-764,5,95,ὑδράργυρος
+wellmann,row765,w-765,5,96,μίλτος Σινωπικὴ
+wellmann,row766,w-766,5,97,Λημνία γῆ
+wellmann,row767,w-767,5,98,χαλκανθές
+wellmann,row768,w-768,5,99,χαλκῖτιν
+wellmann,row769,w-769,5,100,μίσυ
+wellmann,row770,w-770,5,101,μελαντηρία
+wellmann,row771,w-771,5,102,σῶρι
+wellmann,row772,w-772,5,103,διφρυγές
+wellmann,row773,w-773,5,104,ἀρσενικόν
+wellmann,row774,w-774,5,105,σανδαράκη
+wellmann,row775,w-775,5,106,στυπτηρία
+wellmann,row776,w-776,5,107,θεῖον
+wellmann,row777,w-777,5,108,κίσηρις
+wellmann,row778,w-778,5,109,ἅλς
+wellmann,row779,w-779,5,110,ἁλὸς ἄχνη
+wellmann,row780,w-780,5,111,ἅλμη
+wellmann,row781,w-781,5,112,ἄνθος ἁλός
+wellmann,row782,w-782,5,113,νίτρον
+wellmann,row783,w-783,5,114,τρύξ
+wellmann,row784,w-784,5,115,ἄσβεστος
+wellmann,row785,w-785,5,116,γύψος
+wellmann,row786,w-786,5,117,τέφρα κληματίνη
+wellmann,row787,w-787,5,118,ἀλκυονίου
+wellmann,row788,w-788,5,119,ἀδάρκης
+wellmann,row789,w-789,5,120,σπόγγων
+wellmann,row790,w-790,5,121,κουράλιον
+wellmann,row791,w-791,5,122,ἀντιπαθὲς
+wellmann,row792,w-792,5,123,λίθος Φρύγιος
+wellmann,row793,w-793,5,124,Ἄσσιον λίθος
+wellmann,row794,w-794,5,125,πυρίτης λίθος
+wellmann,row795,w-795,5,126,αἱματίτης λίθος
+wellmann,row796,w-796,5,127,σχιστὸς λίθος
+wellmann,row797,w-797,5,128,Γαγάτης
+wellmann,row798,w-798,5,129,Θρᾳκίας
+wellmann,row799,w-799,5,130,μαγνῆτις λίθος
+wellmann,row800,w-800,5,131,Ἀραβικὸς λίθος
+wellmann,row801,w-801,5,132,γαλακτίτης
+wellmann,row802,w-802,5,133,μελιτίτης
+wellmann,row803,w-803,5,134,λίθος μόροχθος
+wellmann,row804,w-804,5,135,λίθος ἀλαβαστρίτης
+wellmann,row805,w-805,5,136,λίθος θυίτης
+wellmann,row806,w-806,5,137,Ἰουδαικὸς λίθος
+wellmann,row807,w-807,5,138,λίθος ἀμίαντος
+wellmann,row808,w-808,5,139,λίθος σάπφειρος
+wellmann,row809,w-809,5,140,λίθος Μεμφίτης
+wellmann,row810,w-810,5,141,λίθος σεληνίτης
+wellmann,row811,w-811,5,142,λίθος ἴασπις
+wellmann,row812,w-812,5,143,λίθος ὀφίτης
+wellmann,row813,w-813,5,144,λίθοι οἱ ἐν τοῖς σπόγγοις
+wellmann,row814,w-814,5,145,λιθοκόλλα
+wellmann,row815,w-815,5,146,λίθος ὀστρακίτης
+wellmann,row816,w-816,5,147,σμύρις
+wellmann,row817,w-817,5,148,ἄμμος
+wellmann,row818,w-818,5,149,ἀκόνης Ναξίας ἀπότριμμα
+wellmann,row819,w-819,5,150,λίθος γεώδης
+wellmann,row820,w-820,5,151,γῆ
+wellmann,row821,w-821,5,152,Ἐρετριάδος γῆ
+wellmann,row822,w-822,5,153,Σαμία γῆ
+wellmann,row823,w-823,5,154,ἐν τῇ Σαμίᾳ γῇ λίθος
+wellmann,row824,w-824,5,155,Χίας γῆ
+wellmann,row825,w-825,5,156,Κιμωλίας γῆ
+wellmann,row826,w-826,5,157,πνιγῖτις γῆ
+wellmann,row827,w-827,5,158,ὄστρακα
+wellmann,row828,w-828,5,159,Μηλία γῆ
+wellmann,row829,w-829,5,160,ἀμπελῖτις γῆ
+wellmann,row830,w-830,5,161,ἀσβόλη
+wellmann,row831,w-831,5,162,μέλαν

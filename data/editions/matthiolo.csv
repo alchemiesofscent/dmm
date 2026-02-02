@@ -1,0 +1,872 @@
+edition,edition_entry_id,matthiolo_book,matthiolo_chapter,matthiolo_greek,matthiolo_latin
+matthiolo,row1,I,1.1,Ἴρις,
+matthiolo,row2,II,1.2,Ἄκορον,
+matthiolo,row3,III,1.3,Μῆον,MEON
+matthiolo,row4,IV,1.4,Κύπερος,CYPERUS
+matthiolo,row5,V,1.5,Καρδάμωμον,CARDAMOMUM
+matthiolo,row6,VI,1.6,Νάρδος,NARDUM
+matthiolo,row7,VII,1.7,Νάρδος Κελτική,NARDUM CELTICUM
+matthiolo,row8,VIII,1.8,Νάρδος ὀρειτή,NARDUM MONTANUM
+matthiolo,row9,IX,1.9,Ἄσαρον,ASARUM
+matthiolo,row10,X,1.1,Φοῦ,PHU
+matthiolo,row11,XI,1.11,Μαλάβαθρον,MALABATHRUM
+matthiolo,row12,XII,1.12,Κασσία,CASSIA
+matthiolo,row13,XIII,1.13,Κιννάμωμον,CINNAMOMUM
+matthiolo,row14,XIV,1.14,Ἄμωμον,AMOMUM
+matthiolo,row15,XV,1.15,Κόστος,COSTUS
+matthiolo,row16,XVI,1.16,Σχοῖνος ἀρωματικός,IUNCUS ODORATUS
+matthiolo,row17,XVII,1.17,Κάλαμος ἀρωματικός,CALAMUS ODORATUS
+matthiolo,row18,XVIII,1.18,Βάλσαμον,BALSAMUM
+matthiolo,row19,XIX,1.19,Ἀσπάλαθος,ASPALATHUS
+matthiolo,row20,XX,1.2,Βρύον,MUSCUS
+matthiolo,row21,XXI,1.21,Ἀγάλλοχον,AGALLOCHUM
+matthiolo,row22,XXII,1.22,Νάρκαφθον,NARCAPHTHUM
+matthiolo,row23,XXIII,1.23,Κάγκαμον,CANCAMUM
+matthiolo,row24,XXIV,1.24,Κῦφι,CYPHI
+matthiolo,row25,XXV,1.25,Κρόκος,CROCUM
+matthiolo,row26,XXVI,1.26,Κροκόμαγμα,CROCOMAGMA
+matthiolo,row27,XXVII,1.27,Ἑλένιον,HELENIUM
+matthiolo,row28,XXVIII,1.28,"Ὀμφάκινον, καὶ πᾶν ἔλαιον","OMPHACINUM, ET OMNE OLEUM"
+matthiolo,row29,XXIX,1.29,Ἔλαιον τῆς ἀγριελαίης,OLEUM SYLVESTRIS OLIVAE
+matthiolo,row30,XXX,1.3,Σικυώνιον ἔλαιον,SICYONIUM OLEUM
+matthiolo,row31,XXXI,1.31,Ῥύπος,STRIGMENTUM
+matthiolo,row32,XXXII,1.32,Ἐλαιόμελι,ELAEOMELI
+matthiolo,row33,XXXIII,1.33,Κίκινον ἔλαιον,CICINUM OLEUM
+matthiolo,row34,XXXIV,1.34,Ἀμυγδάλινον ἔλαιον,AMYGDALINUM OLEUM
+matthiolo,row35,XXXV,1.35,Βαλάνινον ἔλαιον,BALANINUM OLEUM
+matthiolo,row36,XXXVI,1.36,Ὑοσκυάμινον ἔλαιον,HYOSCYAMINUM OLEUM
+matthiolo,row37,XXXVII,1.37,Μυρσίνινον ἔλαιον,MYRTEUM OLEUM
+matthiolo,row38,XXXVIII,1.38,Δάφνινον ἔλαιον,LAURINUM OLEUM
+matthiolo,row39,XXXIX,1.39,Σχίνινον ἔλαιον,LENTISCINUM OLEUM
+matthiolo,row40,XL,1.4,Μαστίχινον ἔλαιον,MASTICHINUM OLEUM
+matthiolo,row41,XLI,1.41,Μύρων σύνθεσις,UNGUENTORUM COMPOSITIO
+matthiolo,row42,XLII,1.42,Ῥόδινον,ROSACEUM
+matthiolo,row43,XLIII,1.43,Ἐλάτινον,ELATINUM
+matthiolo,row44,XLIV,1.44,Μήλινον,MELINUM
+matthiolo,row45,XLV,1.45,Ὠινάνθινον,OENANTHINUM
+matthiolo,row46,XLVI,1.46,Τήλινον,TELINUM
+matthiolo,row47,XLVII,1.47,Σαμψύχινον,SAMPSUCHINUM
+matthiolo,row48,XLVIII,1.48,Ὠκίμινον,OCIMINUM
+matthiolo,row49,XLIX,1.49,Ἀβροτόνινον,ABROTONINUM
+matthiolo,row50,L,1.5,Ἀνέθινον,ANETHINUM
+matthiolo,row51,LI,1.51,Σούσινον,SUSINUM
+matthiolo,row52,LII,1.52,Ναρκίσσινον,NARCISSINUM
+matthiolo,row53,LIII,1.53,Κρόκινον,CROCINUM
+matthiolo,row54,LIV,1.54,Κύπρινον,CYPRINUM
+matthiolo,row55,LV,1.55,Ἴρινον,IRINUM
+matthiolo,row56,LVI,1.56,Γλεύκινον,GLEUCINUM
+matthiolo,row57,LVII,1.57,Ἀμαράκινον,AMARACINUM
+matthiolo,row58,LVIII,1.58,Μεγαλεῖον,MEGALINUM
+matthiolo,row59,LIX,1.59,Ἡδύχρουν,HEDYCROUM
+matthiolo,row60,LX,1.6,Μετώπιον,METOPIUM
+matthiolo,row61,LXI,1.61,Μενδήσιον,MENDESIUM
+matthiolo,row62,LXII,1.62,Στακτὴ,STACTE
+matthiolo,row63,LXIII,1.63,Κινναμώμινον,CINNAMOMINUM
+matthiolo,row64,LXIV,1.64,Νάρδινον,NARDINUM
+matthiolo,row65,LXV,1.65,Μαλαβάθρινον,MALABATHRINUM
+matthiolo,row66,LXVI,1.66,Ἰάσμινον,IASMINUM
+matthiolo,row67,LXVII,1.67,Σμύρνα,MYRRHA
+matthiolo,row68,LXVIII,1.68,Στύραξ,STYRAX
+matthiolo,row69,LXIX,1.69,Βδέλλιον,BDELLIUM
+matthiolo,row70,LXX,1.7,Λίβανος,THUS
+matthiolo,row71,LXXI,1.71,Φλοιὸς λιβάνου,CORTEX THURIS
+matthiolo,row72,LXXII,1.72,Μάννα λιβάνου,MANNA THURIS
+matthiolo,row73,LXXIII,1.73,Αἰθάλη λιβανωτοῦ,FULIGO THURIS
+matthiolo,row74,LXXIV,1.74,Πεύκη καὶ Πίτυς,PICEA ET PINUS
+matthiolo,row75,LXXV,1.75,Σχῖνος,LENTISCUS
+matthiolo,row76,LXXVI,1.76,Τέρμινθος,TEREBINTHUS
+matthiolo,row77,LXXVII,1.77,Ῥητίναι ἄλλαι,RESINAE ALIAE
+matthiolo,row78,LXXVIII,1.78,Πίσσα ὑγρά,PIX LIQUIDA
+matthiolo,row79,LXXIX,1.79,Πισσέλαιον,PICINUM OLEUM
+matthiolo,row80,LXXX,1.8,Λιγνύς τῆς ὑγρᾶς πίσσης,FULIGO LIQUIDAE PICIS
+matthiolo,row81,LXXXI,1.81,Πίσσα ξηρά,PIX ARIDA
+matthiolo,row82,LXXXII,1.82,Ζώπισσα,ZOPISSA
+matthiolo,row83,LXXXIII,1.83,Ἄσφαλτος,BITUMEN
+matthiolo,row84,LXXXIV,1.84,Πισσάσφαλτος,PISSASPHALTUM
+matthiolo,row85,LXXXV,1.85,Νάφθα,NAPHTHA
+matthiolo,row86,LXXXVI,1.86,Κυπάρισσος,CUPRESSUS
+matthiolo,row87,LXXXVII,1.87,Ἀρκευθίς,IUNIPERUS
+matthiolo,row88,LXXXVIII,1.88,Βράθυ{ς},SABINA
+matthiolo,row89,LXXXIX,1.89,Κέδρος,CEDRUS
+matthiolo,row90,XC,1.9,Δάφνη,LAURUS
+matthiolo,row91,XCI,1.91,Πλάτανος,PLATANUS
+matthiolo,row92,XCII,1.92,Μελία,FRAXINUS
+matthiolo,row93,XCIII,1.93,Λεύκη καὶ Αἴγειρος,POPULUS ALBA ET NIGRA
+matthiolo,row94,XCIV,1.94,Μάκερ,MACER
+matthiolo,row95,XCV,1.95,Πτελέα,ULMUS
+matthiolo,row96,XCVI,1.96,Σαπρότης ξύλων,LIGNORUM MARCOR
+matthiolo,row97,XCVII,1.97,Κάλαμος,HARUNDO
+matthiolo,row98,XCVIII,1.98,Πάπυρος,PAPYRUS
+matthiolo,row99,XCIX,1.99,Μυρίκη,MYRICA
+matthiolo,row100,C,1.1,Ἐρείκη,ERICA
+matthiolo,row101,CI,1.101,Ἀκακαλίς,ACACALIS
+matthiolo,row102,CII,1.102,Ῥάμνος,RHAMNUS
+matthiolo,row103,CIII,1.103,Ἅλιμος,HALIMUS
+matthiolo,row104,CIV,1.104,Παλίουρος,PALIURUS
+matthiolo,row105,CV,1.105,Ὀξυάκανθα,ACUTA SPINA
+matthiolo,row106,CVI,1.106,Κυνόσβατος,RUBUS CANIS
+matthiolo,row107,CVII,1.107,Κύπρος,LIGUSTRUM
+matthiolo,row108,CVIII,1.108,Φιλλυρέα,PHILLYREA
+matthiolo,row109,CIX,1.109,Κίστος,CISTUS
+matthiolo,row110,CX,1.11,Λάδανον,LADANUM
+matthiolo,row111,CXI,1.111,Ἔβενος,EBENUS
+matthiolo,row112,CXII,1.112,Ῥόδον,ROSA
+matthiolo,row113,CXIII,1.113,Ῥοδίδες,ROSEI PASTILLI
+matthiolo,row114,CXIV,1.114,Λύκιον,LYCIUM
+matthiolo,row115,CXV,1.115,Ἀκακία,ACACIA
+matthiolo,row116,CXVI,1.116,Ἄγνος,VITEX
+matthiolo,row117,CXVII,1.117,Ἰτέα,SALIX
+matthiolo,row118,CXVIII,1.118,Ἀγριελαία,SYLVESTRIS OLEA
+matthiolo,row119,CXIX,1.119,Δάκρυον αἰθιοπικῆς ἐλαίας,LACRYMA AETHIOPICAE OLEAE
+matthiolo,row120,CXX,1.12,Ἀμόργη,AMURCA
+matthiolo,row121,CXXI,1.121,Δρῦς,QUERCUS     Βάλανος
+matthiolo,row122,CXXII,1.122,Κάστανα,CASTANEAE
+matthiolo,row123,CXXIII,1.123,Κηκίς,GALLA
+matthiolo,row124,CXXIV,1.124,Ῥοῦς,RHUS
+matthiolo,row125,CXXV,1.125,Φοίνιξ,PALMA
+matthiolo,row126,CXXVI,1.126,Φοίνιξ ἐλάτη,PALMA ELATE
+matthiolo,row127,CXXVII,1.127,Ῥοιά,MALUM PUNICUM
+matthiolo,row128,CXXVIII,1.128,Μυρσίνη,MYRTUS
+matthiolo,row129,CXXIX,1.129,Κεράσια,CERASIA
+matthiolo,row130,CXXX,1.13,Κεράτια,SILIQUAE
+matthiolo,row131,CXXXI,1.131,Μῆλα,MALA
+matthiolo,row132,CXXXII,1.132,Ἄπια,PYRA
+matthiolo,row133,CXXXIII,1.133,,
+matthiolo,row134,CXXXIV,1.134,Λωτὸς δένδρον,LOTUS ARBOR
+matthiolo,row135,CXXXV,1.135,Κρανία,CORNUS
+matthiolo,row136,CXXXVI,1.136,Οὖα,SORBA
+matthiolo,row137,CXXXVII,1.137,Κοκκυμελέα,PRUNUS
+matthiolo,row138,CXXXVIII,1.138,Κόμαρος,ARBUTUS
+matthiolo,row139,CXXXIX,1.139,Ἀμυγδαλαί,AMYGDALAE
+matthiolo,row140,CXL,1.14,Πιστάκια,PISTACIA
+matthiolo,row141,CXLI,1.141,Κάρυον βασιλικὸν,NUX IUGLANS
+matthiolo,row142,CXLII,1.142,Κάρυα ποντικὰ,NUCES AVELLANAE
+matthiolo,row143,CXLIII,1.143,Μορέα,MORUS
+matthiolo,row144,CXLIV,1.144,Συκόμορος,SYCOMORUS
+matthiolo,row145,CXLV,1.145,Σῦκα,FICI
+matthiolo,row146,CXLVI,1.146,Περσέα,PERSEA
+matthiolo,row147,CXLVII,1.147,Ἰβερὶς,IBERIS
+matthiolo,row148,I,2.1,Ἐχῖνος θαλάσσιος,ECHINUS MARINUS
+matthiolo,row149,II,2.2,Ἐχῖνος χερσαῖος,ECHINUS TERRESTRIS
+matthiolo,row150,III,2.3,Ἱππόκαμπος,HIPPOCAMPUS
+matthiolo,row151,IV,2.4,"Πορφύρα, Κέρυκες, Κιόνια","PURPURA, BUCCINA, CIONIA"
+matthiolo,row152,V,2.5,Μύακες,MITULI
+matthiolo,row153,VI,2.6,Τελλῖναι,TELLINAE
+matthiolo,row154,??,,,
+matthiolo,row155,VII,2.7,,
+matthiolo,row156,VIII,2.8,Ὄνυξ,UNGUIS ODORATUS
+matthiolo,row157,IX,2.9,Κοχλίαι,COCHLEAE
+matthiolo,row158,X,2.1,Καρκίνοι,CANCRI
+matthiolo,row159,XI,2.11,Σκορπίος χερσαῖος,SCORPIO TERRESTRIS
+matthiolo,row160,XII,2.12,Σκορπίος θαλάσσιος,SCORPIO MARINUS
+matthiolo,row161,XIII,2.13,Δράκων θαλάσσιος,DRACO MARINUS
+matthiolo,row162,XIV,2.14,Σκολόπενδρα,SCOLOPENDRA
+matthiolo,row163,XV,2.15,Νάρκη,TORPEDO
+matthiolo,row164,XVI,2.16,Ἔχιδνα,VIPERA
+matthiolo,row165,XVII,2.17,Γῆρας ὄφεος,SENECTA ANGUIUM
+matthiolo,row166,XVIII,2.18,Λαγωός θαλάσσιος καὶ χερσαῖος,LEPUS MARINUS ET TERRESTRIS
+matthiolo,row167,XIX,2.19,Τρυγών θαλάσσιος,PASTINACA MARINA
+matthiolo,row168,XX,2.2,Σηπία,SEPIA
+matthiolo,row169,XXI,2.21,Τρίγλα,MULLUS PISCIS
+matthiolo,row170,XXII,2.22,Ἱπποπόταμος,HIPPOPOTAMUS
+matthiolo,row171,XXIII,2.23,Κάστωρ,FIBER
+matthiolo,row172,XXIV,2.24,Γαλῆ κατοικίδιος,MUSTELA VULGARIS
+matthiolo,row173,XXV,2.25,Βάτραχοι,RANAE
+matthiolo,row174,XXVI,2.26,Αἴλουρος,SILURUS
+matthiolo,row175,XXVII,2.27,Σμαρίδες,SMARIDES
+matthiolo,row176,XXVIII,2.28,Μαινίδες,MAENAE
+matthiolo,row177,XXIX,2.29,Κωβίος,GOBIUS
+matthiolo,row178,XXX,2.3,Θύννος,THUNNUS
+matthiolo,row179,XXXI,2.31,Γάῤῥον,GARUM
+matthiolo,row180,XXXII,2.32,Ζομός ἰχθύων,IUS PISCIUM
+matthiolo,row181,XXXIII,2.33,Κόρεις κλινικοί,CIMICES LECTULARII
+matthiolo,row182,XXXIV,2.34,Ὄνοι_x0096_ MILLEPEDAE,
+matthiolo,row183,XXXV,2.35,Σίλφη,BLATTA
+matthiolo,row184,XXXVI,2.36,Πνεύμων θαλάσσιος,PULMO MARINUS
+matthiolo,row185,XXXVII,2.37,Πνεύμονες,PULMONES
+matthiolo,row186,XXXVIII,2.38,Ἥπατα,IOCINERA
+matthiolo,row187,XXXIX,2.39,Αἰδοῖον ἐλάφου,GENITALE CERVI
+matthiolo,row188,XL,2.4,Ὀνυχες ὄνου καὶ αἰγός,UNGULAE ASINI ET CAPRAE
+matthiolo,row189,XLI,2.41,Λειχῆνες ἵππων,LICHENES EQUORUM
+matthiolo,row190,XLII,2.42,Καττύματα,CORIA VETERAMENTARIA
+matthiolo,row191,XLIII,2.43,Ἀλεκτορίδες καὶ ἀλεκτρυόνες,GALLINAE ET GALLI
+matthiolo,row192,XLIV,2.44,Ὠόν,OVUM
+matthiolo,row193,XLV,2.45,Τέττιγες,CICADAE
+matthiolo,row194,XLVI,2.46,Ἀκρίδες,LOCUSTAE
+matthiolo,row195,XLVII,2.47,Φίνις,OSSIFRAGUS
+matthiolo,row196,XLVIII,2.48,Κορυδαλός,GALERITA
+matthiolo,row197,XLIX,2.49,Χελιδών,HIRUNDO
+matthiolo,row198,L,2.5,Ἐλέφας,EBUR
+matthiolo,row199,LI,2.51,Ἀστράγαλος ὑός,SUILLUS TALUS
+matthiolo,row200,LII,2.52,Ἐλάφαου κέρας,CERVINUM CORNU
+matthiolo,row201,LIII,2.53,Κάμπαι,ERUCAE
+matthiolo,row202,LIV,2.54,Κανθαρίδες,CANTHARIDES
+matthiolo,row203,LV,2.55,Βουπρήστεις καὶ πιτυοκάμπαι BUPRESTES ET PINORUM ERUCAE,
+matthiolo,row204,LVI,2.56,Σαλαμάνδρα,SALAMANDRA
+matthiolo,row205,LVII,2.57,Ἀράχνη,ARANEUS
+matthiolo,row206,LVIII,2.58,Σαῦρα,LACERTA
+matthiolo,row207,LIX,2.59,Σήψ,SEPS
+matthiolo,row208,LX,2.6,Σκίγκος,SCINCUS
+matthiolo,row209,LXI,2.61,Γῆς ἔντερα,TERRENI VERMES
+matthiolo,row210,LXII,2.62,Μυογάλη,MUS ARANEUS
+matthiolo,row211,LXIII,2.63,Μῦες,MURES
+matthiolo,row212,LXIV,2.64,Γάλα,LAC
+matthiolo,row213,LXV,2.65,Τυρός,CASEUS
+matthiolo,row214,LXVI,2.66,Βούτυρον καὶ αὐτοῦ λιγνύς,BUTYRUM ET EIUS FULIGO
+matthiolo,row215,LXVII,2.67,Ἔρια καὶ οἴσυπος,LANAE ET OESYPUS
+matthiolo,row216,LXVIII,2.68,Πιτύα,COAGULUM
+matthiolo,row217,LXIX,2.69,Στέαρ,ADEPS
+matthiolo,row218,LXX,2.7,Μυελός,MEDULLA
+matthiolo,row219,LXXI,2.71,Χολή,FEL
+matthiolo,row220,LXXII,2.72,Αἷμα,SANGUIS
+matthiolo,row221,LXXIII,2.73,Ἀπόπατος,FIMUM
+matthiolo,row222,LXXIV,2.74,Οὖρον,URINA
+matthiolo,row223,LXXV,2.75,Μέλι,MEL
+matthiolo,row224,LXXVI,2.76,Κηρός,CERA
+matthiolo,row225,LXXVII,2.77,Πρόπολις,PROPOLIS
+matthiolo,row226,LXXVIII,2.78,Πυρός,TRITICUM
+matthiolo,row227,LXXIX,2.79,Κριθή,HORDEUM
+matthiolo,row228,LXXX,2.8,Ζύθος,ZYTHUM
+matthiolo,row229,LXXXI,2.81,Κοῦρμι,CURMI
+matthiolo,row230,LXXXII,2.82,Ζειά,ZEA
+matthiolo,row231,LXXXIII,2.83,Κρίμνον,CRIMNON
+matthiolo,row232,LXXXIV,2.84,Ὄλυρα,OLYRA
+matthiolo,row233,LXXXV,2.85,Ἀθήρα,ATHERA
+matthiolo,row234,LXXXVI,2.86,Τράγος,TRAGOS
+matthiolo,row235,LXXXVII,2.87,Βρῶμος,AVENA
+matthiolo,row236,LXXXVIII,2.88,Ὄρυζα,ORYZA
+matthiolo,row237,LXXXIX,2.89,Χόνδρος,HALICA
+matthiolo,row238,XC,2.9,Κέγχρος,MILIUM
+matthiolo,row239,XCI,2.91,Ἔλυμος,PANICUM
+matthiolo,row240,XCII,2.92,Σήσαμον,SESAMUM
+matthiolo,row241,XCIII,2.93,Αἶρα,LOLIUM
+matthiolo,row242,XCIV,2.94,Ἄμυλον,AMYLUM
+matthiolo,row243,XCV,2.95,Τῆλις,FOENUM GRAECUM
+matthiolo,row244,XCVI,2.96,Λίνον,LINUM
+matthiolo,row245,XCVII,2.97,Ἐρέβινθος,CICER
+matthiolo,row246,XCVIII,2.98,Κύαμος,FABA
+matthiolo,row247,XCIX,2.99,Κύαμος αἰγύπτιος,FABA AEGYPTIA
+matthiolo,row248,C,2.1,Φακός,LENS
+matthiolo,row249,CI,2.101,Φασίολοι,PHASIOLI
+matthiolo,row250,CII,2.102,Ὄροβος,ERVUM
+matthiolo,row251,CIII,2.103,Θέρμοι,LUPINI
+matthiolo,row252,CIV,2.104,Γογγύλη,RAPUM
+matthiolo,row253,CV,2.105,Βουνιάς,NAPUS
+matthiolo,row254,CVI,2.106,Ῥαφανίς,RAPHANUS
+matthiolo,row255,CVII,2.107,Σίσαρον,SISER
+matthiolo,row256,CVIII,2.108,Λάπαθον,LAPATHUM SIVE RUMEX
+matthiolo,row257,CIX,2.109,Λαμψάνη,LAMPSANA
+matthiolo,row258,CX,2.11,Βλῆτον,BLITUM
+matthiolo,row259,CXI,2.111,Μαλάχη,MALVA
+matthiolo,row260,CXII,2.112,Ἀτράφαξις,ATRIPLEX
+matthiolo,row261,CXIII,2.113,Κράμβη,BRASSICA
+matthiolo,row262,CXIV,2.114,Κράμβη ἀγρία,BRASSICA SYLVESTRIS
+matthiolo,row263,CXV,2.115,Κράμβη θαλασσία,BRASSICA MARINA
+matthiolo,row264,CXVI,2.116,Τεῦτλον,BETA
+matthiolo,row265,CXVII,2.117,Ἀνδράχνη,PORTULACA
+matthiolo,row266,??,,,
+matthiolo,row267,CXVIII,2.118,,
+matthiolo,row268,CXIX,2.119,Ἀρνόγλωσσον,PLANTAGO
+matthiolo,row269,CXX,2.12,Σίον,SIUM SEU LAVER
+matthiolo,row270,CXXI,2.121,Σισύμβριον,SISYMBRIUM
+matthiolo,row271,CXXII,2.122,Κρίθμον,CRITHMUM
+matthiolo,row272,CXXIII,2.123,Κορωνόπους,CORONOPUS
+matthiolo,row273,CXXIV,2.124,Σόγχος,SONCHUS
+matthiolo,row274,CXXV,2.125,Σέρις,SERIS SIVE INTYBUS
+matthiolo,row275,CXXVI,2.126,Χονδρίλλη,CHONDRILLA
+matthiolo,row276,CXXVII,2.127,Κπλόκυνθα,CUCURBITA
+matthiolo,row277,CXXVIII,2.128,Σίκυς ἥμερος,CUCUMER SATIVUS
+matthiolo,row278,CXXIX,2.129,Θρίδαξ,LACTUCA
+matthiolo,row279,CXXX,2.13,Θρίδαξ ἀγρία,LACTUCA SYLVESTRIS
+matthiolo,row280,CXXXI,2.131,Γιγγίδιον,GINGIDIUM
+matthiolo,row281,CXXXII,2.132,Σκάνδιξ,SCANDIX
+matthiolo,row282,CXXXIII,2.133,Καυκαλίς,CAUCALIS
+matthiolo,row283,CXXXIV,2.134,Εὔζωμον,ERUCA
+matthiolo,row284,CXXXV,2.135,Ὤκιμον,OCIMUM
+matthiolo,row285,CXXXVI,2.136,Ὀροβάκχη,OROBANCHE
+matthiolo,row286,CXXXVII,2.137,Τραγοπώγων,BARBULA HIRCI
+matthiolo,row287,CXXXVIII,2.138,Ὀρνιθόγαλον,ORNITHOGALUM
+matthiolo,row288,CXXXIX,2.139,Ὕδνα_x0096_ TUBERA,
+matthiolo,row289,CXL,2.14,Σμίλαξ κηπαῖα,SMILAX HORTENSIS
+matthiolo,row290,CXLI,2.141,Μηδική,MEDICA
+matthiolo,row291,CXLII,2.142,Ἀφάκη,APHACA
+matthiolo,row292,CXLIII,2.143,Πράσον κεφαλωτόν,PORRUM CAPITATUM
+matthiolo,row293,CXLIV,2.144,Ἀμπελόπρασον,AMPELOPRASUM
+matthiolo,row294,CXLV,2.145,Κρόμμυον,CEPA
+matthiolo,row295,CXLVI,2.146,Σκόροδον,ALLIUM
+matthiolo,row296,CXLVII,2.147,Σκοροδόπρασον,SCORODOPRASUM
+matthiolo,row297,CXLVIII,2.148,Σίνηπι,SINAPI
+matthiolo,row298,CXLIX,2.149,Κάρδαμον,NASTURTIUM
+matthiolo,row299,CL,2.15,Θλάσπι,THLASPI
+matthiolo,row300,CLI,2.151,Ἀραβίς ἤ δράβη,ARABIS SIVE DRABA
+matthiolo,row301,CLII,2.152,Ἐρύσιμον,IRIO
+matthiolo,row302,CLIII,2.153,Πέπερι,PIPER
+matthiolo,row303,CLIV,2.154,Ζιγγίβερ,GINGIBER
+matthiolo,row304,CLV,2.155,Ὑδροπέπερι,HYDROPIPER
+matthiolo,row305,CLVI,2.156,Πταρμική,PTARMICA
+matthiolo,row306,CLVII,2.157,Στρούθιον,RADICULA SEU LANARIA HERBA
+matthiolo,row307,CLVIII,2.158,Κυκλάμινος,CYCLAMINUS
+matthiolo,row308,CLIX,2.159,Ἑτέρα κυκλάμινος,ALTERA CYCLAMINUS
+matthiolo,row309,CLX,2.16,Δρακοντία μεγάλη,DRACUNCULUS MAIOR
+matthiolo,row310,CLXI,2.161,Δρακοντία μικρά,DRACUNCULUS MINOR
+matthiolo,row311,CLXII,2.162,Ἄρον,ARUM
+matthiolo,row312,CLXIII,2.163,Ἀρίσαρον,ARISARUM
+matthiolo,row313,CLXIV,2.164,Ἀσφόδελος,HASTULA REGIA
+matthiolo,row314,CLXV,2.165,Βολβός ἐδώδιμος,BULBUS ESCULENTUS
+matthiolo,row315,CLXVI,2.166,Βολβός ἐμετικός,BULBUS VOMITORIUS
+matthiolo,row316,CLXVII,2.167,Σκίλλα,SCILLA
+matthiolo,row317,CLXVIII,2.168,Παγκράτιον,PANCRATIUM
+matthiolo,row318,CLXIX,2.169,Κάππαρις,CAPPARIS
+matthiolo,row319,CLXX,2.17,Λεπίδιον,LEPIDIUM
+matthiolo,row320,CLXXI,2.171,Βατράχιον,RANUNCULUS
+matthiolo,row321,CLXXII,2.172,Ἀνεμώνη,ANEMONE
+matthiolo,row322,CLXXIII,2.173,Ἀργεμώνη,ARGEMONE
+matthiolo,row323,CLXXIV,2.174,Ἀναγαλλίς,ANAGALLIS
+matthiolo,row324,CLXXV,2.175,Κισσός,HEDERA
+matthiolo,row325,CLXXVI,2.176,Χελιδόνιον μέγα,CHELIDONIUM MAIUS
+matthiolo,row326,CLXXVII,2.177,Χελιδόνιον μικρόν,CHELIDONIUM MINUS
+matthiolo,row327,CLXXVIII,2.178,Ὀθόννα,OTHONNA
+matthiolo,row328,CLXXIX,2.179,Μυός ὦτα,AURICULA MURIS
+matthiolo,row329,CLXXX,2.18,Ἰσάτις,GLASTUM
+matthiolo,row330,CLXXXI,2.181,Τηλέφιον,TELEPHIUM
+matthiolo,row331,I,3.1,Ἀγαρικόν,AGARICUM
+matthiolo,row332,II,3.2,"Ῥᾶ, ῥῆον",RHAPONTICUM
+matthiolo,row333,III,3.3,Γεντιανή,GENTIANA
+matthiolo,row334,IV,3.4,Ἀριστολοχία,ARISTOLOCHIA
+matthiolo,row335,V,3.5,Γλυκύρριζα,DULCIS RADIX
+matthiolo,row336,VI,3.6,Κενταύριον μέγα,CENTAURIUM MAGNUM
+matthiolo,row337,VII,3.7,Κενταύριον μικρόν,CENTAURIUM MINUS
+matthiolo,row338,VIII,3.8,Χαμαιλέων λευκός,CHAMAELEON ALBUS
+matthiolo,row339,IX,3.9,Χαμαιλέων μέλας,CHAMAELEON NIGER
+matthiolo,row340,X,3.1,Κροκοδείλιον,CROCODILIUM
+matthiolo,row341,XI,3.11,Δίψακος,DIPSACUS SIVE LABRUM VENERIS
+matthiolo,row342,XII,3.12,Ἄκανθα λευκή,SPINA ALBA
+matthiolo,row343,XIII,3.13,Ἄκανθα ἀραβική,SPINA ARABICA
+matthiolo,row344,XIV,3.14,Σκόλυμος,CARDUUS
+matthiolo,row345,XV,3.15,Ποτήριον,POTERIUM
+matthiolo,row346,XVI,3.16,Ἀκάνθιον,ACANTHIUM
+matthiolo,row347,XVII,3.17,Ἄκανθος,ACANTHUS
+matthiolo,row348,XVIII,3.18,Ἀνωνίς ἤ ὀνωνίς,ANONIS SIVE ONONIS
+matthiolo,row349,XIX,3.19,Λευκάκανθα,LEUCACANTHA
+matthiolo,row350,XX,3.2,Τραγάκανθα,TRAGACANTHA
+matthiolo,row351,XXI,3.21,Ἠρύγγιον,ERYNGIUM
+matthiolo,row352,XXII,3.22,Ἀλόη,ALOE
+matthiolo,row353,XXIII,3.23,Ἀψίνθιον,ABSINTHIUM
+matthiolo,row354,XXIV,3.24,Ἀψίνθιον θαλάσσιον,ABSINTHIUM MARINUM
+matthiolo,row355,XXV,3.25,Ἀβρότονον,ABROTONUM
+matthiolo,row356,XXVI,3.26,Ὕσσωπος,HYSSOPUM
+matthiolo,row357,XXVII,3.27,Στοεχάς,STOECHAS
+matthiolo,row358,XXVIII,3.28,Ὀρίγανος,ORIGANUM
+matthiolo,row359,XXIX,3.29,Τραγορίγανος,TRAGORIGANUM
+matthiolo,row360,XXX,3.3,Γλήχων,PULEGIUM
+matthiolo,row361,XXXI,3.31,Δίκταμνος,DICTAMNUM
+matthiolo,row362,XXXII,3.32,Ψευδοδίκταμνος,PSEUDODICTAMNUM
+matthiolo,row363,XXXIII,3.33,Δίκταμνος ἕτερος,DICTAMNUM ALTERUM
+matthiolo,row364,XXXIV,3.34,Ἐλελίσφακον,SALVIA
+matthiolo,row365,XXXV,3.35,Ἡδύοσμος,MENTHA
+matthiolo,row366,XXXVI,3.36,Καλαμίνθη,CALAMINTHA
+matthiolo,row367,XXXVII,3.37,Θύμος,THYMUM
+matthiolo,row368,XXXVIII,3.38,Θύμβρα,SATUREIA
+matthiolo,row369,XXXIX,3.39,Ἕρπυλλος,SERPILLUM
+matthiolo,row370,XL,3.4,Σάμψυχον,SAMPSUCHUM
+matthiolo,row371,XLI,3.41,Μελίλωτος,"MELILOTUS, SIVE SERTULA CAMPANA"
+matthiolo,row372,XLII,3.42,Μάρον,MARUM
+matthiolo,row373,XLIII,3.43,Ἄκινος,ACINOS
+matthiolo,row374,XLIV,3.44,Βάκχαρις,BACCHARIS
+matthiolo,row375,XLV,3.45,Πήγανον,RUTA
+matthiolo,row376,XLVI,3.46,Πήγανον ἄγριον,RUTA SYLVESTRIS
+matthiolo,row377,XLVII,3.47,Μῶλη / Μῶλυ,MOLY
+matthiolo,row378,XLVIII,3.48,Πάνακες ἡράκλειον,PANACES HERACLEUM
+matthiolo,row379,XLIX,3.49,Πάνακες ἀσκλήπιον,PANACES ASCLEPIUM
+matthiolo,row380,L,3.5,Πάνακες χειρώνιον,PANACES CHIRONIUM
+matthiolo,row381,LI,3.51,Λιγυστικόν,LIGUSTICUM
+matthiolo,row382,LII,3.52,Σταφυλῖνος,PASTINACA
+matthiolo,row383,LIII,3.53,Σέσελι,SESELI
+matthiolo,row384,LIV,3.54,Τορδύλιον,CRETICUM SESELI
+matthiolo,row385,LV,3.55,Σίσων,SISON
+matthiolo,row386,LVI,3.56,Ἄνισον,ANISUM
+matthiolo,row387,LVII,3.57,Κάρος,CARUM
+matthiolo,row388,LVIII,3.58,Ἄνηθον,ANETHUM
+matthiolo,row389,LIX,3.59,Κύμινον ἥμερον,CUMINUM SATIVUM
+matthiolo,row390,LX,3.6,Κύμινον ἄγριον,CUMINUM SYLVESTRE
+matthiolo,row391,LXI,3.61,Ἄμμι,AMMI
+matthiolo,row392,LXII,3.62,Κόριον ἤ κορίανον,CORIANDRUM
+matthiolo,row393,LXIII,3.63,Ἱεράκιον,HIERACIUM
+matthiolo,row394,LXIV,3.64,Σέλινον,APIUM
+matthiolo,row395,LXV,3.65,Σμύρνιον,SMYRNIUM
+matthiolo,row396,LXVI,3.66,Ἐλαφόβοσκον,ELAPHOBOSCUM
+matthiolo,row397,LXVII,3.67,Μάραθρον,FOENICULUM
+matthiolo,row398,??,,,
+matthiolo,row399,LXVIII,3.68,,
+matthiolo,row400,LXIX,3.69,Δαῦκος,DAUCUM
+matthiolo,row401,LXX,3.7,Δελφίνιον,DELPHINIUM
+matthiolo,row402,LXXI,3.71,Πυρέθρον,PYRETHRUM
+matthiolo,row403,LXXII,3.72,Λιβανωτὶς,ROSMARINUM
+matthiolo,row404,LXXIII,3.73,Λιβανωτὶς στεφανοματικὴ (?),ROSMARINUM CORONARIUM
+matthiolo,row405,LXXIV,3.74,Σφονδύλιον,SPHONDYLIUM
+matthiolo,row406,LXXV,3.75,Νάρθηξ,FERULA
+matthiolo,row407,LXXVI,3.76,Πευκέδανος,PEUCEDANUM
+matthiolo,row408,LXXVII,3.77,Μελάνθιον,GITH SEU MELANTIUM
+matthiolo,row409,LXXVIII,3.78,Σίλφιον,LASERPITIUM
+matthiolo,row410,LXXIX,3.79,Σαγάπηνον,SAGAPENUM
+matthiolo,row411,LXXX,3.8,Εὐφόρβιον,EUPHORBIUM
+matthiolo,row412,LXXXI,3.81,Χαλβάνη,GALBANUM
+matthiolo,row413,LXXXII,3.82,Ἀμμωνιακὸν,AMMONIACUM
+matthiolo,row414,LXXXIII,3.83,Σαρκοκόλλα,SARCOCOLLA
+matthiolo,row415,LXXXIV,3.84,Γλαύκιον,GLAUCIUM
+matthiolo,row416,LXXXV,3.85,Κόλλα_x0096_ GLUTINUM,
+matthiolo,row417,LXXXVI,3.86,Ἰχθυόκολλα,PISCIUM GLUTINUM
+matthiolo,row418,LXXXVII,3.87,Ἰξὸς,VISCUM
+matthiolo,row419,LXXXVIII,3.88,Ἀπαρίνη,APARINE
+matthiolo,row420,LXXXIX,3.89,Ἄλυσσον,ALYSSUM
+matthiolo,row421,XC,3.9,Ἀσκληπιὰς,ASCLEPIAS
+matthiolo,row422,XCI,3.91,Ἀτρακτυλίς,ATRACTYLIS
+matthiolo,row423,XCII,3.92,Πολύκνημον,POLYCNEMUM
+matthiolo,row424,XCIII,3.93,Κλινοπόδιον,CLINOPODIUM
+matthiolo,row425,XCIV,3.94,Λεοντοπέταλον,LEONTOPETALUM
+matthiolo,row426,XCV,3.95,Τεύκριον,TEUCRIUM
+matthiolo,row427,XCVI,3.96,Χαμαίδρυς,TRISSAGO
+matthiolo,row428,XCVII,3.97,Λευκὰς,LEUCAS
+matthiolo,row429,XCVIII,3.98,Λυχνὶς,LYCHNIS
+matthiolo,row430,XCIX,3.99,Κρίνον,LILIUM
+matthiolo,row431,C,3.1,Βαλλωτὴ,BALLOTE
+matthiolo,row432,CI,3.101,Μελισσόφυλλον_x0096_ APIASTRUM,
+matthiolo,row433,CII,3.102,Πράσιον,MARRUBIUM
+matthiolo,row434,CIII,3.103,Στάχυς,STACHYS
+matthiolo,row435,CIV,3.104,Φυλλίτις,PHYLLITIS
+matthiolo,row436,CV,3.105,Φαλάγγιον,PHALANGIUM
+matthiolo,row437,CVI,3.106,Τρίφυλλον,TRIFOLIUM
+matthiolo,row438,CVII,3.107,Πόλιον,POLIUM
+matthiolo,row439,CVIII,3.108,Σκόρδιον,SCORDIUM
+matthiolo,row440,CIX,3.109,Βήχιον,TUSSILAGO
+matthiolo,row441,CX,3.11,Ἀρτεμισία,ARTEMISIA
+matthiolo,row442,CXI,3.111,Ἀρτεμισία λεπτόφυλλος,ARTEMISIA TENUIFOLIA
+matthiolo,row443,CXII,3.112,Ἀμβροσία,AMBROSIA
+matthiolo,row444,CXIII,3.113,Βότρυς,BOTRYS
+matthiolo,row445,CXIV,3.114,Γεράνιον,GERANIUM
+matthiolo,row446,CXV,3.115,Γναφάλιον,GNAPHALIUM
+matthiolo,row447,CXVI,3.116,Τύφη,TYPHA
+matthiolo,row448,CXVII,3.117,Κιρκαία,CIRCAEA
+matthiolo,row449,CXVIII,3.118,Οἰνάνθη,OENANTHE
+matthiolo,row450,CXIX,3.119,Κόνυζα,CONYZA
+matthiolo,row451,CXX,3.12,Ἡμεροκαλλὶς,HEMEROCALLIS
+matthiolo,row452,CXXI,3.121,Λευκόϊον,LEUCOIUM SIVE ALBA VIOLA
+matthiolo,row453,CXXII,3.122,Κραταιόγονον,CRATAEOGONUM
+matthiolo,row454,CXXIII,3.123,Φύλλον,PHYLLON
+matthiolo,row455,CXXIV,3.124,Ὄρχις,TESTICULUS
+matthiolo,row456,CXXV,3.125,Ὄρχις ἕτερος,TESTICULUS ALTER
+matthiolo,row457,CXXVI,3.126,Σατύριον,SATYRIUM
+matthiolo,row458,CXXVII,3.127,Σατύριον ἐρυθρόνιον,SATYRIUM ERYTHRONIUM
+matthiolo,row459,CXXVIII,3.128,Ὅρμινον,HORMINUM
+matthiolo,row460,CXXIX,3.129,Ἡδύσαρον,HEDYSARUM
+matthiolo,row461,CXXX,3.13,Ὄνοσμα,ONOSMA
+matthiolo,row462,CXXXI,3.131,Νυμφαία,NYMPHAEA
+matthiolo,row463,CXXXII,3.132,Νυμφαία ἑτέρα,NYMPHAEA ALTERA
+matthiolo,row464,CXXXIII,3.133,Ἀνδρόσακες,ANDROSACES
+matthiolo,row465,CXXXIV,3.134,Ἄσπληνον,ASPLENUM
+matthiolo,row466,CXXXV,3.135,Ἡμιωνῖτις,HEMIONITIS
+matthiolo,row467,CXXXVI,3.136,Ἀνθυλλίς,ANTHYLLIS
+matthiolo,row468,CXXXVII,3.137,Ἄνθεμις,ANTHEMIS
+matthiolo,row469,CXXXVIII,3.138,Παρθένιον,PARTHENIUM
+matthiolo,row470,CXXXIX,3.139,Βούφθαλμον,BUPHTHALMUM
+matthiolo,row471,CXL,3.14,Γλυκυσίδη,PAEONIA
+matthiolo,row472,CXLI,3.141,Λιθόσπερμον,LITHOSPERMUM
+matthiolo,row473,CXLII,3.142,Φάλαρις,PHALARIS
+matthiolo,row474,CXLIII,3.143,Ἐρυθρόδανον,RUBIA
+matthiolo,row475,CXLIV,3.144,Λογχῖτις,LONCHITIS
+matthiolo,row476,CXLV,3.145,Λογχῖτις ἑτέρα,LONCHITIS ALTERA
+matthiolo,row477,CXLVI,3.146,Ἀλθαία,ALTHAEA
+matthiolo,row478,CXLVII,3.147,Ἀλκέα,ALCEA
+matthiolo,row479,CXLVIII,3.148,Κάνναβις,CANNABIS
+matthiolo,row480,CXLIX,3.149,Ἀνάγυρις,ANAGYRIS
+matthiolo,row481,CL,3.15,Κηπαία,CEPAEA
+matthiolo,row482,CLI,3.151,Ἄλισμα,ALISMA
+matthiolo,row483,CLII,3.152,Ὀνοβρυχίς,ONOBRYCHIS
+matthiolo,row484,CLIII,3.153,Ὑπερικόν,HYPERICUM
+matthiolo,row485,CLIV,3.154,Ἄσκυρον,ASCYRUM
+matthiolo,row486,CLV,3.155,Ἀνδρόσαιμον,ANDROSAEMON
+matthiolo,row487,CLVI,3.156,Κόρις,CORIS
+matthiolo,row488,CLVII,3.157,Χαμαιπίτυς,AIUGA
+matthiolo,row489,I,4.1,Κέστρον,BETONICA
+matthiolo,row490,II,4.2,Βρετ<τ>ανική,BRITANICA
+matthiolo,row491,III,4.3,Λυσιμάχιον,LYSIMACHIA
+matthiolo,row492,IV,4.4,Πολύγονον,SANGUINARIA
+matthiolo,row493,V,4.5,Πολυγονάτον,POLYGONATUM
+matthiolo,row494,VI,4.6,Κληματίς,CLEMATIS
+matthiolo,row495,VII,4.7,Κληματίς ἑτέρα,CLEMATIS ALTERA
+matthiolo,row496,VIII,4.8,Πολεμώνιον,POLEMONIA
+matthiolo,row497,IX,4.9,Σύμφυτον,SYMPHYTUM
+matthiolo,row498,X,4.1,Ὁλόστιον,HOLOSTIUM
+matthiolo,row499,XI,4.11,Στοιβή,STOEBE
+matthiolo,row500,XII,4.12,Κλύμενον,CLYMENUM
+matthiolo,row501,XIII,4.13,Περικλύμενον,PERICLYMENUM
+matthiolo,row502,XIV,4.14,Τρίβολος,TRIBULUS
+matthiolo,row503,XV,4.15,Σαρξίφραγον,SAXIFRAGA
+matthiolo,row504,XVI,4.16,Λειμώνιον,LIMONIUM
+matthiolo,row505,XVII,4.17,Λαγώπους,LAGOPUS
+matthiolo,row506,XVIII,4.18,Μήδιον,MEDIUM
+matthiolo,row507,XIX,4.19,Ἐπιμήδιον,EPIMEDIUM
+matthiolo,row508,XX,4.2,Ξιφίον,GLADIOLUS
+matthiolo,row509,XXI,4.21,Σπαργάνιον,SPARGANIUM
+matthiolo,row510,XXII,4.22,Ξυρίς,XYRIS
+matthiolo,row511,XXIII,4.23,Ἄγχουσα,ANCHUSA
+matthiolo,row512,XXIV,4.24,Λύκοψις,LYCOPSIS
+matthiolo,row513,XXV,4.25,Ἔχιον,ECHIUM
+matthiolo,row514,XXVI,4.26,Ὠκιμοειδές,OCIMASTRUM
+matthiolo,row515,XXVII,4.27,Ἔρινος,ERINUS
+matthiolo,row516,XXVIII,4.28,Ἄγρωστις  _x0096_ GRAMEN,
+matthiolo,row517,XXIX,4.29,Σιδηρῖτις,SIDERITIS
+matthiolo,row518,XXX,4.3,Σιδηρῖτις ἑτέρα,SIDERITIS ALTERA
+matthiolo,row519,XXXI,4.31,Σιδηρῖτις τρίτη,SIDERITIS TERTIA
+matthiolo,row520,XXXII,4.32,Ἀχίλλειος,ACHILLEA
+matthiolo,row521,XXXIII,4.33,Βάτος,RUBUS
+matthiolo,row522,XXXIV,4.34,Βάτος ἰδαία,RUBUS IDAEUS
+matthiolo,row523,XXXV,4.35,Ἡλξίνη,HELXINE
+matthiolo,row524,XXXVI,4.36,Ἐλατίνη,ELATINE
+matthiolo,row525,XXXVII,4.37,Εὐπατόριον,EUPATORIUM
+matthiolo,row526,XXXVIII,4.38,Πεντάφυλλον,QUINQUEFOLIUM
+matthiolo,row527,XXXIX,4.39,Φοίνιξ,PHOENIX
+matthiolo,row528,XL,4.4,Ἰδαία ῥίζα,IDAEA RADIX
+matthiolo,row529,??,,,
+matthiolo,row530,XLI,4.41,,
+matthiolo,row531,XLII,4.42,Ἵππουρις,EQUISETUM
+matthiolo,row532,XLIII,4.43,Κόκκος βαφική,COCCUM INFECTORIUM
+matthiolo,row533,XLIV,4.44,Τράγιον,TRAGIUM
+matthiolo,row534,XLV,4.45,Τράγιον ἕτερον,TRAGIUM ALTERUM
+matthiolo,row535,XLVI,4.46,Τράγος,TRAGUM
+matthiolo,row536,XLVII,4.47,Σχοῖνος,IUNCUS
+matthiolo,row537,XLVIII,4.48,Λειχήν,LICHEN
+matthiolo,row538,XLIX,4.49,Παρωνυχία,PARONYCHIA
+matthiolo,row539,L,4.5,Χρυσοκόμη,CHRYSOCOME
+matthiolo,row540,LI,4.51,Χρυσόγονον,CHRYSOGONUM
+matthiolo,row541,LII,4.52,Ἑλίχρυσον,HELICHRYSUM
+matthiolo,row542,LIII,4.53,Χρυσάνθεμον,CHRYSANTHEMUM
+matthiolo,row543,LIV,4.54,Ἀγήρατον,AGERATUM
+matthiolo,row544,LV,4.55,Περιστερεών,VERBENACA
+matthiolo,row545,LVI,4.56,Ἱερά βοτάνη,SACRA HERBA
+matthiolo,row546,LVII,4.57,Ἀστράγαλος,ASTRAGALUS
+matthiolo,row547,LVIII,4.58,Ὑάκινθος,HYACINTHUS
+matthiolo,row548,LIX,4.59,Μήκων ῤοιάς,PAPAVER ERRATICUM
+matthiolo,row549,LX,4.6,Μήκων ἥμερος,PAPAVER SATIVUM
+matthiolo,row550,LXI,4.61,Μήκων κερατῖτις,PAPAVER CORNICULATUM
+matthiolo,row551,LXII,4.62,Μήκων ἀφρώδης,PAPAVER SPUMEUM
+matthiolo,row552,LXIII,4.63,Ὑπήκοον,HYPECOUM
+matthiolo,row553,LXIV,4.64,Ὑοσκύαμος,HYOSCYAMUS SIVE APOLLINARIS
+matthiolo,row554,LXV,4.65,Ψύλλιον,PSYLLIUM
+matthiolo,row555,LXVI,4.66,Στρύχνος κηπαῖος,SOLANUM HORTENSE
+matthiolo,row556,LXVII,4.67,Στρύχνος ἁλικάκαβος,SOLANUM HALICACABUM
+matthiolo,row557,LXVIII,4.68,Στρύχνος ὑπνωτικός,SOLANUM SOMNIFERUM
+matthiolo,row558,LXIX,4.69,Στρύχνος μανικός,SOLANUM FURIOSUM
+matthiolo,row559,LXX,4.7,Δορύκνιον,DORYCNIUM
+matthiolo,row560,LXXI,4.71,Μανδραγόρας,MANDRAGORAS
+matthiolo,row561,LXXII,4.72,Ἀκόνιτον,ACONITUM
+matthiolo,row562,LXXIII,4.73,Ἀκόνιτον ἕτερον,ACONITUM ALTERUM
+matthiolo,row563,LXXIV,4.74,Κώνειον,CICUTA
+matthiolo,row564,LXXV,4.75,Σμίλαξ,TAXUS
+matthiolo,row565,LXXVI,4.76,Ἀπόκυνον,APOCYNUM
+matthiolo,row566,LXXVII,4.77,Νήριον ἤ Ῥοδόδενδρον,NERIUM SEU RHODODENDRUM
+matthiolo,row567,LXXVIII,4.78,Μυκήτες,FUNGI
+matthiolo,row568,LXXIX,4.79,Κολχικόν,COLCHICUM
+matthiolo,row569,LXXX,4.8,Ἐφήμερον,EPHEMERUM
+matthiolo,row570,LXXXI,4.81,Ἑλξίνη,HELXINE
+matthiolo,row571,LXXXII,4.82,Ἀλσίνη,ALSINE
+matthiolo,row572,LXXXIII,4.83,Φακός ὁ ἐπὶ τῶν τελμάτων,LENS PALUSTRIS
+matthiolo,row573,LXXXIV,4.84,Ἀείζωον μέγα,SEDUM MAIUS
+matthiolo,row574,LXXXV,4.85,Ἀείζωον μικρόν,SEDUM MINUS
+matthiolo,row575,LXXXVI,4.86,Ἀείζωον εἶδος τρίτον,SEDI GENUS TERTIUM
+matthiolo,row576,LXXXVII,4.87,Κοτυληδών,UMBILICUS VENERIS
+matthiolo,row577,LXXXVIII,4.88,Κοτυληδών ἕτερα,UMBILICUS VENERIS ALTER
+matthiolo,row578,LXXXIX,4.89,Ἀκαλύφη,URTICA
+matthiolo,row579,XC,4.9,Γαλίοψις,GALIOPSIS
+matthiolo,row580,XCI,4.91,Γάλιον,GALION
+matthiolo,row581,XCII,4.92,Ἠριγέρων,SENECIO
+matthiolo,row582,XCIII,4.93,Θάλικτρον,THALICTRUM
+matthiolo,row583,XCIV,4.94,Βρύον θαλάσσιον,MUSCUS MARINUS
+matthiolo,row584,XCV,4.95,Φῦκος θαλάσσιον,FUCUS MARINUS
+matthiolo,row585,XCVI,4.96,Ποταμογείτων,POTAMOGETON
+matthiolo,row586,XCVII,4.97,Στρατιώτης,STRATIOTES
+matthiolo,row587,XCVIII,4.98,Στρατιότης χιλιόφυλλος,STRATIOTES MILLEFOLIUM
+matthiolo,row588,XCIX,4.99,Φλόμος,VERBASCUM
+matthiolo,row589,C,4.1,Αἰθιοπίς,AETHIOPIS
+matthiolo,row590,CI,4.101,Ἄρκτιον,ARCTION
+matthiolo,row591,CII,4.102,Ἄρκειον,PERSONATA
+matthiolo,row592,CIII,4.103,Πετασίτης,PETASITES
+matthiolo,row593,CIV,4.104,Ἐπιπακτίς,EPIPACTIS
+matthiolo,row594,CV,4.105,Καπνός,FUMARIA
+matthiolo,row595,CVI,4.106,Λοτός ἥμερος,LOTUS URBANA
+matthiolo,row596,CVII,4.107,Λοτός ἄγριος,LOTUS SYLVESTRIS
+matthiolo,row597,CVIII,4.108,Κύτισος,CYTISUS
+matthiolo,row598,CIX,4.109,Λωτός αἰγύπτιος,LOTUS AEGYPTIA
+matthiolo,row599,CX,4.11,Μυριόφυλλον,MILLEFOLIUM
+matthiolo,row600,CXI,4.111,Μύῤῥις,MYRRHIS
+matthiolo,row601,CXII,4.112,Μύαγρος,MYAGRUM
+matthiolo,row602,CXIII,4.113,Ὀνάγρα,ONAGRA
+matthiolo,row603,CXIV,4.114,Κίρσιον,CIRSIUM
+matthiolo,row604,CXV,4.115,Ἀστήρ ἀττικός,ASTER ATTICUS
+matthiolo,row605,CXVI,4.116,Ἰσόπυρον_x0096_ ISOPYRUM,
+matthiolo,row606,CXVII,4.117,Ἴον πορφυροῦν,VIOLA PURPUREA
+matthiolo,row607,CXVIII,4.118,Κακαλία,CACALIA
+matthiolo,row608,CXIX,4.119,Βούνιον,BUNIUM
+matthiolo,row609,CXX,4.12,Πσευδοβούνιον,PSEUDOBUNIUM
+matthiolo,row610,CXXI,4.121,Χαμαίκισσος,CHAMAECISSUS
+matthiolo,row611,CXXII,4.122,Χαμαιλεύκη,CHAMAELEUCE
+matthiolo,row612,CXXIII,4.123,Βούγλωσσον,BUGLOSSUM LINGUA BUBULA
+matthiolo,row613,CXXIV,4.124,Κυνόγλωσσον,CYNOGLOSSUM
+matthiolo,row614,CXXV,4.125,Φύτευμα,PHYTEUMA
+matthiolo,row615,CXXVI,4.126,Λεοντοπόδιον,LEONTOPODIUM
+matthiolo,row616,CXXVII,4.127,Ἱππόγλωσσον,HIPPOGLOSSUM
+matthiolo,row617,CXXVIII,4.128,Ἀντίῤῥινον,ANTIRRHINUM
+matthiolo,row618,CXXIX,4.129,Κατανάγκη,CATANANCE
+matthiolo,row619,CXXX,4.13,Τριπόλιον,TRIPOLION
+matthiolo,row620,CXXXI,4.131,Ἀδίαντον,ADIANTUM
+matthiolo,row621,CXXXII,4.132,Τριχομανές,TRICHOMANES
+matthiolo,row622,CXXXIII,4.133,Ξάνθιον,XANTHIUM SIVE LAPPA
+matthiolo,row623,CXXXIV,4.134,Αἰγίλωψ,AEGILOPS SIVE FESTUCA
+matthiolo,row624,CXXXV,4.135,Βρῶμος,BROMUS
+matthiolo,row625,CXXXVI,4.136,Γλαύξ,GLAUX
+matthiolo,row626,CXXXVII,4.137,Πολύγαλον,POLYGALA
+matthiolo,row627,CXXXVIII,4.138,Ὄσυρις,OSYRIS
+matthiolo,row628,CXXXIX,4.139,Σμίλαξ τραχεῖα,SMILAX ASPERA
+matthiolo,row629,CXL,4.14,Σμίλαξ λεῖα,SMILAX LAEVIS
+matthiolo,row630,CXLI,4.141,Μυρσίνη ἀγρία,RUSCUS
+matthiolo,row631,CXLII,4.142,Δάφνη ἀλέξανδρεια,LAURUS ALEXANDRINA
+matthiolo,row632,CXLIII,4.143,Δαφνοειδές,DAPHNOIDES
+matthiolo,row633,CXLIV,4.144,Χαμαιδάφνη,CHAMAEDAPHNE
+matthiolo,row634,CXLV,4.145,Ἐλλέβορος λευκός,VERATRUM ALBUM
+matthiolo,row635,CXLVI,4.146,Ἐλλέβορος μέλας,VERATRUM NIGRUM
+matthiolo,row636,CXLVII,4.147,Σησαμοιδές μέγα,SESAMOIDES MAGNUM
+matthiolo,row637,CXLVIII,4.148,Σησαμοιδές μικρόν,SESAMOIDES PARVUM
+matthiolo,row638,CXLIX,4.149,Σίκυς ἄγριος,CUCUMER SYLVESTRIS
+matthiolo,row639,CL,4.15,Σταφίς ἀγρία,STAPHIS AGRIA
+matthiolo,row640,CLI,4.151,Θαψία,THAPSIA
+matthiolo,row641,CLII,4.152,Σπαρτίον,SPARTIUM
+matthiolo,row642,CLIII,4.153,Σίλυβον,SILYBUM
+matthiolo,row643,CLIV,4.154,Βάλανος μυρεψική,GLANS UNGUENTARIA
+matthiolo,row644,CLV,4.155,Νάρκισσος,NARCISSUS
+matthiolo,row645,CLVI,4.156,Ἱπποφαίς,HIPPOPHAES
+matthiolo,row646,CLVII,4.157,Ἱππόφαιστον,HIPPOPHAESTUM
+matthiolo,row647,CLVIII,4.158,Κίκι ἣ κρότων,RICINUS
+matthiolo,row648,CLIX,4.159,Τιθυμάλοι,TITHYMALI
+matthiolo,row649,CLX,4.16,Πιτύουσα,PITYUSA
+matthiolo,row650,CLXI,4.161,Λαθυρίς,LATHYRIS
+matthiolo,row651,CLXII,4.162,Πέπλος,PEPLUS
+matthiolo,row652,CLXIII,4.163,Πεπλίς,PEPLIS
+matthiolo,row653,CLXIV,4.164,Χαμαισύκη,CHAMAESYCE
+matthiolo,row654,CLXV,4.165,Σκαμμωνία,SCAMMONIA
+matthiolo,row655,CLXVI,4.166,Χαμελαία,CHAMELAEA
+matthiolo,row656,CLXVII,4.167,Θυμελαία,THYMELAEA
+matthiolo,row657,CLXVIII,4.168,Ακτή,SAMBUCUS
+matthiolo,row658,CLXIX,4.169,Πυκνόκομον,PYCNOCOMUM
+matthiolo,row659,CLXX,4.17,Ἄπιος,APIOS
+matthiolo,row660,CLXXI,4.171,Κολοκυνθίς,COLOCYNTHIS
+matthiolo,row661,CLXXII,4.172,Ἐπίθυμον,EPITHYMUM
+matthiolo,row662,CLXXIII,4.173,Ἀλύπον,ALYPUM
+matthiolo,row663,CLXXIV,4.174,Ἔμπετρον,EMPETRUM
+matthiolo,row664,CLXXV,4.175,Ἄμπελος ἀγρία,VITIS SYLVESTRIS
+matthiolo,row665,CLXXVI,4.176,Ἄμπελος λευκή,VITIS ALBA
+matthiolo,row666,CLXXVII,4.177,Ἄμπελος μέλαινα,VITIS NIGRA
+matthiolo,row667,CLXXVIII,4.178,Πτέρις,FILIX MAS
+matthiolo,row668,CLXXIX,4.179,Θελυπτερίς,FILIX FOEMINA
+matthiolo,row669,CLXXX,4.18,Πολυπόδιον,FILICULA
+matthiolo,row670,CLXXXI,4.181,Δρυοπτερίς,DRYOPTERIS
+matthiolo,row671,CLXXXII,4.182,Κνίκος,CNICUS
+matthiolo,row672,CLXXXIII,4.183,Λινόζωστις,MERCURIALIS
+matthiolo,row673,CLXXXIV,4.184,Κυνοκράμβη,CYNOCRAMBE
+matthiolo,row674,CLXXXV,4.185,Ἡλιοτρόπιον μέγα,HELIOTROPIUM MAIUS
+matthiolo,row675,CLXXXVI,4.186,Ἡλιοτρόπιον μικρόν,HELIOTROPIUM MINUS
+matthiolo,row676,CLXXXVII,4.187,Σκορπιοειδές,SCORPIOIDES
+matthiolo,row677,I,5.1,Ἄμπελος οἰνοφόρος,VITIS VINIFERA
+matthiolo,row678,II,5.2,Ἄμπελος ἀγρία,LABRUSCA
+matthiolo,row679,III,5.3,Σταφυλή,UVA
+matthiolo,row680,IV,5.4,Σταφίς,UVA PASSA
+matthiolo,row681,V,5.5,Οἰνάνθη,OENANTHE
+matthiolo,row682,VI,5.6,Ὀμφάκιον,OMPHACIUM
+matthiolo,row683,VII,5.7,Οἴνου φύσις,VINI NATURA
+matthiolo,row684,VIII,5.8,Οἶνος ὀμφακίτης,VINUM OMPHACITES
+matthiolo,row685,IX,5.9,Δευτερία,LORA
+matthiolo,row686,X,5.1,Οἶνος ἐκ τῆς ἀγρίας σταφυλῆς,VINUM E LABRUSCA
+matthiolo,row687,XI,5.11,Οἶνος μελιτίτης,VINUM MELITITES
+matthiolo,row688,XII,5.12,Οἰνόμελι,MULSUM
+matthiolo,row689,XIII,5.13,Μελίκρατον,AQUA MULSA
+matthiolo,row690,XIV,5.14,Ὕδωρ,AQUA
+matthiolo,row691,XV,5.15,Ὕδωρ θαλάττιον,AQUA MARINA
+matthiolo,row692,XVI,5.16,Θαλασσόμελι_x0096_ THALASSOMELI,
+matthiolo,row693,XVII,5.17,Ὄξος,ACETUM
+matthiolo,row694,XVIII,5.18,Ὀξύμελι,ACETUM MULSUM
+matthiolo,row695,XIX,5.19,Ὀξάλμη,ACIDA MURIA
+matthiolo,row696,XX,5.2,Θυμοξάλμη,THYMOXALME
+matthiolo,row697,XXI,5.21,Σκιλλητικόν ὄξος,SCILLINUM ACETUM
+matthiolo,row698,XXII,5.22,Σκιλλητικός οἶνος,SCILLINUM VINUM
+matthiolo,row699,XXIII,5.23,Οἴνοι θαλάσσιοι,VINA MARINA
+matthiolo,row700,XXIV,5.24,Κυδωνίτης οἶνος,VINUM CYDONITES
+matthiolo,row701,XXV,5.25,Ὑδρόμηλον,HYDROMELUM
+matthiolo,row702,XXVI,5.26,Ὀμφακομέλι,OMPHACOMELI
+matthiolo,row703,XXVII,5.27,Ἀπίτης οἶνος,VINUM EX PYRIS
+matthiolo,row704,XXVIII,5.28,Οἰνάνθινος οἶνος,VINUM OENANTHIUM
+matthiolo,row705,XXIX,5.29,Ῥοίτης οἶνος,VINUM EX PUNICIS
+matthiolo,row706,XXX,5.3,Ῥοδίτης οἶνος,ROSACEUM VINUM
+matthiolo,row707,XXXI,5.31,Μυρτίτης οἶνος,MYRTITES VINUM
+matthiolo,row708,XXXII,5.32,Μυρσινίτης οἶνος,MYRSINITES VINUM
+matthiolo,row709,XXXIII,5.33,Σχίνινος καὶ τερεμίνθινος οἶνος,LENTISCINUM ET TEREBINTHINUM VINUM
+matthiolo,row710,XXXIV,5.34,Φοινικίτης οἶνος,PALMEUM VINUM
+matthiolo,row711,XXXV,5.35,Κατορχίτης οἶνος,VINUM EX CARICIS FACTUM
+matthiolo,row712,XXXVI,5.36,Ῥητινίτης οἶνος,RESINATUM VINUM
+matthiolo,row713,XXXVII,5.37,Στροβιλίτης οἶνος,VINUM STROBILITES
+matthiolo,row714,XXXVIII,5.38,Κέδρινος καὶ ἐκ τίνων δένδρων καὶ καρπῶν οἶνος CEDRINUM ET EX ALIQUOT ARBORIBUS AC FRUCTIBUS VINUM,
+matthiolo,row715,XXXIX,5.39,Πισσίτης οἶνος,PICATUM VINUM
+matthiolo,row716,XL,5.4,Ἀψινθίτης οἶνος,VINUM ABSINTHITES
+matthiolo,row717,XLI,5.41,Ὑσσοπίτης οἶνος,VINUM HYSSOPITES
+matthiolo,row718,XLII,5.42,Οἶνοι ἐκ τῶν ποικίλων φυτῶν,VINA EX DIVERSIS PLANTIS FACTA
+matthiolo,row719,XLIII,5.43,Ἀρωματίτης οἶνος,VINUM AROMATITES
+matthiolo,row720,XLIV,5.44,Οἶνοι ἐκ τῶν ποικίλων ἀρωμάτων,VINA EX DIVERSIS ODORAMENTIS
+matthiolo,row721,XLV,5.45,Οἶνοι ἐκ τῶν ποικίλων ποῶν,VINA EX DIVERSIS HERBIS FACTA
+matthiolo,row722,XLVI,5.46,Καδμεία,CADMIA
+matthiolo,row723,XLVII,5.47,Χαλκός κεκαυμένος,AES USTUM
+matthiolo,row724,XLVIII,5.48,Χαλκοῦ ἄνθος,FLOS AERIS
+matthiolo,row725,XLIX,5.49,Λεπίς χαλκοῦ,SQUAMA AERIS
+matthiolo,row726,L,5.5,Λεπίς στομώματος,SQUAMA STOMOMATIS
+matthiolo,row727,LI,5.51,Ἰόν ξυστόν,AERUGO RASILIS
+matthiolo,row728,LII,5.52,Ἰός σκώληξ,AERUGO SCOLECIA
+matthiolo,row729,LIII,5.53,Ἰός σιδήρου,RUBIGO FERRI
+matthiolo,row730,LIV,5.54,Σκωρία σιδήρου,STERCUS FERRI
+matthiolo,row731,LV,5.55,Μόλιβδος πεπλυμένος,PLUMBUM ELOTUM
+matthiolo,row732,LVI,5.56,Μόλιβδος κεκαυμένος,PLUMBUM USTUM
+matthiolo,row733,LVII,5.57,Σκωρία μολίβδου,RECREMENTUM PLUMBI
+matthiolo,row734,LVIII,5.58,Μολιβδοειδής,MOLYBDOIDES SIVE LAPIS PLUMBARIUS
+matthiolo,row735,LIX,5.59,Στίμμι_x0096_ STIBIUM,
+matthiolo,row736,LX,5.6,Μολίβδαινα,MOLI<B>DAENA SEU PLUMBAGO
+matthiolo,row737,LXI,5.61,Ἀργύρου σκωρία,ARGENTI RECREMENTUM
+matthiolo,row738,LXII,5.62,Λιθάργυρος,SPUMA ARGENTI
+matthiolo,row739,LXIII,5.63,Ψιμμίθιον,CERUSSA
+matthiolo,row740,LXIV,5.64,Χρυσοκόλλα,CHRYSOCOLLA
+matthiolo,row741,LXV,5.65,Λίθος ἀρμένιος,LAPIS ARMENIUS
+matthiolo,row742,LXVI,5.66,Κυανός λίθος,COERULEUS LAPIS
+matthiolo,row743,LXVII,5.67,Ἰνδικόν,INDICUM
+matthiolo,row744,LXVIII,5.68,Ὄχρα,OCHRA
+matthiolo,row745,LXIX,5.69,Κιννάβαρις,CINNABARIS
+matthiolo,row746,LXX,5.7,Ὑδράργυρος,ARGENTUM VIVUM
+matthiolo,row747,LXXI,5.71,Μίλτος σινωπική,RUBRICA SINOPICA
+matthiolo,row748,LXXII,5.72,Μίλτος τεκτονική,RUBRICA FABRILIS
+matthiolo,row749,LXXIII,5.73,Λημνία γῆ,LEMNIA TERRA
+matthiolo,row750,LXXIV,5.74,Χάλκανθον,ATRAMENTUM SUTORIUM
+matthiolo,row751,LXXV,5.75,Χαλκῖτις,CHALCITIS
+matthiolo,row752,LXXVI,5.76,Μίσυ,MISY
+matthiolo,row753,LXXVII,5.77,Μελαντηρία,MELANTERIA
+matthiolo,row754,LXXVIII,5.78,Σῶρυ,SORY
+matthiolo,row755,LXXIX,5.79,Διφρυγές,DIPHRYGES
+matthiolo,row756,LXXX,5.8,Ἀρσενικόν,AURIPIGMENTUM
+matthiolo,row757,LXXXI,5.81,Σανδαράχη,SANDARACHA
+matthiolo,row758,LXXXII,5.82,Στυπτηρία,ALUMEN
+matthiolo,row759,LXXXIII,5.83,Θεῖον,SULPHUR
+matthiolo,row760,LXXXIV,5.84,Κίσσηρις,PUMEX
+matthiolo,row761,LXXXV,5.85,Ἄλς,SAL
+matthiolo,row762,LXXXVI,5.86,Ἀλός ἄχνη,SALIS SPUMA
+matthiolo,row763,LXXXVII,5.87,Ἄλμη,MURIA
+matthiolo,row764,LXXXVIII,5.88,Ἀλός ἄνθος,FLOS SALIS
+matthiolo,row765,LXXXIX,5.89,Νίτρον - ἀφρόνιτρον,NITRUM
+matthiolo,row766,XC,5.9,Τρύξ,FAEX
+matthiolo,row767,XCI,5.91,Ἄσβεστος  _x0096_ CALX VIVA,
+matthiolo,row768,XCII,5.92,Γύψος,GYPSUM
+matthiolo,row769,XCIII,5.93,Τέφρα κληματίνη,SARMENTITIUS CINIS
+matthiolo,row770,XCIV,5.94,Ἀλκυόνιον,ALCYONIUM
+matthiolo,row771,XCV,5.95,Ἀδάρκης,ADARCES
+matthiolo,row772,XCVI,5.96,Σπόγγοι,SPONGIAE
+matthiolo,row773,XCVII,5.97,Κοράλλιον,CORALLIUM
+matthiolo,row774,XCVIII,5.98,Λίθος φρύγιος,LAPIS PHRYGIUS
+matthiolo,row775,XCIX,5.99,Λίθος ἄσιος,LAPIS ASIUS
+matthiolo,row776,C,5.1,Λίθος πυρίτης,LAPIS PYRITES
+matthiolo,row777,CI,5.101,Λίθος αἱματίτης,LAPIS HAEMATITES
+matthiolo,row778,CII,5.102,Λίθος σχιστός,LAPIS SCHISTUS
+matthiolo,row779,CIII,5.103,Λίθος γαγάτης,LAPIS GAGATES
+matthiolo,row780,CIV,5.104,Λίθος θρακίας,LAPIS THRACIUS
+matthiolo,row781,CV,5.105,Λίθος μαγνῆτις,LAPIS MAGNES
+matthiolo,row782,CVI,5.106,Λίθος ἀραβικός,LAPIS ARABICUS
+matthiolo,row783,CVII,5.107,Λίθος γαλακτίτης,LAPIS GALACTITES
+matthiolo,row784,CVIII,5.108,Λίθος μελιτίτης,LAPIS MELITITES
+matthiolo,row785,CIX,5.109,Λίθος μορόχθος _x0096_ LAPIS MOROCHTHUS,
+matthiolo,row786,CX,5.11,Λίθος ἀλαβαστρίτης,LAPIS ALABASTRITES
+matthiolo,row787,CXI,5.111,Λίθος θυΐτης,LAPIS THYITES
+matthiolo,row788,CXII,5.112,Λίθος ἰουδαϊκός,LAPIS IUDAICUS
+matthiolo,row789,CXIII,5.113,Λίθος ἀμίαντος,LAPIS AMIANTUS
+matthiolo,row790,CXIV,5.114,Λίθος σάπφειρος,LAPIS SAPPHIRUS
+matthiolo,row791,CXV,5.115,Λίθος μεμφίτης,LAPIS MEMPHITES
+matthiolo,row792,CXVI,5.116,Λίθος σεληνίτης,LAPIS SELENITES
+matthiolo,row793,CXVII,5.117,Λίθος ἴασπις,LAPIS IASPIS
+matthiolo,row794,CXVIII,5.118,Λίθος ἀετίτης,LAPIS AETITES
+matthiolo,row795,CXIX,5.119,Λίθος ὀφίτης,LAPIS OPHITES
+matthiolo,row796,CXX,5.12,Λίθοι ἐν τοῖς σπόγγοις,LAPIDES IN SPONGIIS
+matthiolo,row797,CXXI,5.121,Λιθοκόλλα,LITHOCOLLA
+matthiolo,row798,CXXII,5.122,Λίθος ὀστρακίτης,LAPIS OSTRACITES
+matthiolo,row799,CXXIII,5.123,Σμύρις λίθος_x0096_ SMYRIS LAPIS,
+matthiolo,row800,CXXIV,5.124,Ἄμμος αἰγιαλῖτις,ARENA LITORALIS
+matthiolo,row801,CXXV,5.125,Ἀκόνη ναξία,LAPIS NAXIUS
+matthiolo,row802,CXXVI,5.126,Λίθος γεώδης,LAPIS GEODES
+matthiolo,row803,CXXVII,5.127,Γῆ πᾶσα,TERRA OMNIS
+matthiolo,row804,CXXVIII,5.128,Γῆ ἐρετρίας,TERRA ERETRIA
+matthiolo,row805,CXXIX,5.129,Γῆ σαμία,TERRA SAMIA
+matthiolo,row806,CXXX,5.13,Λίθος σάμιος,LAPIS SAMIUS
+matthiolo,row807,CXXXI,5.131,Γῆ χία,TERRA CHIA
+matthiolo,row808,CXXXII,5.132,Γῆ σελινουσία,TERRA SELINUSIA
+matthiolo,row809,CXXXIII,5.133,Γῆ κιμωλία,TERRA CIMOLIA
+matthiolo,row810,CXXXIV,5.134,Γῆ πνιγῖτις,TERRA PNIGITIS
+matthiolo,row811,CXXXV,5.135,Ὄστρακα τῶν ἰπνῶν,TESTAE FORNACEAE
+matthiolo,row812,CXXXVI,5.136,Γῆ ἐκ τῶν καμίνων,TERRA FORNACUM
+matthiolo,row813,CXXXVII,5.137,Γῆ μηλία,TERRA MELIA
+matthiolo,row814,CXXXVIII,5.138,Γῆ ἀμπελῖτις  _x0096_ TERRA AMPELITIS,
+matthiolo,row815,CXXXIX,5.139,Ἀσβόλη ζωγραφική,FULIGO PICTORIA
+matthiolo,row816,CXL,5.14,Μέλαν γραφικόν,ATRAMENTUM LIBRARIUM
+matthiolo,row817,I,6.1,Κανθαρίδες,CANTHARIDES
+matthiolo,row818,II,6.2,Πιτυοκάμπαι,PINORUM ERUCAE
+matthiolo,row819,III,6.3,Βούπρηστις,BUPRESTIS
+matthiolo,row820,IV,6.4,Σαλαμάνδρα,SALAMANDRA
+matthiolo,row821,V,6.5,Ἐφήμερον,EPHEMERUM
+matthiolo,row822,VI,6.6,Δορύκνιον,DORYCNIUM
+matthiolo,row823,VII,6.7,Ἀκόνιτον,ACONITUM
+matthiolo,row824,VIII,6.8,Μέλι τῆς Ἡρακλείας,MEL HERACLIAE
+matthiolo,row825,IX,6.9,Κόριον,CORIANDRUM
+matthiolo,row826,X,6.1,Ψύλλιον,PSYLLIUM
+matthiolo,row827,XI,6.11,Κώνειον,CICUTA
+matthiolo,row828,XII,6.12,Σμίλαξ,TAXUS
+matthiolo,row829,XIII,6.13,Καρπάσου ὀπός,CARPASI SUCCUS
+matthiolo,row830,XIV,6.14,Σαρδονία πόα,SARDONIA HERBA
+matthiolo,row831,XV,6.15,Ὑοσκύαμος,HYOSCYAMUS
+matthiolo,row832,XVI,6.16,Μανδραγόρας,MANDRAGORA
+matthiolo,row833,XVII,6.17,Μηκώνειον,MECONIUM
+matthiolo,row834,XVIII,6.18,Μήκων κερατῖτις,PAPAVER CORNICULATUM
+matthiolo,row835,XIX,6.19,Φαρικόν,PHARICUM
+matthiolo,row836,XX,6.2,Τοξικόν,TOXICUM
+matthiolo,row837,XXI,6.21,Ἰξίας,IXIA
+matthiolo,row838,XXII,6.22,Ψιμμίθιον,CERUSSA
+matthiolo,row839,XXIII,6.23,Μυκήτες,FUNGI
+matthiolo,row840,XXIV,6.24,Γύψος,GYPSUM
+matthiolo,row841,XXV,6.25,Αἷμα ταύρειος,SANGUIS TAURINUS
+matthiolo,row842,XXVI,6.26,Γάλα ἐμπυτιασθέν,LAC INTUS COAGULATUM
+matthiolo,row843,XXVII,6.27,Λιθάργυρος,ARGENTI SPUMA
+matthiolo,row844,XXVIII,6.28,Ὑδράργυρος,ARGENTUM VIVUM
+matthiolo,row845,XXIX,6.29,"Τίτανος, σανδαράχη, ἀρσενικόν CALX, SANDARACHA, AURIPIGMENTUM",
+matthiolo,row846,XXX,6.3,Λαγωός θαλάσσιος  _x0096_ LEPUS MARINUS,
+matthiolo,row847,XXXI,6.31,Φρύνος καὶ βάτραχος ἕλειος,RUBETA ET PALUSTRIS RANA
+matthiolo,row848,XXXII,6.32,Βδέλλα,HIRUDO
+matthiolo,row849,XXXIII,6.33,"Ἑλλέβορος λευκός, θαψία, ἐλατήριον, ἀγαρικόν μέλαν VERATRUM ALBUM, THAPSIA, ELATERIUM, AGARICUM NIGRUM",
+matthiolo,row850,XXXIV,6.34,Οἰκεῖα ἡμῖν,DOMESTICA NOBIS
+matthiolo,row851,XXXV,6.35,Ἰοβόλα,VENENATA
+matthiolo,row852,XXXVI,6.36,Σημεῖα κυνός λυοσσῶντος καὶ τῶν ὑπ'αὐτοῦ δεδηγμένων SIGNA RABIOSI CANIS ET DEMORSORUM AB EO,
+matthiolo,row853,XXXVII,6.37,Θεραπεία τῶν ὑπὸ λυοσσῶντος κυνός δηγμάτων REMEDIA DEMORSORUM A CANE RABIOSO,
+matthiolo,row854,XXXVIII,6.38,Καῦσις τῶν ὑπὸ λυοσσῶντος κυνός δηγμάτων USTIO DEMORSORUM A CANE RABIOSO,
+matthiolo,row855,XXXIX,6.39,Δίαιτα τῶν ὑπὸ κυνός λυοσσῶντος δηχθέντων RATIO VICTUS IN MORSU RABIOSI CANIS,
+matthiolo,row856,XL,6.4,Κοινή τῶν ἰοβόλων θεραπεία COMMUNIS CURATIO IN OMNES ICTUS VIRULENTOS,
+matthiolo,row857,XLI,6.41,Σφήκες καὶ μέλισσαι,Vespae et Apes
+matthiolo,row858,XLII,6.42,Φαλάγγια,PHALANGIA
+matthiolo,row859,XLIII,6.43,Σκολόπενδρα,SCOLOPENDRA
+matthiolo,row860,XLIV,6.44,Σκορπίος,SCORPIO
+matthiolo,row861,XLV,6.45,"Τρυγών θαλάσσια, σκορπίος καὶ δράκων θαλάσσιοι PASTINACA MARINA, SCORPIO ET DRACO MARINI",
+matthiolo,row862,XLVI,6.46,Μυγάλη,MUS ARANEUS
+matthiolo,row863,XLVII,6.47,Ἔχιδνα,VIPERA
+matthiolo,row864,XLVIII,6.48,Σκυτάλη καὶ ἀμφισβαῖνα,CAECILIA ET AMPHISBAENA
+matthiolo,row865,XLIX,6.49,Δρύϊνος,DRYINUS
+matthiolo,row866,L,6.5,Αἱμόῤῥοος καὶ διψάς,HAEMORRHOUS ET DIPSAS
+matthiolo,row867,LI,6.51,Ὕδρος,NATRIX
+matthiolo,row868,LII,6.52,Κέγχρος,CENCHRUS
+matthiolo,row869,LIII,6.53,Κεράστης,CERASTES
+matthiolo,row870,LIV,6.54,Ἀσπίς,ASPIS
+matthiolo,row871,LV,6.55,Βασιλίσκος,BASILISCUS

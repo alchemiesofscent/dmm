@@ -1,0 +1,950 @@
+edition,edition_entry_id,berendes_teitok_id,berendes_chapter,berendes_term
+berendes,row1,e-9,1.1,Iris
+berendes,row2,e-10,1.2,Akoron
+berendes,row3,e-11,1.3,B?rwurz
+berendes,row4,e-12,1.4,Cyperngras
+berendes,row5,e-13,1.5,Kardamomon
+berendes,row6,e-14,1.6,Narde
+berendes,row7,e-15,1.7,Keltische Narde
+berendes,row8,e-16,1.8,Bergnarde
+berendes,row9,e-17,1.9,Haselwurz
+berendes,row10,e-18,1.10,Phu
+berendes,row11,e-19,1.11,Malabathron
+berendes,row12,e-20,1.12,Kassia
+berendes,row13,e-21,1.13,Zimmt
+berendes,row14,e-22,1.14,Amomum
+berendes,row15,e-23,1.15,Kostus
+berendes,row16,e-24,1.16,Bartgras
+berendes,row17,e-25,1.17,Kalmus
+berendes,row18,e-26,1.18,Balsam
+berendes,row19,e-27,1.19,Aspalathos
+berendes,row20,e-28,1.20,Bryon
+berendes,row21,e-29,1.21,Agallochon
+berendes,row22,e-30,1.22,Naskaphthon
+berendes,row23,e-31,1.23,Kankamon
+berendes,row24,e-32,1.24,Kyphi
+berendes,row25,e-33,1.25,Safran
+berendes,row26,e-34,1.26,Krokomagma
+berendes,row27,e-35,1.27,Alant
+berendes,row28,e-36,1.28,Aegyptischer Alant
+berendes,row29,e-37,1.29,Oel aus unreifen Oliven
+berendes,row30,e-38,1.30,Gew?hnliches Oel
+berendes,row31,e-39,1.31,Oel des wilden Oelbaumes
+berendes,row32,e-40,1.32,Weisses Oel
+berendes,row33,e-41,1.33,Sikyonisches Oel
+berendes,row34,e-42,1.34,Der Schmutz der B?der
+berendes,row35,e-43,1.35,Der Schmutz aus den Ringpl?tzen
+berendes,row36,e-44,1.36,Der Schmutz der Turnpl?tze
+berendes,row37,e-45,1.37,Honig?l
+berendes,row38,e-46,1.38,Ricinus?l
+berendes,row39,e-47,1.39,Mandel?l
+berendes,row40,e-48,1.40,Behen?l
+berendes,row41,e-49,1.41,Sesam- und Wallnuss?l
+berendes,row42,e-50,1.42,Bilsen?l
+berendes,row43,e-51,1.43,Knidisches Oel
+berendes,row44,e-52,1.44,Saflor?l
+berendes,row45,e-53,1.45,Rettig?l
+berendes,row46,e-54,1.46,Schwarzk?mmel?l
+berendes,row47,e-55,1.47,Senf?l
+berendes,row48,e-56,1.48,Myrten?l
+berendes,row49,e-57,1.49,Lorbeer?l
+berendes,row50,e-58,1.50,Oel des Mastixbaumes
+berendes,row51,,1.51,Mastixharzöl
+berendes,row52,e-59,1.52,Die Zusammensetzung der Salb?le
+berendes,row53,e-60,1.53,Die Bereitung des Rosen?ls
+berendes,row54,e-61,1.54,Die Bereitung des Elats?ls
+berendes,row55,e-62,1.55,Die Bereitung des Quitten?ls
+berendes,row56,e-63,1.56,Die Bereitung des Weinbl?then?ls
+berendes,row57,e-64,1.57,Die Bereitung des Bockshorn?ls
+berendes,row58,e-65,1.58,Die Bereitung des Majoran?ls
+berendes,row59,e-66,1.59,Die Bereitung des Basilicum?ls
+berendes,row60,e-67,1.60,Die Bereitung des Beifuss?ls
+berendes,row61,e-68,1.61,Die Bereitung des Dill?ls
+berendes,row62,e-69,1.62,Die Bereitung des susischen Salb?ls
+berendes,row63,e-70,1.63,Die Bereitung des Narzissensalb?ls
+berendes,row64,e-71,1.64,Die Bereitung des Safransalb?ls
+berendes,row65,e-72,1.65,Die Verdichtung und Bereitung des (Lawsonien-) Hennasalb?ls
+berendes,row66,e-73,1.66,Die Verdichtung des Schwertlilien?ls
+berendes,row67,e-74,1.67,Die Bereitung des Most?ls
+berendes,row68,e-75,1.68,Amarakinon (Majoransalb?l)
+berendes,row69,e-76,1.69,Megalion
+berendes,row70,e-77,1.70,Hedychon
+berendes,row71,e-78,1.71,Metopion
+berendes,row72,e-79,1.72,Mendesion
+berendes,row73,e-80,1.73,Stakte
+berendes,row74,e-81,1.74,Zimmtsalb?l
+berendes,row75,e-82,1.75,Nardensalb?l
+berendes,row76,,1.76,Malabathronsalböl
+berendes,row77,e-83,1.76.5,Jasminöl
+berendes,row78,e-84,1.77,Myrrhe
+berendes,row79,e-85,1.78,B?otische Myrrhe
+berendes,row80,e-86,1.79,Styrax
+berendes,row81,e-87,1.80,Bdellion
+berendes,row82,e-88,1.81,Weihrauch
+berendes,row83,e-89,1.82,Weihrauchrinde
+berendes,row84,e-90,1.83,Manna des Weihrauchs
+berendes,row85,e-91,1.84,Weihrauchruss
+berendes,row86,e-92,1.85,Bereitung des Russes
+berendes,row87,e-93,1.86,Pinie
+berendes,row88,e-94,1.87,Pityiden
+berendes,row89,e-95,1.88,Zapfen
+berendes,row90,e-96,1.89,Schinos
+berendes,row91,e-97,1.90,Mastixharz
+berendes,row92,e-98,1.91,Terebinthe
+berendes,row93,e-99,1.92,Andere Harze
+berendes,row94,e-100,1.93,Die Art und Weise das Harz zu brennen
+berendes,row95,e-101,1.94,Fl?ssiges Pech
+berendes,row96,e-102,1.95,Theer?l
+berendes,row97,e-103,1.96,Russ des Theers
+berendes,row98,e-104,1.97,Pech
+berendes,row99,e-105,1.98,Zopissa
+berendes,row100,e-106,1.99,Asphalt
+berendes,row101,e-107,1.100,Pissasphalt
+berendes,row102,e-108,1.101,Naphtha
+berendes,row103,e-109,1.102,Cypresse
+berendes,row104,e-110,1.103,Wachholder
+berendes,row105,e-111,1.104,Sadebaum
+berendes,row106,e-112,1.105,Ceder
+berendes,row107,e-113,1.106,Lorbeer
+berendes,row108,e-114,1.107,Platane
+berendes,row109,e-115,1.108,Manna-Esche
+berendes,row110,e-116,1.109,Weisspappel
+berendes,row111,e-117,1.110,Schwarzpappel
+berendes,row112,e-118,1.111,Makir
+berendes,row113,e-119,1.112,Ulme
+berendes,row114,e-120,1.113,F?ule des Holzes
+berendes,row115,e-121,1.114,Rohr
+berendes,row116,e-122,1.115,Papyrus
+berendes,row117,e-123,1.116,Tamariske
+berendes,row118,e-124,1.117,Heide
+berendes,row119,e-125,1.118,Akakalis
+berendes,row120,e-126,1.119,Wegdorn
+berendes,row121,e-127,1.120,Melde
+berendes,row122,e-128,1.121,Paliuros
+berendes,row123,e-129,1.122,Oxyankantha
+berendes,row124,e-130,1.123,Kynosbatos
+berendes,row125,e-131,1.124,Lawsonia
+berendes,row126,e-132,1.125,Phillyrea
+berendes,row127,e-133,1.126,Kistos
+berendes,row128,e-134,1.127,Hypokistis
+berendes,row129,e-135,1.128,Ladanum
+berendes,row130,e-136,1.129,Ebenholz
+berendes,row131,e-137,1.130,Rosen
+berendes,row132,e-138,1.131,Rosenpastillen
+berendes,row133,e-139,1.132,Lykion
+berendes,row134,e-140,1.133,Akazie
+berendes,row135,e-141,1.134,Keuschlammstrauch
+berendes,row136,e-142,1.135,Weide
+berendes,row137,e-143,1.136,Wilder Oelbaum
+berendes,row138,e-144,1.137,Oelbaum
+berendes,row139,e-145,1.138,In Salzlake eingemachte Oliven
+berendes,row140,e-146,1.139,Oel aus der wilden Olive
+berendes,row141,e-147,1.140,Oelsatz
+berendes,row142,e-148,1.141,Thr?ne des ?thiopischen Oelbaumes
+berendes,row143,e-149,1.142,Eiche
+berendes,row144,e-150,1.143,Eicheln
+berendes,row145,e-151,1.144,Speiseeiche und Ilexeiche
+berendes,row146,e-152,1.145,Kastanien
+berendes,row147,e-153,1.146,Gall?pfel
+berendes,row148,e-154,1.147,Gerbersumach
+berendes,row149,e-155,1.148,Dattelpalme
+berendes,row150,e-156,1.149,Thebanische Datteln
+berendes,row151,e-157,1.150,Bl?thenscheide der Palme
+berendes,row152,e-158,1.151,Granatapfel
+berendes,row153,e-159,1.152,Granatbl?the
+berendes,row154,e-160,1.153,Granatrinde
+berendes,row155,e-161,1.154,Balaustion
+berendes,row156,e-162,1.155,Myrte
+berendes,row157,e-163,1.156,Myrtidanon
+berendes,row158,e-164,1.157,Kirschen
+berendes,row159,e-165,1.158,Johannisbrodfrucht
+berendes,row160,e-166,1.159,Apfelbaum
+berendes,row161,e-167,1.160,Quitten?pfel
+berendes,row162,e-168,1.161,Honig?pfel
+berendes,row163,e-169,1.162,Epirotische Aepfel
+berendes,row164,e-170,1.163,Wilde Aepfel
+berendes,row165,e-171,1.164,Pfirsiche
+berendes,row166,e-172,1.165,Armenische Aepfel
+berendes,row167,e-173,1.166,Medische Aepfel
+berendes,row168,e-174,1.167,Birne
+berendes,row169,e-175,1.168,Wilder Birnbaum
+berendes,row170,e-176,1.169,Mispel
+berendes,row171,e-177,1.170,Die andere Mispel
+berendes,row172,e-178,1.171,Lotos
+berendes,row173,e-179,1.172,Kornelkirsche
+berendes,row174,e-180,1.173,Speierlingsfrucht
+berendes,row175,e-181,1.174,Pflaumenbaum
+berendes,row176,e-182,1.175,Erdbeerbaum
+berendes,row177,e-183,1.176,Mandelbaum
+berendes,row178,e-184,1.177,Pistacien
+berendes,row179,e-185,1.178,Walln?sse
+berendes,row180,e-186,1.179,Haseln?sse
+berendes,row181,e-187,1.180,Maulbeerbaum
+berendes,row182,e-188,1.181,Sykomore
+berendes,row183,e-189,1.182,Feige auf Kypern
+berendes,row184,e-190,1.183,Feigen
+berendes,row185,e-191,1.184,Wilder Feigenbaum
+berendes,row186,e-192,1.185,Winterfeigen
+berendes,row187,e-193,1.186,Aschenlauge des Feigenbaumes
+berendes,row188,e-194,1.187,Persea
+berendes,row189,e-196,2.1,Seeigel
+berendes,row190,e-197,2.2,Landigel
+berendes,row191,e-198,2.3,Seepferdchen
+berendes,row192,e-199,2.4,Purpurschnecke
+berendes,row193,e-200,2.5,Trompetenschnecke
+berendes,row194,e-201,2.6,Kionion
+berendes,row195,e-202,2.7,Miesmuschel
+berendes,row196,e-203,2.8,Plattmuscheln
+berendes,row197,e-204,2.9,Chienmuschel
+berendes,row198,e-205,2.10,Onyx
+berendes,row199,e-206,2.11,Schnecken
+berendes,row200,e-207,2.12,Krebse
+berendes,row201,e-208,2.13,Landskorpion
+berendes,row202,e-209,2.14,Seeskorpion
+berendes,row203,e-210,2.15,Meerdrache
+berendes,row204,e-211,2.16,Skolopender
+berendes,row205,e-212,2.17,Zitterrochen
+berendes,row206,e-213,2.18,Otter
+berendes,row207,e-214,2.19,Schlangenhaut
+berendes,row208,e-215,2.20,Meerhase
+berendes,row209,e-216,2.21,Landhase
+berendes,row210,e-217,2.22,Stechrochen
+berendes,row211,e-218,2.23,Tintenfisch
+berendes,row212,e-219,2.24,Seebarbe
+berendes,row213,e-220,2.25,Hoden des Flusspferdes
+berendes,row214,e-221,2.26,Hoden des Bibers
+berendes,row215,e-222,2.27,Hauswiesel
+berendes,row216,e-223,2.28,Fr?sche
+berendes,row217,e-224,2.29,Wels
+berendes,row218,e-225,2.30,Brasse
+berendes,row219,e-226,2.31,M?na
+berendes,row220,e-227,2.32,Gobion
+berendes,row221,e-228,2.33,Rohe P?kelung
+berendes,row222,e-229,2.34,Garum
+berendes,row223,e-230,2.35,Br?he von frischen Fischen
+berendes,row224,e-231,2.36,Wanzen
+berendes,row225,e-232,2.37,Kubariden
+berendes,row226,e-233,2.38,Schabe
+berendes,row227,e-234,2.39,Seelunge
+berendes,row228,e-235,2.40,Schweinelunge
+berendes,row229,e-236,2.41,Fuchslunge
+berendes,row230,e-237,2.42,Eselleber
+berendes,row231,e-238,2.43,Kurzwildpret des Edelhirsches
+berendes,row232,e-239,2.44,Eselshufe
+berendes,row233,e-240,2.45,Flechten der Pferde
+berendes,row234,e-241,2.46,Ziegenklauen
+berendes,row235,e-242,2.47,Ziegenleber
+berendes,row236,e-243,2.48,Leber des Ebers
+berendes,row237,e-244,2.49,Leber des tollen Hundes
+berendes,row238,e-245,2.50,Leber des Tauchers
+berendes,row239,e-246,2.51,Sohlleder
+berendes,row240,e-247,2.52,H?hner
+berendes,row241,e-248,2.53,Gehirn des Huhns
+berendes,row242,e-249,2.54,Ei
+berendes,row243,e-250,2.55,Das Weisse vom Ei
+berendes,row244,e-251,2.56,Cikaden
+berendes,row245,e-252,2.57,Heuschrecken
+berendes,row246,e-253,2.58,Phinis
+berendes,row247,e-254,2.59,Haubenlerche
+berendes,row248,e-255,2.60,Schwalbe
+berendes,row249,e-256,2.61,Elephant
+berendes,row250,e-257,2.62,Sprungbein des Schweines
+berendes,row251,e-258,2.63,Hirschhorn
+berendes,row252,e-259,2.64,Raupen
+berendes,row253,e-260,2.65,Kanthariden
+berendes,row254,e-261,2.66,Buprestis
+berendes,row255,e-262,2.67,Salamander
+berendes,row256,e-263,2.68,Spinne
+berendes,row257,e-264,2.69,Eidechse
+berendes,row258,e-265,2.70,Seps
+berendes,row259,e-266,2.71,Skink
+berendes,row260,e-267,2.72,Eingeweide der Erde (Erdw?rmer)
+berendes,row261,e-268,2.73,Spitzmaus
+berendes,row262,e-269,2.74,M?use
+berendes,row263,e-270,2.75,Milch
+berendes,row264,e-271,2.76,Molken
+berendes,row265,e-272,2.77,Geronnene Milch
+berendes,row266,e-273,2.78,Frauenmilch
+berendes,row267,e-274,2.79,Frischer K?se
+berendes,row268,e-275,2.80,Hippake
+berendes,row269,e-276,2.81,Butter und der aus ihr bereitete Russ
+berendes,row270,e-277,2.82,Wolle
+berendes,row271,e-278,2.83,Gebrannte Wolle
+berendes,row272,e-279,2.84,Wollfett
+berendes,row273,e-280,2.85,Lab
+berendes,row274,e-281,2.86,Fett
+berendes,row275,e-282,2.87,Schweine- und B?renfett
+berendes,row276,e-283,2.88,"Ziegenbock-, Schaf- und Hirschfett"
+berendes,row277,e-284,2.89,Rinderfett
+berendes,row278,e-285,2.90,"Stier-, Panther- und L?wenfett"
+berendes,row279,e-286,2.91,Wie das Fett gew?rzt wird
+berendes,row280,e-287,2.92,Wie das Fett mit Majoran gew?rzt wird
+berendes,row281,e-288,2.93,G?nse- und H?hnerfett
+berendes,row282,e-289,2.94,Die Kraft der Fette
+berendes,row283,e-290,2.95,Mark
+berendes,row284,e-291,2.96,Jegliche Art Galle
+berendes,row285,e-292,2.97,Blut
+berendes,row286,e-293,2.98,Koth
+berendes,row287,e-294,2.99,Urin
+berendes,row288,e-295,2.100,Lyngurion
+berendes,row289,e-296,2.101,Honig
+berendes,row290,e-297,2.102,Honig in Sardinien
+berendes,row291,e-298,2.103,Pontischer Honig
+berendes,row292,e-299,2.104,Honig des Zuckerrohrs
+berendes,row293,e-300,2.105,Wachs
+berendes,row294,e-301,2.106,Vorwachs
+berendes,row295,e-302,2.107,Weizen
+berendes,row296,e-303,2.108,Gerste
+berendes,row297,e-304,2.109,Zythos
+berendes,row298,e-305,2.110,Kurmi
+berendes,row299,e-306,2.111,Dinkel
+berendes,row300,e-307,2.112,Schrot
+berendes,row301,e-308,2.113,Olyra
+berendes,row302,e-309,2.114,Athera
+berendes,row303,e-310,2.115,Tragos
+berendes,row304,e-311,2.116,Hafer
+berendes,row305,e-312,2.117,Reis
+berendes,row306,e-313,2.118,Graupen
+berendes,row307,e-314,2.119,Hirse
+berendes,row308,e-315,2.120,Mohrenhirse
+berendes,row309,e-316,2.121,Sesam
+berendes,row310,e-317,2.122,Taumellolch
+berendes,row311,e-318,2.123,St?rkemehl
+berendes,row312,e-319,2.124,Bockshornmehl
+berendes,row313,e-320,2.125,Lein
+berendes,row314,e-321,2.126,Erbse
+berendes,row315,e-322,2.127,Griechische Bohne
+berendes,row316,e-323,2.128,Aegyptische Bohne
+berendes,row317,e-324,2.129,Linse
+berendes,row318,e-325,2.130,Zwergbohne
+berendes,row319,e-326,2.131,Linsenwicke
+berendes,row320,e-327,2.132,Lupine
+berendes,row321,e-328,2.133,Wilde Lupine
+berendes,row322,e-329,2.134,Weisse R?be
+berendes,row323,e-330,2.135,Wilde weisse R?be
+berendes,row324,e-331,2.136,Feldkohl
+berendes,row325,e-332,2.137,Rettig
+berendes,row326,e-333,2.138,Wilder Rettig
+berendes,row327,e-334,2.139,Sisaron
+berendes,row328,e-335,2.140,Ampfer
+berendes,row329,e-336,2.141,Hippolapathon
+berendes,row330,e-337,2.142,Grauer Senf
+berendes,row331,e-338,2.143,Gem?seamaranth
+berendes,row332,e-339,2.144,Malve
+berendes,row333,e-340,2.145,Gartenmelde
+berendes,row334,e-341,2.146,Kohl
+berendes,row335,e-342,2.147,Wilder Kohl
+berendes,row336,e-343,2.148,Meerkohl
+berendes,row337,e-344,2.149,Bete
+berendes,row338,e-345,2.150,Portulak
+berendes,row339,e-346,2.151,Spargel
+berendes,row340,e-347,2.152,Wegerich
+berendes,row341,e-348,2.153,Merk
+berendes,row342,e-349,2.154,Sisymbrion
+berendes,row343,e-350,2.155,Das andere Sisymbrion
+berendes,row344,e-351,2.156,Meerfenchel
+berendes,row345,e-352,2.157,Niedriger Schotenklee
+berendes,row346,e-353,2.158,G?nsedistel
+berendes,row347,e-354,2.159,Seris
+berendes,row348,e-355,2.160,Knorpelsalat
+berendes,row349,e-356,2.161,K?rbis
+berendes,row350,e-357,2.162,Gebaute Gurke
+berendes,row351,e-358,2.163,Melone
+berendes,row352,e-359,2.164,Gartenlattich
+berendes,row353,e-360,2.165,Wilder Lattich
+berendes,row354,e-361,2.166,Gingidion
+berendes,row355,e-362,2.167,Venuskamm
+berendes,row356,e-363,2.168,Steinbrech
+berendes,row357,e-364,2.169,Rauke
+berendes,row358,e-365,2.170,Basilicum
+berendes,row359,e-366,2.171,Orobanche
+berendes,row360,e-367,2.172,Bocksbart
+berendes,row361,e-368,2.173,Vogelmilch
+berendes,row362,e-369,2.174,Tr?ffel
+berendes,row363,e-370,2.175,Vietsbohne
+berendes,row364,e-371,2.176,Luzerne
+berendes,row365,e-372,2.177,Vogelwicke
+berendes,row366,e-373,2.178,Lauch
+berendes,row367,e-374,2.179,Weinlauch
+berendes,row368,e-375,2.180,Zwiebeln
+berendes,row369,e-376,2.181,Knoblauch
+berendes,row370,e-377,2.182,Skorodoprason
+berendes,row371,e-378,2.183,Senf
+berendes,row372,e-379,2.184,Kardamon
+berendes,row373,e-380,2.185,Hirtent?schlein
+berendes,row374,e-381,2.186,T?rkische Kresse
+berendes,row375,e-382,2.187,Vielschotige Rauke
+berendes,row376,e-383,2.188,Pfeffer
+berendes,row377,e-384,2.189,Ingwer
+berendes,row378,e-385,2.190,Wasserpfeffer
+berendes,row379,e-386,2.191,Niesgarbe
+berendes,row380,e-387,2.192,Seifenkraut
+berendes,row381,e-388,2.193,Erdscheibe
+berendes,row382,e-389,2.194,Der andere Kyklaminos
+berendes,row383,e-390,2.195,Grosse Drachenwurz
+berendes,row384,e-391,2.196,Kleindrachenwurz
+berendes,row385,e-392,2.197,Aron
+berendes,row386,e-393,2.198,Arisaron
+berendes,row387,e-394,2.199,Asphodelos
+berendes,row388,e-395,2.200,Speisezwiebel
+berendes,row389,e-396,2.201,Brechzwiebel
+berendes,row390,e-397,2.202,Meerzwiebel
+berendes,row391,e-398,2.203,Gilge
+berendes,row392,e-399,2.204,Kapper
+berendes,row393,e-400,2.205,Gartenkresse
+berendes,row394,e-401,2.X,Iberis
+berendes,row395,e-402,2.206,Batrachion
+berendes,row396,e-403,2.207,Anemone
+berendes,row397,e-404,2.208,Argemone
+berendes,row398,e-405,2.209,Gauchheil
+berendes,row399,e-406,2.210,Epheu
+berendes,row400,e-407,2.211,Grosses Chedonion
+berendes,row401,e-408,2.212,Kleines Chelidonion
+berendes,row402,e-409,2.213,Othonna
+berendes,row403,e-410,2.214,Mauseohr
+berendes,row404,e-411,2.216,Wilder Waid
+berendes,row405,e-412,2.217,Wachsblume
+berendes,row406,e-414,3.1,L?rchenschwamm
+berendes,row407,e-415,3.2,Rhapontik
+berendes,row408,e-416,3.3,Enzian
+berendes,row409,e-417,3.4,Osterluzei
+berendes,row410,e-418,3.5,S?ssholz
+berendes,row411,e-419,3.6,Grosses Kentaurion
+berendes,row412,e-420,3.7,Kleines Kentaurion
+berendes,row413,e-421,3.8,Weisses Chamaileon
+berendes,row414,e-422,3.9,Schwarzes Chamaileon
+berendes,row415,e-423,3.10,Krokodeilion
+berendes,row416,e-424,3.11,Karde
+berendes,row417,e-425,3.12,Weisse Akantha
+berendes,row418,e-426,3.13,Arabische Akantha
+berendes,row419,e-427,3.14,Golddistel
+berendes,row420,e-428,3.15,Poterion
+berendes,row421,e-429,3.16,Eselsdistel
+berendes,row422,e-430,3.17,Akantha
+berendes,row423,e-431,3.18,Hauhechel
+berendes,row424,e-432,3.19,Leukakantha
+berendes,row425,e-433,3.20,Tragakantha
+berendes,row426,e-434,3.21,Mannstreu
+berendes,row427,e-435,3.22,Alo?
+berendes,row428,e-436,3.23,Wermuth
+berendes,row429,e-437,3.24,Seebeifuss
+berendes,row430,e-438,3.25,Santoninbeifuss
+berendes,row431,e-439,3.26,Abrotonon
+berendes,row432,e-440,3.27,Hyssopos
+berendes,row433,e-441,3.28,Stoichas
+berendes,row434,e-442,3.29,Dosten
+berendes,row435,e-443,3.30,Onetis
+berendes,row436,e-444,3.31,Wilder Dosten
+berendes,row437,e-445,3.32,Tragoriganon
+berendes,row438,e-446,3.33,Polei
+berendes,row439,e-447,3.34,Diptam
+berendes,row440,e-448,3.35,Salbei
+berendes,row441,e-449,3.36,Gebaute Minze
+berendes,row442,e-450,3.37,Kalamintha
+berendes,row443,e-451,3.38,Saturei
+berendes,row444,e-452,3.39,Thymbra
+berendes,row445,e-453,3.40,Quendel
+berendes,row446,e-454,3.41a,Majoran
+berendes,row447,e-455,3.41b,Steinklee
+berendes,row448,e-456,3.42,Maron
+berendes,row449,e-457,3.43,Akinos
+berendes,row450,e-458,3.44,Bakcharis
+berendes,row451,e-459,3.45,Raute
+berendes,row452,e-460,3.46,Wilde Raute
+berendes,row453,e-461,3.47,Moly
+berendes,row454,e-462,3.48,Panakes
+berendes,row455,e-463,3.49,Asklepisches Panakes
+berendes,row456,e-464,3.50,Cheironisches Panakes
+berendes,row457,e-465,3.51,Ligustikon
+berendes,row458,e-466,3.52,M?hre
+berendes,row459,e-467,3.53,Massiliensisches Seseli
+berendes,row460,e-468,3.54,Aethiopisches Seseli
+berendes,row461,e-469,3.55,Peleponnesisches Seseli
+berendes,row462,e-470,3.56,Tordylion
+berendes,row463,e-471,3.57,Sison
+berendes,row464,e-472,3.58,Anis
+berendes,row465,e-473,3.59,K?mmel
+berendes,row466,e-474,3.60,Dill
+berendes,row467,e-475,3.61,Mutterk?mmel
+berendes,row468,e-476,3.62,Wilder Mutterk?mmel
+berendes,row469,e-477,3.63,Ammi
+berendes,row470,e-478,3.64,Koriander
+berendes,row471,e-479,3.65,Grosses Hierakion
+berendes,row472,e-480,3.66,Kleines Hierakion
+berendes,row473,e-481,3.67,Gartensellerie
+berendes,row474,e-482,3.68,Sellerie
+berendes,row475,e-483,3.69,Oreoselinon
+berendes,row476,e-484,3.71,Petroselinon
+berendes,row477,e-485,3.71,Hipposelinon
+berendes,row478,e-486,3.72,Smyrnion
+berendes,row479,e-487,3.73,Pastinak
+berendes,row480,e-488,3.74,Fenchel
+berendes,row481,e-489,3.75,Hippomarathron
+berendes,row482,e-490,3.76,Daukos
+berendes,row483,e-491,3.77,Delphinion
+berendes,row484,e-492,3.78,Bertramwurz
+berendes,row485,e-493,3.79,Libanotis
+berendes,row486,e-494,3.80,B?renklau
+berendes,row487,e-495,3.81,Steckenkraut
+berendes,row488,e-496,3.82,Haarstrang
+berendes,row489,e-497,3.83,Schwarzk?mmel
+berendes,row490,e-498,3.84,Silphion
+berendes,row491,e-499,3.85,Sagapenon
+berendes,row492,e-500,3.86,Euphorbion
+berendes,row493,e-501,3.87,Galbanum
+berendes,row494,e-502,3.88,Ammoniakum
+berendes,row495,e-503,3.89,Sarkokolla
+berendes,row496,e-504,3.90,Glaukion
+berendes,row497,e-505,3.91,Leim
+berendes,row498,e-506,3.92,Ichthyokolla
+berendes,row499,e-507,3.93,Ixos
+berendes,row500,e-508,3.94,Wandlabkraut
+berendes,row501,e-509,3.95,Alysson
+berendes,row502,e-510,3.96,Asklepias
+berendes,row503,e-511,3.97,Atraktylis
+berendes,row504,e-512,3.98,Polyknemon
+berendes,row505,e-513,3.99,Wirbeldosten
+berendes,row506,e-514,3.100,Leontopetalon
+berendes,row507,e-515,3.101,Gamander (Teukrion)
+berendes,row508,e-516,3.102,Chamaidrys
+berendes,row509,e-517,3.103,Leukas
+berendes,row510,e-518,3.104,Kranznelke
+berendes,row511,e-519,3.105,Wilde Nelke
+berendes,row512,e-520,3.106,Lilie
+berendes,row513,e-521,3.107,Ballote
+berendes,row514,e-522,3.108,Melisse
+berendes,row515,e-523,3.109,Prasion
+berendes,row516,e-524,3.110,Ziest
+berendes,row517,e-525,3.111,Hirschzunge (111)
+berendes,row518,e-526,3.112,Phalangion
+berendes,row519,e-527,3.113,Asphaltklee
+berendes,row520,e-528,3.114,Gamander (Polion)
+berendes,row521,e-529,3.115,Knoblauch-Gamander
+berendes,row522,e-530,3.116,Huflattich
+berendes,row523,e-531,3.117,Beifuss
+berendes,row524,e-532,3.118,Zartbl?tterige Artemisia
+berendes,row525,e-533,3.119,Ambrosia
+berendes,row526,e-534,3.120,Traubenkraut
+berendes,row527,e-535,3.121,Storchschnabel
+berendes,row528,e-536,3.122,Gnaphalion
+berendes,row529,e-537,3.123,Rohkolben
+berendes,row530,e-538,3.124,Kirkaia
+berendes,row531,e-539,3.125,Oinanthe
+berendes,row532,e-540,3.126,Konyza
+berendes,row533,e-541,3.127,Hemerokallis
+berendes,row534,e-542,3.128,Goldlack
+berendes,row535,e-543,3.129,Krataiogonon
+berendes,row536,e-544,3.130,Phyllon
+berendes,row537,e-545,3.131,Knabenkraut
+berendes,row538,e-546,3.132,Anderes Knabenkraut
+berendes,row539,e-547,3.133,Satyrion
+berendes,row540,e-548,3.134,Satyrion erythronion
+berendes,row541,e-549,3.135,Kleiner Salbei
+berendes,row542,e-550,3.136,Hedysaron
+berendes,row543,e-551,3.137,Onosma
+berendes,row544,e-552,3.138,Weisse Seerose
+berendes,row545,e-553,3.139,Andere Seerose
+berendes,row546,e-554,3.140,Androsakes
+berendes,row547,e-555,3.141,Milzfarn
+berendes,row548,e-556,3.142,Hirschzunge (142)
+berendes,row549,e-557,3.143,Anthyllis
+berendes,row550,e-558,3.144,Kamille
+berendes,row551,e-559,3.145,Parthenion
+berendes,row552,e-560,3.146,Wucherblume
+berendes,row553,e-561,3.147,Gichtrose
+berendes,row554,e-562,3.148,Steinsamen
+berendes,row555,e-563,3.149,Glanzgras
+berendes,row556,e-564,3.150,Krapp
+berendes,row557,e-565,3.151,Zungensumpfwurz
+berendes,row558,e-566,3.152,Andere Zungensumpfwurz
+berendes,row559,e-567,3.153,Eibisch
+berendes,row560,e-568,3.154,Malope
+berendes,row561,e-569,3.155,Gebauter Hanf
+berendes,row562,e-570,3.156,Wilder Hanf
+berendes,row563,e-571,3.157,Stinkstrauch
+berendes,row564,e-572,3.158,Zwiebelpfeffer
+berendes,row565,e-573,3.159,Froschl?ffel
+berendes,row566,e-574,3.160,Esparset
+berendes,row567,e-575,3.161,Hartheu
+berendes,row568,e-576,3.162,Gemeines Hartheu
+berendes,row569,e-577,3.163,Androsaimon
+berendes,row570,e-578,3.164,Koris
+berendes,row571,e-579,3.165,Chamaipitys
+berendes,row572,e-580,3.166,Andere Chamaipitys
+berendes,row573,e-582,4.1,Kestron
+berendes,row574,e-583,4.2,Bretannika
+berendes,row575,e-584,4.3,Lysimachion
+berendes,row576,e-585,4.4,M?nnliches Polygonon
+berendes,row577,e-586,4.5,Weibliches Polygonon
+berendes,row578,e-587,4.7,Immergr?n
+berendes,row579,e-588,4.8,Polemonion
+berendes,row580,e-589,4.9,Felsensymphyton
+berendes,row581,e-590,4.10,Anderes Symphyton
+berendes,row582,e-591,4.11,Holosteon
+berendes,row583,e-592,4.12,Becherblume
+berendes,row584,e-593,4.13,Klymenon
+berendes,row585,e-594,4.14,Periklymenon
+berendes,row586,e-595,4.15,Tribolos
+berendes,row587,e-596,4.X,Saxifragon
+berendes,row588,e-597,4.16,Limoneion
+berendes,row589,e-598,4.17,Hasenklee
+berendes,row590,e-599,4.18,Medion
+berendes,row591,e-600,4.19,Epimedion
+berendes,row592,e-601,4.20,Siegwurz
+berendes,row593,e-602,4.21,Sparganion
+berendes,row594,e-603,4.22,Xyris
+berendes,row595,e-604,4.23,Ochsenzunge
+berendes,row596,e-605,4.24,Andere Anchusa
+berendes,row597,e-606,4.25,Weitere Anchusa
+berendes,row598,e-607,4.26,Natternkopf
+berendes,row599,e-608,4.27,Echion
+berendes,row600,e-609,4.28,Okimoeides
+berendes,row601,e-610,4.29,Erinos
+berendes,row602,e-611,4.30,Agrostis
+berendes,row603,e-612,4.31,Kalamagrostis
+berendes,row604,e-613,4.32,Agrostis aus Parnass
+berendes,row605,e-614,4.33,Sideritis
+berendes,row606,e-615,4.34,Andere Sideritis
+berendes,row607,e-616,4.35,Weitere Sideritis
+berendes,row608,e-617,4.36,Garbe
+berendes,row609,e-618,4.37,Brombeer
+berendes,row610,e-619,4.38,Himbeer
+berendes,row611,e-620,4.39,Ackerwinde
+berendes,row612,e-621,4.40,Elatine
+berendes,row613,e-622,4.41,Odermenning
+berendes,row614,e-623,4.42,G?nsefuss
+berendes,row615,e-624,4.43,Phoinix
+berendes,row616,e-625,4.44,Id?ische Wurzel
+berendes,row617,e-626,4.45,Rhodiaswurzel
+berendes,row618,e-627,4.46,Hippuris
+berendes,row619,e-628,4.47,Andere Hippuris
+berendes,row620,e-629,4.48,F?rberkokkos
+berendes,row621,e-630,4.49,Tragion
+berendes,row622,e-631,4.50,Anderes Tragion
+berendes,row623,e-632,4.51,Tragos (Skorpion)
+berendes,row624,e-633,4.52,Sumpfschoinos
+berendes,row625,e-634,4.53,Flechte
+berendes,row626,e-635,4.54,Paronychia
+berendes,row627,e-636,4.55,Goldhaar
+berendes,row628,e-637,4.56,Chrysogonon
+berendes,row629,e-638,4.57,Elichryson
+berendes,row630,e-639,4.58,Goldblume
+berendes,row631,e-640,4.59,Ageraton
+berendes,row632,e-641,4.60,Taubenkraut
+berendes,row633,e-642,4.61,Zur?ckgebogenes Peristereon
+berendes,row634,e-643,4.62,Walderbse
+berendes,row635,e-644,4.63,Hyacinthe
+berendes,row636,e-645,4.64,Mekon Rhoias
+berendes,row637,e-646,4.65,Gartenmohn
+berendes,row638,e-647,4.66,Hornmohn
+berendes,row639,e-648,4.67,Mekon aphrodes
+berendes,row640,e-649,4.68,Hypekoon
+berendes,row641,e-650,4.69,Bilsenkraut
+berendes,row642,e-651,4.70,Flohkraut
+berendes,row643,e-652,4.71,Strychnos
+berendes,row644,e-653,4.72,Strychnos Halikakabos
+berendes,row645,e-654,4.73,Schlafstrychnos
+berendes,row646,e-655,4.74,Strychnos manikos
+berendes,row647,e-656,4.75,Doryknion
+berendes,row648,e-657,4.76,Alraun
+berendes,row649,e-658,4.77,Akoniton
+berendes,row650,e-659,4.78,Anderes Akoniton
+berendes,row651,e-660,4.79,Schierling
+berendes,row652,e-661,4.80,Eibe
+berendes,row653,e-662,4.81,Hundsw?rger
+berendes,row654,e-663,4.82,Oleander
+berendes,row655,e-664,4.83,Pilze
+berendes,row656,e-665,4.84,Zeitlose
+berendes,row657,e-666,4.85,Ephemeron
+berendes,row658,e-667,4.86,Glaskraut
+berendes,row659,e-668,4.87,Wasserlinse
+berendes,row660,e-669,4.88,Grosse Hauswurz
+berendes,row661,e-670,4.89,Kleine Hauswurz
+berendes,row662,e-671,4.91,Andere Hauswurz
+berendes,row663,e-672,4.90,Nabelblatt
+berendes,row664,e-673,4.91,Anderes Nabelkraut
+berendes,row665,e-674,4.92,Nessel
+berendes,row666,e-675,4.93,Galiopsis
+berendes,row667,e-676,4.94,Labkraut
+berendes,row668,e-677,4.95,Kreuzwurz
+berendes,row669,e-678,4.96,Wiesenraute
+berendes,row670,e-679,4.97,Meerlattich
+berendes,row671,e-680,4.98,Meertang
+berendes,row672,e-681,4.99,Laichkraut
+berendes,row673,e-682,4.100,Stratiotes
+berendes,row674,e-683,4.101,Tausendbl?tteriger Stratiotes
+berendes,row675,e-684,4.102,K?nigskerze
+berendes,row676,e-685,4.103,Aithiopis
+berendes,row677,e-686,4.104,Arktion
+berendes,row678,e-687,4.105,Klette
+berendes,row679,e-688,4.106,Petasites
+berendes,row680,e-689,4.107,Epipaktis
+berendes,row681,e-690,4.108,Erdrauch
+berendes,row682,e-691,4.109,Gebauter Lotos
+berendes,row683,e-692,4.110,Wilder Lotos
+berendes,row684,e-693,4.111,Schneckenklee
+berendes,row685,e-694,4.112,Aegyptischer Lotos
+berendes,row686,e-695,4.113,Tausendblatt
+berendes,row687,e-696,4.114,K?rbel
+berendes,row688,e-697,4.115,Myagros
+berendes,row689,e-698,4.116,Weidenr?schen
+berendes,row690,e-699,4.117,Kirsion
+berendes,row691,e-700,4.118,Attische Aster
+berendes,row692,e-701,4.119,Isopyron
+berendes,row693,e-702,4.120,Veilchen
+berendes,row694,e-703,4.121,Kakalia
+berendes,row695,e-704,4.122,Bunion
+berendes,row696,e-705,4.123,Pseudobunion
+berendes,row697,e-706,4.124,Chamaikissos
+berendes,row698,e-707,4.125,Chamaipeuke
+berendes,row699,e-708,4.126,Italienische Ochsenzunge
+berendes,row700,e-709,4.127,Hundzunge
+berendes,row701,e-710,4.128,Phyteuma
+berendes,row702,e-711,4.129,Leontopodion
+berendes,row703,e-712,4.130,Hypoglosson
+berendes,row704,e-713,4.131,L?wenmaul
+berendes,row705,e-714,4.132,Katananka
+berendes,row706,e-715,4.133,Tripolion
+berendes,row707,e-716,4.134,Frauenhaar
+berendes,row708,e-717,4.135,Streifenfarn
+berendes,row709,e-718,4.136,Spitzklee
+berendes,row710,e-719,4.137,Aigilops
+berendes,row711,e-720,4.138,Bromos
+berendes,row712,e-721,4.139,Glaux
+berendes,row713,e-722,4.140,Kreuzblume
+berendes,row714,e-723,4.141,Osyris
+berendes,row715,e-724,4.142,Rauher Smilax
+berendes,row716,e-725,4.143,Glatter Smilax
+berendes,row717,e-726,4.144,Stechmyrte
+berendes,row718,e-727,4.145,Alexandrinische Daphne
+berendes,row719,e-728,4.146,Daphnoides
+berendes,row720,e-729,4.147,Chamaidaphne
+berendes,row721,e-730,4.148,Weisse Nieswurz
+berendes,row722,e-731,4.149,Schwarze Nieswurz
+berendes,row723,e-732,4.150,Grosses Sesamoeides
+berendes,row724,e-733,4.151,Kleines Sesamoeides
+berendes,row725,e-734,4.152,Wilde Gurke
+berendes,row726,e-735,4.155,Elaterion
+berendes,row727,e-736,4.153,Scharfer Rittersporn
+berendes,row728,e-737,4.154,Thapsia
+berendes,row729,e-738,4.155,Pfriemen
+berendes,row730,e-739,4.156,Mariendistel
+berendes,row731,e-740,4.157,Salbeneichel
+berendes,row732,e-741,4.158,Narzisse
+berendes,row733,e-742,4.159,Stachelige Wolfsmilch
+berendes,row734,e-743,4.160,Hippophaiston
+berendes,row735,e-744,4.161,Wunderbaum
+berendes,row736,e-745,4.162,Wolfsmilcharten
+berendes,row737,e-746,4.163,Pityusa
+berendes,row738,e-747,4.164,Lathyris
+berendes,row739,e-748,4.165,Peplos
+berendes,row740,e-749,4.166,Peplis
+berendes,row741,e-750,4.167,Erdfeige
+berendes,row742,e-751,4.168,Purgirwinde
+berendes,row743,e-752,4.169,Bergseidelbast
+berendes,row744,e-753,4.170,S?dlicher Seidelbast
+berendes,row745,e-754,4.171,Hollunder
+berendes,row746,e-755,4.172,Zwerghollunder
+berendes,row747,e-756,4.173,Pyknokomon
+berendes,row748,e-757,4.174,Birnwolfsmilch
+berendes,row749,e-758,4.175,Koloquinthe
+berendes,row750,e-759,4.176,Flachsseide
+berendes,row751,e-760,4.177,Alypon
+berendes,row752,e-761,4.178,Empetron
+berendes,row753,e-762,4.179,Klematis
+berendes,row754,e-763,4.180,Wilde Rebe
+berendes,row755,e-764,4.181,Weisse Rebe
+berendes,row756,e-765,4.182,Schwarze Rebe
+berendes,row757,e-766,4.183,Wurmfarn
+berendes,row758,e-767,4.184,Saumfarn
+berendes,row759,e-768,4.185,T?pfelfarn
+berendes,row760,e-769,4.186,Eichenfarn
+berendes,row761,e-770,4.187,Saflor
+berendes,row762,e-771,4.188,Bingelkraut
+berendes,row763,e-772,4.189,Hundskohl
+berendes,row764,e-773,4.190,Grosses Heliotropion
+berendes,row765,e-774,4.191,Kleines Heliotropion
+berendes,row766,e-775,4.192,Skorpionskraut
+berendes,row767,e-777,5.1,Weinstock
+berendes,row768,e-778,5.2,Wilder Weinstock
+berendes,row769,e-779,5.3,Weintraube
+berendes,row770,e-780,5.4,Rosine
+berendes,row771,e-781,5.5,Oinanthe (Frucht des wilden Weinstockes)
+berendes,row772,e-782,5.6,Omphakion
+berendes,row773,e-783,5.7,Die Eigenschaft der Weine nach ihrem Alter
+berendes,row774,e-784,5.8,Nach der Farbe
+berendes,row775,e-785,5.9,Nach dem Geschmack und den Zus?tzen
+berendes,row776,e-786,5.10,Unterschied nach den Ursprungsgegenden
+berendes,row777,e-787,5.11,Kr?fte der Weine
+berendes,row778,e-788,5.12,Omphakiteswein
+berendes,row779,e-789,5.13,Zweiter und kraftloser Wein
+berendes,row780,e-790,5.14,Wein aus der wilden Traube
+berendes,row781,e-791,5.15,Honigwein
+berendes,row782,e-792,5.16,Oinomeli
+berendes,row783,e-793,5.17,Melikraton
+berendes,row784,e-794,5.18,Wasser
+berendes,row785,e-795,5.19,Meerwasser
+berendes,row786,e-796,5.20,Honigmeerwasser
+berendes,row787,e-797,5.21,Essig
+berendes,row788,e-798,5.22,Sauerhonig
+berendes,row789,e-799,5.23,Salzessig
+berendes,row790,e-800,5.24,Thymoxalme
+berendes,row791,e-801,5.25,Meerzwiebelessig
+berendes,row792,e-802,5.26,Meerzwiebelwein
+berendes,row793,e-803,5.27,Meerwasserwein
+berendes,row794,e-804,5.28,Andere k?nstliche Weine
+berendes,row795,e-805,5.29,Apfelhonig
+berendes,row796,e-806,5.30,Wassermeth
+berendes,row797,e-807,5.31,Herbetraubenmeth
+berendes,row798,e-808,5.32,Birnenwein
+berendes,row799,e-809,5.33,Weinbl?thenwein
+berendes,row800,e-810,5.34,Granatenwein
+berendes,row801,e-811,5.35,Rosenwein
+berendes,row802,e-812,5.36,Myrtenbeerenwein
+berendes,row803,e-813,5.37,Myrtenwein
+berendes,row804,e-814,5.38,Mastixwein
+berendes,row805,e-815,5.39,Terebinthenwein
+berendes,row806,e-816,5.40,Dattelwein
+berendes,row807,e-817,5.41,Feigenwein
+berendes,row808,e-818,5.42,Sykomorenwein
+berendes,row809,e-819,5.43,Geharzter Wein
+berendes,row810,e-820,5.44,Zirbelnusswein
+berendes,row811,e-821,5.45,Cedernwein
+berendes,row812,e-822,5.46,Wachholderwein
+berendes,row813,e-823,5.47,Cedernharzwein
+berendes,row814,e-824,5.48,Pechwein
+berendes,row815,e-825,5.49,Wermuthwein
+berendes,row816,e-826,5.50,Hysopwein
+berendes,row817,e-827,5.51,Gamanderwein
+berendes,row818,e-828,5.52,Lavendelwein
+berendes,row819,e-829,5.53,Lavendelessig
+berendes,row820,e-830,5.54,Gliedkrautwein
+berendes,row821,e-831,5.55,Tragoriganoswein
+berendes,row822,e-832,5.56,Erdknotenwein
+berendes,row823,e-833,5.57,Diptamwein
+berendes,row824,e-834,5.58,Andornwein
+berendes,row825,e-835,5.59,Thymianwein
+berendes,row826,e-836,5.60,Satureiwein
+berendes,row827,e-837,5.61,Dostenwein
+berendes,row828,e-838,5.62,"Minzen-, Polei- und Beifusswein"
+berendes,row829,e-839,5.63,Berufskrautwein
+berendes,row830,e-840,5.64,Gew?rzter Wein
+berendes,row831,e-841,5.65,"Wein aus Myrrhe, Pfeffer und Schwertlilie"
+berendes,row832,e-842,5.66,Nektarwein
+berendes,row833,e-843,5.67,Wein aus syrischer und keltischer Narde und aus Malabathron
+berendes,row834,e-844,5.68,Aronswein
+berendes,row835,e-845,5.69,Wein aus der wilden Narde
+berendes,row836,e-846,5.70,M?hrenwein
+berendes,row837,e-847,5.71,Salbeiwein
+berendes,row838,e-848,5.72,Panaxwein
+berendes,row839,e-849,5.73,Akoronwein
+berendes,row840,e-850,5.74,Selleriewein
+berendes,row841,e-851,5.75,Fenchel- und Dillwein
+berendes,row842,e-852,5.76,Salzbl?thewein
+berendes,row843,e-853,5.77,Abortivwein
+berendes,row844,e-854,5.78,Seidelbastwein
+berendes,row845,e-855,5.79,Bergseidelbastwein
+berendes,row846,e-856,5.80,G?nselwein
+berendes,row847,e-857,5.81,Mandragorawein
+berendes,row848,e-858,5.82,Nieswurzwein
+berendes,row849,e-859,5.83,Purgirwindenwein
+berendes,row850,e-860,5.84,Kadmeia
+berendes,row851,e-861,5.85,Pompholyx
+berendes,row852,e-862,5.86,Antispodon
+berendes,row853,e-863,5.87,Gebranntes Kupfer
+berendes,row854,e-864,5.88,Kupferbl?the
+berendes,row855,e-865,5.89,Kupferhammerschlag
+berendes,row856,e-866,5.90,Eisenhammerschlag
+berendes,row857,e-867,5.91,Abgekratzter Gr?nspan
+berendes,row858,e-868,5.92,Wurmf?rmiger Gr?nspan
+berendes,row859,e-869,5.93,Eisenrost
+berendes,row860,e-870,5.94,Eisenschlacke
+berendes,row861,e-871,5.95,Gewaschenes Blei
+berendes,row862,e-872,5.96,Gebranntes Blei
+berendes,row863,e-873,5.97,Bleischlacke
+berendes,row864,e-874,5.98,Bleistein
+berendes,row865,e-875,5.99,Stimmi
+berendes,row866,e-876,5.100,Molybdaina
+berendes,row867,e-877,5.101,Silberschlacke
+berendes,row868,e-878,5.102,Bleigl?tte
+berendes,row869,e-879,5.103,Bleiweiss
+berendes,row870,e-880,5.104,Chrysokolla
+berendes,row871,e-881,5.105,Armenion
+berendes,row872,e-882,5.106,Kyanos
+berendes,row873,e-883,5.107,Indikon
+berendes,row874,e-884,5.108,Ochra
+berendes,row875,e-885,5.109,Kinnabari
+berendes,row876,e-886,5.110,Quecksilber
+berendes,row877,e-887,5.111,Sinopischer R?thel
+berendes,row878,e-888,5.112,R?thel der Handwerker
+berendes,row879,e-889,5.113,Lemnische Erde
+berendes,row880,e-890,5.114,Chalkanthos
+berendes,row881,e-891,5.115,Chalkitis
+berendes,row882,e-892,5.116,Psorikon
+berendes,row883,e-893,5.116,Misy
+berendes,row884,e-894,5.117,Melanteria
+berendes,row885,e-895,5.118,Sory
+berendes,row886,e-896,5.119,Diphryges
+berendes,row887,e-897,5.120,Arsenikon
+berendes,row888,e-898,5.121,Sandaracha
+berendes,row889,e-899,5.122,Stypteria
+berendes,row890,e-900,5.123,Schwefel
+berendes,row891,e-901,5.124,Bimsstein
+berendes,row892,e-902,5.125,Salze
+berendes,row893,e-903,5.126,Salzschaum
+berendes,row894,e-904,5.127,Salzlake
+berendes,row895,e-905,5.128,Salzbl?the
+berendes,row896,e-906,5.129,Natron
+berendes,row897,e-907,5.130,Natronschaum
+berendes,row898,e-908,5.131,Weinabsatz
+berendes,row899,e-909,5.132,Gebrannter Kalk
+berendes,row900,e-910,5.133,Gyps
+berendes,row901,e-911,5.134,Weinrebenasche
+berendes,row902,e-912,5.135,Halkyonion
+berendes,row903,e-913,5.136,Adarkes
+berendes,row904,e-914,5.137,Schw?mme
+berendes,row905,e-915,5.138,Koralle
+berendes,row906,e-916,5.139,Antipathes
+berendes,row907,e-917,5.140,Phrygischer Stein
+berendes,row908,e-918,5.141,Assischer Stein
+berendes,row909,e-919,5.142,Pyritesstein
+berendes,row910,e-920,5.143,Blutstein
+berendes,row911,e-921,5.144,Spaltstein
+berendes,row912,e-922,5.145,Gagatstein
+berendes,row913,e-923,5.146,Thrakischer Stein
+berendes,row914,e-924,5.147,Magnetstein
+berendes,row915,e-925,5.148,Arabischer Stein
+berendes,row916,e-926,5.149,Milchstein
+berendes,row917,e-927,5.150,Honigstein
+berendes,row918,e-928,5.151,Morochthosstein
+berendes,row919,e-929,5.152,Alabasterstein
+berendes,row920,e-930,5.153,Thy?tesstein
+berendes,row921,e-931,5.154,Judenstein
+berendes,row922,e-932,5.155,Amiantstein
+berendes,row923,e-933,5.156,Sapphir
+berendes,row924,e-934,5.157,Memphitstein
+berendes,row925,e-935,5.158,Selenitstein
+berendes,row926,e-936,5.159,Jaspisstein
+berendes,row927,e-937,5.160,A?titstein
+berendes,row928,e-938,5.161,Schlangenstein
+berendes,row929,e-939,5.162,Schwammsteine
+berendes,row930,e-940,5.163,Steinkitt
+berendes,row931,e-941,5.164,Ostrakitstein
+berendes,row932,e-942,5.165,Smirgel
+berendes,row933,e-943,5.166,Sand
+berendes,row934,e-944,5.167,Schleifstein
+berendes,row935,e-945,5.168,Geodes-Stein
+berendes,row936,e-946,5.169,Erde
+berendes,row937,e-947,5.170,Eretrische Erde
+berendes,row938,e-948,5.171,Samische Erde
+berendes,row939,e-949,5.172,Stein in der samischen Erde
+berendes,row940,e-950,5.173,Erde von Chios
+berendes,row941,e-951,5.174,Selinusische Erde
+berendes,row942,e-952,5.175,Kimolissche Erde
+berendes,row943,e-953,5.176,Pnigit-Erde
+berendes,row944,e-954,5.177,Ziegel
+berendes,row945,e-955,5.178,Erde aus den Oefen
+berendes,row946,e-956,5.179,Melische Erde
+berendes,row947,e-957,5.180,Weinstockerde
+berendes,row948,e-958,5.181,Russ
+berendes,row949,e-959,5.182,Tinte

@@ -1,0 +1,1004 @@
+edition,edition_entry_id,wechel_scan_id,wechel_book,wechel_page,wechel_chapter,wechel_title
+wechel,row2,38,Liber primus,4,Cap. I,De Iride.
+wechel,row3,40,Liber primus,6,Cap. II,De Acoro.
+wechel,row4,40,Liber primus,6,Cap. III,De Meo.
+wechel,row5,40,Liber primus,6,Cap. IIII,De Cypero.
+wechel,row6,41,Liber primus,7,Cap. V,De Cardamomo.
+wechel,row7,42,Liber primus,8,Cap. VI,De Nardo.
+wechel,row8,43,Liber primus,9,Cap. VII,De Nardo Celtica.
+wechel,row9,44,Liber primus,10,Cap. VIII,De Nardo Montana.
+wechel,row10,44,Liber primus,10,Cap. IX,De Asaro.
+wechel,row11,44,Liber primus,10,Cap. X,De Phu.
+wechel,row12,45,Liber primus,11,Cap. XI,De Malabathro.
+wechel,row13,45,Liber primus,11,Cap. XII,De Cassia.
+wechel,row14,46,Liber primus,12,Cap. XIII,De Cinnamomo.
+wechel,row15,48,Liber primus,14,Cap. XIIII,De Amomo.
+wechel,row16,49,Liber primus,15,Cap. XV,De Costo.
+wechel,row17,49,Liber primus,15,Cap. XVI,De Iunco odorato.
+wechel,row18,50,Liber primus,16,Cap. XVII,De Calamo odorato.
+wechel,row19,50,Liber primus,16,Cap. XVIII,De Balsamo.
+wechel,row20,52,Liber primus,18,Cap. XIX,De Aspalatho.
+wechel,row21,53,Liber primus,19,Cap. XX,De Musco.
+wechel,row22,53,Liber primus,19,Cap. XXI,De Agallocho.
+wechel,row23,53,Liber primus,19,Cap. XXII,De Nascaphtho.
+wechel,row24,53,Liber primus,19,Cap. XXIII,De Cancamo.
+wechel,row25,54,Liber primus,20,Cap. XXIIII,De Cyphi.
+wechel,row26,54,Liber primus,20,Cap. XXV,De Croco.
+wechel,row27,55,Liber primus,21,Cap. XXVI,De Crocomagmate.
+wechel,row28,56,Liber primus,22,Cap. XXVII,De Helenio.
+wechel,row29,56,Liber primus,22,Cap. XXVIII,De Helenio Aegyptio.
+wechel,row30,56,Liber primus,22,Cap. XXIX,De oleo omphacino.
+wechel,row31,57,Liber primus,23,Cap. XXX,De oleo communi.
+wechel,row32,57,Liber primus,23,Cap. XXXI,De oleo sylvestris olivae.
+wechel,row33,57,Liber primus,23,Cap. XXXII,Oleum candidum.
+wechel,row34,58,Liber primus,24,Cap. XXXIII,De Sicyonio oleo.
+wechel,row35,58,Liber primus,24,Cap. XXXIIII,Strigmenta à balneis.
+wechel,row36,58,Liber primus,24,Cap. XXXV,Strigmenta palaestrica.
+wechel,row37,58,Liber primus,24,Cap. XXXVI,Strigmenta gymnasiorum.
+wechel,row38,59,Liber primus,25,Cap. XXXVII,De Elaeomelite.
+wechel,row39,59,Liber primus,25,Cap. XXXVIII,De Cicino oleo.
+wechel,row40,60,Liber primus,26,Cap. XXXIX,De Amygdalino oleo.
+wechel,row41,60,Liber primus,26,Cap. XL,De Balanino oleo.
+wechel,row42,60,Liber primus,26,Cap. XLI,Olea Sesaminum et Caryinum.
+wechel,row43,61,Liber primus,27,Cap. XLII,De Hyoscyamino oleo.
+wechel,row44,61,Liber primus,27,Cap. XLIII,De Gnidico oleo.
+wechel,row45,61,Liber primus,27,Cap. XLIIII,De Cnicino oleo.
+wechel,row46,61,Liber primus,27,Cap. XLV,De Raphanino oleo.
+wechel,row47,61,Liber primus,27,Cap. XLVI,De Melanthino oleo.
+wechel,row48,61,Liber primus,27,Cap. XLVII,De Sinapino oleo.
+wechel,row49,61,Liber primus,27,Cap. XLVIII,De Myrtino oleo.
+wechel,row50,62,Liber primus,28,Cap. XLIX,De Laurino oleo.
+wechel,row51,62,Liber primus,28,Cap. L,De Lentiscino et Terebinthino.
+wechel,row52,63,Liber primus,29,Cap. LI,De Mastichino.
+wechel,row53,63,Liber primus,29,Cap. LII,De unguentorum compositione.
+wechel,row54,63,Liber primus,29,Cap. LIII,De Rosacei praeparatione.
+wechel,row55,64,Liber primus,30,Cap. LIIII,De Elatini confectione.
+wechel,row56,65,Liber primus,31,Cap. LV,De Melini compositione.
+wechel,row57,65,Liber primus,31,Cap. LVI,De Oenanthini confectione.
+wechel,row58,65,Liber primus,31,Cap. LVII,De Telini componendi ratione.
+wechel,row59,66,Liber primus,32,Cap. LVIII,De Sampsuchini componendi.
+wechel,row60,66,Liber primus,32,,De Ocimini praeparatione. C. LIX
+wechel,row61,67,Liber primus,33,Cap. LX,De Abrotonini confectione.
+wechel,row62,67,Liber primus,33,Cap. LXI,De Anethini componendi ratione.
+wechel,row63,67,Liber primus,33,Cap. LXII,De Susini compositione.
+wechel,row64,69,Liber primus,35,Cap. LXIII,De Narcissini mistura.
+wechel,row65,69,Liber primus,35,,De Crocini confectione. C. LXIIII
+wechel,row66,70,Liber primus,36,Cap. LXV,De Cyprini olei spissamento ac praeparatione.
+wechel,row67,71,Liber primus,37,Cap. LXVI,De Irini spissamento.
+wechel,row68,72,Liber primus,38,Cap. LXVII,De Gleucini compositione.
+wechel,row69,72,Liber primus,38,Cap. LXVIII,De Amaracino.
+wechel,row70,73,Liber primus,39,Cap. LXIX,De Megalio.
+wechel,row71,73,Liber primus,39,Cap. LXX,De Hedychroo.
+wechel,row72,73,Liber primus,39,Cap. LXXI,De Metopio.
+wechel,row73,74,Liber primus,40,Cap. LXXII,De Mendesio.
+wechel,row74,74,Liber primus,40,Cap. LXXIII,De Stacte.
+wechel,row75,74,Liber primus,40,Cap. LXXIIII,De Cinnamomino.
+wechel,row76,75,Liber primus,41,Cap. LXXV,De Nardino unguento.
+wechel,row77,75,Liber primus,41,Cap. LXXVI,De Malabathrino.
+wechel,row78,75,Liber primus,41,Cap. LXXVII,De Myrrha.
+wechel,row79,77,Liber primus,43,Cap. LXXVIII,De Boeotica myrrha.
+wechel,row80,77,Liber primus,43,Cap. LXXIX,De Styrace.
+wechel,row81,78,Liber primus,44,Cap. LXXX,De Bdellio.
+wechel,row82,79,Liber primus,45,Cap. LXXXI,De Thure.
+wechel,row83,80,Liber primus,46,Cap. LXXXII,De Thuris cortice.
+wechel,row84,80,Liber primus,46,Cap. LXXXIII,De Manna thuris.
+wechel,row85,81,Liber primus,47,Cap. LXXXIIII,De Thuris fuligine.
+wechel,row86,81,Liber primus,47,Cap. LXXXV,De Fuliginis confectione.
+wechel,row87,81,Liber primus,47,Cap. LXXXVI,De Pinu.
+wechel,row88,82,Liber primus,48,Cap. LXXXVII,De Pityidibus.
+wechel,row89,82,Liber primus,48,Cap. LXXXVIII,De Strobilis.
+wechel,row90,83,Liber primus,49,Cap. LXXXIX,De Lentisco.
+wechel,row91,83,Liber primus,49,Cap. XC,De Resina lentiscina.
+wechel,row92,84,Liber primus,50,Cap. XCI,De Terebintho.
+wechel,row93,84,Liber primus,50,Cap. XCII,De Resinis alÿs.
+wechel,row94,85,Liber primus,51,Cap. XCIII,"De Urendae resinae modo, eiusdémque fuligine."
+wechel,row95,86,Liber primus,52,Cap. XCIIII,De Pice liquida.
+wechel,row96,86,Liber primus,52,Cap. XCV,De picino Oleo.
+wechel,row97,86,Liber primus,52,Cap. XCVI,De Picis liquidae Fuligine.
+wechel,row98,87,Liber primus,53,Cap. XCVII,De Pice spissa sive arida.
+wechel,row99,87,Liber primus,53,Cap. XCVIII,De Zopissa.
+wechel,row100,87,Liber primus,53,Cap. XCIX,De Bitumine.
+wechel,row101,88,Liber primus,54,Cap. C,De Pissasphalto.
+wechel,row102,88,Liber primus,54,Cap. CI,De Naphtha.
+wechel,row103,88,Liber primus,54,Cap. CII,De Cupresso.
+wechel,row104,89,Liber primus,55,Cap. CIII,De Iunipero.
+wechel,row105,89,Liber primus,55,Cap. CIIII,De Sabina.
+wechel,row106,90,Liber primus,56,Cap. CV,De Cedro.
+wechel,row107,91,Liber primus,57,Cap. CVI,De Lauro.
+wechel,row108,92,Liber primus,58,Cap. CVII,De Platano.
+wechel,row109,92,Liber primus,58,Cap. CVIII,De Fraxino.
+wechel,row110,92,Liber primus,58,Cap. CIX,De Populo alba.
+wechel,row111,92,Liber primus,58,Cap. CX,De Macere.
+wechel,row112,93,Liber primus,59,Cap. CXI,De Ulmo.
+wechel,row113,93,Liber primus,59,Cap. CXII,De Lignorum carie.
+wechel,row114,93,Liber primus,59,Cap. CXIII,De Populo nigra.
+wechel,row115,93,Liber primus,59,Cap. CXIIII,De Harundine.
+wechel,row116,94,Liber primus,60,Cap. CXV,De Papyro.
+wechel,row117,94,Liber primus,60,Cap. CXVI,De Myrica sev tamarice.
+wechel,row118,95,Liber primus,61,Cap. CXVII,De Erica.
+wechel,row119,95,Liber primus,61,Cap. CXVIII,De Acacalide.
+wechel,row120,95,Liber primus,61,Cap. CXIX,De Rhamno.
+wechel,row121,96,Liber primus,62,Cap. CXX,De Halimo.
+wechel,row122,96,Liber primus,62,Cap. CXXI,De Paliuro.
+wechel,row123,96,Liber primus,62,Cap. CXXII,De Acuta spina.
+wechel,row124,97,Liber primus,63,Cap. CXXIII,De Cynosbato.
+wechel,row125,97,Liber primus,63,Cap. CXXIIII,De Cypro.
+wechel,row126,97,Liber primus,63,Cap. CXXV,De Phillyrea.
+wechel,row127,98,Liber primus,64,Cap. CXXVI,De Cisto.
+wechel,row128,98,Liber primus,64,Cap. CXXVII,De Hypocistide.
+wechel,row129,98,Liber primus,64,Cap. CXXVIII,De Ladano.
+wechel,row130,99,Liber primus,65,Cap. CXXIX,De Ebeno.
+wechel,row131,100,Liber primus,66,Cap. CXXX,De Rosa.
+wechel,row132,100,Liber primus,66,Cap. CXXXI,De Roseis pastillis.
+wechel,row133,101,Liber primus,67,Cap. CXXXII,De Lycio.
+wechel,row134,102,Liber primus,68,Cap. CXXXIII,De Acacia.
+wechel,row135,103,Liber primus,69,Cap. CXXXVIII,De Amurca.
+wechel,row136,104,Liber primus,70,Cap. CXXXV,De Vitice.
+wechel,row137,104,Liber primus,70,Cap. CXXXVI,De Salice.
+wechel,row138,105,Liber primus,71,Cap. CXXXVII,De Oleastro.
+wechel,row139,106,Liber primus,72,Cap. CXXXVIII,De Olea.
+wechel,row140,106,Liber primus,72,Cap. CXXXIX,De Colymbadibus olivis.
+wechel,row141,106,Liber primus,72,Cap. CXL,De sylvestris olivae oleo.
+wechel,row142,106,Liber primus,72,Cap. CXLI,De oleae Aethiopicae lachryma.
+wechel,row143,107,Liber primus,73,Cap. CXLII,De Quercu.
+wechel,row144,107,Liber primus,73,Cap. CXLIII,De Glandibus.
+wechel,row145,107,Liber primus,73,Cap. CXLIIII,De Fago et Ilice.
+wechel,row146,107,Liber primus,73,Cap. CXLV,De Castaneis.
+wechel,row147,107,Liber primus,73,Cap. CXLVI,De Gallis.
+wechel,row148,108,Liber primus,74,Cap. CXLVII,De Rhu.
+wechel,row149,109,Liber primus,75,Cap. CXLVIII,De Palma.
+wechel,row150,109,Liber primus,75,Cap. CXLIX,De Palmis Thebaicis.
+wechel,row151,110,Liber primus,76,Cap. CL,De Palma elate.
+wechel,row152,110,Liber primus,76,Cap. CLI,De Malo Punico.
+wechel,row153,111,Liber primus,77,Cap. CLII,De Cytinis.
+wechel,row154,111,Liber primus,77,Cap. CLIII,De Malicorio.
+wechel,row155,111,Liber primus,77,Cap. CLIIII,De Balaustijs.
+wechel,row156,111,Liber primus,77,Cap. CLV,De Myrto.
+wechel,row157,112,Liber primus,78,Cap. CLVI,De Myrtidano.
+wechel,row158,113,Liber primus,79,Cap. CLVII,De Cerasiis.
+wechel,row159,113,Liber primus,79,Cap. CLVIII,De Siliquis.
+wechel,row160,113,Liber primus,79,Cap. CLIX,De Malo.
+wechel,row161,113,Liber primus,79,Cap. CLX,De Cotoness.
+wechel,row162,114,Liber primus,80,,De Melimelis seu musteis. C. CLXI
+wechel,row163,114,Liber primus,80,Cap. CLXII,De Epiroticis malis.
+wechel,row164,114,Liber primus,80,,De Sylvestibus malis. C. CLXIII
+wechel,row165,114,Liber primus,80,Cap. CLXIIII,De Persicis malis.
+wechel,row166,114,Liber primus,80,Cap. CLXV,De Armeniacis.
+wechel,row167,114,Liber primus,80,Cap. CLXVI,De Medicis.
+wechel,row168,115,Liber primus,81,Cap. CLXVII,De Pyro.
+wechel,row169,115,Liber primus,81,Cap. CLXVIII,De Pyro sylvestri.
+wechel,row170,115,Liber primus,81,Cap. CLXIX,De Mespilis.
+wechel,row171,115,Liber primus,81,Cap. CLXX,De altera Mespilo.
+wechel,row172,116,Liber primus,82,Cap. CLXXI,De Loto.
+wechel,row173,116,Liber primus,82,Cap. CLXXII,De Corno.
+wechel,row174,116,Liber primus,82,Cap. CLXXIII,De Sorbis.
+wechel,row175,116,Liber primus,82,Cap. CLXXIIII,De Pruno.
+wechel,row176,116,Liber primus,82,Cap. CLXXV,De Arbuto.
+wechel,row177,117,Liber primus,83,Cap. CLXXVI,De Amygdalo.
+wechel,row178,117,Liber primus,83,Cap. CLXXVII,De Pistaciis.
+wechel,row179,117,Liber primus,83,,De nucib iuglandib. C. CLXXVIII
+wechel,row180,118,Liber primus,84,Cap. CLXIX,De Nucibus auellanis.
+wechel,row181,118,Liber primus,84,Cap. CLXXX,De Moro.
+wechel,row182,119,Liber primus,85,Cap. CLXXXI,De Sycomoro.
+wechel,row183,120,Liber primus,86,Cap. CLXXXII,De fico Cypria.
+wechel,row184,120,Liber primus,86,Cap. CLXXXIII,De ficubus.
+wechel,row185,121,Liber primus,87,Cap. CLXXXIIII,De Ficu sylvestri.
+wechel,row186,121,Liber primus,87,Cap. CLXXXV,De Grossis.
+wechel,row187,122,Liber primus,88,Cap. CLXXXVI,De Lixivio ficus.
+wechel,row188,122,Liber primus,88,Cap. CLXXXVII,De Persea.
+wechel,row189,122,Liber primus,88,Cap. CLXXXVIII,De Iberide.
+wechel,row190,123,Liber secundus,89,Cap. I,De Echino marino.
+wechel,row191,124,Liber secundus,90,Cap. II,De terrestri echino.
+wechel,row192,124,Liber secundus,90,Cap. III,De Hippocampo.
+wechel,row193,124,Liber secundus,90,Cap. IIII,De Purpura.
+wechel,row194,124,Liber secundus,90,Cap. V,De Buccinis.
+wechel,row195,124,Liber secundus,90,Cap. VI,De Cionijs.
+wechel,row196,124,Liber secundus,90,Cap. VII,De Mytulis seu musculis.
+wechel,row197,125,Liber secundus,91,Cap. VIII,De Tellinis.
+wechel,row198,125,Liber secundus,91,Cap. IX,De Chamis.
+wechel,row199,125,Liber secundus,91,Cap. X,De ungue.
+wechel,row200,125,Liber secundus,91,Cap. XI,De Cochleis.
+wechel,row201,126,Liber secundus,92,Cap. XII,De Cancris.
+wechel,row202,126,Liber secundus,92,Cap. XIII,De Scorpione terrestri.
+wechel,row203,127,Liber secundus,93,Cap. XIIII,De Scorpione marino.
+wechel,row204,127,Liber secundus,93,Cap. XV,De dracone marino.
+wechel,row205,127,Liber secundus,93,Cap. XVI,De Scolopendra.
+wechel,row206,127,Liber secundus,93,Cap. XVII,De Torpedine.
+wechel,row207,127,Liber secundus,93,Cap. XVIII,De Vipera.
+wechel,row208,128,Liber secundus,94,Cap. XIX,De Anguium senecta.
+wechel,row209,128,Liber secundus,94,Cap. XX,De Lepore marino.
+wechel,row210,128,Liber secundus,94,Cap. XXI,De Lepore terrestri.
+wechel,row211,128,Liber secundus,94,Cap. XXII,De Pastinaca marina.
+wechel,row212,128,Liber secundus,94,Cap. XXIII,De Sepia.
+wechel,row213,129,Liber secundus,95,Cap. XXIIII,De Mullo.
+wechel,row214,129,Liber secundus,95,Cap. XXV,De Hippopotami seu fluviatilis equi testiculo.
+wechel,row215,129,Liber secundus,95,Cap. XXVI,"De Castorio, seu fibri testibus."
+wechel,row216,130,Liber secundus,96,Cap. XXVII,De Mustela vulgari seu domestica.
+wechel,row217,130,Liber secundus,96,Cap. XXVIII,De Ranis.
+wechel,row218,130,Liber secundus,96,Cap. XXIX,De Siluro.
+wechel,row219,130,Liber secundus,96,Cap. XXX,De Smaride.
+wechel,row220,130,Liber secundus,96,Cap. XXXI,De Maena.
+wechel,row221,131,Liber secundus,97,Cap. XXXII,De Gobio.
+wechel,row222,131,Liber secundus,97,Cap. XXXIII,De salsamento quod omotarichon appellatur.
+wechel,row223,131,Liber secundus,97,Cap. XXXIIII,De Garo.
+wechel,row224,131,Liber secundus,97,Cap. XXXVI,De Recentium piscium iusculo. C. XXXV. De Cimicibus.
+wechel,row225,132,Liber secundus,98,Cap. XXXVII,De Millepedis.
+wechel,row226,132,Liber secundus,98,Cap. XXXVIII,De Blatta.
+wechel,row227,132,Liber secundus,98,Cap. XXXIX,De Pulmone marino.
+wechel,row228,132,Liber secundus,98,Cap. XL,De Pulmone suillo.
+wechel,row229,132,Liber secundus,98,Cap. XLI,De Pulmone vulpino.
+wechel,row230,132,Liber secundus,98,Cap. XLII,De Hepate asinino.
+wechel,row231,132,Liber secundus,98,Cap. XLIII,De masculi cervi Genitali.
+wechel,row232,132,Liber secundus,98,Cap. XLIIII,De asinorum Ungulis.
+wechel,row233,133,Liber secundus,99,,De equorum lichenibus.Cap. XLV
+wechel,row234,133,Liber secundus,99,,De Caprinis ungulis.Cap. XLVI
+wechel,row235,133,Liber secundus,99,,De Caprino iecore.C. XLVII. De Aprino iecore.Cap. XLVIII
+wechel,row236,133,Liber secundus,99,,De canis rabidi Iecore. C. XLIX. De Iecore mergi.Cap. L
+wechel,row237,133,Liber secundus,99,,De Veteribus soleis.Cap. LI
+wechel,row238,133,Liber secundus,99,,De Gallinis.Cap. LII
+wechel,row239,134,Liber secundus,100,Cap. LIIII,De Ovo.
+wechel,row240,134,Liber secundus,100,Cap. LVI,De Ovi candido seu albumine. C. LV. De Cicadis.
+wechel,row241,135,Liber secundus,101,Cap. LVII,De Locustis.
+wechel,row242,135,Liber secundus,101,Cap. LVIII,De Ossifrago.
+wechel,row243,135,Liber secundus,101,Cap. LIX,De Galerita.
+wechel,row244,135,Liber secundus,101,Cap. LX,De Hirundine.
+wechel,row245,135,Liber secundus,101,Cap. LXI,De Ebore.
+wechel,row246,135,Liber secundus,101,Cap. LXII,De Talo suillo.
+wechel,row247,136,Liber secundus,102,Cap. LXIII,De Cornu cervino.
+wechel,row248,136,Liber secundus,102,Cap. LXIIII,De Erucis.
+wechel,row249,136,Liber secundus,102,Cap. LXV,De Cantharidibus.
+wechel,row250,136,Liber secundus,102,Cap. LXVI,De Bupresti.
+wechel,row251,137,Liber secundus,103,Cap. LXVII,De Salamandra.
+wechel,row252,137,Liber secundus,103,Cap. LXVIII,De Araneo.
+wechel,row253,137,Liber secundus,103,Cap. LXIX,De Lacerta.
+wechel,row254,137,Liber secundus,103,Cap. LXX,De Sepe.
+wechel,row255,137,Liber secundus,103,Cap. LXXI,De Scinco.
+wechel,row256,138,Liber secundus,104,Cap. LXXIII,De Terrenis vermibus. C. LXXII. De Mure araneo.
+wechel,row257,138,Liber secundus,104,Cap. LXXIIII,De Muribus.
+wechel,row258,138,Liber secundus,104,Cap. LXXV,De Lacte.
+wechel,row259,139,Liber secundus,105,Cap. LXXVI,De Sero lactis.
+wechel,row260,139,Liber secundus,105,Cap. LXXVII,De Schisto lacte.
+wechel,row261,140,Liber secundus,106,Cap. LXXIX,De Lacte muliebri. C. LXXVIII. De Caseo recenti.
+wechel,row262,140,Liber secundus,106,Cap. LXXX,De Hippace.
+wechel,row263,141,Liber secundus,107,Cap. LXXXI,De Butyro et eius fuligine.
+wechel,row264,141,Liber secundus,107,Cap. LXXXII,De Lanis.
+wechel,row265,142,Liber secundus,108,Cap. LXXXIII,De Lanis ustis.
+wechel,row266,142,Liber secundus,108,Cap. LXXXIIII,De Oesypo.
+wechel,row267,143,Liber secundus,109,Cap. LXXXV,De Coagulo.
+wechel,row268,144,Liber secundus,110,Cap. LXXXVI,De adipe.
+wechel,row269,145,Liber secundus,111,Cap. LXXXVII,De suillo et ursino adipe.
+wechel,row270,145,Liber secundus,111,Cap. LXXXVIII,"De sevo hircino, ovillo et cervino."
+wechel,row271,146,Liber secundus,112,Cap. LXXXIX,De sevo bubulo.
+wechel,row272,146,Liber secundus,112,Cap. XC,"De adipe taurino, pantherino ac leonino."
+wechel,row273,147,Liber secundus,113,Cap. XCI,Quomodo pingue odoramentis imbuendum sit.
+wechel,row274,149,Liber secundus,115,Cap. XCII,Quomodo adeps sampsuchi odore imbuatur.
+wechel,row275,149,Liber secundus,115,Cap. XCIII,De adipe anserino et gallinaceo.
+wechel,row276,149,Liber secundus,115,Cap. XCIIII,Adipum vis.
+wechel,row277,150,Liber secundus,116,Cap. XCV,De Medullis.
+wechel,row278,151,Liber secundus,117,Cap. XCVI,De omni fellis genere.
+wechel,row279,152,Liber secundus,118,Cap. XCVII,De sanguinis varijs generibus.
+wechel,row280,153,Liber secundus,119,Cap. XCVIII,De fimo.
+wechel,row281,154,Liber secundus,120,Cap. XCIX,De urinis.
+wechel,row282,155,Liber secundus,121,Cap. C,De Lyncurio.
+wechel,row283,155,Liber secundus,121,Cap. CI,De Melle.
+wechel,row284,156,Liber secundus,122,Cap. CII,De Melle Sardoo.
+wechel,row285,156,Liber secundus,122,Cap. CIII,De Melle Pontico.
+wechel,row286,156,Liber secundus,122,Cap. CIIII,De Saccharo.
+wechel,row287,157,Liber secundus,123,Cap. CV,De Cera.
+wechel,row288,158,Liber secundus,124,Cap. CVI,De Propoli.
+wechel,row289,158,Liber secundus,124,Cap. CVII,De Tritico.
+wechel,row290,159,Liber secundus,125,Cap. CVIII,De Hordeo.
+wechel,row291,159,Liber secundus,125,Cap. CIX,De Zytho.
+wechel,row292,160,Liber secundus,126,Cap. CX,De Curmi.
+wechel,row293,160,Liber secundus,126,Cap. CXI,De Zea.
+wechel,row294,160,Liber secundus,126,Cap. CXII,De Crimno.
+wechel,row295,160,Liber secundus,126,Cap. CXIII,De Olyra.
+wechel,row296,160,Liber secundus,126,Cap. CXIIII,De Athera.
+wechel,row297,160,Liber secundus,126,Cap. CXV,De Trago.
+wechel,row298,160,Liber secundus,126,Cap. CXVI,De Avena.
+wechel,row299,161,Liber secundus,127,Cap. CXVII,De Oryza.
+wechel,row300,161,Liber secundus,127,Cap. CXVIII,De Chondro.
+wechel,row301,161,Liber secundus,127,Cap. CXIX,De Milio.
+wechel,row302,161,Liber secundus,127,Cap. CXX,De Panico.
+wechel,row303,161,Liber secundus,127,Cap. CXXI,De Sesamo.
+wechel,row304,161,Liber secundus,127,Cap. CXXII,De Lolio.
+wechel,row305,162,Liber secundus,128,Cap. CXXIII,De Amylo.
+wechel,row306,162,Liber secundus,128,Cap. CXXIIII,De Foenigraeci farina.
+wechel,row307,163,Liber secundus,129,Cap. CXXV,De Lino.
+wechel,row308,163,Liber secundus,129,Cap. CXXVI,De Cicere.
+wechel,row309,164,Liber secundus,130,Cap. CXXVII,De Faba Graeca.
+wechel,row310,165,Liber secundus,131,Cap. CXXVIII,De Faba Aegyptia.
+wechel,row311,165,Liber secundus,131,Cap. CXXIX,De Lente.
+wechel,row312,166,Liber secundus,132,Cap. CXXX,De Phasiolo.
+wechel,row313,166,Liber secundus,132,Cap. CXXXI,De Ervo.
+wechel,row314,167,Liber secundus,133,Cap. CXXXII,De Lupino.
+wechel,row315,167,Liber secundus,133,Cap. CXXXIII,De lupino sylvestri.
+wechel,row316,167,Liber secundus,133,Cap. CXXXIIII,De Rapo.
+wechel,row317,168,Liber secundus,134,Cap. CXXXV,De rapo sylvestri.
+wechel,row318,168,Liber secundus,134,Cap. CXXXVI,De Buniade.
+wechel,row319,168,Liber secundus,134,Cap. CXXXVII,"De raphano, seu radicula."
+wechel,row320,169,Liber secundus,135,Cap. CXXXVIII,De radicula sylvestri.
+wechel,row321,169,Liber secundus,135,Cap. CXXXIX,De Sisere.
+wechel,row322,169,Liber secundus,135,Cap. CXL,"De Lapatho, sive rumice."
+wechel,row323,170,Liber secundus,136,Cap. CXLI,De Hippolapatho.
+wechel,row324,170,Liber secundus,136,Cap. CXLII,De Lampsana.
+wechel,row325,170,Liber secundus,136,Cap. CXLIII,De Blito.
+wechel,row326,170,Liber secundus,136,Cap. CXLIIII,De Malva.
+wechel,row327,171,Liber secundus,137,Cap. CXLV,De Atriplice.
+wechel,row328,171,Liber secundus,137,Cap. CXLVI,De Brassica.
+wechel,row329,172,Liber secundus,138,Cap. CXLVII,De brassica sylvestri.
+wechel,row330,172,Liber secundus,138,Cap. CXLVIII,De brassica marina.
+wechel,row331,172,Liber secundus,138,Cap. CXLIX,De beta.
+wechel,row332,172,Liber secundus,138,Cap. CL,De Portulaca.
+wechel,row333,173,Liber secundus,139,Cap. CLI,De Portulaca sylvestri.
+wechel,row334,173,Liber secundus,139,Cap. CLII,De Asparago.
+wechel,row335,174,Liber secundus,140,Cap. CLIII,De Plantagine.
+wechel,row336,175,Liber secundus,141,Cap. CLIIII,De Sio.
+wechel,row337,175,Liber secundus,141,Cap. CLV,De Sisymbrio.
+wechel,row338,176,Liber secundus,142,Cap. CLVI,De Sisymbrio altero.
+wechel,row339,176,Liber secundus,142,Cap. CLVII,De Crithmo.
+wechel,row340,176,Liber secundus,142,Cap. CLVIII,De Coronopode.
+wechel,row341,177,Liber secundus,143,Cap. CLIX,De Soncho.
+wechel,row342,177,Liber secundus,143,Cap. CLX,De Seride.
+wechel,row343,177,Liber secundus,143,Cap. CLXI,De Condrilla.
+wechel,row344,178,Liber secundus,144,Cap. CLXII,De Cucurbita.
+wechel,row345,178,Liber secundus,144,Cap. CLXIII,De Cucumere sativo.
+wechel,row346,179,Liber secundus,145,Cap. CLXIIII,De Pepone.
+wechel,row347,179,Liber secundus,145,Cap. CLXV,De Lactuca sativa.
+wechel,row348,179,Liber secundus,145,Cap. CLXVI,De Sylvestri lactuca.
+wechel,row349,180,Liber secundus,146,Cap. CLXVII,De Gingidio.
+wechel,row350,180,Liber secundus,146,Cap. CLXVIII,De Scandice.
+wechel,row351,180,Liber secundus,146,Cap. CLXIX,De Caucalide.
+wechel,row352,180,Liber secundus,146,Cap. CLXX,De Eruca.
+wechel,row353,180,Liber secundus,146,Cap. CLXXI,De Ocimo.
+wechel,row354,181,Liber secundus,147,Cap. CLXXII,De Orobanche.
+wechel,row355,181,Liber secundus,147,Cap. CLXXIII,De Barbula hirci.
+wechel,row356,181,Liber secundus,147,Cap. CLXXIIII,De Ornithogalo.
+wechel,row357,182,Liber secundus,148,Cap. CLXXV,De Tubere.
+wechel,row358,182,Liber secundus,148,Cap. CLXXVI,De Smilace hortensi.
+wechel,row359,182,Liber secundus,148,Cap. CLXXVII,De Medica.
+wechel,row360,182,Liber secundus,148,Cap. CLXXVIII,De Aphaca.
+wechel,row361,183,Liber secundus,149,Cap. CLXXIX,De Porro.
+wechel,row362,183,Liber secundus,149,Cap. CLXXX,De Ampelopraso.
+wechel,row363,183,Liber secundus,149,Cap. CLXXXI,De Caepa.
+wechel,row364,184,Liber secundus,150,Cap. CLXXXII,De Allio.
+wechel,row365,185,Liber secundus,151,Cap. CLXXXIII,De Scordopraso.
+wechel,row366,185,Liber secundus,151,Cap. CLXXXIIII,De Sinapi.
+wechel,row367,186,Liber secundus,152,Cap. CLXXXV,De Nasturtio.
+wechel,row368,186,Liber secundus,152,Cap. CLXXXVI,De Thlaspi.
+wechel,row369,187,Liber secundus,153,Cap. CLXXVII,De Draba.
+wechel,row370,187,Liber secundus,153,Cap. CLXXXVIII,"De Erysimo, seu irione."
+wechel,row371,188,Liber secundus,154,Cap. CLXXXIX,De Pipere.
+wechel,row372,189,Liber secundus,155,Cap. CXC,De Zingibere.
+wechel,row373,189,Liber secundus,155,Cap. CXCI,De Hydropipere.
+wechel,row374,189,Liber secundus,155,Cap. CXCII,De Ptarmica.
+wechel,row375,190,Liber secundus,156,Cap. CXCIII,De Struthio seu radicula.
+wechel,row376,190,Liber secundus,156,Cap. CXCIIII,De Cyclamino.
+wechel,row377,191,Liber secundus,157,Cap. CXCV,De Cyclamino altera.
+wechel,row378,192,Liber secundus,158,Cap. CXCVI,De Dracontio seu dracunculo.
+wechel,row379,193,Liber secundus,159,Cap. CXCVII,De Aro.
+wechel,row380,193,Liber secundus,159,Cap. CXCVIII,De Ari seu arisaro.
+wechel,row381,193,Liber secundus,159,Cap. CXCIX,"De Asphodelo, seu hastula regia."
+wechel,row382,194,Liber secundus,160,Cap. CC,De Bulbo esculento.
+wechel,row383,195,Liber secundus,161,Cap. CCI,De Bulbo vomitorio.
+wechel,row384,195,Liber secundus,161,Cap. CCII,De Scilla.
+wechel,row385,196,Liber secundus,162,Cap. CCIII,De Pancratio.
+wechel,row386,196,Liber secundus,162,Cap. CCIIII,De Cappari.
+wechel,row387,197,Liber secundus,163,Cap. CCV,De Lepidio.
+wechel,row388,197,Liber secundus,163,Cap. CCVI,De Ranunculo.
+wechel,row389,198,Liber secundus,164,Cap. CCVII,De Anemone.
+wechel,row390,199,Liber secundus,165,Cap. CCVIII,De Argemone.
+wechel,row391,199,Liber secundus,165,Cap. CCIX,De Anagallide.
+wechel,row392,200,Liber secundus,166,Cap. CCX,De Hedera.
+wechel,row393,201,Liber secundus,167,Cap. CCXI,De Chelidonia.
+wechel,row394,201,Liber secundus,167,Cap. CCXII,De Chelidonia minore.
+wechel,row395,202,Liber secundus,168,Cap. CCXIII,De Othonna.
+wechel,row396,202,Liber secundus,168,Cap. CCXIIII,"De Myosotide, seu muris auricula."
+wechel,row397,203,Liber secundus,169,Cap. CCXV,"De Isatide sativa, seu glasto."
+wechel,row398,203,Liber secundus,169,Cap. CCXVI,De Isatide sylvestri.
+wechel,row399,203,Liber secundus,169,Cap. CCXVII,De Telephio.
+wechel,row400,204,Liber tertius,170,Cap. I,De Agarico.
+wechel,row401,205,Liber tertius,171,Cap. II,De Rha.
+wechel,row402,206,Liber tertius,172,Cap. III,De Gentiana.
+wechel,row403,207,Liber tertius,173,Cap. IIII,De Aristolochia rotunda.
+wechel,row404,207,Liber tertius,173,Cap. V,De Aristolochia longa.
+wechel,row405,207,Liber tertius,173,Cap. VI,De Aristolochia Clematitide.
+wechel,row406,208,Liber tertius,174,Cap. VII,De Glycyrrhiza.
+wechel,row407,208,Liber tertius,174,Cap. VIII,De Centaurio maiore.
+wechel,row408,209,Liber tertius,175,Cap. IX,De Centaurio minore.
+wechel,row409,210,Liber tertius,176,Cap. X,De Chamaeleone albo.
+wechel,row410,211,Liber tertius,177,Cap. XI,De Chamaeleone nigro.
+wechel,row411,211,Liber tertius,177,Cap. XII,De Crocodilio.
+wechel,row412,211,Liber tertius,177,Cap. XIII,De Dipsaco.
+wechel,row413,212,Liber tertius,178,Cap. XIIII,De Spina alba.
+wechel,row414,212,Liber tertius,178,Cap. XV,De Spina Arabica.
+wechel,row415,213,Liber tertius,179,Cap. XVI,"De Scolymo, seu carduo."
+wechel,row416,213,Liber tertius,179,Cap. XVII,De Poterio.
+wechel,row417,213,Liber tertius,179,Cap. XVIII,De Acanthio.
+wechel,row418,213,Liber tertius,179,Cap. XIX,De Acantha seu acantho.
+wechel,row419,214,Liber tertius,180,Cap. XX,De Acantha Sylvestri.
+wechel,row420,214,Liber tertius,180,Cap. XXI,De Anonide.
+wechel,row421,214,Liber tertius,180,Cap. XXII,De Leucacantha.
+wechel,row422,214,Liber tertius,180,Cap. XXIII,De Tragacantha.
+wechel,row423,215,Liber tertius,181,Cap. XXIIII,De Eryngio.
+wechel,row424,215,Liber tertius,181,Cap. XXV,De Aloë.
+wechel,row425,217,Liber tertius,183,Cap. XXVI,De Absinthio.
+wechel,row426,218,Liber tertius,184,Cap. XXVII,De Absinthio marino.
+wechel,row427,218,Liber tertius,184,Cap. XXIX,De Absinthio Santonico. C. XXVIII. De Abrotono.
+wechel,row428,219,Liber tertius,185,Cap. XXX,De Hyssopo.
+wechel,row429,220,Liber tertius,186,Cap. XXXI,De Stoechade.
+wechel,row430,220,Liber tertius,186,Cap. XXXII,De Origano.
+wechel,row431,220,Liber tertius,186,Cap. XXXIII,De Onitide.
+wechel,row432,220,Liber tertius,186,Cap. XXXIIII,De origano sylvestri.
+wechel,row433,221,Liber tertius,187,Cap. XXXV,De Tragorigano.
+wechel,row434,221,Liber tertius,187,Cap. XXXVI,De Pulegio.
+wechel,row435,222,Liber tertius,188,Cap. XXXVII,De Dictamno.
+wechel,row436,222,Liber tertius,188,Cap. XXXVIII,De Pseudodictamno.
+wechel,row437,222,Liber tertius,188,Cap. XXXIX,De altero Dictamno Cretico.
+wechel,row438,223,Liber tertius,189,Cap. XL,De Salvia.
+wechel,row439,223,Liber tertius,189,Cap. XLI,De Menta sativa.
+wechel,row440,224,Liber tertius,190,Cap. XLII,De Mentha sylvestri.
+wechel,row441,224,Liber tertius,190,Cap. XLIII,De Calamintha.
+wechel,row442,224,Liber tertius,190,Cap. XLIIII,De Thymo.
+wechel,row443,225,Liber tertius,191,Cap. XLV,De Thymbra.
+wechel,row444,225,Liber tertius,191,Cap. XLVI,De Serpyllo.
+wechel,row445,226,Liber tertius,192,Cap. XLVII,De Sampsucho.
+wechel,row446,226,Liber tertius,192,Cap. XLVIII,"De Meliloto, seu sertula Campana."
+wechel,row447,227,Liber tertius,193,Cap. XLIX,De Maro.
+wechel,row448,227,Liber tertius,193,Cap. L,De Acino.
+wechel,row449,227,Liber tertius,193,Cap. LI,De Bacchare.
+wechel,row450,227,Liber tertius,193,Cap. LII,De Ruta.
+wechel,row451,229,Liber tertius,195,Cap. LIII,De Ruta sylvestri.
+wechel,row452,230,Liber tertius,196,Cap. LIIII,De Moly.
+wechel,row453,230,Liber tertius,196,Cap. LV,De Panace.
+wechel,row454,231,Liber tertius,197,Cap. LVI,De Panace Asclepio.
+wechel,row455,231,Liber tertius,197,Cap. LVII,De Panace Chironio.
+wechel,row456,232,Liber tertius,198,Cap. LVIII,De Ligustico.
+wechel,row457,232,Liber tertius,198,Cap. LIX,De Pastinaca.
+wechel,row458,233,Liber tertius,199,Cap. LX,De Seseli Massiliensi.
+wechel,row459,233,Liber tertius,199,Cap. LXI,De Seseli Aethiopico.
+wechel,row460,233,Liber tertius,199,Cap. LXII,De Seseli Peloponnensi.
+wechel,row461,234,Liber tertius,200,Cap. LXIII,De Tordylio.
+wechel,row462,234,Liber tertius,200,Cap. LXIIII,De Sisone.
+wechel,row463,234,Liber tertius,200,Cap. LXV,De Aniso.
+wechel,row464,234,Liber tertius,200,Cap. LXVI,De Caro.
+wechel,row465,235,Liber tertius,201,Cap. LXVII,De Anetho.
+wechel,row466,235,Liber tertius,201,Cap. LXVIII,De Cumino sativo.
+wechel,row467,235,Liber tertius,201,Cap. LXIX,De Cumino sylvestri.
+wechel,row468,236,Liber tertius,202,Cap. LXX,De Ammi.
+wechel,row469,236,Liber tertius,202,Cap. LXXI,De Coriandro.
+wechel,row470,236,Liber tertius,202,Cap. LXXII,De Hieracio magno.
+wechel,row471,237,Liber tertius,203,Cap. LXXIII,De Hieracio parvo.
+wechel,row472,237,Liber tertius,203,Cap. LXXIIII,De Apio.
+wechel,row473,237,Liber tertius,203,Cap. LXXV,"De Heleoselino, seu apio palustri."
+wechel,row474,237,Liber tertius,203,Cap. LXXVI,De Oreoselino.
+wechel,row475,238,Liber tertius,204,Cap. LXXVII,De Petroselino.
+wechel,row476,238,Liber tertius,204,Cap. LXXVIII,De Hipposelino.
+wechel,row477,238,Liber tertius,204,Cap. LXXIX,De Smyrnio.
+wechel,row478,239,Liber tertius,205,Cap. LXXX,De Elaphobosco.
+wechel,row479,239,Liber tertius,205,Cap. LXXXI,De foeniculo.
+wechel,row480,240,Liber tertius,206,Cap. LXXXIII,De Hippomarathro. C. LXXXII. De Dauco.
+wechel,row481,241,Liber tertius,207,Cap. LXXXIIII,De Delphinio.
+wechel,row482,241,Liber tertius,207,Cap. LXXXVI,"De Delphinio altero. C. LXXXV. De Pyrethro, seu salivari herba."
+wechel,row483,242,Liber tertius,208,,De Libanotide. C. LXXXVII
+wechel,row484,243,Liber tertius,209,Cap. LXXXVIII,De Cachry.
+wechel,row485,243,Liber tertius,209,Cap. LXXXIX,De Libanotide coronaria.
+wechel,row486,243,Liber tertius,209,Cap. XC,De Sphondylio.
+wechel,row487,244,Liber tertius,210,Cap. XCI,De Ferula.
+wechel,row488,244,Liber tertius,210,Cap. XCII,De Peucedano.
+wechel,row489,245,Liber tertius,211,Cap. XCIII,"De Gith, seu Melanthio."
+wechel,row490,246,Liber tertius,212,Cap. XCIIII,De Silphio.
+wechel,row491,248,Liber tertius,214,Cap. XCV,De Sagapeno.
+wechel,row492,248,Liber tertius,214,Cap. XCVI,De Euphorbio.
+wechel,row493,249,Liber tertius,215,Cap. XCVII,De Galbano.
+wechel,row494,250,Liber tertius,216,Cap. XCVIII,De Hammoniaco.
+wechel,row495,251,Liber tertius,217,Cap. XCIX,De Sarcocolla.
+wechel,row496,251,Liber tertius,217,Cap. C,De Glaucio.
+wechel,row497,251,Liber tertius,217,Cap. CI,De Glutino.
+wechel,row498,251,Liber tertius,217,Cap. CII,De Ichthyocolla.
+wechel,row499,251,Liber tertius,217,Cap. CIII,De Visco.
+wechel,row500,252,Liber tertius,218,Cap. CIIII,De Aparine.
+wechel,row501,252,Liber tertius,218,Cap. CV,De Alysso.
+wechel,row502,253,Liber tertius,219,Cap. CVI,De Asclepiade.
+wechel,row503,253,Liber tertius,219,Cap. CVII,De Atractylide.
+wechel,row504,253,Liber tertius,219,Cap. CVIII,De Polycnemo.
+wechel,row505,253,Liber tertius,219,Cap. CIX,De Clinopodio.
+wechel,row506,254,Liber tertius,220,Cap. CX,De Leontopetalo.
+wechel,row507,254,Liber tertius,220,Cap. CXI,De Teucrio.
+wechel,row508,254,Liber tertius,220,Cap. CXII,De Trissagine.
+wechel,row509,255,Liber tertius,221,Cap. CXIII,De Leucade.
+wechel,row510,255,Liber tertius,221,Cap. CXIIII,De Lychnide coronaria.
+wechel,row511,255,Liber tertius,221,Cap. CXV,De Lychnide sylvestri.
+wechel,row512,255,Liber tertius,221,Cap. CXVI,De Lilio.
+wechel,row513,256,Liber tertius,222,Cap. CXVII,De Ballote.
+wechel,row514,256,Liber tertius,222,Cap. CXVIII,De Apiastro.
+wechel,row515,257,Liber tertius,223,Cap. CXIX,De Marrubio.
+wechel,row516,257,Liber tertius,223,Cap. CXX,De Stachy.
+wechel,row517,258,Liber tertius,224,Cap. CXXI,De Phyllitide.
+wechel,row518,258,Liber tertius,224,Cap. CXXII,De Phalangio.
+wechel,row519,258,Liber tertius,224,Cap. CXXIII,De Trifolio.
+wechel,row520,259,Liber tertius,225,Cap. CXXIIII,De Polio.
+wechel,row521,259,Liber tertius,225,Cap. CXXV,De Scordio.
+wechel,row522,260,Liber tertius,226,Cap. CXXVI,De Tussilagine.
+wechel,row523,260,Liber tertius,226,Cap. CXXVII,De Artemisia.
+wechel,row524,261,Liber tertius,227,Cap. CXXVIII,De Artemisia tenuifolia.
+wechel,row525,261,Liber tertius,227,Cap. CXXIX,De Ambrosia.
+wechel,row526,261,Liber tertius,227,Cap. CXXX,De Botry.
+wechel,row527,262,Liber tertius,228,Cap. CXXXI,De Geranio.
+wechel,row528,262,Liber tertius,228,Cap. CXXXII,De Gnaphalio.
+wechel,row529,262,Liber tertius,228,Cap. CXXXIII,De Typha.
+wechel,row530,262,Liber tertius,228,Cap. CXXXIIII,De Circea.
+wechel,row531,263,Liber tertius,229,Cap. CXXXV,De Oenanthe.
+wechel,row532,263,Liber tertius,229,Cap. CXXXVI,De Conyza.
+wechel,row533,263,Liber tertius,229,Cap. CXXXVII,De Hemerocalle.
+wechel,row534,264,Liber tertius,230,Cap. CXXXVIII,De Leucoio sive viola alba.
+wechel,row535,264,Liber tertius,230,Cap. CXXXIX,De Crataegono.
+wechel,row536,264,Liber tertius,230,Cap. CXL,De Phyllo.
+wechel,row537,265,Liber tertius,231,Cap. XLI,De Orchi seu testiculo.
+wechel,row538,265,Liber tertius,231,Cap. CXLII,De Testiculo altero.
+wechel,row539,266,Liber tertius,232,Cap. CXLIII,De Satyrio.
+wechel,row540,266,Liber tertius,232,Cap. CXLIIII,De Satyrio erythronio.
+wechel,row541,266,Liber tertius,232,Cap. CXLV,De Hormino.
+wechel,row542,266,Liber tertius,232,Cap. CXLVI,De Hedysaro.
+wechel,row543,267,Liber tertius,233,Cap. CXLVII,De Onosmate.
+wechel,row544,267,Liber tertius,233,Cap. CXLVIII,De Nymphaea.
+wechel,row545,268,Liber tertius,234,Cap. CXLIX,De Nymphaea altera.
+wechel,row546,268,Liber tertius,234,Cap. CL,De Androsace.
+wechel,row547,268,Liber tertius,234,Cap. CLI,De Aspleno.
+wechel,row548,268,Liber tertius,234,Cap. CLII,De Hermionitide.
+wechel,row549,269,Liber tertius,235,Cap. CLIII,De Anthyllide.
+wechel,row550,269,Liber tertius,235,Cap. CLIIII,De Anthemide.
+wechel,row551,270,Liber tertius,236,Cap. CLV,De Parthenio.
+wechel,row552,270,Liber tertius,236,Cap. CLVI,De Buphthalmo.
+wechel,row553,271,Liber tertius,237,Cap. CLVII,De Paeonia.
+wechel,row554,271,Liber tertius,237,Cap. CLVIII,De Lithospermo.
+wechel,row555,272,Liber tertius,238,Cap. CLIX,De Phalaride.
+wechel,row556,272,Liber tertius,238,Cap. CLX,De Rubia.
+wechel,row557,273,Liber tertius,239,Cap. CLXI,De Lonchitide.
+wechel,row558,273,Liber tertius,239,Cap. CLXIII,De Lonchitide altera. C. CLXII. De Althaea.
+wechel,row559,274,Liber tertius,240,Cap. CLXIIII,De Alcea.
+wechel,row560,274,Liber tertius,240,Cap. CLXV,De Cannabi sativa.
+wechel,row561,274,Liber tertius,240,Cap. CLXVI,De Cannabi sylvestri.
+wechel,row562,275,Liber tertius,241,Cap. CLXVII,De Anagyri.
+wechel,row563,275,Liber tertius,241,Cap. CLXVIII,De Cepaea.
+wechel,row564,275,Liber tertius,241,Cap. CLXIX,De Alismate.
+wechel,row565,276,Liber tertius,242,Cap. CLXX,De Onobrychide.
+wechel,row566,276,Liber tertius,242,Cap. CLXXI,De Hyperico.
+wechel,row567,276,Liber tertius,242,Cap. CLXXII,De Ascyro.
+wechel,row568,276,Liber tertius,242,Cap. CLXXIII,De Androsaemo.
+wechel,row569,277,Liber tertius,243,Cap. CLXXIIII,De Cori.
+wechel,row570,277,Liber tertius,243,Cap. CLXXV,"De Chamaepity, seu abiga."
+wechel,row571,278,Liber tertius,244,Cap. CLXXVI,De altera Chamaepity.
+wechel,row572,279,Liber quartus,245,Cap. I,De Vettonica.
+wechel,row573,280,Liber quartus,246,Cap. II,De Britannica.
+wechel,row574,280,Liber quartus,246,Cap. III,De Lysimachia.
+wechel,row575,281,Liber quartus,247,Cap. IIII,De Polygono mare.
+wechel,row576,281,Liber quartus,247,Cap. V,De Polygono foemina.
+wechel,row577,281,Liber quartus,247,Cap. VI,De Polygonato.
+wechel,row578,282,Liber quartus,248,Cap. VII,De Clematide.
+wechel,row579,282,Liber quartus,248,Cap. VIII,De Polemonia.
+wechel,row580,282,Liber quartus,248,Cap. IX,De Symphyto petraeo.
+wechel,row581,283,Liber quartus,249,Cap. X,De Symphyto altero.
+wechel,row582,283,Liber quartus,249,Cap. XI,De Holostio.
+wechel,row583,283,Liber quartus,249,Cap. XII,De Stoebe.
+wechel,row584,284,Liber quartus,250,Cap. XIII,De Clymeno.
+wechel,row585,284,Liber quartus,250,Cap. XIIII,De Periclymeno.
+wechel,row586,284,Liber quartus,250,Cap. XV,De Tribulo.
+wechel,row587,285,Liber quartus,251,Cap. XVI,De Limonio seu beta sylvestri.
+wechel,row588,285,Liber quartus,251,Cap. XVII,De Lagopode.
+wechel,row589,285,Liber quartus,251,Cap. XVIII,De Medio.
+wechel,row590,286,Liber quartus,252,Cap. XIX,De Epimedio.
+wechel,row591,286,Liber quartus,252,Cap. XX,De Xiphio.
+wechel,row592,286,Liber quartus,252,Cap. XXI,De Sparganio.
+wechel,row593,287,Liber quartus,253,Cap. XXII,De Xyride.
+wechel,row594,287,Liber quartus,253,Cap. XXIII,De Anchusa.
+wechel,row595,287,Liber quartus,253,Cap. XXIIII,De Anchusa altera.
+wechel,row596,288,Liber quartus,254,Cap. XXV,De Anchusa tertia.
+wechel,row597,288,Liber quartus,254,Cap. XXVI,De Lycopsi.
+wechel,row598,288,Liber quartus,254,Cap. XXVII,De Echio.
+wechel,row599,289,Liber quartus,255,Cap. XXVIII,"De Ocimoide, sive Ocimastro."
+wechel,row600,289,Liber quartus,255,Cap. XXIX,De Erino.
+wechel,row601,289,Liber quartus,255,Cap. XXX,De Gramine.
+wechel,row602,289,Liber quartus,255,Cap. XXXI,De Gramine arundinaceo.
+wechel,row603,289,Liber quartus,255,Cap. XXXII,De Parnassio gramine.
+wechel,row604,290,Liber quartus,256,Cap. XXXIII,De Sideritide.
+wechel,row605,290,Liber quartus,256,Cap. XXXIIII,De Sideritide altera.
+wechel,row606,290,Liber quartus,256,Cap. XXXV,De Sideritide tertia.
+wechel,row607,291,Liber quartus,257,Cap. XXXVI,De Achillea.
+wechel,row608,291,Liber quartus,257,Cap. XXXVII,De Rubo.
+wechel,row609,291,Liber quartus,257,Cap. XXXVIII,De Rubo Idaeo.
+wechel,row610,292,Liber quartus,258,Cap. XXXIX,De Helxine.
+wechel,row611,292,Liber quartus,258,Cap. XL,De Elatine.
+wechel,row612,292,Liber quartus,258,Cap. XLI,De Eupatorio.
+wechel,row613,292,Liber quartus,258,Cap. XLII,De Quinquefolio.
+wechel,row614,293,Liber quartus,259,Cap. XLIII,De Phoenice.
+wechel,row615,294,Liber quartus,260,Cap. XLIIII,De Idaea radice.
+wechel,row616,294,Liber quartus,260,Cap. XLV,De Rhodia radice.
+wechel,row617,294,Liber quartus,260,Cap. XLVI,De Equiseto.
+wechel,row618,294,Liber quartus,260,Cap. XLVII,De Equiseto altero.
+wechel,row619,294,Liber quartus,260,Cap. XLVIII,De Cocco tinctili.
+wechel,row620,295,Liber quartus,261,Cap. XLIX,De Tragio.
+wechel,row621,295,Liber quartus,261,Cap. L,De Tragio altero.
+wechel,row622,295,Liber quartus,261,Cap. LI,De Trago.
+wechel,row623,296,Liber quartus,262,Cap. LII,De Iunco.
+wechel,row624,296,Liber quartus,262,Cap. LIII,De Lichene.
+wechel,row625,296,Liber quartus,262,Cap. LV,De Paronychia. LIIII. De Chrysocome.
+wechel,row626,297,Liber quartus,263,Cap. LVI,De Chrysogono.
+wechel,row627,297,Liber quartus,263,Cap. LVII,De Helichryso.
+wechel,row628,297,Liber quartus,263,Cap. LVIII,De Chrysanthemo.
+wechel,row629,297,Liber quartus,263,Cap. LIX,De Agerato.
+wechel,row630,298,Liber quartus,264,Cap. LX,"De Persitereone, seu Verbenaca recta."
+wechel,row631,298,Liber quartus,264,Cap. LXI,"De Hierabotane, seu Verbenaca supina."
+wechel,row632,299,Liber quartus,265,Cap. LXII,De Astragalo.
+wechel,row633,299,Liber quartus,265,Cap. LXIII,De Hyacintho.
+wechel,row634,299,Liber quartus,265,Cap. LXIIII,De Papavere erratico.
+wechel,row635,300,Liber quartus,266,Cap. LXV,De Papavere sativo et sylvestri.
+wechel,row636,302,Liber quartus,268,Cap. LXVI,De Cornuto papavere.
+wechel,row637,302,Liber quartus,268,Cap. LXVII,De Papavere spumeo.
+wechel,row638,303,Liber quartus,269,Cap. LXVIII,De Hypecoo.
+wechel,row639,303,Liber quartus,269,Cap. LXIX,"De Apollinari, sive Hyoscyamo."
+wechel,row640,304,Liber quartus,270,Cap. LXX,De Psyllio.
+wechel,row641,305,Liber quartus,271,Cap. LXXI,De Solano hortensi.
+wechel,row642,305,Liber quartus,271,Cap. LXXII,De Solano Halicacabo.
+wechel,row643,305,Liber quartus,271,,De Solano somnifico. C. LXXIII
+wechel,row644,306,Liber quartus,272,Cap. LXXIIII,De Solano manico seu furiali.
+wechel,row645,307,Liber quartus,273,Cap. LXXV,De Dorycnio.
+wechel,row646,307,Liber quartus,273,Cap. LXXVI,De Mandragora.
+wechel,row647,309,Liber quartus,275,Cap. LXXVII,De Aconito.
+wechel,row648,309,Liber quartus,275,,De Aconito altero. C. LXXVIII
+wechel,row649,310,Liber quartus,276,Cap. LXXIX,De Cicuta.
+wechel,row650,310,Liber quartus,276,Cap. LXXX,De Taxo.
+wechel,row651,310,Liber quartus,276,Cap. LXXXI,De Apocyno.
+wechel,row652,311,Liber quartus,277,Cap. LXXXII,De Nerio.
+wechel,row653,311,Liber quartus,277,Cap. LXXXIII,De Fungis.
+wechel,row654,312,Liber quartus,278,Cap. LXXXIIII,De Colchico.
+wechel,row655,312,Liber quartus,278,Cap. LXXXV,De Ephemero.
+wechel,row656,312,Liber quartus,278,Cap. LXXXVI,De Helxine.
+wechel,row657,313,Liber quartus,279,Cap. LXXXVII,De Alsine.
+wechel,row658,313,Liber quartus,279,Cap. LXXXVIII,De Lenticula palustri.
+wechel,row659,313,Liber quartus,279,Cap. LXXXIX,De Sempervivo magno.
+wechel,row660,314,Liber quartus,280,Cap. XC,De Sempervivo parvo.
+wechel,row661,314,Liber quartus,280,Cap. XCI,De Sempervivo tertio.
+wechel,row662,314,Liber quartus,280,Cap. XCII,De Umbilico Veneris.
+wechel,row663,314,Liber quartus,280,Cap. XCIII,De Umbilico veneris altero.
+wechel,row664,315,Liber quartus,281,Cap. XCIIII,De Urtica.
+wechel,row665,315,Liber quartus,281,Cap. XCV,De Galiopsi.
+wechel,row666,316,Liber quartus,282,Cap. XCVI,De Gallio.
+wechel,row667,316,Liber quartus,282,Cap. XCVII,De Senecione.
+wechel,row668,316,Liber quartus,282,Cap. XCVIII,De Thalictro.
+wechel,row669,317,Liber quartus,283,Cap. XCIX,De marino Musco.
+wechel,row670,317,Liber quartus,283,Cap. C,"De marino Fuco, seu alga."
+wechel,row671,317,Liber quartus,283,Cap. CI,De Potamogetone.
+wechel,row672,317,Liber quartus,283,Cap. CII,De Stratiote.
+wechel,row673,317,Liber quartus,283,Cap. CIII,De Stratiote millefolio.
+wechel,row674,318,Liber quartus,284,Cap. CIIII,De Verbasco.
+wechel,row675,319,Liber quartus,285,Cap. CV,De Aethiopide.
+wechel,row676,319,Liber quartus,285,Cap. CVI,De Arctio.
+wechel,row677,319,Liber quartus,285,Cap. CVII,"De Arcio, sive Personata."
+wechel,row678,320,Liber quartus,286,Cap. CVIII,De Petasite.
+wechel,row679,320,Liber quartus,286,Cap. CIX,De Epipactide.
+wechel,row680,320,Liber quartus,286,Cap. CX,De Capno seu fumaria.
+wechel,row681,320,Liber quartus,286,Cap. CXI,De Loto sativa.
+wechel,row682,320,Liber quartus,286,Cap. CXII,De Loto sylvestri.
+wechel,row683,320,Liber quartus,286,Cap. CXIII,De Cytiso.
+wechel,row684,321,Liber quartus,287,Cap. CXIIII,De Loto Aegyptia.
+wechel,row685,321,Liber quartus,287,Cap. CXV,"De Myriophyllo, seu millefolio."
+wechel,row686,321,Liber quartus,287,Cap. CXVI,De Myrrhide.
+wechel,row687,322,Liber quartus,288,Cap. CXVII,De Myagro.
+wechel,row688,322,Liber quartus,288,Cap. CXVIII,De Oenagra.
+wechel,row689,322,Liber quartus,288,Cap. CXIX,De Cirsio.
+wechel,row690,322,Liber quartus,288,Cap. CXX,De Astere Attico.
+wechel,row691,323,Liber quartus,289,Cap. CXXI,De Isopyro.
+wechel,row692,323,Liber quartus,289,Cap. CXXII,De Viola nigra seu  purpurea.
+wechel,row693,323,Liber quartus,289,Cap. CXXIII,De Cacalia.
+wechel,row694,323,Liber quartus,289,Cap. CXXIIII,De Bunio.
+wechel,row695,324,Liber quartus,290,Cap. CXXV,De Pseudobunio.
+wechel,row696,324,Liber quartus,290,Cap. CXXVI,"De Chamaecisso, seu hedera humi repente."
+wechel,row697,324,Liber quartus,290,Cap. CXXVII,De Chamaepeuce.
+wechel,row698,324,Liber quartus,290,Cap. CXXVIII,De Buglosso.
+wechel,row699,324,Liber quartus,290,Cap. CXXIX,De Cynoglosso.
+wechel,row700,325,Liber quartus,291,Cap. CXXX,De Phyteumate.
+wechel,row701,325,Liber quartus,291,Cap. CXXXI,De Leontopodio.
+wechel,row702,325,Liber quartus,291,Cap. CXXXII,De Hippoglosso.
+wechel,row703,325,Liber quartus,291,Cap. CXXXIII,De Antirrhino.
+wechel,row704,325,Liber quartus,291,Cap. CXXXIIII,De Catanance.
+wechel,row705,326,Liber quartus,292,Cap. CXXXV,De Tripolio.
+wechel,row706,326,Liber quartus,292,Cap. CXXXVI,De Adianto.
+wechel,row707,327,Liber quartus,293,Cap. CXXXVII,De Trichomane.
+wechel,row708,327,Liber quartus,293,Cap. CXXXVIII,De Xanthio.
+wechel,row709,327,Liber quartus,293,Cap. CXXXIX,De Aegilope sive festuca.
+wechel,row710,328,Liber quartus,294,Cap. CXL,De Bromo.
+wechel,row711,328,Liber quartus,294,Cap. CXLI,De Glauce.
+wechel,row712,328,Liber quartus,294,Cap. CXLII,De Polygala.
+wechel,row713,328,Liber quartus,294,Cap. CXLIII,De Osyride.
+wechel,row714,328,Liber quartus,294,,De Smilace aspera. C. CXLIIII
+wechel,row715,329,Liber quartus,295,Cap. CXLV,De Smilace levi.
+wechel,row716,329,Liber quartus,295,Cap. CXLVI,"De Rusco, seu Myrto sylvestri."
+wechel,row717,329,Liber quartus,295,Cap. CXLVII,De Lauro Alexandrina.
+wechel,row718,330,Liber quartus,296,Cap. CXLVIII,De Daphnoide.
+wechel,row719,330,Liber quartus,296,Cap. CXLIX,De Chamaedaphne.
+wechel,row720,330,Liber quartus,296,Cap. CL,De Helleboro seu veratro albo.
+wechel,row721,331,Liber quartus,297,Cap. CLI,De Helleboro seu veratro nigro.
+wechel,row722,333,Liber quartus,299,Cap. CLII,De Sesamoide magno.
+wechel,row723,333,Liber quartus,299,Cap. CLIII,De Sesamoide parvo.
+wechel,row724,333,Liber quartus,299,Cap. CLIIII,De Cucumere sylvestri.
+wechel,row725,334,Liber quartus,300,,De Elaterio. C. CLV
+wechel,row726,335,Liber quartus,301,Cap. CLVI,"De Staphide agria, sive herba pediculari."
+wechel,row727,336,Liber quartus,302,Cap. CLVII,De Thapsia.
+wechel,row728,337,Liber quartus,303,Cap. CLVIII,De Spartio.
+wechel,row729,338,Liber quartus,304,Cap. CLIX,De Sylibo.
+wechel,row730,338,Liber quartus,304,Cap. CLXI,De Glande unguentaria. C. CLX. De Narcisso.
+wechel,row731,339,Liber quartus,305,Cap. CLXII,De Hippophaë.
+wechel,row732,339,Liber quartus,305,Cap. CLXIII,De Hippophaesto.
+wechel,row733,340,Liber quartus,306,Cap. CLXIIII,De Ricino.
+wechel,row734,340,Liber quartus,306,Cap. CLXV,"De Tithymalis, seu lactarijs herbis."
+wechel,row735,342,Liber quartus,308,,De Tithymalo foemina. De Paralio. De Helioscopio
+wechel,row736,343,Liber quartus,309,Cap. CLXVI,"De Cyparissia. De nascente in petris tithymalo, Dendroide nominato. De Platyphyllo, seu latifolio. De Pityusa."
+wechel,row737,343,Liber quartus,309,Cap. CLXVII,De Lathyride.
+wechel,row738,344,Liber quartus,310,Cap. CLXVIII,De Peplo.
+wechel,row739,344,Liber quartus,310,Cap. CLXIX,De Peplide.
+wechel,row740,345,Liber quartus,311,Cap. CLXX,De Chamaesyce.
+wechel,row741,345,Liber quartus,311,Cap. CLXXI,De Scammonia.
+wechel,row742,346,Liber quartus,312,Cap. CLXXII,De Chamelaea.
+wechel,row743,347,Liber quartus,313,Cap. CLXXIII,De Thymelaea.
+wechel,row744,347,Liber quartus,313,Cap. CLXXIIII,De Sambuco.
+wechel,row745,348,Liber quartus,314,Cap. CLXXV,"De Chamaeacte, seu humilis sambuco."
+wechel,row746,348,Liber quartus,314,Cap. CLXXVI,De Pycnocomo.
+wechel,row747,349,Liber quartus,315,Cap. CLXXVII,De Apio.
+wechel,row748,349,Liber quartus,315,Cap. CLXXVIII,De Colocynthide.
+wechel,row749,350,Liber quartus,316,Cap. CLXXIX,De Epithymo.
+wechel,row750,350,Liber quartus,316,Cap. CLXXX,De Alypo.
+wechel,row751,350,Liber quartus,316,Cap. CLXXXI,De Empetro.
+wechel,row752,350,Liber quartus,316,Cap. CLXXXII,De Clematitide.
+wechel,row753,351,Liber quartus,317,Cap. CLXXXIII,De Vite Sylvestri.
+wechel,row754,351,Liber quartus,317,Cap. CLXXXIIII,De Vite alba.
+wechel,row755,352,Liber quartus,318,Cap. CLXXXV,De Vite nigra.
+wechel,row756,352,Liber quartus,318,Cap. CLXXXVI,De Filice.
+wechel,row757,353,Liber quartus,319,Cap. CLXXXVII,"De Thelypteri, seu filice foemina."
+wechel,row758,353,Liber quartus,319,Cap. CLXXXVIII,"De Polypodio, seu filicula."
+wechel,row759,354,Liber quartus,320,Cap. CLXXXIX,De Dryopteri.
+wechel,row760,354,Liber quartus,320,Cap. CXC,De Cnico.
+wechel,row761,354,Liber quartus,320,Cap. CXCI,"De Linozostide, seu Mercuriali."
+wechel,row762,355,Liber quartus,321,Cap. CXCII,De Cynocrambe.
+wechel,row763,355,Liber quartus,321,Cap. CXCIII356,"De Heliotropio magno, seu Solari herba maiore."
+wechel,row764,356,Liber quintus,322,Cap. CXCV,De Scorpioide.
+wechel,row765,357,Liber quintus,323,Cap. I,De Vite vinifera.
+wechel,row766,357,Liber quintus,323,Cap. II,De Labrusca seu vite sylvestri.
+wechel,row767,357,Liber quintus,323,Cap. III,De Vua.
+wechel,row768,358,Liber quintus,324,Cap. IIII,De Vua passa.
+wechel,row769,358,Liber quintus,324,Cap. V,De Oenanthe.
+wechel,row770,359,Liber quintus,325,Cap. VI,De Omphacio.
+wechel,row771,359,Liber quintus,325,Cap. VII,De Vini natura pro aetatis ratione.
+wechel,row772,360,Liber quintus,326,Cap. VIII,Pro ratione coloris.
+wechel,row773,360,Liber quintus,326,Cap. IX,Pro saporum eorumque quae illi miscentur differentia.
+wechel,row774,361,Liber quintus,327,,Pro locorum differentia. C. X
+wechel,row775,362,Liber quintus,328,Cap. XI,De vini generum facultate.
+wechel,row776,363,Liber quintus,329,Cap. XII,De vino Omphacite.
+wechel,row777,363,Liber quintus,329,Cap. XIII,De vino secundario et adynamo.
+wechel,row778,364,Liber quintus,330,Cap. XIIII,De Vino è labrusca expresso.
+wechel,row779,364,Liber quintus,330,Cap. XV,De Vino Melitite.
+wechel,row780,364,Liber quintus,330,Cap. XVI,De Mulso.
+wechel,row781,365,Liber quintus,331,Cap. XVII,De Aqua mulsa.
+wechel,row782,365,Liber quintus,331,Cap. XVIII,De Aqua.
+wechel,row783,366,Liber quintus,332,Cap. XIX,De Aqua marina.
+wechel,row784,366,Liber quintus,332,Cap. XX,De Thalassomelite.
+wechel,row785,367,Liber quintus,333,Cap. XXI,De Aceto.
+wechel,row786,367,Liber quintus,333,Cap. XXII,De Oxymelite.
+wechel,row787,368,Liber quintus,334,Cap. XXIIII,De Oxalme. C. XXII. De Thymoxalme.
+wechel,row788,368,Liber quintus,334,Cap. XXV,De aceto Scillino.
+wechel,row789,369,Liber quintus,335,Cap. XXVI,De Scillino vino.
+wechel,row790,370,Liber quintus,336,Cap. XXVII,De vinis aqua marina factis.
+wechel,row791,370,Liber quintus,336,Cap. XXVIII,De vino Cydomite.
+wechel,row792,371,Liber quintus,337,Cap. XXIX,De Melomelite.
+wechel,row793,371,Liber quintus,337,Cap. XXX,De Hydromelo.
+wechel,row794,371,Liber quintus,337,Cap. XXXI,De Omphacomelite.
+wechel,row795,371,Liber quintus,337,Cap. XXXII,De vino Apite.
+wechel,row796,371,Liber quintus,337,Cap. XXXIII,De Oenanthino.
+wechel,row797,371,Liber quintus,337,Cap. XXXIIII,De vino Rhoite.
+wechel,row798,372,Liber quintus,338,Cap. XXXV,De vino Rhodite.
+wechel,row799,372,Liber quintus,338,Cap. XXXVI,De vino Myrtite.
+wechel,row800,372,Liber quintus,338,,De vino Myrsinite. C. XXXVII. De Lentiscino vino. C. XXXVIII
+wechel,row801,373,Liber quintus,339,Cap. XL,De vino Terebinthino. C. XXXIX. De vino Palmeo.
+wechel,row802,373,Liber quintus,339,Cap. XLI,De vino Catorchite.
+wechel,row803,374,Liber quintus,340,Cap. XLII,De vino è Sycomoris  factitio.
+wechel,row804,374,Liber quintus,340,Cap. XLIII,De vino Resinato.
+wechel,row805,374,Liber quintus,340,Cap. XLIIII,De vino Strobilite.
+wechel,row806,374,Liber quintus,340,Cap. XLV,"De Cedrino vino, et alijs."
+wechel,row807,375,Liber quintus,341,Cap. XLVI,De Iuniperino vino.
+wechel,row808,375,Liber quintus,341,Cap. XLVII,De Cedrite.
+wechel,row809,375,Liber quintus,341,Cap. XLVIII,De vino Picato.
+wechel,row810,376,Liber quintus,342,Cap. XLIX,De vino absinthite.
+wechel,row811,376,Liber quintus,342,Cap. L,De vino Hyssopite.
+wechel,row812,377,Liber quintus,343,Cap. LI,De vino Chamaedryite.
+wechel,row813,377,Liber quintus,343,Cap. LII,De vino Stoechadite.
+wechel,row814,377,Liber quintus,343,Cap. LIII,De aceto è Stoechade.
+wechel,row815,377,Liber quintus,343,Cap. LIIII,De vino è Betonica.
+wechel,row816,377,Liber quintus,343,Cap. LV,De vino Tragoriganite.
+wechel,row817,378,Liber quintus,344,,De vino Bunite.Cap. LVI
+wechel,row818,378,Liber quintus,344,,De vino Dictamnite.Cap. LVII
+wechel,row819,378,Liber quintus,344,,De vino Prasite.C. LVIII. De vino Thymite.C. LIX. De vino Thymbrite.C. LX. De vino Origanite.C. LXI. De vinis C. LXII. De vino Conyzite.C. LXIII. De vino Aromatite.C. LXIIII
+wechel,row820,379,Liber quintus,345,Cap. LXV,"De vino ex myrrha, piprer et iride."
+wechel,row821,379,Liber quintus,345,Cap. LXVI,De vino Nectarite.
+wechel,row822,379,Liber quintus,345,Cap. LXVII,"De vino è Nardo Syriaco, Celtico et Malabathro."
+wechel,row823,380,Liber quintus,346,Cap. LXIX,De vino Asarite. C. LXVIII. De vino è sylvestri nardo.
+wechel,row824,380,Liber quintus,346,Cap. LXX,De vino Daucite.
+wechel,row825,380,Liber quintus,346,Cap. LXXI,De vino è Salvia.
+wechel,row826,380,Liber quintus,346,Cap. LXXII,De vino Panacite.
+wechel,row827,380,Liber quintus,346,Cap. LXXIII,De vino Acorite.
+wechel,row828,381,Liber quintus,347,Cap. LXXIIII,De vino Selinite.
+wechel,row829,381,Liber quintus,347,Cap. LXXV,De vinis Marathrite et Anethino.
+wechel,row830,381,Liber quintus,347,Cap. LXXVII,"De vino è Salis flore. C. LXXVI. De vino Phthorio, seu Abortivo."
+wechel,row831,381,Liber quintus,347,,De vino Thymelaite. C. LXXVIII. De vino Chamaelaite. C. LXXXIX. De vino Chamaepityino. C. LXXX
+wechel,row832,382,Liber quintus,348,Cap. LXXXI,De Mandragorite.
+wechel,row833,382,Liber quintus,348,Cap. LXXXII,De Elleborite.
+wechel,row834,383,Liber quintus,349,Cap. LXXXIII,De Scammonite.
+wechel,row835,383,Liber quintus,349,Cap. LXXXIIII,"De Metallicis omnibus, et primum de Cadmia."
+wechel,row836,385,Liber quintus,351,Cap. LXXXV,De Pompholyge.
+wechel,row837,387,Liber quintus,353,Cap. LXXXVI,"De Antispodis, hoc est, Spodi succedaneis."
+wechel,row838,388,Liber quintus,354,Cap. LXXXVII,De Aere usto.
+wechel,row839,389,Liber quintus,355,Cap. LXXXVIII,De Flore aeris.
+wechel,row840,389,Liber quintus,355,,De Squamma aeris. C. LXXXIX
+wechel,row841,390,Liber quintus,356,Cap. XC,De Squamma stomomatis.
+wechel,row842,390,Liber quintus,356,Cap. XCI,De Aerugine rasili.
+wechel,row843,391,Liber quintus,357,Cap. XCII,De Aerugine Scolecia.
+wechel,row844,393,Liber quintus,359,Cap. XCIII,"De ferrugine, seu ferri rubigine."
+wechel,row845,393,Liber quintus,359,Cap. XCIIII,"De recremento, sive scoria ferri."
+wechel,row846,393,Liber quintus,359,Cap. XCV,De Plumbi lotura.
+wechel,row847,394,Liber quintus,360,Cap. XCVI,De Plumbo usto.
+wechel,row848,394,Liber quintus,360,Cap. XCVII,De Scoria plumbi.
+wechel,row849,395,Liber quintus,361,Cap. XCVIII,De Lapide plumbario.
+wechel,row850,395,Liber quintus,361,Cap. XCIX,De Stibio.
+wechel,row851,395,Liber quintus,361,Cap. C,De Molybdaena seu plumbagine.
+wechel,row852,396,Liber quintus,362,Cap. CI,De argenti Scoria.
+wechel,row853,396,Liber quintus,362,Cap. CII,De argenti spuma.
+wechel,row854,398,Liber quintus,364,Cap. CIII,De Cerussa.
+wechel,row855,399,Liber quintus,365,Cap. CIIII,De Chrysocolla.
+wechel,row856,400,Liber quintus,366,Cap. CV,De Armenio.
+wechel,row857,400,Liber quintus,366,Cap. CVI,De Cyano sive caeruleo.
+wechel,row858,400,Liber quintus,366,Cap. CVII,De Indico.
+wechel,row859,401,Liber quintus,367,Cap. CVIII,De Ochra.
+wechel,row860,401,Liber quintus,367,Cap. CIX,De Cinnabari.
+wechel,row861,401,Liber quintus,367,Cap. CX,"De Hydrargyro, seu argento vivo."
+wechel,row862,402,Liber quintus,368,Cap. CXI,De rubrica Sinopica.
+wechel,row863,402,Liber quintus,368,Cap. CXII,De Rubrica fabrili.
+wechel,row864,402,Liber quintus,368,Cap. CXIII,De Lemnia terra.
+wechel,row865,403,Liber quintus,369,Cap. CXIIII,De Atramento sutorio.
+wechel,row866,403,Liber quintus,369,Cap. CXV,De Chalciti.
+wechel,row867,404,Liber quintus,370,Cap. CXVI,De Psorico.
+wechel,row868,404,Liber quintus,370,Cap. CXVII,De Misy.
+wechel,row869,405,Liber quintus,371,Cap. CXVIII,De Melanteria seu atramento metallico.
+wechel,row870,405,Liber quintus,371,Cap. CXIX,De Sory.
+wechel,row871,405,Liber quintus,371,Cap. CXX,De Diphryge.
+wechel,row872,406,Liber quintus,372,Cap. CXXI,De Arsenico seu auripigmento.
+wechel,row873,407,Liber quintus,373,Cap. CXXII,De Sandaracha.
+wechel,row874,407,Liber quintus,373,Cap. CXXIII,De Alumine.
+wechel,row875,408,Liber quintus,374,Cap. CXXIIII,De Sulphure.
+wechel,row876,409,Liber quintus,375,Cap. CXXV,De Pumice.
+wechel,row877,410,Liber quintus,376,Cap. CXXVI,De Sale.
+wechel,row878,411,Liber quintus,377,Cap. CXXVII,"De Spuma salis, seu spuma maris arida."
+wechel,row879,411,Liber quintus,377,Cap. CXXVIII,"De Muria, seu Salsugine."
+wechel,row880,411,Liber quintus,377,Cap. CXXIX,De flore Salis.
+wechel,row881,412,Liber quintus,378,Cap. CXXX,De Nitro.
+wechel,row882,412,Liber quintus,378,Cap. CXXXI,De Spuma nitri.
+wechel,row883,413,Liber quintus,379,Cap. CXXXII,De Faece.
+wechel,row884,413,Liber quintus,379,Cap. CXXXIII,De Calce vina.
+wechel,row885,414,Liber quintus,380,Cap. CXXXIIII,De Gypso.
+wechel,row886,414,Liber quintus,380,Cap. CXXXV,De Sarmentitio cinere.
+wechel,row887,414,Liber quintus,380,Cap. CXXXVI,De Alcyonio.
+wechel,row888,415,Liber quintus,381,Cap. CXXXVII,De Adarce.
+wechel,row889,415,Liber quintus,381,Cap. CXXXVIII,De Spongijs.
+wechel,row890,416,Liber quintus,382,Cap. CXXXIX,De Corallio.
+wechel,row891,416,Liber quintus,382,Cap. CXL,De Antipathe.
+wechel,row892,417,Liber quintus,383,Cap. CXLI,De Phrygio lapide.
+wechel,row893,417,Liber quintus,383,Cap. CXLII,De Asio lapide.
+wechel,row894,418,Liber quintus,384,Cap. CXLIII,De Pyrite lapide.
+wechel,row895,418,Liber quintus,384,Cap. CXLIIII,De Hamatite lapide.
+wechel,row896,419,Liber quintus,385,Cap. CXLV,"De Schisto, seu Sissli lapide."
+wechel,row897,419,Liber quintus,385,Cap. CXLVI,De Gagate lapide.
+wechel,row898,420,Liber quintus,386,Cap. CXLVII,De lapide Thracio.
+wechel,row899,420,Liber quintus,386,Cap. CXLVIII,De Magnete.
+wechel,row900,420,Liber quintus,386,Cap. CXLIX,De Arabico lapide.
+wechel,row901,420,Liber quintus,386,Cap. CL,De Galactite lapide.
+wechel,row902,420,Liber quintus,386,Cap. CLI,De Melitite lapide.
+wechel,row903,420,Liber quintus,386,Cap. CLII,De Morochtho lapide.
+wechel,row904,421,Liber quintus,387,Cap. CLIII,De Alabastrite lapide.
+wechel,row905,421,Liber quintus,387,Cap. CLIIII,De Thyite lapide.
+wechel,row906,421,Liber quintus,387,Cap. CLV,De lapide Iudaico.
+wechel,row907,421,Liber quintus,387,Cap. CLVI,De lapide Amianto.
+wechel,row908,421,Liber quintus,387,Cap. CLVII,De Sapphiro lapide.
+wechel,row909,422,Liber quintus,388,Cap. CLVIII,De lapide Memphite.
+wechel,row910,422,Liber quintus,388,Cap. CLIX,De lapide Selenite.
+wechel,row911,422,Liber quintus,388,Cap. CLX,De Iaspide.
+wechel,row912,422,Liber quintus,388,Cap. CLXI,De Aëtite lapide.
+wechel,row913,423,Liber quintus,389,Cap. CLXII,De lapide Ophite.
+wechel,row914,423,Liber quintus,389,Cap. CLXIII,De Spongiarum lapidibus.
+wechel,row915,423,Liber quintus,389,Cap. CLXIIII,De Lithocolla.
+wechel,row916,423,Liber quintus,389,Cap. CLXV,De Ostracite lapide.
+wechel,row917,423,Liber quintus,389,Cap. CLXVI,De Smyride.
+wechel,row918,423,Liber quintus,389,Cap. CLXVII,De Arena.
+wechel,row919,423,Liber quintus,389,Cap. CLXVIII,De Cote.
+wechel,row920,424,Liber quintus,390,Cap. CLXIX,De Geode lapide.
+wechel,row921,424,Liber quintus,390,Cap. CLXX,De Terra.
+wechel,row922,424,Liber quintus,390,Cap. CLXXI,De Terra Eretria.
+wechel,row923,424,Liber quintus,390,Cap. CLXXII,De Terra Samia.
+wechel,row924,425,Liber quintus,391,Cap. CLXXIII,De lapide Samio.
+wechel,row925,425,Liber quintus,391,Cap. CLXXIIII,De terra Chia.
+wechel,row926,425,Liber quintus,391,Cap. CLXXV,De terra Selinusia.
+wechel,row927,425,Liber quintus,391,Cap. CLXXVI,De Cimolia terra.
+wechel,row928,425,Liber quintus,391,,De terra Pnigitide. C. CLXXVII
+wechel,row929,426,Liber quintus,392,Cap. CLXXVIII,De Testis.
+wechel,row930,426,Liber quintus,392,Cap. CLXXX,De terra Fornacum. C. CLXXIX. De terra Melia.
+wechel,row931,426,Liber quintus,392,Cap. CLXXXI,De terra Ampelitide.
+wechel,row932,427,Liber quintus,393,Cap. CLXXXII,De Fuligine pictoria.
+wechel,row933,427,Liber quintus,393,Cap. CLXXXIII,De Atramento librario.
+wechel,row934,435,Liber venenis,402,Cap. I,De Cantharidibus.
+wechel,row935,436,Liber venenis,403,Cap. II,De Pinorum erucis.
+wechel,row936,436,Liber venenis,403,Cap. III,De Bupresti.
+wechel,row937,437,Liber venenis,404,Cap. IIII,De Salamandra.
+wechel,row938,437,Liber venenis,404,Cap. V,De Ephemero.
+wechel,row939,438,Liber venenis,405,Cap. VI,De Dorycnio.
+wechel,row940,438,Liber venenis,405,Cap. VII,De Aconito.
+wechel,row941,439,Liber venenis,406,Cap. VIII,De melle Heraclio.
+wechel,row942,439,Liber venenis,406,Cap. IX,De Coriandro.
+wechel,row943,439,Liber venenis,406,Cap. X,De Psyllio.
+wechel,row944,439,Liber venenis,406,Cap. XI,De Cicuta.
+wechel,row945,440,Liber venenis,407,Cap. XII,De Taxo.
+wechel,row946,440,Liber venenis,407,Cap. XIII,De Carpasi succo.
+wechel,row947,440,Liber venenis,407,Cap. XIIII,De Sardonia herba.
+wechel,row948,440,Liber venenis,407,Cap. XV,De Hyoscyamo.
+wechel,row949,441,Liber venenis,408,Cap. XVI,De Mandragora.
+wechel,row950,441,Liber venenis,408,Cap. XVII,De Papaveris liquore.
+wechel,row951,442,Liber venenis,409,Cap. XVIII,De Corniculato papavere.
+wechel,row952,442,Liber venenis,409,Cap. XIX,De Pharico.
+wechel,row953,442,Liber venenis,409,Cap. XX,De Toxico.
+wechel,row954,442,Liber venenis,409,Cap. XXI,De Ixia.
+wechel,row955,443,Liber venenis,410,Cap. XXII,De Cerussa.
+wechel,row956,443,Liber venenis,410,Cap. XXIII,De Fungis.
+wechel,row957,444,Liber venenis,411,Cap. XXIIII,De Gypso.
+wechel,row958,444,Liber venenis,411,Cap. XXV,De Taurino sanguine.
+wechel,row959,445,Liber venenis,412,Cap. XXVI,De Lacte intus coagulato.
+wechel,row960,445,Liber venenis,412,Cap. XXVII,De Argenti spuma.
+wechel,row961,445,Liber venenis,412,Cap. XXVIII,De Argento vivo.
+wechel,row962,445,Liber venenis,412,Cap. XXIX,"De Calce, Sandraracha et Auripigmento."
+wechel,row963,446,Liber venenis,413,Cap. XXX,De Lepore marino.
+wechel,row964,446,Liber venenis,413,Cap. XXXI,De Rubeta et rana palustri.
+wechel,row965,446,Liber venenis,413,Cap. XXXII,De Hirundine.
+wechel,row966,447,Liber venenis,414,Cap. XXXIII,"De veratro albo, thapsia, elaterio et similibus."
+wechel,row967,447,Liber venenis,414,Cap. XXXIIII,De aqua frigida et caeteris quae itidenobis domestica et in quotidiano vitae usu sunt.
+wechel,row968,455,Liber venenatis,422,Cap. I,"Signa rabiosi canis, eorumque qui ab eo demorsi fuerint."
+wechel,row969,456,Liber venenatis,423,Cap. II,Morsus rabidi canis particularia remedia.
+wechel,row970,458,Liber venenatis,425,Cap. III,De victus ratione demorsorum à cane rabioso.
+wechel,row971,460,Liber venenatis,427,Cap. IIII,De Phalangijs.
+wechel,row972,460,Liber venenatis,427,Cap. V,De Scolopendra.
+wechel,row973,460,Liber venenatis,427,Cap. VI,De Scorpione.
+wechel,row974,461,Liber venenatis,428,Cap. VII,De Pastinaca marina.
+wechel,row975,461,Liber venenatis,428,Cap. VIII,De Mure Araneo.
+wechel,row976,461,Liber venenatis,428,Cap. IX,De Vipera.
+wechel,row977,462,Liber venenatis,429,Cap. X,De Scytale et Amphisbaena.
+wechel,row978,462,Liber venenatis,429,Cap. XI,De Dryina.
+wechel,row979,462,Liber venenatis,429,Cap. XII,De Haemorrhoo.
+wechel,row980,462,Liber venenatis,429,Cap. XIII,De Dipsade.
+wechel,row981,462,Liber venenatis,429,Cap. XIIII,De Natrice.
+wechel,row982,462,Liber venenatis,429,Cap. XV,De Cenchro.
+wechel,row983,463,Liber venenatis,430,Cap. XVI,De Ceraste.
+wechel,row984,463,Liber venenatis,430,Cap. XVII,De Aspide.
+wechel,row985,463,Liber venenatis,430,Cap. XVIII,De Basilisco seu Regulo.
+wechel,row986,464,Liber venenatis,431,Cap. XIX,Communis vulnerum à venenatis animantibus inflictorum curatio.
+wechel,row987,466,Liber venenatis,433,Cap. XX,Curatio à Vespis et apibus morsorum.
+wechel,row988,467,Liber venenatis,434,Cap. XXI,Curatio à Phalangijs morsorum.
+wechel,row989,467,Liber venenatis,434,Cap. XXII,De Scolopendrae morsu.
+wechel,row990,467,Liber venenatis,434,Cap. XXIII,De Scorpionis ictu.
+wechel,row991,468,Liber venenatis,435,Cap. XXIIII,De Pastinacae marinae ictu.
+wechel,row992,468,Liber venenatis,435,Cap. XXV,De marinorum Scorpij Draconisque ictibus.
+wechel,row993,469,Liber venenatis,436,Cap. XXVI,De Muris aranei morsu.
+wechel,row994,469,Liber venenatis,436,Cap. XXVII,De Viperae morsu.
+wechel,row995,470,Liber venenatis,437,Cap. XXVIII,De Amphisbaenae morsu.
+wechel,row996,470,Liber venenatis,437,Cap. XXIX,De morsu Dryini.
+wechel,row997,470,Liber venenatis,437,Cap. XXX,"De morsu tum Haemorrhoi, tum etiam Dipsadis."
+wechel,row998,471,Liber venenatis,438,Cap. XXXI,De morsu Natricis.
+wechel,row999,471,Liber venenatis,438,Cap. XXXII,De Cenchridij morsu.
+wechel,row1000,472,Liber venenatis,439,Cap. XXXIII,De morsu Cerastae.
+wechel,row1001,472,Liber venenatis,439,Cap. XXXIIII,De morsu Aspidis.
+wechel,row1002,472,Liber venenatis,439,Cap. XXXV,De Basilisci morsu.
+wechel,row1003,473,Liber venenatis,440,,I. A. Saracenus lectori s
+wechel,row1004,474,Liber venenatis,441,,"Inter Dioscoridis verba, haec in quibusdam codicibus falso adscripta reperiebantur"

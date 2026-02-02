@@ -1,0 +1,23 @@
+kind,beck_dmm_id,berendes_teitok_id,reason
+rough_only,DMM1010,e-140,DMM id is reused (same DMM appears multiple times with different lemmas/targets); span anchors by earliest occurrence.
+rough_only,DMM1042,e-58,Not present in generated span; likely manually curated/imputed.
+rough_only,DMM1102,e-140,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM2184,e-XXX,Not present in generated span; likely manually curated/imputed.
+rough_only,DMM3041,e-455,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM3061,e-476,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM3075,e-493,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM4032,e-613,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM4086,e-667,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM4133,e-715,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM4156,e-739,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM4162,e-744,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+rough_only,DMM4163,e-744,Beck+Berendes row exists but Berendes target is blank; rough attaches it to a Berendes teitok.
+span_only,DMM1001,e-9,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1002,e-10,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1003,e-11,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1004,e-12,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1006,e-13,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1007,e-14,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1008,e-15,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1042,e-59,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.
+span_only,DMM1100,e-140,Generated span assigns this Berendes entry to this Beck DMM due to missing intermediate anchors.

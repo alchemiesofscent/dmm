@@ -1,0 +1,953 @@
+mm_id,chapter_key,berendes_term,beck_greek_lemma,beck_latin_lemma
+MMK001,1.1,Iris,ἶρις,Iris
+MMK002,1.2,Akoron,ἄκορον,Yellow flag
+MMK003,1.3,B?rwurz,μῆον,Baldmoney
+MMK004,1.4,Cyperngras,κύπερος,Galingale
+MMK005,1.4.5,,,
+MMK006,1.5,Kardamomon,καρδάμωμον,Cardamom
+MMK007,1.6,Narde,νάρδος,Spikenard
+MMK008,1.7,Keltische Narde,κελτικὴ νάρδος,Celtic spikenard
+MMK009,1.8,Bergnarde,ὀρεινὴ νάρδος,Mountain spikenard
+MMK010,1.9,Haselwurz,ἄσαρον,Hazelwort
+MMK011,1.10,Phu,φοῦ,Cretan spikenard
+MMK012,1.11,Malabathron,μαλάβαθρον,Malabar
+MMK013,1.12,Kassia,κασσία,Cassia
+MMK014,1.13,Zimmt,κινάμωμον,Cinnamon
+MMK015,1.14,Amomum,ἄμωμον,Nepal cardamom
+MMK016,1.15,Kostus,κόστος,Costusroot
+MMK017,1.16,Bartgras,σχοῖνος,Camel hay
+MMK018,1.17,Kalmus,κάλαμος ἀρωματικός,Sweet flag
+MMK019,1.18,Balsam,βάλσαμον,Mecca balsam
+MMK020,1.19,Aspalathos,ἀσπάλαθος,Camel’s-thorn
+MMK021,1.20,Bryon,βρύον,Tree moss
+MMK022,1.21,Agallochon,ἀγάλοχον,Aloewood/Eagle-wood
+MMK023,1.22,Naskaphthon,νάσκαφθον,Nascaphthon
+MMK024,1.23,Kankamon,κάγκαμον,Bisabol
+MMK025,1.24,Kyphi,κῦφι,Cyphi
+MMK026,1.25,Safran,κρόκος,Saffron
+MMK027,1.26,Krokomagma,κροκόμαγμα,Saffron residuum
+MMK028,1.27,Alant,ἑλένιον,Elecampane
+MMK029,1.28,Aegyptischer Alant,ἑλένιον ἄλλο,Another elecampane
+MMK030,1.29,Oel aus unreifen Oliven,ἔλαιον,Olive oil
+MMK031,1.30,Gew?hnliches Oel,,
+MMK032,1.31,Oel des wilden Oelbaumes,,
+MMK033,1.32,Weisses Oel,,
+MMK034,1.33,Sikyonisches Oel,,
+MMK035,1.34,Der Schmutz der B?der,,
+MMK036,1.35,Der Schmutz aus den Ringpl?tzen,,
+MMK037,1.36,Der Schmutz der Turnpl?tze,,
+MMK038,1.37,Honig?l,ἐλαιόμελι,Olive tree sweet gum
+MMK039,1.38,Ricinus?l,κίκινον ἔλαιον,Castor oil
+MMK040,1.39,Mandel?l,ἀμυγδάλινον ἔλαιον,Almond oil
+MMK041,1.40,Behen?l,βαλάνινον,Oil from the nut of the ben tree
+MMK042,1.41,Sesam- und Wallnuss?l,,
+MMK043,1.42,Bilsen?l,ὑοσκυάμινον,Oil of henbane
+MMK044,1.43,Knidisches Oel,Κνιδίου κόκκου,Oil from berries of spurge flax
+MMK045,1.44,Saflor?l,,
+MMK046,1.45,Rettig?l,ῥαφάνινον,Oil of radish
+MMK047,1.46,Schwarzk?mmel?l,,
+MMK048,1.47,Senf?l,σινάπινον,Mustard oil
+MMK049,1.48,Myrten?l,μυρσίνινον,Oil of myrtle
+MMK050,1.49,Lorbeer?l,δάφνινον,Oil of sweet bay
+MMK051,1.50,Oel des Mastixbaumes,σχίνινον,Oil of mastic
+MMK052,1.51,Mastixharzöl,,
+MMK053,1.52,Die Zusammensetzung der Salb?le,μαστίχινον,Mastic oil
+MMK054,1.53,Die Bereitung des Rosen?ls,ῥοδίνου σκευασία,Preparation of unguent of roses
+MMK055,1.54,Die Bereitung des Elats?ls,ἐλατίνου σκευασία,Preparation of unguent of date palm
+MMK056,1.55,Die Bereitung des Quitten?ls,μελίνου σκευασία,Preparation of unguent of quince
+MMK057,1.56,Die Bereitung des Weinbl?then?ls,οἰνανθίνου σκευασία,Preparation of unguent of wild vine inflorescence
+MMK058,1.57,Die Bereitung des Bockshorn?ls,τελίνου σκευασία,Preparation of unguent of fenugreek
+MMK059,1.58,Die Bereitung des Majoran?ls,σαμψουχίνου σκευασία,Preparation of unguent of marjoram
+MMK060,1.59,Die Bereitung des Basilicum?ls,ὠκιμίνου σκευασία,Preparation of unguent of basil
+MMK061,1.60,Die Bereitung des Beifuss?ls,ἀβροτονίνου σκευασία,Preparation of unguent of wormwood
+MMK062,1.61,Die Bereitung des Dill?ls,ἀνηθίνου σκευασία,Preparation of unguent of dill
+MMK063,1.62,Die Bereitung des susischen Salb?ls,σουσίνου σκευασία,Preparation of unguent of lily
+MMK064,1.63,Die Bereitung des Narzissensalb?ls,ναρκίσσινον,Preparation of unguent of narcissus
+MMK065,1.64,Die Bereitung des Safransalb?ls,κρόκινον,Preparation of unguent of saffron
+MMK066,1.65,Die Verdichtung und Bereitung des (Lawsonien-) Hennasalb?ls,κυπρίνου στύψις καὶ σκευασία,Thickening and preparation of unguent of henna
+MMK067,1.66,Die Verdichtung des Schwertlilien?ls,ἰρίνου στύψις,Thickening of unguent of iris
+MMK068,1.67,Die Bereitung des Most?ls,γλεύκινον,Unguent of new sweet wine
+MMK069,1.68,Amarakinon (Majoransalb?l),ἀμαράκινον,Unguent of marjoram
+MMK070,1.69,Megalion,,
+MMK071,1.70,Hedychon,,
+MMK072,1.71,Metopion,μετώπιον,Metopion
+MMK073,1.72,Mendesion,,
+MMK074,1.73,Stakte,στακτή,Stacte
+MMK075,1.74,Zimmtsalb?l,κιναμώμινον,Unguent of cinnamon
+MMK076,1.75,Nardensalb?l,νάρδινον μύρον,Unguent of spikenard
+MMK077,1.76,Malabathronsalböl,,
+MMK078,1.76.5,Jasminöl,μαλαβάθρινον,Unguent of the leaf of malabar
+MMK079,1.77,Myrrhe,σμύρνα,Myrrh
+MMK080,1.78,B?otische Myrrhe,Βοιωτικὴ σμύρνα,Boiotian myrrh
+MMK081,1.79,Styrax,στύραξ,Storax
+MMK082,1.80,Bdellion,βδέλλιον,Bdellium
+MMK083,1.81,Weihrauch,λίβανος,Frankincense
+MMK084,1.82,Weihrauchrinde,,
+MMK085,1.83,Manna des Weihrauchs,,
+MMK086,1.84,Weihrauchruss,,
+MMK087,1.85,Bereitung des Russes,,
+MMK088,1.86,Pinie,πίτυς,Pitys pine
+MMK089,1.87,Pityiden,,
+MMK090,1.88,Zapfen,,
+MMK091,1.89,Schinos,σχῖνος,Mastic
+MMK092,1.90,Mastixharz,,
+MMK093,1.91,Terebinthe,τέρμινθος,Terebinth
+MMK094,1.92,Andere Harze,,
+MMK095,1.93,Die Art und Weise das Harz zu brennen,,
+MMK096,1.94,Fl?ssiges Pech,πίσσα,Pitch
+MMK097,1.95,Theer?l,,
+MMK098,1.96,Russ des Theers,,
+MMK099,1.97,Pech,,
+MMK100,1.98,Zopissa,,
+MMK101,1.99,Asphalt,ἀσφαλτος,Asphalt
+MMK102,1.100,Pissasphalt,,
+MMK103,1.101,Naphtha,,
+MMK104,1.102,Cypresse,κυπάρισσος,Cypress
+MMK105,1.103,Wachholder,ἄρκευθος,Juniper
+MMK106,1.104,Sadebaum,βράθυ,Savin
+MMK107,1.105,Ceder,κέδρος,Cedar
+MMK108,1.106,Lorbeer,δάφνη,Sweet bay
+MMK109,1.107,Platane,πλάτανος,Plane
+MMK110,1.108,Manna-Esche,μελία,Manna ash
+MMK111,1.109,Weisspappel,λεύκη,White poplar
+MMK112,1.110,Schwarzpappel,αἴγειρος,Black poplar
+MMK113,1.111,Makir,μάκιρ,Mace
+MMK114,1.112,Ulme,πτελέα,Elm
+MMK115,1.113,F?ule des Holzes,,
+MMK116,1.114,Rohr,κάλαμος,Reed
+MMK117,1.115,Papyrus,πάπυρος,Papyrus
+MMK118,1.116,Tamariske,μυρίκη,Tamarisk
+MMK119,1.117,Heide,ἐρείκη,Tree heath
+MMK120,1.118,Akakalis,ἀκακαλλίς,Acacallis
+MMK121,1.119,Wegdorn,ῥάμνος,Boxthorn
+MMK122,1.120,Melde,ἅλιμον,Tree purslane
+MMK123,1.121,Paliuros,παλίουρος,Christ’s-thorn
+MMK124,1.122,Oxyankantha,ὀξυάκανθα,Fiery thorn
+MMK125,1.123,Kynosbatos,κυνόσβατος,White rose
+MMK126,1.124,Lawsonia,κύπρος,Henna
+MMK127,1.125,Phillyrea,φιλύρα,Lime tree
+MMK128,1.126,Kistos,κισθός,Rock rose
+MMK129,1.127,Hypokistis,,
+MMK130,1.128,Ladanum,,
+MMK131,1.129,Ebenholz,ἔβενος,Ebony
+MMK132,1.130,Rosen,ῥόδα,Roses
+MMK133,1.131,Rosenpastillen,,
+MMK134,1.132,Lykion,λύκιον,Dyer’s buckthorn
+MMK135,1.133,Akazie,ἀκακία,Shittah tree
+MMK136,1.134,Keuschlammstrauch,ἄγνος ἢ λύγος,Chaste tree
+MMK137,1.135,Weide,ἰτέα,Willow
+MMK138,1.136,Wilder Oelbaum,ἀγριελαία,Wild olive tree
+MMK139,1.137,Oelbaum,,
+MMK140,1.138,In Salzlake eingemachte Oliven,,
+MMK141,1.139,Oel aus der wilden Olive,,
+MMK142,1.140,Oelsatz,,
+MMK143,1.141,Thr?ne des ?thiopischen Oelbaumes,,
+MMK144,1.142,Eiche,δρῦς,Oak
+MMK145,1.143,Eicheln,,
+MMK146,1.144,Speiseeiche und Ilexeiche,,
+MMK147,1.145,Kastanien,,
+MMK148,1.146,Gall?pfel,κηκίς,Cecis
+MMK149,1.147,Gerbersumach,ῥοῦς ὁ ἐπὶ τά ὄψα,Sumac
+MMK150,1.148,Dattelpalme,φοῖνιξ,Date palm
+MMK151,1.149,Thebanische Datteln,,
+MMK152,1.150,Bl?thenscheide der Palme,,
+MMK153,1.151,Granatapfel,ῥόα,Pomegranate
+MMK154,1.152,Granatbl?the,βαλαύστιον,Flower of the wild pomegranate
+MMK155,1.153,Granatrinde,,
+MMK156,1.154,Balaustion,,
+MMK157,1.155,Myrte,μυρσίνη ἡ ἥμερος,Cultivated myrtle
+MMK158,1.156,Myrtidanon,,
+MMK159,1.157,Kirschen,κεράσια,Fruit of the cherry tree
+MMK160,1.158,Johannisbrodfrucht,κεράτια,Fruit of the carob tree
+MMK161,1.159,Apfelbaum,μηλέα,Apple tree
+MMK162,1.160,Quitten?pfel,,
+MMK163,1.161,Honig?pfel,,
+MMK164,1.162,Epirotische Aepfel,,
+MMK165,1.163,Wilde Aepfel,,
+MMK166,1.164,Pfirsiche,,
+MMK167,1.165,Armenische Aepfel,,
+MMK168,1.166,Medische Aepfel,,
+MMK169,1.167,Birne,ἄπιος,Pear
+MMK170,1.168,Wilder Birnbaum,,
+MMK171,1.169,Mispel,μέσπιλον,Medlar tree
+MMK172,1.170,Die andere Mispel,,
+MMK173,1.171,Lotos,λωτός,Nettle tree
+MMK174,1.172,Kornelkirsche,κρανία,Cornelian cherry tree
+MMK175,1.173,Speierlingsfrucht,οὖα,Sorb apples
+MMK176,1.174,Pflaumenbaum,κοκκυμηλέα,Plum tree
+MMK177,1.175,Erdbeerbaum,κόμαρος,Strawberry tree
+MMK178,1.176,Mandelbaum,ἀμυγδάλη,Almond
+MMK179,1.177,Pistacien,πιστάκια,Pistachio nuts
+MMK180,1.178,Walln?sse,κάρυα βασιλικά,Walnuts
+MMK181,1.179,Haseln?sse,,
+MMK182,1.180,Maulbeerbaum,μορέα ἢ συκάμινον,Mulberry tree
+MMK183,1.181,Sykomore,συκόμορον,Sycamore fig
+MMK184,1.182,Feige auf Kypern,σῦκα,Figs
+MMK185,1.183,Feigen,,
+MMK186,1.184,Wilder Feigenbaum,,
+MMK187,1.185,Winterfeigen,,
+MMK188,1.186,Aschenlauge des Feigenbaumes,,
+MMK189,1.187,Persea,περσαία,Persea
+MMK190,1.X,,,
+MMK191,2.1,Seeigel,ἐχῖνος θαλάσσιος,Sea urchin
+MMK192,2.2,Landigel,ἐχῖνος χερσαῖος,Hedgehog
+MMK193,2.3,Seepferdchen,ἱππόκαμπος,Sea horse
+MMK194,2.4,Purpurschnecke,πορφύρα,Murex
+MMK195,2.5,Trompetenschnecke,,
+MMK196,2.6,Kionion,,
+MMK197,2.7,Miesmuschel,μύακες Ποντικοί,Pontic sea mussels
+MMK198,2.8,Plattmuscheln,τελλῖναι,Tellina
+MMK199,2.9,Chienmuschel,πορφύρας πώματα,Opereula of murex
+MMK200,2.10,Onyx,ὄνυξ,Onyx
+MMK201,2.11,Schnecken,κοχλίας χερσαῖος,Land snail
+MMK202,2.12,Krebse,καρκίνων ποταμίων καέντων ἡ τέφρα,Ash of calcined riverine crabs.
+MMK203,2.13,Landskorpion,σκόρπιος χερσαῖος,Land scorpion
+MMK204,2.14,Seeskorpion,θαλασσίου σκορπίου,Bile of sea scorpion
+MMK205,2.15,Meerdrache,δράκων θαλάσσιος,Greater weever
+MMK206,2.16,Skolopender,σκολοπένδρα θαλασσία,Sea scolopendra
+MMK207,2.17,Zitterrochen,νάρκη θαλασσία,Electric ray
+MMK208,2.18,Otter,ἐχίδνη,Viper
+MMK209,2.19,Schlangenhaut,ὄφις,Serpent
+MMK210,2.20,Meerhase,λαγωὸς θαλάσσιος,Sea hare
+MMK211,2.21,Landhase,τοῦ δὲ χερσαίου λαγωοῦ ὁ ἐγκέφαλος,The brain of the land hare
+MMK212,2.22,Stechrochen,τρυγόνος θαλασσίας τὸ κέντρον,Stingray sting
+MMK213,2.23,Tintenfisch,σηπίας τὸ μέλαν,Ink of boiled cuttlefish
+MMK214,2.24,Seebarbe,τρίγλα,Red mullet
+MMK215,2.25,Hoden des Flusspferdes,ὄρχις ἱπποποτάμου,Testicle of hippopotamus
+MMK216,2.26,Hoden des Bibers,καὶ ὁ τοῦ κάστορος ὄρχις,Testicle of beaver
+MMK217,2.27,Hauswiesel,γαλῆ κατοικίδιος,Domesticated weasel
+MMK218,2.28,Fr?sche,βάτραχοι,Frogs
+MMK219,2.29,Wels,σίλουρος,Sheatfish
+MMK220,2.30,Brasse,σμαρίδος ταριχηρᾶς ἡ κεφαλὴ καεῖσα,Head of salted smarts
+MMK221,2.31,M?na,καὶ ἡ τῆς μαινίδος κεφαλὴ,Head of Mainis
+MMK222,2.32,Gobion,κωβίος,Goby
+MMK223,2.33,Rohe P?kelung,ὠμοτάριχος,Omotarichos
+MMK224,2.34,Garum,γάρος,Garum
+MMK225,2.35,Br?he von frischen Fischen,ζωμὸς ἰχθύων,Fish broth
+MMK226,2.36,Wanzen,κόρεις οἱ ἀπὸ κλίνης,Bed-bugs
+MMK227,2.37,Kubariden,ὄνοι οἱ ὑπὸ τὰς ὑδρίας,Wood lice
+MMK228,2.38,Schabe,σίλφη,Cockroach
+MMK229,2.39,Seelunge,πνεύμων θαλάσσιος,Jellyfish
+MMK230,2.40,Schweinelunge,ὁ δὲ χοίρειος καὶ ἄρνειος [καὶ ἅρκειος] πνεύμων,"Pig, lamb, [and bear] lung"
+MMK231,2.41,Fuchslunge,ἀλώπεκος πνεύμων,Lung of fox
+MMK232,2.42,Eselleber,ἧπαρ ὄνειον,Ass’s liver
+MMK233,2.43,Kurzwildpret des Edelhirsches,αἰδοῖον ἄρρενος ἐλάφου,Genitalia of stag
+MMK234,2.44,Eselshufe,ὄνυχες ὄνων,Asses’ hooves
+MMK235,2.45,Flechten der Pferde,λειχῆνες ἵππων,Chestnuts of horses
+MMK236,2.46,Ziegenklauen,οἱ δὲ τῶν αἰγων ὄνύχες,Hooves of she-goats
+MMK237,2.47,Ziegenleber,τοῦ δὲ ἤπατος τῆς αἰγὸς ἰχώρ,Juice of she-goat liver
+MMK238,2.48,Leber des Ebers,τὸ δὲ τοῦ κάπρου ἧπαρ,Boar’s liver
+MMK239,2.49,Leber des tollen Hundes,κυνὸς δὲ λυσσῶντος ἧπαρ,Liver of rabid dog
+MMK240,2.50,Leber des Tauchers,αἰθυίας ἧπαρ,Liver of shearwater
+MMK241,2.51,Sohlleder,κασσυμάτων παλαιὰ δέρματα,Leather of shoe soles
+MMK242,2.52,H?hner,ἀλεκτορίδες,Hens
+MMK243,2.53,Gehirn des Huhns,,
+MMK244,2.54,Ei,ᾠόν,Egg
+MMK245,2.55,Das Weisse vom Ei,,
+MMK246,2.56,Cikaden,τέττιγες,Cicadas
+MMK247,2.57,Heuschrecken,ἀκρίδες,Locusts
+MMK248,2.58,Phinis,φήνη,Phene
+MMK249,2.59,Haubenlerche,κορυδαλλός,Lark
+MMK250,2.60,Schwalbe,χελιδὸνος νεοσσοί,Swallow’s nestlings
+MMK251,2.61,Elephant,ἐλέφαντος ὀδούς,Elephant’s tooth
+MMK252,2.62,Sprungbein des Schweines,ἀστράγαλος ὑός,Hog’s hock
+MMK253,2.63,Hirschhorn,ἐλάφου κέρας,Hart’s horn
+MMK254,2.64,Raupen,κάμπαι,Caterpillars
+MMK255,2.65,Kanthariden,κανθαρίδες,Blister beetles
+MMK256,2.66,Buprestis,,
+MMK257,2.67,Salamander,σαλαμάνδρα,Salamander
+MMK258,2.68,Spinne,ἀράχνη τὸ ζῷον,Spider
+MMK259,2.69,Eidechse,σαύρας ἡ κεφαλὴ,Head of lizard
+MMK260,2.70,Seps,σήψ,Seps
+MMK261,2.71,Skink,σκίγκος,Skink
+MMK262,2.72,Eingeweide der Erde (Erdw?rmer),γῆς ἔντερα,Earthworms
+MMK263,2.73,Spitzmaus,μυογαλῆ,Shrewmouse
+MMK264,2.74,M?use,μύες,Mice
+MMK265,2.75,Milch,γάλα,Milk
+MMK266,2.76,Molken,,
+MMK267,2.77,Geronnene Milch,,
+MMK268,2.78,Frauenmilch,,
+MMK269,2.79,Frischer K?se,τυρός,Cheese
+MMK270,2.80,Hippake,,
+MMK271,2.81,Butter und der aus ihr bereitete Russ,βούτυρον,Butter
+MMK272,2.82,Wolle,ἔρια οἰσυπηρά,Greasy wool
+MMK273,2.83,Gebrannte Wolle,,
+MMK274,2.84,Wollfett,οἴσυπος,Fat from greasy wool
+MMK275,2.85,Lab,πιτύα,Rennet
+MMK276,2.86,Fett,στέαρ,Fat
+MMK277,2.87,Schweine- und B?renfett,,
+MMK278,2.88,"Ziegenbock-, Schaf- und Hirschfett",,
+MMK279,2.89,Rinderfett,,
+MMK280,2.90,"Stier-, Panther- und L?wenfett",,
+MMK281,2.91,Wie das Fett gew?rzt wird,,
+MMK282,2.92,Wie das Fett mit Majoran gew?rzt wird,,
+MMK283,2.93,G?nse- und H?hnerfett,,
+MMK284,2.94,Die Kraft der Fette,,
+MMK285,2.95,Mark,μυελός,Marrow
+MMK286,2.96,Jegliche Art Galle,χολή,Bile
+MMK287,2.97,Blut,αἷμα,Blood
+MMK288,2.98,Koth,ἀπόπατος,Dung
+MMK289,2.99,Urin,οὖρον,Urine
+MMK290,2.100,Lyngurion,,
+MMK291,2.101,Honig,μέλι,Honey
+MMK292,2.102,Honig in Sardinien,,
+MMK293,2.103,Pontischer Honig,,
+MMK294,2.104,Honig des Zuckerrohrs,,
+MMK295,2.105,Wachs,κηρός,Wax
+MMK296,2.106,Vorwachs,πρόπολις,Bee glue
+MMK297,2.107,Weizen,πυροί,Wheat
+MMK298,2.108,Gerste,κριθή,Barley
+MMK299,2.109,Zythos,ζύθος,Beer
+MMK300,2.110,Kurmi,κοῦρμι,Courmi
+MMK301,2.111,Dinkel,ζέα,Zea
+MMK302,2.112,Schrot,κρίμνον,Crimnon
+MMK303,2.113,Olyra,ὄλυρα,Rice-wheat
+MMK304,2.114,Athera,ἀθήρα,Gruel
+MMK305,2.115,Tragos,τράγος,Spelt
+MMK306,2.116,Hafer,βρόμος,Oats
+MMK307,2.117,Reis,ὄρυζα,Rice
+MMK308,2.118,Graupen,χόνδρος,Groats
+MMK309,2.119,Hirse,κέγχρος,Millet
+MMK310,2.120,Mohrenhirse,ἔλυμος,Italian millet
+MMK311,2.121,Sesam,σήσαμον,Sesame
+MMK312,2.122,Taumellolch,αἶρα,Darnel
+MMK313,2.123,St?rkemehl,ἄμυλον,Starch
+MMK314,2.124,Bockshornmehl,τέλεως ἄλευρον,Meal of fenugreek
+MMK315,2.125,Lein,λινόσπερμον,Linseed
+MMK316,2.126,Erbse,ἐρέβινθος ὁ ἥμερος,Cultivated chick- pea
+MMK317,2.127,Griechische Bohne,κύαμος Ἑλληνικός,Greek bean
+MMK318,2.128,Aegyptische Bohne,Αἰγύπτιος κύαμος,Egyptian bean
+MMK319,2.129,Linse,φακός,Lentil
+MMK320,2.130,Zwergbohne,,
+MMK321,2.131,Linsenwicke,ὄροβος,Bitter vetch
+MMK322,2.132,Lupine,θέρμος,Lupine
+MMK323,2.133,Wilde Lupine,,
+MMK324,2.134,Weisse R?be,γογγύλη,Turnip
+MMK325,2.135,Wilde weisse R?be,,
+MMK326,2.136,Feldkohl,βουνιάς,French turnip
+MMK327,2.137,Rettig,ῥαφανίς,Radish
+MMK328,2.138,Wilder Rettig,,
+MMK329,2.139,Sisaron,σίσαρον,Parsnip
+MMK330,2.140,Ampfer,λάπαθον,Monk’s rhubarb
+MMK331,2.141,Hippolapathon,ἱππολάπαθον,Dock sorrel
+MMK332,2.142,Grauer Senf,λαμψάνη,Charlock
+MMK333,2.143,Gem?seamaranth,βλίτον,Blite
+MMK334,2.144,Malve,μολόχη,Mallow
+MMK335,2.145,Gartenmelde,ἀνδράφαξυς,Orach
+MMK336,2.146,Kohl,κράμβη ἥμερος,Cultivated cabbage
+MMK337,2.147,Wilder Kohl,κράμβη ἀγρία,~ B. cretica. Wild cabbage
+MMK338,2.148,Meerkohl,κράμβη ἡ θαλασσία,Sea cole
+MMK339,2.149,Bete,σεῦτλον,Beet
+MMK340,2.150,Portulak,ἀνδράχνη,Purslane
+MMK341,2.151,Spargel,ἀσπάραγος πετραῖος ἢ μυάκανθος,Asparagus
+MMK342,2.152,Wegerich,ἀρνόγλωσσον,Plantain
+MMK343,2.153,Merk,σίον,Water parsnip
+MMK344,2.154,Sisymbrion,σισύμβριον,Watercress
+MMK345,2.155,Das andere Sisymbrion,,
+MMK346,2.156,Meerfenchel,κρῆθμον,Samphire
+MMK347,2.157,Niedriger Schotenklee,κορωνόπους,Hartshorn
+MMK348,2.158,G?nsedistel,σόγχος,Sow thistle
+MMK349,2.159,Seris,σέρις,Chicory or Endive
+MMK350,2.160,Knorpelsalat,χονδρίλη,Gum
+MMK351,2.161,K?rbis,κολοκύνθα,Edible bottle gourd
+MMK352,2.162,Gebaute Gurke,σίκυς ἥμερος,Cucumber
+MMK353,2.163,Melone,,
+MMK354,2.164,Gartenlattich,θρίδαξ ἥμερος,Cultivated lettuce
+MMK355,2.165,Wilder Lattich,,
+MMK356,2.166,Gingidion,γιγγίδιον,Gingidium
+MMK357,2.167,Venuskamm,σκάνδιξ,Wild chervil
+MMK358,2.168,Steinbrech,καυκαλίς,Caucalis
+MMK359,2.169,Rauke,εὔζωμον,Rocket
+MMK360,2.170,Basilicum,ὤκιμον,Basil
+MMK361,2.171,Orobanche,ὀροβάγχη,Chokefitch
+MMK362,2.172,Bocksbart,τραγοπώγων,Salsify
+MMK363,2.173,Vogelmilch,ὄρνιθος γάλα,Starflower
+MMK364,2.174,Tr?ffel,ὕδνον,Truffle
+MMK365,2.175,Vietsbohne,σμῖλαξ κηπαία,Cowpea
+MMK366,2.176,Luzerne,Μηδική,Alfalfa
+MMK367,2.177,Vogelwicke,ἀφάκη,Tare
+MMK368,2.178,Lauch,πράσον κεφαλωτόν,Leek
+MMK369,2.179,Weinlauch,ἀμπελόπρασον,Wild leek
+MMK370,2.180,Zwiebeln,κρόμυον,Onion
+MMK371,2.181,Knoblauch,σκόρδον,Garlic
+MMK372,2.182,Skorodoprason,σκορδόπρασον,Garlic leek
+MMK373,2.183,Senf,σίνηπι ἢ νᾶπι,Mustard
+MMK374,2.184,Kardamon,καρδάμον,Garden cress
+MMK375,2.185,Hirtent?schlein,θλάσπι,Shepherd’s-purse
+MMK376,2.186,T?rkische Kresse,δράβη,Arabian mustard
+MMK377,2.187,Vielschotige Rauke,ἐρύσιμον,Hedge mustard
+MMK378,2.188,Pfeffer,πέπερι,Pepper
+MMK379,2.189,Ingwer,ζιγγίβερι,Ginger
+MMK380,2.190,Wasserpfeffer,ὑδροπέπερι,Smartweed
+MMK381,2.191,Niesgarbe,πταρμική,Sneezewort
+MMK382,2.192,Seifenkraut,στρούθιον,Soapwort
+MMK383,2.193,Erdscheibe,κυκλάμινος,Cyclamen
+MMK384,2.194,Der andere Kyklaminos,κυκλάμινος ἑτέρα,Another cyclamen
+MMK385,2.195,Grosse Drachenwurz,δρακόντιον,Dragon arum
+MMK386,2.196,Kleindrachenwurz,,
+MMK387,2.197,Aron,ἄρον,Cuckoopint
+MMK388,2.198,Arisaron,ἀρίσαρον,Hooded arum
+MMK389,2.199,Asphodelos,ἀσφόδελος,Asphodel
+MMK390,2.200,Speisezwiebel,βολβὸς ἐδώδιμος,Purse tassels
+MMK391,2.201,Brechzwiebel,,
+MMK392,2.202,Meerzwiebel,σκίλλα,Squill or Scilla
+MMK393,2.203,Gilge,παγκράτιον,Sea daffodil
+MMK394,2.204,Kapper,κάππαρις,Caper
+MMK395,2.205,Gartenkresse,λεπίδιον,Pepperwort
+MMK396,2.206,Batrachion,βατράχιον,sp. Ranunculus
+MMK397,2.207,Anemone,ἀνεμώνη,Poppy anemone
+MMK398,2.208,Argemone,ἀργεμώνη,Wind-rose
+MMK399,2.209,Gauchheil,ἀναγαλλίς,Pimpernel
+MMK400,2.210,Epheu,κισσός,Ivy
+MMK401,2.211,Grosses Chedonion,χελιδόνιον μέγα,Celandine
+MMK402,2.212,Kleines Chelidonion,χελιδόνιον τὸ μικρόν,Pilewort
+MMK403,2.213,Othonna,ὀθόννα,Othonna
+MMK404,2.214,Mauseohr,μυὸς ὦτα,Madwort
+MMK405,2.215,,ἰσάτις,Woad
+MMK406,2.216,Wilder Waid,ἰσάτις ἄγρια,Wild woad
+MMK407,2.217,Wachsblume,τηλεφώνιον,Telephonion
+MMK408,2.X,Iberis,,
+MMK409,3.1,L?rchenschwamm,ἀγαρικόν,Agaric
+MMK410,3.2,Rhapontik,ῥᾶ,Rhubarb
+MMK411,3.3,Enzian,γεντιανή,Gentian
+MMK412,3.4,Osterluzei,ἀριστολόχεια,Birthwort
+MMK413,3.5,S?ssholz,γλυκύρριζα,Licorice
+MMK414,3.6,Grosses Kentaurion,κενταύριον τὸ μέγα,Centaury
+MMK415,3.7,Kleines Kentaurion,κενταύρειον τὸ λεπτόν ἢ μικρόν,Feverfew
+MMK416,3.8,Weisses Chamaileon,χαμαιλέων λευκός,Pine thistle
+MMK417,3.9,Schwarzes Chamaileon,[χαμαιλέων] ὁ μέλας,Chameleon thistle
+MMK418,3.10,Krokodeilion,κροκοδείλεον,Sea holly
+MMK419,3.11,Karde,δίψακος,Teasle
+MMK420,3.12,Weisse Akantha,ἄκανθα λευκή,Fish thistle
+MMK421,3.13,Arabische Akantha,ἄκανθα Ἀραβική,Smaller milk thistle
+MMK422,3.14,Golddistel,σκόλυμος,Golden thistle
+MMK423,3.15,Poterion,ποτίρριον,Goat’s thorn
+MMK424,3.16,Eselsdistel,ἀκάνθιον,Cotton thistle
+MMK425,3.17,Akantha,ἄκανθος,Bear’s-foot
+MMK426,3.18,Hauhechel,ἀνωνίς,Rest harrow
+MMK427,3.19,Leukakantha,λευκάκανθα,Tuberous thistle
+MMK428,3.20,Tragakantha,τραγακάνθα,Tragacanth
+MMK429,3.21,Mannstreu,ἠρύγγη,Eryngo
+MMK430,3.22,Alo?,ἀλόη,Aloe
+MMK431,3.23,Wermuth,ἀψίνθιον,Wormwood
+MMK432,3.24,Seebeifuss,,
+MMK433,3.25,Santoninbeifuss,,
+MMK434,3.26,Abrotonon,ἀβρότονον,Wormwood
+MMK435,3.27,Hyssopos,ὕσσωπος,Hyssop
+MMK436,3.28,Stoichas,στοιχάς,French lavender
+MMK437,3.29,Dosten,ὀρίγανος Ἡρακλεωτική,Oregano
+MMK438,3.30,Onetis,ὀνῖτις,Oregano onitis
+MMK439,3.31,Wilder Dosten,ἀγριορίγανος,Marjoram
+MMK440,3.32,Tragoriganon,τραγορίγανος,Goat’s marjoram
+MMK441,3.33,Polei,γλήχων,Pennyroyal
+MMK442,3.34,Diptam,δίκταμνον,Dittany of Crete
+MMK443,3.35,Salbei,ἐλελίσφακον,Sage
+MMK444,3.36,Gebaute Minze,ἡδύοσμον,Green mint
+MMK445,3.37,Kalamintha,καλαμίνθη,Catmint
+MMK446,3.38,Saturei,θύμος,Cretan thyme
+MMK447,3.39,Thymbra,θύμβρα,Savory
+MMK448,3.40,Quendel,ἕρπυλος,Tufted thyme
+MMK449,3.42,Maron,μᾶρον ἢ ὑσόβρυον,Maron or Hysobryon
+MMK450,3.43,Akinos,ἄκινος ἢ ἄκονος,Wild basil
+MMK451,3.44,Bakcharis,βάκχαρις,Sowbread
+MMK452,3.45,Raute,πήγανον,Rue
+MMK453,3.46,Wilde Raute,πήγανον ἄγριον,Wild rue
+MMK454,3.47,Moly,μῶλυ,Garlic
+MMK455,3.48,Panakes,πάνακες Ἡράκλειον,Hercules’ woundwort
+MMK456,3.49,Asklepisches Panakes,πάνακες Ἀσκληπίειον,Aesculapius’ allheal
+MMK457,3.50,Cheironisches Panakes,πάνακες Χειρώνιον,Panaces olympicum Chiron’s allheal
+MMK458,3.51,Ligustikon,λιγυστικόν,Lovage
+MMK459,3.52,M?hre,σταφυλῖνος ἄγριος,Wild carrot
+MMK460,3.53,Massiliensisches Seseli,σέσελι,Massilian hartwort
+MMK461,3.54,Aethiopisches Seseli,τόρδιλον,Cretan hartwort
+MMK462,3.55,Peleponnesisches Seseli,σίνων,Stone parsley
+MMK463,3.56,Tordylion,ἄνησσον,Anise
+MMK464,3.57,Sison,,
+MMK465,3.58,Anis,,
+MMK466,3.59,K?mmel,καρώ,Caraway
+MMK467,3.60,Dill,ἄνηθον,Dill
+MMK468,3.61,Mutterk?mmel,κύμινον ἥμερον,Cultivated cumin
+MMK469,3.62,Wilder Mutterk?mmel,κύμινον ἄγριον,Wild cumin
+MMK470,3.63,Ammi,ἄμι,Ajowan
+MMK471,3.64,Koriander,κόριον,Coriander
+MMK472,3.65,Grosses Hierakion,,
+MMK473,3.66,Kleines Hierakion,,
+MMK474,3.67,Gartensellerie,σέλινον κηπαῖον,Garden celery
+MMK475,3.68,Sellerie,,
+MMK476,3.69,Oreoselinon,ὀρεοσέλινον,Mountain parsley
+MMK477,3.70,,,
+MMK478,3.71,Petroselinon,πετροσέλινον; ἱπποσέλινον,Parsley; Alexanders
+MMK479,3.72,Smyrnion,σμύρνιον,Cretan alexanders
+MMK480,3.73,Pastinak,ἐλαφοβόσκον,Parsnip
+MMK481,3.74,Fenchel,μάραθον,Fennel
+MMK482,3.75,Hippomarathron,ἱππομάραθον,Horse fennel
+MMK483,3.76,Daukos,δαῦκος,Daucos
+MMK484,3.77,Delphinion,,
+MMK485,3.78,Bertramwurz,πύρεθρος,Pellitory
+MMK486,3.79,Libanotis,λιβανωτίς,Rosemary frankincense
+MMK487,3.80,B?renklau,σφονδύλιον,Cow-parsnip
+MMK488,3.81,Steckenkraut,νάρθηξ,Giant fennel
+MMK489,3.82,Haarstrang,πευκέδανον,Sulphurwort
+MMK490,3.83,Schwarzk?mmel,μελάνθιον,Black cumin
+MMK491,3.84,Silphion,σίλφιον,Laserwort
+MMK492,3.85,Sagapenon,σαγάπηνον,Sagapenon
+MMK493,3.86,Euphorbion,εὐφόρβιον,Spurge
+MMK494,3.87,Galbanum,χαλβάνη,Galbanum
+MMK495,3.88,Ammoniakum,ἀμμωνιακόν,Gum ammoniac
+MMK496,3.89,Sarkokolla,σαρκοκόλλα,Sarcocolla
+MMK497,3.90,Glaukion,γλαύκιον,Glaucion
+MMK498,3.91,Leim,κόλλα,Glue
+MMK499,3.92,Ichthyokolla,ἰχθυκόλλα,Fish glue
+MMK500,3.93,Ixos,ἰξός,Oak-mistletoe
+MMK501,3.94,Wandlabkraut,ἀπαρίνη,Cleavers
+MMK502,3.95,Alysson,ἄλυσσον,Madwort
+MMK503,3.96,Asklepias,ἀσκληπιάς,Swallowwort
+MMK504,3.97,Atraktylis,ἀτρακτυλίς,Spindle thistle
+MMK505,3.98,Polyknemon,πολύκνημον,Field basil
+MMK506,3.99,Wirbeldosten,κλινοπόδιον,Horse thyme
+MMK507,3.100,Leontopetalon,λεοντοπέταλον,Leontopetalon
+MMK508,3.101,Gamander (Teukrion),Τεύκριον,Tree germander
+MMK509,3.102,Chamaidrys,χαμαίρωψ,Wall germander
+MMK510,3.103,Leukas,λευκάς,Dead nettle
+MMK511,3.104,Kranznelke,λυχνὶς στεφανωματική,Rose campion
+MMK512,3.105,Wilde Nelke,λυχνὶς ἀγρία,Corn cockle
+MMK513,3.106,Lilie,κρίνον,Lily
+MMK514,3.107,Ballote,βαλλωτή,Black horehound
+MMK515,3.108,Melisse,μελισσόφυλλον,Balm
+MMK516,3.109,Prasion,πράσιον,Horehound
+MMK517,3.110,Ziest,στάχυς,Base horehound
+MMK518,3.111,Hirschzunge (111),φυλλῖτις,Hart’s tongue
+MMK519,3.112,Phalangion,φαλλάγγιον,Spiderwort
+MMK520,3.113,Asphaltklee,τρίφυλλον,Treacle clover
+MMK521,3.114,Gamander (Polion),πόλιον,Hulwort
+MMK522,3.115,Knoblauch-Gamander,σκόρδιον,Garlic germander
+MMK523,3.116,Huflattich,βήχιον,Colt’s foot
+MMK524,3.117,Beifuss,ἀρτεμισία,Wormwood
+MMK525,3.118,Zartbl?tterige Artemisia,,
+MMK526,3.119,Ambrosia,ἀμβροσία,Ambrose
+MMK527,3.120,Traubenkraut,βότρυς,Oak of Jerusalem
+MMK528,3.121,Storchschnabel,γεράνιον,Cranesbill
+MMK529,3.122,Gnaphalion,γναφάλλιον,Cottonweed
+MMK530,3.123,Rohkolben,τύφη,Reed mace
+MMK531,3.124,Kirkaia,κιρκαία,Black swallow- wort
+MMK532,3.125,Oinanthe,οἰνάνθη,Dropwort
+MMK533,3.126,Konyza,κόνυζα,Fleabane
+MMK534,3.127,Hemerokallis,ἡμεροκαλλές,Martagon lily
+MMK535,3.128,Goldlack,λευκόϊον,Gillyflower
+MMK536,3.129,Krataiogonon,κραταιόγονον,Willow weed
+MMK537,3.130,Phyllon,φύλλον,Dog mercury
+MMK538,3.131,Knabenkraut,ὄρχις,Orchid
+MMK539,3.132,Anderes Knabenkraut,ὄρχις ἕτερος,Another orchid
+MMK540,3.133,Satyrion,σατύριον,Man orchis
+MMK541,3.134,Satyrion erythronion,,
+MMK542,3.135,Kleiner Salbei,ὅρμινον,Clary
+MMK543,3.136,Hedysaron,ἡδύσαρον,Axweed
+MMK544,3.137,Onosma,ὄνοσμα,Stone bugloss
+MMK545,3.138,Weisse Seerose,νυμφαία,White water lily
+MMK546,3.139,Andere Seerose,,
+MMK547,3.140,Androsakes,ἀνδρόσακες,Sea navel
+MMK548,3.141,Milzfarn,ἄσπληνος,Miltwaste
+MMK549,3.142,Hirschzunge (142),ἡμιονῖτις,Mule fern
+MMK550,3.143,Anthyllis,ἀνθυλλίς,Anthyllis
+MMK551,3.144,Kamille,ἀνθεμίς,Camomile
+MMK552,3.145,Parthenion,παρθένιον,Feverfew
+MMK553,3.146,Wucherblume,βούφθαλμον,Oxeye
+MMK554,3.147,Gichtrose,γλυκισίδη,Peony
+MMK555,3.148,Steinsamen,λιθόσπερμον,Groomwell
+MMK556,3.149,Glanzgras,φαληρίς,Canary grass
+MMK557,3.150,Krapp,ἐρυθρόδανον ἢ ἐρευθέδανον,Madder
+MMK558,3.151,Zungensumpfwurz,λογχῖτις,Lonchitis
+MMK559,3.152,Andere Zungensumpfwurz,λογχῖτις ἕτερα,Holy fern
+MMK560,3.153,Eibisch,ἀλθαία,Marsh mallow
+MMK561,3.154,Malope,ἀλκαία,Vervain mallow
+MMK562,3.155,Gebauter Hanf,κάνναβις,Hemp
+MMK563,3.156,Wilder Hanf,ἀγρία κάνναβις,Hemp mallow
+MMK564,3.157,Stinkstrauch,ἀνάγυρος,Stinking bean trefoil
+MMK565,3.158,Zwiebelpfeffer,κηπαία,Cepaia
+MMK566,3.159,Froschl?ffel,ἄλισμα,Water plantain
+MMK567,3.160,Esparset,ὀνοβρυχίς,Cock’s head
+MMK568,3.161,Hartheu,ὑπερικόν,St. John’s wort
+MMK569,3.162,Gemeines Hartheu,,
+MMK570,3.163,Androsaimon,ἀνδρόσαιμον,St. John’s wort
+MMK571,3.164,Koris,κόρις,St. John’s wort
+MMK572,3.165,Chamaipitys,χαμαίπιτυς,Ground pine
+MMK573,3.166,Andere Chamaipitys,κέστρον,Betony
+MMK574,3.41a,Majoran,σάμψουχον,Marjoram
+MMK575,3.41b,Steinklee,μελίλωτος,King’s clover
+MMK576,4.1,Kestron,βρεττανική,Water dock
+MMK577,4.2,Bretannika,λυσιμάχειος,Loosestrife
+MMK578,4.3,Lysimachion,πολύγονον ἄρρεν,Knotgrass
+MMK579,4.4,M?nnliches Polygonon,πολύγονον θῆλυ,Mare’s tail
+MMK580,4.5,Weibliches Polygonon,πολυγόνατον,P. officinale
+MMK581,4.6,,,
+MMK582,4.7,Immergr?n,κληματίς,Periwinkle
+MMK583,4.8,Polemonion,πολεμώνιον,Jacob’s ladder
+MMK584,4.9,Felsensymphyton,σύμφυτον πετραῖον,Low pine
+MMK585,4.10,Anderes Symphyton,σύμφυτον ἄλλο,Comfrey
+MMK586,4.11,Holosteon,ὁλόστεον,Allbone
+MMK587,4.12,Becherblume,στοιβή,Thorny burnet
+MMK588,4.13,Klymenon,κλύμενον,Bearbind
+MMK589,4.14,Periklymenon,περικλύμενον,Honeysuckle
+MMK590,4.15,Tribolos,τρίβολος χερσαῖος,Caltrops
+MMK591,4.16,Limoneion,λειμώνιον,Sea lavender
+MMK592,4.17,Hasenklee,λαγώπουν,Hare’s foot trefoil
+MMK593,4.18,Medion,μήδιον,Medion
+MMK594,4.19,Epimedion,ἐπιμήδιον,Epimedion
+MMK595,4.20,Siegwurz,ξίφιον,Corn flag
+MMK596,4.21,Sparganion,σπαργάνιον,Bur reed
+MMK597,4.22,Xyris,ξυρίς,Gladwyn
+MMK598,4.23,Ochsenzunge,ἄγχουσα,Alkanet
+MMK599,4.24,Andere Anchusa,ἄγχουσα ἑτέρα,Another alkanet
+MMK600,4.25,Weitere Anchusa,ἄγχουσα ἄλλη,Another alkanet
+MMK601,4.26,Natternkopf,λυκαψός,Viper’s herb
+MMK602,4.27,Echion,ἕχιον,Echion
+MMK603,4.28,Okimoeides,ὠκιμοειδές,Catchfly
+MMK604,4.29,Erinos,,
+MMK605,4.30,Agrostis,ἄγρωστις,Dogs-tooth grass
+MMK606,4.31,Kalamagrostis,καλαμάγρωστις,Calamagrostis
+MMK607,4.32,Agrostis aus Parnass,ἡ δέ ἐν τῷ Παρνασσῷ ἄγρωστις,Grass of Parnassus
+MMK608,4.33,Sideritis,σιδηρῖτις,Iron wo rt
+MMK609,4.34,Andere Sideritis,ἄλλη σιδηρῖτις,Burnet
+MMK610,4.35,Weitere Sideritis,σιδηρῖτις ἑτέρα,Figwort
+MMK611,4.36,Garbe,Ἀχίλλειος,Achilles woundwort
+MMK612,4.37,Brombeer,βάτος,Bramble
+MMK613,4.38,Himbeer,βάτος Ἰδαία,Raspberry
+MMK614,4.39,Ackerwinde,ἑλξίνη,Bindweed
+MMK615,4.40,Elatine,ἐλατίνη,Cankerwort
+MMK616,4.41,Odermenning,Εὐπατόριος,Agrimony
+MMK617,4.42,G?nsefuss,πεντέφυλλον,Cinquefoil
+MMK618,4.43,Phoinix,φοῖνιξ,Rye grass
+MMK619,4.44,Id?ische Wurzel,Ἰδαία ῥιζα,Idaia rhiza
+MMK620,4.45,Rhodiaswurzel,Ῥοδία ῥίζα,Shodia rhiza
+MMK621,4.46,Hippuris,ἵππουρις,Horsetail
+MMK622,4.47,Andere Hippuris,ἑτέρα ἵππουρις,Another horse tail
+MMK623,4.48,F?rberkokkos,κόκκος βαφική,Kermes oak
+MMK624,4.49,Tragion,τράγιον,Stinking tutsan
+MMK625,4.50,Anderes Tragion,τράγιον ἄλλο,Pimpinell
+MMK626,4.51,Tragos (Skorpion),τράγος,Tragos
+MMK627,4.52,Sumpfschoinos,σχοῖνος ἐλείας,Rush
+MMK628,4.53,Flechte,λειχήν ὁ ἐπὶ τῶν πετρῶν,The lichen growing on stones
+MMK629,4.54,Paronychia,παρωνυχία,Paronychia
+MMK630,4.55,Goldhaar,χρυσοκόμη,Immortelle
+MMK631,4.56,Chrysogonon,χρυσόγονον,Black turrnip
+MMK632,4.57,Elichryson,ἐλίχρυσον ἢ χρυσάνθεμον,Gold flower
+MMK633,4.58,Goldblume,,
+MMK634,4.59,Ageraton,ἀγήρατον,Pot marjoram
+MMK635,4.60,Taubenkraut,περιστέριον,Vervain
+MMK636,4.61,Zur?ckgebogenes Peristereon,ἱερὰ βοτάνη,Holy vervain
+MMK637,4.62,Walderbse,ἀστράγαλος,Milk vetch
+MMK638,4.63,Hyacinthe,ὑάκινθος,Wild hyacinth
+MMK639,4.64,Mekon Rhoias,μήκων ῥοιάς,Corn poppy
+MMK640,4.65,Gartenmohn,μήκων,Opium poppy
+MMK641,4.66,Hornmohn,μήκων κερατῖτις,Horned poppy
+MMK642,4.67,Mekon aphrodes,μήκων ἀφρώδης,Frothy poppy
+MMK643,4.68,Hypekoon,ὑπήκοον,Horned cumin
+MMK644,4.69,Bilsenkraut,ὑοσκύαμος,Henbane
+MMK645,4.70,Flohkraut,ψύλλιον,Fleawort
+MMK646,4.71,Strychnos,στρύχνον κηπαῖον,Hound’s berry
+MMK647,4.72,Strychnos Halikakabos,ἕτερον στρύχνον,Another hound’s
+MMK648,4.73,Schlafstrychnos,στρύχνον ὑπνωτικόν,Sleepy nightshade
+MMK649,4.74,Strychnos manikos,στρύχνον μανικόν,Thorn apple
+MMK650,4.75,Doryknion,δορύκνιον,Convulvulus oleaefolius Desr. Dorycnion
+MMK651,4.76,Alraun,μανδραγόρας,Mandrake
+MMK652,4.77,Akoniton,ἀκόνιτον,Leopard’s bane
+MMK653,4.78,Anderes Akoniton,ἀκόνιτον ἕτερον,Wolfsbane
+MMK654,4.79,Schierling,κώνειον,Hemlock
+MMK655,4.80,Eibe,σμῖλαξ,Yew
+MMK656,4.81,Hundsw?rger,ἀπόκυνον,Dogbane
+MMK657,4.82,Oleander,νήριον,Oleander
+MMK658,4.83,Pilze,μύκητες,Mushrooms
+MMK659,4.84,Zeitlose,Κολχικόν,Meadow saffron
+MMK660,4.85,Ephemeron,ἐφήμερον,Ephemeron
+MMK661,4.86,Glaskraut,ἐλξίνη,Pellitory
+MMK662,4.87,Wasserlinse,φακὸς ὁ ἐπὶ τῶν τελμάτων,Duckweed
+MMK663,4.88,Grosse Hauswurz,ἀείζῳον μέγα,Houseleek
+MMK664,4.89,Kleine Hauswurz,ἀείζῳον τὸ μικρόν,Houseleek
+MMK665,4.90,Nabelblatt,κοτυληδών,Navelwort
+MMK666,4.91,Andere Hauswurz,τρίτον εἶδος ἀείζῳον; ἕτερον εἶδος κοτυληδόνος,Stonecrop; Another kind of navelwort
+MMK667,4.92,Nessel,ἀκαλήφη,Stinging nettle
+MMK668,4.93,Galiopsis,γαλήοψις,Brownwort
+MMK669,4.94,Labkraut,γάλιον,Bedstraw
+MMK670,4.95,Kreuzwurz,ἠριγέρων,Groundsel
+MMK671,4.96,Wiesenraute,θαλίητρον,Meadow
+MMK672,4.97,Meerlattich,βρύον θαλάσσιον,Sea lettuce
+MMK673,4.98,Meertang,φῦκος,Seaweed
+MMK674,4.99,Laichkraut,ποταμογείτων,Pondweed
+MMK675,4.100,Stratiotes,στρατιώτης ὁ ἐπὶ τῶν ὑδάτων,Water lettuce
+MMK676,4.101,Tausendbl?tteriger Stratiotes,στρατιώτης ὁ χιλιόφυλλος,Yarrow or Milfoil
+MMK677,4.102,K?nigskerze,φλόμος,Mullein
+MMK678,4.103,Aithiopis,Αἰθιοπίς,Silver sage
+MMK679,4.104,Arktion,ἄρκτιον,Bearwort
+MMK680,4.105,Klette,ἄρκιον,Burdock
+MMK681,4.106,Petasites,πετασῖτις,Butterbur
+MMK682,4.107,Epipaktis,ἐπιπακτίς,Rupturewort
+MMK683,4.108,Erdrauch,καπνὸς ὁ ἐν ταῖς κριθαῖς φυόμενος,Fumitory
+MMK684,4.109,Gebauter Lotos,λωτὸς ὁ ἐν τοῖς παραδείσοις φυόμενος,Italian melilot
+MMK685,4.110,Wilder Lotos,λωτὸς ἄγριος,Wild fenugreek
+MMK686,4.111,Schneckenklee,κύτισος,Tree medick
+MMK687,4.112,Aegyptischer Lotos,λωτὸς ὁ ἐν Αἰγύπτῳ γεννώμενος,Egyptian lotus
+MMK688,4.113,Tausendblatt,μυριόφυλλον,Water milfoil
+MMK689,4.114,K?rbel,μυρρίς,Sweet cicely
+MMK690,4.115,Myagros,μύαγρον,Ball mustard
+MMK691,4.116,Weidenr?schen,ὀνάγρα,Oleander
+MMK692,4.117,Kirsion,κρίσσιον,Thistle
+MMK693,4.118,Attische Aster,ἀστὴρ Ἀττικός,Blue daisy
+MMK694,4.119,Isopyron,ἰσόπυρον,Fumitory
+MMK695,4.120,Veilchen,ἴον,Violet
+MMK696,4.121,Kakalia,κακκαλία,Caccalia
+MMK697,4.122,Bunion,βούνιον,Earthnut
+MMK698,4.123,Pseudobunion,ψευδοβούνιον,Cretan pimpinel
+MMK699,4.124,Chamaikissos,χαμαίκισσος,Ground ivy
+MMK700,4.125,Chamaipeuke,χαμαιπεύκη,Fishbone thistle
+MMK701,4.126,Italienische Ochsenzunge,βούγλωσσον,Bugloss
+MMK702,4.127,Hundzunge,,
+MMK703,4.128,Phyteuma,φύτευμα,Montpellier rocket
+MMK704,4.129,Leontopodion,,
+MMK705,4.130,Hypoglosson,ὑπόγλωσσον,Horse tongue
+MMK706,4.131,L?wenmaul,ἀντίρρινον,Calf' s snout
+MMK707,4.132,Katananka,κατανάγκη,Vetch
+MMK708,4.133,Tripolion,τριπόλιον,Sea starwort
+MMK709,4.134,Frauenhaar,ἀδίαντον,Maidenhair
+MMK710,4.135,Streifenfarn,τριχομανές,Waterwort
+MMK711,4.136,Spitzklee,ξάνθιον,Broad-leaved burweed
+MMK712,4.137,Aigilops,αἰγίλωψ,Haver grass
+MMK713,4.138,Bromos,γλαύξ,Wart cress
+MMK714,4.139,Glaux,πολύγαλον,Milkwort
+MMK715,4.140,Kreuzblume,ὄσιρις,Poet’s cassia
+MMK716,4.141,Osyris,ἐχῖνος,Echinos
+MMK717,4.142,Rauher Smilax,μῖλαξ τραχεῖα,Rough bindweed
+MMK718,4.143,Glatter Smilax,μῖλαξ λεία,Great bindweed
+MMK719,4.144,Stechmyrte,μυρσίνη ἀγρία,Butcher’s broom
+MMK720,4.145,Alexandrinische Daphne,δάφνη Ἀλεξάνδρεια,Daphne
+MMK721,4.146,Daphnoides,δαφνοειδές,Spurge laurel
+MMK722,4.147,Chamaidaphne,χαμαιδάφνη,Chamaidaphne
+MMK723,4.148,Weisse Nieswurz,ἐλλέβορος,White hellebore
+MMK724,4.149,Schwarze Nieswurz,,
+MMK725,4.150,Grosses Sesamoeides,σησαμοειδὲς τὸ μέγα,Bastard rocket
+MMK726,4.151,Kleines Sesamoeides,,
+MMK727,4.152,Wilde Gurke,σίκυς ἄγριος,Squirting cu- cumber
+MMK728,4.153,Scharfer Rittersporn,σταφὶς ἁγρία,Stavesacre
+MMK729,4.154,Thapsia,θαψία,Deadly carrot
+MMK730,4.155,Elaterion,ἡμέρου σικύου ἡ ῥιζα; σπάρτιον,Root of the cultivated cucumber; Spanish broom
+MMK731,4.156,Mariendistel,σίλλυβον,Milk thistle
+MMK732,4.157,Salbeneichel,βάλανος μυρεψική,Moringa sp. Ben
+MMK733,4.158,Narzisse,νάρκισσος,Narcissus
+MMK734,4.159,Stachelige Wolfsmilch,ἱπποφαές,Spurge
+MMK735,4.160,Hippophaiston,ἱππόφαιστον,Hippophaiston
+MMK736,4.161,Wunderbaum,κίκι,Castor oil tree
+MMK737,4.162,Wolfsmilcharten,τιθύμαλλος,Euphorbia L. sp. Spurge
+MMK738,4.163,Pityusa,πιτυούσα,Quacksalver’s spurge
+MMK739,4.164,Lathyris,λαθυρίς,Caper spurge
+MMK740,4.165,Peplos,πέπλος,Wartweed
+MMK741,4.166,Peplis,πεπλίς,Wild purslane
+MMK742,4.167,Erdfeige,χαμαισύκη,Thyme spurge
+MMK743,4.168,Purgirwinde,σκαμμωνία,Scam mony
+MMK744,4.169,Bergseidelbast,χαμελαία,Spurge olive
+MMK745,4.170,S?dlicher Seidelbast,θυμελαία ἢ χαμελαία,Spurge flax
+MMK746,4.171,Hollunder,ἀκτῆ,Elder
+MMK747,4.172,Zwerghollunder,,
+MMK748,4.173,Pyknokomon,πυκνόκομον,Motherwort
+MMK749,4.174,Birnwolfsmilch,ἄπιος,Tuberous spurge
+MMK750,4.175,Koloquinthe,κολόκυνθα ἀγρία,Colocynth
+MMK751,4.176,Flachsseide,ἐπίθυμον,Epithymon
+MMK752,4.177,Alypon,ἄλυπον,Herb terrible
+MMK753,4.178,Empetron,ἔμπετρον,Sea heath
+MMK754,4.179,Klematis,κληματίς,Traveler’s joy
+MMK755,4.180,Wilde Rebe,ἄμπελος ἀγρία,Wild grapevine
+MMK756,4.181,Weisse Rebe,ἄμπελος λευκή,Bryony
+MMK757,4.182,Schwarze Rebe,ἄμπελος μέλαινα,Black bryony
+MMK758,4.183,Wurmfarn,πετρίς,Male fern
+MMK759,4.184,Saumfarn,θηλυπτερίς,Bracken
+MMK760,4.185,T?pfelfarn,πολυπόδιον,Polypody
+MMK761,4.186,Eichenfarn,δρυπτερίς,Black oak fern
+MMK762,4.187,Saflor,κνῆκος,Safflower
+MMK763,4.188,Bingelkraut,λινόζωστις,Mercury
+MMK764,4.189,Hundskohl,,
+MMK765,4.190,Grosses Heliotropion,ἡλιοτρόπιον τὸ μέγα,Large heliotrope
+MMK766,4.191,Kleines Heliotropion,ἡλιοτρόπιον τὸ μικρόν,Small heliotrope
+MMK767,4.192,Skorpionskraut,σκορπιοειδές,Scorpionwort
+MMK768,4.X,Saxifragon,,
+MMK769,5.1,Weinstock,ἄμπελος οἰνοφόρος,Grapevine
+MMK770,5.2,Wilder Weinstock,ἄμπελος ἀγρία,Wild grapevine
+MMK771,5.3,Weintraube,σταφυλή,Grape
+MMK772,5.4,Rosine,,
+MMK773,5.5,Oinanthe (Frucht des wilden Weinstockes),οἰνάνθη,Oinanthe
+MMK774,5.6,Omphakion,ὀμφάκιον,Omphacion
+MMK775,5.7,Die Eigenschaft der Weine nach ihrem Alter,οἶνοι,Wines
+MMK776,5.8,Nach der Farbe,,
+MMK777,5.9,Nach dem Geschmack und den Zus?tzen,,
+MMK778,5.10,Unterschied nach den Ursprungsgegenden,,
+MMK779,5.11,Kr?fte der Weine,,
+MMK780,5.12,Omphakiteswein,,
+MMK781,5.13,Zweiter und kraftloser Wein,,
+MMK782,5.14,Wein aus der wilden Traube,,
+MMK783,5.15,Honigwein,μελιλίτης,Melitites
+MMK784,5.16,Oinomeli,οἰνόμελι,Wine and honey mixture
+MMK785,5.17,Melikraton,μελίκρατον,Mixture of honey and water = Hydromel
+MMK786,5.18,Wasser,ὕδωρ,Water
+MMK787,5.19,Meerwasser,θαλάττιον ὕδωρ,Seawater
+MMK788,5.20,Honigmeerwasser,θαλασσόμελι,Seawater mixed with honey
+MMK789,5.21,Essig,ὄξος,Vinegar
+MMK790,5.22,Sauerhonig,ὀξύμελι,Oxymel
+MMK791,5.23,Salzessig,ὀξάλμη,Brine vinegar
+MMK792,5.24,Thymoxalme,θυμοξάλμη,Brine vinegar flavored with Cretan thyme
+MMK793,5.25,Meerzwiebelessig,τὸ σκιλλητικὸν ὄξος,Vinegar flavored with squill
+MMK794,5.26,Meerzwiebelwein,ὁ ἀπὸ τῆς σκίλλης οἶνος,Wine from squill
+MMK795,5.27,Meerwasserwein,οἱ διὰ θαλάττης οἶνοι,Wines made with seawater
+MMK796,5.28,Andere k?nstliche Weine,ὁ κυδωνίτης,Wine flavored with quinces
+MMK797,5.29,Apfelhonig,μηλόμελι,Honey flavored with quinces
+MMK798,5.30,Wassermeth,ὑδρόμηλον,Water and honey flavored with quinces
+MMK799,5.31,Herbetraubenmeth,ὀμφακόμελι,Unripe grapes and honey drink
+MMK800,5.32,Birnenwein,ἀπίτης,Pear wine
+MMK801,5.33,Weinbl?thenwein,οἰνάνθινος,Wine flavored with flowers of the wild grape
+MMK802,5.34,Granatenwein,ῥοίτης,Pomegranate wine
+MMK803,5.35,Rosenwein,ῥοδίτης,Wine flavored with roses
+MMK804,5.36,Myrtenbeerenwein,μυρτίτης,Myrtle wine
+MMK805,5.37,Myrtenwein,μυρσινίτης,Wine flavored with myrtles
+MMK806,5.38,Mastixwein,σχίνινος,Mastic wine
+MMK807,5.39,Terebinthenwein,,
+MMK808,5.40,Dattelwein,φοινικίτης,Date palm wine
+MMK809,5.41,Feigenwein,ὁ τροχίτης,Fig wine
+MMK810,5.42,Sykomorenwein,ὁ ἐκ τῶν συκομόρων,Wine of sycamore figs
+MMK811,5.43,Geharzter Wein,ὁ ῥητινίτης,Wine flavored with resin
+MMK812,5.44,Zirbelnusswein,6 στροβιλίτης,Wine flavored with strobilos pine cones
+MMK813,5.45,Cedernwein,ὁ κέδρινος ἢ ἀρκεύθινος ἢ κυπαρίσσινος ἢ δάφνινος πιτύινος ἢ ἐλάτινος,Wine flavored with cedar or juniper or cypress or sweet bay or pitys pine or fir
+MMK814,5.46,Wachholderwein,,
+MMK815,5.47,Cedernharzwein,κεδρίτης,Wine flavored with resin of Syrian cedar
+MMK816,5.48,Pechwein,οἶνος πισσίτης,Wine flavored with pitch
+MMK817,5.49,Wermuthwein,ἀψινθίτης,Wine flavored with wormwood artemisia absinthium
+MMK818,5.50,Hysopwein,ὑσσωπίτης,Wine flavored with hyssop
+MMK819,5.51,Gamanderwein,ὁ χαμαιδρυίτης,Wine flavored with germander
+MMK820,5.52,Lavendelwein,ὁ > στοιχαδίτης,Wine flavored with French lavender
+MMK821,5.53,Lavendelessig,ὂξος διὰ στοιχάδος,French lavender vinegar
+MMK822,5.54,Gliedkrautwein,ἐκ κέστρου τοῦ ψυχροτρόφου οἶνος,Wine made from betony
+MMK823,5.55,Tragoriganoswein,τραγοριγανίτης,Wine flavored with goat’s marjoram
+MMK824,5.56,Erdknotenwein,οἶνος διὰ βουνίου,Wine flavored with earthnuts
+MMK825,5.57,Diptamwein,δικταμνίτης,Wine flavored with dittany of Crete
+MMK826,5.58,Andornwein,ὁ διὰ πρασίου,Wine flavored with horehound
+MMK827,5.59,Thymianwein,θυμίτης,Wine flavored with Cretan thyme
+MMK828,5.60,Satureiwein,θυμβρίτης,Wine flavored with savory
+MMK829,5.61,Dostenwein,οἶνος ὀριγανίτης,Wine flavored with oregano
+MMK830,5.62,"Minzen-, Polei- und Beifusswein",οἶνος καλαμινθίτης,wormwood artemisia abrotonon
+MMK831,5.63,Berufskrautwein,οἶνος κονυζίτης,Wine flavored with fleabane
+MMK832,5.64,Gew?rzter Wein,οἶνος ἀρωματίτης,Wine made with aromatics
+MMK833,5.65,"Wein aus Myrrhe, Pfeffer und Schwertlilie",οἶνος πρὸς κατάρρους,Wine for catarrhs
+MMK834,5.66,Nektarwein,ὁ νεκταρίτης,Wine flavored with elecampane
+MMK835,5.67,Wein aus syrischer und keltischer Narde und aus Malabathron,ὁ διὰ Συριακῆς νάρδου καὶ Κελτικῆς καὶ μαλαβάθρου,and leaf of malabar
+MMK836,5.68,Aronswein,ἀσαρίτης,Wine flavored with hazelwort
+MMK837,5.69,Wein aus der wilden Narde,ὁ διὰ τῆς ἀγρίας ἀγρίας,Wine flavored with Cretan spikenard
+MMK838,5.70,M?hrenwein,δαυκίτης,Wine flavored with daucos
+MMK839,5.71,Salbeiwein,ἐλελισφακίτης,Wine flavored with sage
+MMK840,5.72,Panaxwein,πανακίτης,Wine flavored with allheal
+MMK841,5.73,Akoronwein,ἀκορίτης καὶ ὁ ἀπὸ γλυκορρίζης,Wine flavored with yellow flag and wine flavored with licorice
+MMK842,5.74,Selleriewein,σελινίτης,Wine flavored with celery
+MMK843,5.75,Fenchel- und Dillwein,μαραθίτης καὶ ἀνήθινος καὶ πετροσελινίτης,and wine flavored parsley
+MMK844,5.76,Salzbl?thewein,δι' ἁλὸς ἄνθους οἶνος,Wine from salt-water froth
+MMK845,5.77,Abortivwein,φθόριος ἐμβρύων οἶνος,Abortifacient wine
+MMK846,5.78,Seidelbastwein,θυμελαίτης,Wine flavored with spurge flax
+MMK847,5.79,Bergseidelbastwein,χαμελαίτης,Wine flavored with spurge olive
+MMK848,5.80,G?nselwein,χαμαιπιτύινος,Wine flavored with ground pine
+MMK849,5.81,Mandragorawein,μανδραγορίτης,Wine flavored with mandrake
+MMK850,5.82,Nieswurzwein,ἐλλεβορίτης,Wine flavored with hellebore
+MMK851,5.83,Purgirwindenwein,σκαμμωνίτης,Wine flavored with scammony
+MMK852,5.84,Kadmeia,καδμεία,Calamine
+MMK853,5.85,Pompholyx,πομφόλυξ,Pompholyx
+MMK854,5.86,Antispodon,κεκαυμένος χαλκός,Burned copper
+MMK855,5.87,Gebranntes Kupfer,χαλχοῦ ἄνθος,Flower of copper
+MMK856,5.88,Kupferbl?the,λεπίς,Flake [of copper ore]
+MMK857,5.89,Kupferhammerschlag,,
+MMK858,5.90,Eisenhammerschlag,,
+MMK859,5.91,Abgekratzter Gr?nspan,ἰὸς ξυστός,Verdigris
+MMK860,5.92,Wurmf?rmiger Gr?nspan,,
+MMK861,5.93,Eisenrost,ἰὸς σιδίρου,Iron rust
+MMK862,5.94,Eisenschlacke,,
+MMK863,5.95,Gewaschenes Blei,πεπλυμένος μόλυβδος,Washed lead
+MMK864,5.96,Gebranntes Blei,,
+MMK865,5.97,Bleischlacke,σκωρία μολύβδου,Lead dross
+MMK866,5.98,Bleistein,ὁ μολυβδοειδὴς λίθος,Leadstone
+MMK867,5.99,Stimmi,στίβι,Antimony
+MMK868,5.100,Molybdaina,μολύβδαινα,Galena
+MMK869,5.101,Silberschlacke,ἡ τοῦ ἀργρύρου σκωρία,Silver dross
+MMK870,5.102,Bleigl?tte,λιθάργυρος,Litharge
+MMK871,5.103,Bleiweiss,ψιμύθιον,White lead
+MMK872,5.104,Chrysokolla,χρυσοκόλλα,Basic copper carbonate
+MMK873,5.105,Armenion,Ἀρμένιον,Azurite
+MMK874,5.106,Kyanos,κύανος,Lapis lazuli
+MMK875,5.107,Indikon,Ἰνδικόν,Indigo
+MMK876,5.108,Ochra,ὦχρα,Yellow ocher
+MMK877,5.109,Kinnabari,κιννάβαρι,Cinnabar
+MMK878,5.110,Quecksilber,ὑδράργυρος,Mercury
+MMK879,5.111,Sinopischer R?thel,μίλτος Σινωπική,Sinopic red earth
+MMK880,5.112,R?thel der Handwerker,,
+MMK881,5.113,Lemnische Erde,Λημνία γῆ,Lemnian earth
+MMK882,5.114,Chalkanthos,χαλκανθές,Vitriol
+MMK883,5.115,Chalkitis,χαλκῖτις,Rock alum
+MMK884,5.116,Psorikon,μίσυ,Misy
+MMK885,5.117,Melanteria,μελαντηρία,Shoemaker’s black
+MMK886,5.118,Sory,σῶρι,Melanterite
+MMK887,5.119,Diphryges,διφρυγές,Pyrites
+MMK888,5.120,Arsenikon,ἀρσενικόν,Yellow orpiment
+MMK889,5.121,Sandaracha,σανδαράκη,Arsenic sulfide
+MMK890,5.122,Stypteria,στυπτηρία,Alum
+MMK891,5.123,Schwefel,θεῖον,Sulfur
+MMK892,5.124,Bimsstein,κίσηρις,Pumice stone
+MMK893,5.125,Salze,ἅλς,Salt
+MMK894,5.126,Salzschaum,ἁλὸς ἄχνη,Salt froth
+MMK895,5.127,Salzlake,ἅλμη,Brine
+MMK896,5.128,Salzbl?the,ἄνθος ἁλός,Salt efflorescenee/Salt scum
+MMK897,5.129,Natron,νίτρον,Soda
+MMK898,5.130,Natronschaum,,
+MMK899,5.131,Weinabsatz,τρύξ,Wine lees
+MMK900,5.132,Gebrannter Kalk,ἄσβεστος,Unslaked lime
+MMK901,5.133,Gyps,γύψος,Gypsum
+MMK902,5.134,Weinrebenasche,τέφρα κλημαντίνη,Ash of vine twigs
+MMK903,5.135,Halkyonion,ἀλκυόνιον,Alcyonion
+MMK904,5.136,Adarkes,ἀδάρκης,Adarces
+MMK905,5.137,Schw?mme,σπόγγοι,Sponges
+MMK906,5.138,Koralle,τὸ κοράλιον,Coral
+MMK907,5.139,Antipathes,ἀντιπαθές,Antipathes
+MMK908,5.140,Phrygischer Stein,λίθος Φρύγιος,Phrygian stone
+MMK909,5.141,Assischer Stein,Ἄσσιος λίθος,Assian stone
+MMK910,5.142,Pyritesstein,πυρίτης λίθος,Copper pyrites
+MMK911,5.143,Blutstein,αἱματίτης λίθος,Hematite
+MMK912,5.144,Spaltstein,σχιστὸς λίθος,Talc
+MMK913,5.145,Gagatstein,Γαγάτης,Lignite
+MMK914,5.146,Thrakischer Stein,Θρακίας,Thracian stone
+MMK915,5.147,Magnetstein,μαγνῆτις λίθος,Magnet
+MMK916,5.148,Arabischer Stein,Ἀραβικὸς λίθος,Arabian stone
+MMK917,5.149,Milchstein,γαλακτίτης,Milkstone
+MMK918,5.150,Honigstein,μελιτίτης,Honeystone
+MMK919,5.151,Morochthosstein,λίθος μόροχθος,Pipe clay
+MMK920,5.152,Alabasterstein,λίθος ἀλαβαστρίτης,Alabaster
+MMK921,5.153,Thy?tesstein,θυίτης,Thyites
+MMK922,5.154,Judenstein,Ἰουδαικὸς λίθος,Judaic stone
+MMK923,5.155,Amiantstein,λίθος ἀμίαντος,Asbestos
+MMK924,5.156,Sapphir,λίθος σάπφειρος,Lapis lazuli
+MMK925,5.157,Memphitstein,λίθος Μεμφίτης,~ Memphitic stone
+MMK926,5.158,Selenitstein,λίθος σεληνίτης,Selenite
+MMK927,5.159,Jaspisstein,λίθος ἴασπις,Jasper
+MMK928,5.160,A?titstein,,
+MMK929,5.161,Schlangenstein,λίθος ὀφίτης,Serpentine
+MMK930,5.162,Schwammsteine,λίθοι οἱ ἐν τοῖς σπόγγοις,The stones in the sponges
+MMK931,5.163,Steinkitt,λιθοκόλλα,Stone glue
+MMK932,5.164,Ostrakitstein,λίθος ὀστρακίτης,Clay stone
+MMK933,5.165,Smirgel,σμύρις,Emery
+MMK934,5.166,Sand,ἄμμος,Sand
+MMK935,5.167,Schleifstein,ἀκόνης Ναξίας ἀπότριμμα,Naxian whetstone powder
+MMK936,5.168,Geodes-Stein,λίθος γεώδης,Earth-like stone
+MMK937,5.169,Erde,γῆ,Earth
+MMK938,5.170,Eretrische Erde,Ἑρετριάδος γῆ,Eretrian earth
+MMK939,5.171,Samische Erde,Σαμία γῆ,Samian earth
+MMK940,5.172,Stein in der samischen Erde,ἐν τῇ Σαμίᾳ γῇ λίθος,Stone found in Samian earth
+MMK941,5.173,Erde von Chios,Χία γῆ,Chian earth
+MMK942,5.174,Selinusische Erde,,
+MMK943,5.175,Kimolissche Erde,Κιμωλία γῆ,Cimolian earth
+MMK944,5.176,Pnigit-Erde,πνιγῖτις γῆ,Pnigitis earth
+MMK945,5.177,Ziegel,,
+MMK946,5.178,Erde aus den Oefen,ὄστρακα,Potsherds
+MMK947,5.179,Melische Erde,Μηλία γῆ,Melian earth
+MMK948,5.180,Weinstockerde,ἀμπελῖτις γῆ,Ampelitis earth
+MMK949,5.181,Russ,ἀσβόλη,Soot
+MMK950,5.182,Tinte,μέλαν,Black ink
+MMK951,???,,,
+MMK952,NONE,,,

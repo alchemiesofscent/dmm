@@ -1,0 +1,861 @@
+edition,edition_entry_id,gunther_chapter,gunther_division,gunther_term,gunther_description
+gunther,row1,1.1,div-2,IRIS,Iris Germanica or I. florentina
+gunther,row2,1.2,div-3,AKORON,Iris Pseudacorus
+gunther,row3,1.3,div-4,MEON,Meum Athamanticum
+gunther,row4,1.4,div-5,KUPEIROS,Cyperus rotundus
+gunther,row5,1.5,div-6,KARDAMOMON,Elettaria Cardamomum
+gunther,row6,1.6,div-7,NARDOS,(I) Nardostachys Jatamansi (‘Indian’)
+gunther,row7,1.7,div-8,NARDOS KELTIKE,Valeriana celtica
+gunther,row8,1.8,div-9,NARDOS OREINE,Valeriana tuberosa
+gunther,row9,1.9,div-10,ASARON,Asarum europaeum
+gunther,row10,1.10,div-11,PHOU,Valeriana Dioscoridis not V. officinalis
+gunther,row12,1.12,div-12,KASSIA,Cinnamomum iners
+gunther,row13,1.13,div-13,KINAMOMON,Cinnamomum Cassia
+gunther,row14,1.14,div-14,AMOMON,Amomum subulatum or Cissus vitiginea
+gunther,row15,1.15,div-15,KOSTOS,Saussurea Lappa
+gunther,row16,1.16,div-16,SCHOINOS,Cymbopogon Schoenanthus
+gunther,row18,1.18,div-17,BALSAMON,Balsamodendron Opobalsamum
+gunther,row19,1.19,div-18,ASPALATHOS,Cytisus lanigerus or Genista acanthoclada
+gunther,row20,1.20,div-19,BRUON,Usnea sp.
+gunther,row21,1.21,div-20,AGALLOCHON,Aloexylon Agallochon
+gunther,row23,1.23,div-21,KANKAMON,Amyris sp.
+gunther,row25,1.25,div-22,KROKOS,Crocus sativus
+gunther,row27,1.27,div-23,ELENION,Inula Helenium. Elecampane
+gunther,row28,1.28,div-24,ELENION AIGUPTION,Calamintha incana Calamint
+gunther,row29,1.29,div-25,ELAION OMOTRIBES,Oil of Unripe Olives
+gunther,row30,1.30,div-26,ELAION KOINON,Olive Oil
+gunther,row31,1.31,div-27,ELAION AGRIAS ELAIAS,Wild Olive Oil
+gunther,row32,1.32,div-28,ELAION LEUKON,To whiten Oil
+gunther,row33,1.33,div-29,ELAION SIKUONION,Sicyonian Oil
+gunther,row34,1.34,div-30,RUPOS,Grime from Baths
+gunther,row35,1.35,div-31,RUPOS PALAISTRA,Grime from the Wrestling School
+gunther,row36,1.36,div-32,RUPOS GYMNASION,Grime from the Gymnasium Walls
+gunther,row38,1.38,div-33,KIKINON ELAION,Castor Oil or Croton Oil
+gunther,row39,1.39,div-34,ELAION AMYGDALINON,Almond Oil
+gunther,row40,1.40,div-35,BALANINON ELAION,Oil of Balanites aegyptiaca
+gunther,row41,1.41,div-36,ELAION SESAMINON KAI KARUINON,Oil of Sesame and Walnut Oil
+gunther,row42,1.42,div-37,YOSKUAMINON ELAION,Oil of Henbane
+gunther,row43,1.43,div-38,KNIDELAION,Oil of Daphne
+gunther,row44,1.44,div-39,KNIKELAION,Oil of Bastard Saffron (Carthamus tinctorius)
+gunther,row45,1.45,div-40,RAPHANELAION,Oil of Radish Seed
+gunther,row46,1.46,div-41,MELANTHELAION,Oil of Chamomile
+gunther,row47,1.47,div-42,SINAPELAION,Oil of Mustard
+gunther,row48,1.48,div-43,MURSINELAION,Oil of Myrtle
+gunther,row49,1.49,div-44,DAPHNELAION,Oil of Laurel
+gunther,row50,1.50,div-45,SCHINELAION,Lentiscinum and Terebinthinum
+gunther,row51,1.51,div-46,MASTICHELAION,Mastich
+gunther,row52,1.52,div-47,MURON SUNTHESIS,Medicinal Ointments
+gunther,row53,1.53,div-48,RHODINON,Preparation of Rosaceum
+gunther,row54,1.54,div-49,ELATINON,Preparation of Elatine
+gunther,row55,1.55,div-50,MELINON,Preparation of Oil of Quince
+gunther,row56,1.56,div-51,OINANTHINON,Preparation of Oil of Wild Grapes
+gunther,row57,1.57,div-52,TELINON,Oil of Fenugreek
+gunther,row58,1.58,div-53,SAMPSUCHINON,Oil of Marjoram
+gunther,row59,1.59,div-54,OKIMINON,Oil of Basil
+gunther,row60,1.60,div-55,ABROTONINON,Oil of Southernwood
+gunther,row61,1.61,div-56,ANETHINON,Oil of Dill
+gunther,row62,1.62,div-57,SUSINON,Oil of Lilies
+gunther,row63,1.63,div-58,NARCISSINON,Oil of Narcissus
+gunther,row65,1.65,div-59,KUPRINON,Oil of Cuperos
+gunther,row66,1.66,div-60,IRINON,Iris Oil
+gunther,row67,1.67,div-61,GLEUCINON,Oil of Must
+gunther,row68,1.68,div-62,AMARAKINON,Oil of Sweet Marjoram
+gunther,row75,1.75,div-63,NARDINON MURON,Nard Ointment
+gunther,row77,1.77,div-64,SMURNA,Amyris Hafal. Myrrh
+gunther,row78,1.78,div-65,BOIOTIKE SMURNA,Boeotian Myrrh
+gunther,row79,1.79,div-66,STURAX,Styrax officinalis
+gunther,row80,1.80,div-67,BDELLION,"Gum of Doum Palm, Hyphaene thebaica"
+gunther,row81,1.81,div-68,LIBANON THUS. Frankincense,Gum of Boswellia Carteri
+gunther,row82,1.82,div-69,PHILOIOS LIBANOU,Bark of Frankincense tree
+gunther,row83,1.83,div-70,LIBANOU MANNA,Manna of Frankincense
+gunther,row84,1.84,div-71,LIBANOU AITHALIE,Fuligo of Frankincense
+gunther,row85,1.85,div-72,LIGNUOS SKEUASIA,85. LIGNUOS SKEUASIA.
+gunther,row86,1.86,div-73,PITUS,Pinus halepensis
+gunther,row87,1.87,div-74,PITUIDES,Pine-seeds
+gunther,row88,1.88,div-75,STOBILOI,Pine-cones
+gunther,row89,1.89,div-76,SCHINOS,Pistacia Lentiscus
+gunther,row90,1.90,div-77,SCHININE RETINE,Mastick
+gunther,row91,1.91,div-78,TERMINTHOS,Pistacia Terebinthus
+gunther,row92,1.92,div-79,RETINA ALLAS,Resins of various Conifers
+gunther,row93,1.93,div-80,LIGNUOS RETINES,Soot from Resin
+gunther,row94,1.94,div-81,PISSA UGRA,Liquid Pitch or Stockholm Tar
+gunther,row95,1.95,div-82,PISSELAION,Pitch Oil
+gunther,row96,1.96,div-83,LINGUOS UGRAS PISSES,Soot from burning Pitch
+gunther,row97,1.97,div-84,PISSA XERA,Dry Pitch
+gunther,row102,1.102,div-85,KUPARISSOS,Cupressus sumpervirens
+gunther,row103,1.103,div-86,ARKEOTHOS MEGALE,Juniperus phoenicea?
+gunther,row104,1.104,div-87,BRATHUS,Juniperus sabina
+gunther,row105,1.105,div-88,KEDROS,Juniperus phoenicea
+gunther,row106,1.106,div-89,DAPHNE,Laurus nobilis
+gunther,row107,1.107,div-90,PLATANOS,Platanus orientalis
+gunther,row108,1.108,div-91,MELIA,Fraxinus Ornus
+gunther,row109,1.109,div-92,LEUKE,Populus alba
+gunther,row111,1.111,div-93,PTELEA,Ulmus campestris
+gunther,row112,1.112,div-94,SAPROTES XYLON,Dry rot
+gunther,row113,1.113,div-95,AIGEIROS,Populus nigra. Black Poplar
+gunther,row114,1.114,div-96,KALAMOS NASTOS,Cenchrus frutescens
+gunther,row115,1.115,div-97,PAPUROS,Papyrus antiquorum. Papyrus
+gunther,row116,1.116,div-98,MURIKE,Tamarix Gallica
+gunther,row117,1.117,div-99,EREIKA,Erica herbacea or E. arborea
+gunther,row118,1.118,div-100,AKAKALIS,Tamarix orientalis
+gunther,row119,1.119,div-101,RAMNOS TRISSUS,Paliurus aculeatus
+gunther,row120,1.120,div-102,ALIMOS,Atriplex hortensis
+gunther,row121,1.121,div-103,PALIOUROS,Zizyphus vulgaris
+gunther,row122,1.122,div-104,OXUAKANTHA,Crataegus Pyracantha
+gunther,row123,1.123,div-105,KUNOSBATON,Rosa sempervirens
+gunther,row124,1.124,div-106,KUPROS,Lawsonia alba. Henna
+gunther,row125,1.125,div-107,PHILLUREA,Phillyrea latifolia
+gunther,row126,1.126,div-108,KUSTOS ARREN,Cistus villosus
+gunther,row127,1.127,div-109,UPOKUSTIS,Cytinus Hypocistis
+gunther,row128,1.128,div-110,LADANON,Cistus creticus. Gum Cistus
+gunther,row129,1.129,div-111,EBENOS,Diospyrus melanoxylon or Ebenoxylon verum
+gunther,row130,1.130,div-112,RHODON,Rosa lutea
+gunther,row131,1.131,div-113,RHODIDES,Pomanders of Roses
+gunther,row132,1.132,div-114,LUKION,"Rhammus infectorius, Sibth."
+gunther,row133,1.133,div-115,AKAKIA,Acacia vera
+gunther,row134,1.134,div-116,AMORGE,Amurca
+gunther,row135,1.135,div-117,AGNOS,Vitex Agnus-castus. Chaste-tree
+gunther,row136,1.136,div-118,ITEA,Salix sp. Cynodon dactylon Pers.
+gunther,row137,1.137,div-119,AGRIELAIA,Olea Oleaster. Wild Olive
+gunther,row138,1.138,div-120,ELAIA,Olea Europaea. Olive
+gunther,row139,1.139,div-121,ELAIA KOLUMBADES,Pickled Olives
+gunther,row141,1.141,div-122,DAKRUON ELAIAS AITHIOPIKES,Elaeagnus spinosa
+gunther,row142,1.142,div-123,DRUS,Quercus Aegilops. Dyer’s Oak
+gunther,row143,1.143,div-124,BALANOI,Acorns
+gunther,row144,1.144,div-125,PHEGOS,Quercus Aesculus
+gunther,row145,1.145,div-126,KASTANA,Castanea vesca
+gunther,row146,1.146,div-127,KEKIDES,Oak Galls
+gunther,row147,1.147,div-128,ROUS,Rhus Coriaria. Tanning Sumach
+gunther,row148,1.148,div-129,PHOINIX,Phoenix dactylifera
+gunther,row149,1.149,div-130,PHOINIKES THEBAIKAI,Hyphaene coriacea
+gunther,row150,1.150,div-131,PHOINIX ELATE,150. PHOINIX ELATE.
+gunther,row151,1.151,div-132,RHOA,Punica granatum
+gunther,row152,1.152,div-133,KUTINOI,Pomegranate Flowers
+gunther,row153,1.153,div-134,SIDIA,Pomegranate Rinds
+gunther,row154,1.154,div-135,BALAUSTION,Wild Pomegranate Flowers
+gunther,row155,1.155,div-136,MURSINE,Myrtus communis
+gunther,row157,1.157,div-137,KERASIA,Prunus Cerasus. Cherry
+gunther,row158,1.158,div-138,KERATIA,Ceratonia Siliqua. Carob
+gunther,row159,1.159,div-139,MELEA,Pyrus Malus. Apple
+gunther,row160,1.160,div-140,KUDONIA,Cydonia vulgaris. Quince
+gunther,row161,1.161,div-141,MELIMELA,Pyrus malus grafted on Quince
+gunther,row162,1.162,div-142,MELA EPEIROTIKA,Apples of Epirus
+gunther,row163,1.163,div-143,AGRIOMELA,Pyrus malus
+gunther,row164,1.164,div-144,PERSICA MELA,Citrus medica
+gunther,row166,1.166,div-145,MEDIKA,Citrus
+gunther,row167,1.167,div-146,APION,Pyrus communis. Pear
+gunther,row168,1.168,div-147,ACHRAS,Pyrus amygdaliformis
+gunther,row169,1.169,div-148,MESPILON,Crataegus tanacetifolius
+gunther,row170,1.170,div-149,MESPILON ETERON,Mespilus Germanica. Medlar
+gunther,row171,1.171,div-150,LOTOS,Celtis australis
+gunther,row172,1.172,div-151,KRANIA,Cornus mascula. Dog-wood
+gunther,row173,1.173,div-152,OUA,Sorbus domestica. Service-tree
+gunther,row174,1.174,div-153,KOKKUMELIA,Prunus domestica. Damson
+gunther,row175,1.175,div-154,KOMAROS,Arbutus Andrachne
+gunther,row176,1.176,div-155,AMUGDALE,Amygdalus communis. Almond
+gunther,row177,1.177,div-156,PISTAKIA,Pistacia Lentiscus. Lentiscus
+gunther,row178,1.178,div-157,KARUA BASILIKA,Juglans regia. Walnut
+gunther,row179,1.179,div-158,KARUA PONTIKA,Corylus Avellana
+gunther,row180,1.180,div-159,MOREA,Morus nigra
+gunther,row182,1.182,div-160,SUKON EN KUPRO,Ficus Sycomorus var.
+gunther,row183,1.183,div-161,SUKA,Ficus Carica
+gunther,row184,1.184,div-162,SUKE AGRIA,Ficus Carica
+gunther,row185,1.185,div-163,OLUNTHOI,Unripe Figs
+gunther,row186,1.186,div-164,KONIA SUKES,Extract of Figs
+gunther,row187,1.187,div-165,PERSEA,Mimusops Schimperi
+gunther,row188,2.1,div-167,ECHINOS THALASSIOS,Perhaps Echinus esculentus and E. melo
+gunther,row189,2.2,div-168,ECHINOS CHERSAIOS,Hystrix cristata
+gunther,row190,2.3,div-169,HIPPOKAMPOS,Syngnathus Hippocampus
+gunther,row191,2.4,div-170,PORPHURA,"Murex brandaris, &c."
+gunther,row192,2.5,div-171,KUREKES,Buccinum sp. Whelks
+gunther,row193,2.6,div-172,IONIA,The columella of molluscs
+gunther,row194,2.7,div-173,MUAKES,Pontic Mussels
+gunther,row195,2.9,div-174,CHAMAI,Soup made from Bivalves
+gunther,row196,2.10,div-175,ONUX,Operculum of Strombus lentiginosus
+gunther,row197,2.11,div-176,KOCHLIAS,Helix pomatia
+gunther,row198,2.12,div-177,KARKINOI,Thelphusa sp.
+gunther,row199,2.14,div-178,SKORPIOS THALASSIOS,Scorpaena Scrofa
+gunther,row200,2.15,div-179,DRAKON THALASSIOS,Trachinus Draco
+gunther,row201,2.16,div-180,SKOLOPENDRA,Nereis or other Polychaet Worms
+gunther,row202,2.17,div-181,NARKE,Raja Torpedo
+gunther,row203,2.18,div-182,ECHIDNE,"Coluber aegyptius, C. Ammodyles, C. Bero"
+gunther,row204,2.19,div-183,OPHEOS GERAS,The Slough of Snakes
+gunther,row205,2.20,div-184,LAGOOS THALASSIOS,Aplysia depilans
+gunther,row206,2.21,div-185,LAGOOS CHERSAIOS,Lepus timidus
+gunther,row207,2.22,div-186,TRUGON THALASSIA,Raja Pastinaca
+gunther,row208,2.23,div-187,SEPIA,Sepia officinalis
+gunther,row209,2.24,div-188,TRIGLA,Mullus barbatus
+gunther,row210,2.25,div-189,ORCHIS HIPPOPOTAMOU,Hippopotamus
+gunther,row211,2.26,div-190,KASTOROS ORCHIS,Castoreum of Beaver
+gunther,row212,2.27,div-191,GALE KATOIKIDIOS,Mustela Putorii?
+gunther,row213,2.28,div-192,BATRACHOI,Frogs
+gunther,row214,2.29,div-193,AILOUROS,Silurus glanis
+gunther,row215,2.30,div-194,SMARIS,Smaris vulgaris
+gunther,row216,2.31,div-195,MAINIS,Sparus Maena
+gunther,row217,2.32,div-196,KOBIOS,Gobius niger
+gunther,row218,2.33,div-197,OMOTARICHOS,Tunny-flesh
+gunther,row219,2.34,div-198,GARRON,Garum from Salt Fish
+gunther,row220,2.35,div-199,ZOMOS NEARON ICHTHUON,Fish Soup
+gunther,row221,2.36,div-200,KOREIS,Bed Bugs
+gunther,row222,2.38,div-201,SILPHE,Blatta orientalis
+gunther,row223,2.39,div-202,PNEUMON THALASSIOS,Jelly-fish
+gunther,row224,2.40,div-203,PNEUMON CHOIRIOS,"Lungs of Swine, Lamb or Bear"
+gunther,row225,2.41,div-204,PNEUMON ALOPEKOS,Lungs of Fox
+gunther,row226,2.42,div-205,HEPAR ONEIRON,Ass’s Liver
+gunther,row227,2.43,div-206,AIDOION ARRENOS ELAPHOU,Testes of Deer
+gunther,row228,2.44,div-207,ONUCHES ONON,Ass’s Hoofs
+gunther,row229,2.45,div-208,LEICHENES HIPPON,Spavins of Horses
+gunther,row230,2.46,div-209,ONUCHES AIGON,Goats’ Hoofs
+gunther,row231,2.47,div-210,HEPAR AIGOS,Goat’s Liver
+gunther,row232,2.48,div-211,HEPAR KAPROU,Boar’s Liver
+gunther,row233,2.49,div-212,HEPAR KUNOS LUSSONTOS,Liver of Mad Dog
+gunther,row234,2.50,div-213,HEPAR AITHUAS,Liver of the Diver
+gunther,row235,2.51,div-214,KATTUMATA,Old Leather
+gunther,row236,2.52,div-215,ALEKTORIDES,Parts of Fowls
+gunther,row237,2.53,div-216,ENKEPHALOS ALEKTORIDOS,Parts of Fowls
+gunther,row238,2.54,div-217,OON,Eggs and their Yolk
+gunther,row239,2.55,div-218,LEUKON TOU OOU,White of Egg
+gunther,row240,2.56,div-219,TETTIGES,Grasshoppers
+gunther,row241,2.57,div-220,AKRIDES,Locusts
+gunther,row242,2.58,div-221,PHINIS,Falco Ossifragus. Ossifrage
+gunther,row243,2.59,div-222,KORUDALLOS,Alauda cristata
+gunther,row244,2.60,div-223,CHELIDON,Stones of Swallows
+gunther,row245,2.61,div-224,ELEPHANTOS ODONTOS RINISMA,Elephant’s Tooth
+gunther,row246,2.62,div-225,ASTRAGALOS UOS,Knuckle-bone of Pig
+gunther,row247,2.63,div-226,ELAPHOU KERAS,Burnt Hartshorn
+gunther,row248,2.64,div-227,KAMPAI,Caterpillars
+gunther,row249,2.65,div-228,KANTHARIDES,(1) Meloë Proscarabaeus
+gunther,row250,2.67,div-229,SALAMANDRA,Salamandra terrestris
+gunther,row251,2.68,div-230,ARACHNE,(1) Aranea retiaria
+gunther,row252,2.70,div-231,SEPS,Seps chalcides or Zygnis tridactyla
+gunther,row253,2.71,div-232,SKINKOS,Scincus officinalis
+gunther,row254,2.72,div-233,ENTERA GES,Earth-worms
+gunther,row255,2.73,div-234,MUOGALE,Sorex araneus. Shrew-mouse
+gunther,row256,2.74,div-235,MUES,House-mouse
+gunther,row257,2.75,div-236,GALA,Milk
+gunther,row258,2.76,div-237,ORROS GALAKTOS,Whey
+gunther,row259,2.77,div-238,GALA SCHISTON,Junket
+gunther,row260,2.78,div-239,GALA GUNAIKOS,Woman’s milk
+gunther,row261,2.79,div-240,TUROS NEAROS,New Cheese
+gunther,row262,2.80,div-241,HIPPACE,Horse-cheese
+gunther,row263,2.81,div-242,BUTURON,Butter
+gunther,row264,2.82,div-243,ERIA,Wool
+gunther,row265,2.83,div-244,ERIA KEKAUMENA,Burnt Wool
+gunther,row266,2.84,div-245,OISUPON,Wool Fat or Lanolin
+gunther,row267,2.85,div-246,PITUA,Rennet
+gunther,row268,2.86,div-247,STEAR,Goose-grease
+gunther,row269,2.87,div-248,STEAR HUEION KAI ARNEION,Lard and Bears Grease
+gunther,row270,2.89,div-249,STEAR BOEION,Beef Suet
+gunther,row271,2.91,div-250,STEAR POS AROMATISTEON,The Blending of Fats with Scent
+gunther,row272,2.92,div-251,STEAR POS SAMPSUCHITETAI,To Perfume Fat with Sampsuchum
+gunther,row273,2.94,div-252,STEATON DUNAMIS,The medicinal Power of Fats.
+gunther,row274,2.95,div-253,MUELOI,Marrows
+gunther,row275,2.96,div-254,CHOLE PASA,Gall of various Animals
+gunther,row276,2.97,div-255,PERI HAIMATON,Blood
+gunther,row277,2.98,div-256,APOPATOS,Dung
+gunther,row278,2.96,div-257,PERI OURON,Urine
+gunther,row279,2.100,div-258,LUNGOURION,Lyncurium and Amber
+gunther,row280,2.101,div-259,MELI,Honey
+gunther,row281,2.102,div-260,MELI SARDOON,Sardinian Honey
+gunther,row282,2.103,div-261,MELI PONTIKON,Heraclean Honey
+gunther,row283,2.104,div-262,SAKCHARON,Sugar
+gunther,row284,2.105,div-263,KEROS,Bees-wax
+gunther,row285,2.106,div-264,PROPOLIS,Bee-glue
+gunther,row286,2.107,div-265,PUROI,Triticum vulgare. Wheat
+gunther,row287,2.108,div-266,KRITHE,Hordeum sativum. Barley
+gunther,row288,2.109,div-267,ZUTHOS,Soured Barley Water
+gunther,row289,2.110,div-268,KOURMI,Fermented Drink
+gunther,row290,2.111,div-269,ZEIA,Triticum dicoccum
+gunther,row291,2.112,div-270,KRIMNON,112. KRIMNON.
+gunther,row292,2.113,div-271,OLURA,Tritici dicocci varietas
+gunther,row293,2.114,div-272,ATHERA,Meal from Rye or from Triticum monococcus
+gunther,row294,2.115,div-273,TRAGOS,Ephedra distachya
+gunther,row295,2.116,div-274,BROMOS,Avena sativa
+gunther,row296,2.117,div-275,ORUZA,Oryza sativa
+gunther,row297,2.118,div-276,CHONDROS,Hordeum?
+gunther,row298,2.119,div-277,KENCHROS,Panicum miliaceum
+gunther,row299,2.120,div-278,ELUMOS,Setaria Italicum
+gunther,row300,2.121,div-279,SESAMON,Sesamum indicum
+gunther,row301,2.122,div-280,AIRA,Lolium temulentum
+gunther,row302,2.123,div-281,AMULON,Starch
+gunther,row303,2.124,div-282,TELEOS ALEURON,Flour of Fenugreek
+gunther,row304,2.125,div-283,LINON,Linum usitatissimum
+gunther,row305,2.126,div-284,EREBINTHOS,Cicer arietinum
+gunther,row306,2.127,div-285,KUAMOS HELLENIKOS,Vicia Faba
+gunther,row307,2.128,div-286,KUAMOS AIGUPTIOS,Nelumbium speciosum
+gunther,row308,2.129,div-287,PHAKOS,Ervum Lens Lentil
+gunther,row309,2.130,div-288,PHASIOLOS,Phaseolus nanus
+gunther,row310,2.131,div-289,OROBOS,Ervum Ervillia
+gunther,row311,2.132,div-290,THERMOS EMEROS,Lupinus pilosus?
+gunther,row312,2.133,div-291,THERMOS AGRIOS,Lupinus angustifolius; L. alba
+gunther,row313,2.134,div-292,GONGULIS,Brassica Rapa
+gunther,row314,2.135,div-293,GONGOLE AGRIOE,Condylocarpus laevigata
+gunther,row315,2.136,div-294,BOUNIAS,Bunias Erucago or Brassica
+gunther,row316,2.137,div-295,RAPHANIS,Raphanus sativus
+gunther,row317,2.138,div-296,RAPHANOS AGRIA,Raphanus Raphanistrum
+gunther,row318,2.139,div-297,SISARON,Pastinaca sativa
+gunther,row319,2.140,div-298,LAPATHON,Rumex patientia. Dock
+gunther,row320,2.141,div-299,HIPPOLAPATHON,Rumex aquaticus
+gunther,row321,2.142,div-300,LAMPSANE,Sinapis arvensis
+gunther,row322,2.143,div-301,BLITON,Amaranthus Blitum
+gunther,row323,2.144,div-302,MALACHE AGRIA,Malva sylvestris
+gunther,row324,2.145,div-303,ATRAPHAXIS,Atriplex rosea
+gunther,row325,2.146,div-304,KRAMBE EMEROS,Brassica oleracea
+gunther,row326,2.147,div-305,KRAMBE AGRIA,Brassica cretica
+gunther,row327,2.148,div-306,KRAMBE THALASSIA,Crithmum maritimum
+gunther,row328,2.149,div-307,TEUTLON MELAN AGRION,Beta vulgaris
+gunther,row329,2.151,div-308,ANDRACHNE AGRIA,Portulaca oleracea
+gunther,row330,2.152,div-309,ASPHARAGOS,Asparagus acutifolius
+gunther,row331,2.153,div-310,ARNOGLOSSON,Plantago major
+gunther,row332,2.154,div-311,SION TO EN ODASIN,Sium nodiflorum
+gunther,row333,2.155,div-312,SISUMBRION,Stachys germanica
+gunther,row334,2.156,div-313,SISUMBRION ETERON,Sisymbrium nasturtium
+gunther,row335,2.157,div-314,KRITHMON,Crithmum maritimum
+gunther,row336,2.158,div-315,KORONOPOUS,Lotus ornithopodioides
+gunther,row337,2.160,div-316,SERIS,Chicorium Endivia
+gunther,row338,2.161,div-317,KONDRILLE,Chondrilla ramosissima or C. juncea
+gunther,row339,2.162,div-318,KOLOKUNTHA,Cucumis sativus
+gunther,row340,2.163,div-319,SIKUOS EMEROS,Cucumis Melo
+gunther,row341,2.164,div-320,PEPON,Cucurbita Pepo
+gunther,row342,2.165,div-321,THRIDAX EMEROS,Lactuca sativa
+gunther,row343,2.166,div-322,THRIDAX AGRIA,Lactuca Scariola
+gunther,row344,2.168,div-323,SKANDUX,Scandix Pecten Veneris
+gunther,row345,2.169,div-324,KAUKALIS,Handquistia Aegyptiaca
+gunther,row346,2.170,div-325,EUZOMON,Eruca sativa
+gunther,row347,2.171,div-326,OKIMON,Ocymum basilicum
+gunther,row348,2.172,div-327,OROBANKE,Cuscuta europaea
+gunther,row349,2.173,div-328,TRAGOPOGON,Tragopogon villosum (T. porrifolius)
+gunther,row350,2.174,div-329,ORNITHOGALON,Ornithogalum umbellatum
+gunther,row351,2.175,div-330,HUDNON,Tuber cibarium
+gunther,row352,2.176,div-331,SMILAX,Smilax aspera
+gunther,row353,2.177,div-332,MEDICE,Medicago sativa
+gunther,row354,2.178,div-333,APHAKE,Lathyrus Aphaca
+gunther,row355,2.179,div-334,PRASON,Allium Porrum
+gunther,row356,2.181,div-335,KROMUON,Allium Cepa
+gunther,row357,2.182,div-336,SKORODON,Allium sativum
+gunther,row358,2.183,div-337,SKORODOPRASON,Allium descendens
+gunther,row359,2.184,div-338,SINEPI,Brassica alba
+gunther,row360,2.185,div-339,KARDAMON,Lepidium sativum
+gunther,row361,2.186,div-340,THLASPI,Thlaspi Bursa-pastoris
+gunther,row362,2.187,div-341,DRABA,Lepidium Draba
+gunther,row363,2.188,div-342,ERUSIMON,Sisymbrium polyceratium
+gunther,row364,2.190,div-343,ZINGIBERI,Zingiber officinale
+gunther,row365,2.191,div-344,UNDROPEPERI,Polygonum Hydropiper
+gunther,row366,2.192,div-345,PTARMIKE,Beranthemum annuum
+gunther,row367,2.193,div-346,STROUTHION,Saponaria officinalis
+gunther,row368,2.194,div-347,KUKLAMINOS,Cyclamen graecum
+gunther,row369,2.195,div-348,KUKLAMINOS ETERA,Cyclamen hederifolium
+gunther,row370,2.196,div-349,DRAKONTION MEGA,Arum dracunculus
+gunther,row371,2.196,div-350,DRAKONTION MIKRON,Arum maculatum
+gunther,row372,2.197,div-351,ARON,Arum dioscoridis
+gunther,row373,2.198,div-352,ARISARON,Arum arisarum
+gunther,row374,2.199,div-353,ASPHODELOS,Asphodelus ramosus
+gunther,row375,2.200,div-354,BOLBOS EDODIMOS,Hyacinthus comosus
+gunther,row376,2.201,div-355,BOLBOS EMETIKOS,Ornithogalum stachyoides
+gunther,row377,2.202,div-356,SKILLA,Scilla maritima.
+gunther,row378,2.203,div-357,PANKRATION,Scilla Pancratium or Pancratium maritimum
+gunther,row379,2.204,div-358,KAPPARIS,Capparis spinosa
+gunther,row380,2.205,div-359,LEPIDION,Lepidium latifolim
+gunther,row381,2.206,div-360,BATRACHION,Ranunculus acris
+gunther,row382,2.207,div-361,ANEMONE,Anemone coronaria
+gunther,row383,2.208,div-362,ARGEMONE,Thalictrum flavum
+gunther,row384,2.208,div-363,ARGEMONE,Agrimonia Eupatorium
+gunther,row385,2.209,div-364,ANAGALLIS,Anagallis arvensis
+gunther,row386,2.210,div-365,KISSOS,Hedera Helix
+gunther,row387,2.211,div-366,CHELIDONION,Chelidonium maius
+gunther,row388,2.212,div-367,CHELIDONION MIKRON,Ranunculus Ficaria
+gunther,row389,2.214,div-368,MUOS OTON,Lithospermum purpureo-coeruleum
+gunther,row390,2.215,div-369,ISATIS EMEROS,Isatis tinctoria
+gunther,row391,2.216,div-370,ISATIS AGRIA,Isatis Lusitanica
+gunther,row392,2.217,div-371,TELEPHION,Cerinthe minor
+gunther,row393,3.1,div-373,AGARICON,Agaricus or Boletus sp.
+gunther,row394,3.2,div-374,RA,Rheum Rhaponticum
+gunther,row395,3.3,div-375,GENTIANE,Gentiana lutea
+gunther,row396,3.4,div-376,ARISTOLOCHIA STROGGOLE,Aristolochia pallida
+gunther,row397,3.5,div-377,ARISTOLOCHIA MAKRA,"Aristolochia parvifolia, A. sempervirens (Singer)"
+gunther,row398,3.6,div-378,ARISTOLOCHIA KLEMATITIS,°6. ARISTOLOCHIA KLEMATITIS. Aristolochia boetica
+gunther,row399,3.7,div-379,GLUKORIZA,Glycyrrhiza glabra
+gunther,row400,3.8,div-380,KENTAURION MAKRON,Centaurea Centaurium
+gunther,row401,3.9,div-381,KENTAURION MIKRON,Erythraea Centaurium
+gunther,row402,3.10,div-382,CHAMAILEON LEUKOS,°10. CHAMAILEON LEUKOS. Atractylis gummifera
+gunther,row403,3.11,div-383,CHAMAILEON MELAS,°11. CHAMAILEON MELAS. Cardopatium corymborum
+gunther,row404,3.12,div-384,KROKODEILION,Echinops sphaerocephalus
+gunther,row405,3.13,div-385,DIPSAKON,Dipsacus sylvestris
+gunther,row406,3.14,div-386,AKANTHA LEUKE,"°14. AKANTHA LEUKE. Echinops lanuginosus,"
+gunther,row407,3.15,div-387,AKANTHA ARABIKE,Onopordon arabicum
+gunther,row408,3.16,div-388,SKOLUMOS,Scolymus hispanicus
+gunther,row409,3.17,div-389,POTERION,°17. POTERION. Astragalus creticus
+gunther,row410,3.18,div-390,AKANTHION,Onopordon illyricum
+gunther,row411,3.19,div-391,AKANTHA ERPEKANTHA,Acanthus spinosus
+gunther,row412,3.20,div-392,AKANTHA AGRIA,Silybum syriacum
+gunther,row413,3.21,div-393,ANONIS,"°21. ANONIS. Ononis arvensis, O. antiquorum"
+gunther,row414,3.22,div-394,LEUKAKANTHA,Cirsium tuberosum
+gunther,row415,3.23,div-395,TRAGAKANTHE,°23. TRAGAKANTHE. Astragalus aristatus
+gunther,row416,3.24,div-396,ERUNGION,"Eryngium planum, &c."
+gunther,row417,3.25,div-397,ALOE,Aloe vulgaris
+gunther,row418,3.26,div-398,APSINTHION,"Artemisia pontica, A. Absinthium"
+gunther,row419,3.27,div-399,APSINTHION THALASSION,Artemisia maritima
+gunther,row420,3.28,div-400,APSINTHION TRITON SANTONION,°28. APSINTHION TRITON SANTONION. Artemisia palmata
+gunther,row421,3.29,div-401,ABROTONON,Artemisia Abrotanum
+gunther,row422,3.30,div-402,USSOPOS,Thymbra spicata
+gunther,row423,3.31,div-403,STOICHAS,Lavandula Stoechas
+gunther,row424,3.32,div-404,ORIGANOS ERAKLEOTIKE,Origanum vulgare var. megastachyum (A.J.W.)
+gunther,row425,3.33,div-405,ORIGANOS ONITIS,Origanum onitis
+gunther,row426,3.34,div-406,AGRIORIGANOS,°34. AGRIORIGANOS. Origanum vulgare
+gunther,row427,3.35,div-407,TRAGORIGANOS,Thymus graveolens
+gunther,row428,3.36,div-408,GLECHON,Mentha Pulegium var. erecta
+gunther,row429,3.37,div-409,DIKTAMNON,Origanum Dictamnus
+gunther,row430,3.38,div-410,PSEUDODIKTAMNOS,Marrubium Pseudo-dictamnus
+gunther,row431,3.39,div-411,DIKTAMNOS ALLO,°39. DIKTAMNOS ALLO. Ballota Pseudo-dictamnus
+gunther,row432,3.40,div-412,ELELISPHAKON,Salvia officinalis
+gunther,row433,3.41,div-413,EDUOSMOS EMEROS,Mentha sativa
+gunther,row434,3.42,div-414,EDUOSMOS AGRIOS,Mentha aquatica
+gunther,row435,3.43,div-415,KALAMINTHE,Mentha Sylvestris
+gunther,row436,3.44,div-416,THUMOS,Thymbra capitata
+gunther,row437,3.45,div-417,THUMBRA,Satureia Thymbra
+gunther,row438,3.46,div-418,ERPULLOS,Thymus Sibthorpii
+gunther,row439,3.47,div-419,SAMPSUCHON,Origanum Marjorana
+gunther,row440,3.48,div-420,MELILOTOS,°48. MELILOTOS. Trifolium officinale or T. italicum or Trigonella graeca
+gunther,row441,3.49,div-421,MARON,Trifolium sipyleum
+gunther,row442,3.50,div-422,AKINOS,Ocimum pilosum
+gunther,row443,3.51,div-423,BAKCHARIS,°51. BAKCHARIS. Conyza squarrosa or Gnaphalium sanguineum
+gunther,row444,3.52,div-424,PEGANON TO KEPAION,Ruta graveolens. Rue
+gunther,row445,3.53,div-425,PEGANON AGRION,Peganum Harmala
+gunther,row446,3.54,div-426,MOLU,Allium Dioscoridis
+gunther,row447,3.55,div-427,PANAKES HERAKLEION,°55. PANAKES HERAKLEION. Ferula Opopanax or Opopoanax hispidus
+gunther,row448,3.56,div-428,PANAKES ASKLEPION,°56. PANAKES ASKLEPION. Echinophora tenuifolia
+gunther,row449,3.57,div-429,PANAKES CHEIRONION,°57. PANAKES CHEIRONION. Hypericum origanifoliis
+gunther,row450,3.58,div-430,LIGUSTIKON,Laserpitium Siler
+gunther,row451,3.59,div-431,STAPHULINOS AGRIOS,Daucus guttatus
+gunther,row452,3.60,div-432,SESELI MASSALEOTIKON,Echinophora tenuifolia
+gunther,row453,3.61,div-433,SESELI AITHIOPIKON,Bupleurum fruticosum
+gunther,row454,3.62,div-434,SESELI PELOPONNESIAKON,Angelica sylvestris or Myrrhis odorata
+gunther,row455,3.63,div-435,TORDULION,°63. TORDULION. Tordylium officinale
+gunther,row456,3.64,div-436,SISON,°64. SISON. Sison Amomum
+gunther,row457,3.65,div-437,ANISON,Pimpinella Anisum
+gunther,row458,3.66,div-438,KAROS,Carum Carui. Carroway
+gunther,row459,3.67,div-439,ANETHON,Anethum graveolens
+gunther,row460,3.68,div-440,KUMINON AGRION,Lagoecia cuminoides
+gunther,row461,3.69,div-441,KUMINON EMERON,Cuminum Cyminum
+gunther,row462,3.70,div-442,AMMI,Ammi visnaga
+gunther,row463,3.71,div-443,KORIANNON,Coriandrum sativum
+gunther,row464,3.72,div-444,IERAKION MEGA,Arnopogon picroides
+gunther,row465,3.73,div-445,IERAKION MIKRON,Scorzonera elongata
+gunther,row466,3.74,div-446,SELINON AGRION,Ranunculus repens (Penzig)
+gunther,row467,3.75,div-447,ELEIOSELINON,Apium graveolens
+gunther,row468,3.76,div-448,OREOSELINON,Petroselinum sativum. Parsley
+gunther,row469,3.77,div-449,PETROSELINON,°77. PETROSELINON. Athamanta macedonica
+gunther,row470,3.78,div-450,IPPOSELINON,°78. IPPOSELINON. Smyrnium Olusatrum
+gunther,row471,3.79,div-451,SMURNION,Smyrnium Dioscoridis
+gunther,row472,3.80,div-452,ELAPHOBOSKON,Pastinaca Graeca
+gunther,row473,3.81,div-453,MARATHRON,Foeniculum vulgare
+gunther,row474,3.82,div-454,IPPOMARATHRON,Prangos ferulacea
+gunther,row475,3.83,div-455,DAUKOS,(1) Athamanta Cretensis? or Daucus Carota
+gunther,row476,3.84,div-456,DELPHINION,Delphinium peregrinum
+gunther,row477,3.85,div-457,DELPHINION ETERON,Delphinium consolida
+gunther,row478,3.86,div-458,PURETHRON,Anthemis Pyrethrum
+gunther,row479,3.87,div-459,LIBANOTIS,°87. LIBANOTIS. (1) Cachrys Libanotis
+gunther,row480,3.88,div-460,KAGCHRU,°88. KAGCHRU.
+gunther,row481,3.89,div-461,LIBANOTIS,Rosmarinus officinalis
+gunther,row482,3.90,div-462,SPHONDULION,Heracleum Sphondylium
+gunther,row483,3.91,div-463,NARTHEX,Ferula communis
+gunther,row484,3.92,div-464,PEUKEDANON,Peucedanum officinale
+gunther,row485,3.93,div-465,MELANTHION,Nigella sativa
+gunther,row486,3.94,div-466,SILPHION,°94. SILPHION. Ferula tingitana
+gunther,row487,3.95,div-467,SAGAPENON,°95. SAGAPENON. Ferula persica
+gunther,row488,3.96,div-468,EUPHORBION,°96. EUPHORBION. Euphorbia sp.
+gunther,row489,3.97,div-469,CHALBANE,°97. CHALBANE. Ferula Ferulago or Selinum Galbanum
+gunther,row490,3.98,div-470,AMMONIAKON,Ferula orientalis or F. tingitana
+gunther,row491,3.99,div-471,SARKOKOLLA,°99. SARKOKOLLA. Penaea sp.
+gunther,row492,3.100,div-472,GLAUKION,°100. GLAUKION. Glaucium corniculatum
+gunther,row493,3.102,div-473,ICHTHUOKOLLA,°102. ICHTHUOKOLLA. Accipenser Huso
+gunther,row494,3.103,div-474,IXOS,°103. IXOS. Viscum album? or Loranthus Europaeus
+gunther,row495,3.104,div-475,APARINE,Galium verrucosum or G. Aparine
+gunther,row496,3.105,div-476,ALUSSON,Alyssum clypeatum
+gunther,row497,3.160,div-477,ASKLEPIAS,Cynanchum Vincetoxicum
+gunther,row498,3.107,div-478,ATRAKTULIS,"Atriplex hortensis, Sprengel, Carthamus lanatus"
+gunther,row499,3.108,div-479,POLUKNEMON,Mentha arvensis
+gunther,row500,3.109,div-480,KLINOPODION,Melissa Clinopodium
+gunther,row501,3.110,div-481,LEONTOPETALON,Leontice Chrysogonum
+gunther,row502,3.111,div-482,TEUKRION,Teucrium flavum or Veronica Teucrium
+gunther,row503,3.112,div-483,CHAMAIDRUS,Teucrium Chamaedrys
+gunther,row504,3.113,div-484,LEUKAS,°113. LEUKAS. Lamium maculatum
+gunther,row505,3.114,div-485,LUCHNIS STEPHANOMATIKE,Lychnis Coronaria
+gunther,row506,3.115,div-486,LUCHNIS AGRIA,Agrostemma Githago
+gunther,row507,3.116,div-487,KRINON BASILIKON,Lilium candidum
+gunther,row508,3.117,div-488,BALLOTE,Lamium striatum?
+gunther,row509,3.118,div-489,MELISSOPHULLON,Melissa officinalis
+gunther,row510,3.119,div-490,PRASION,Marrubium vulgare
+gunther,row511,3.120,div-491,STACHUS,Stachys Palaestina (Fig. fictitious)
+gunther,row512,3.121,div-492,PHULLITIS,Scolopendrium vulgare
+gunther,row513,3.122,div-493,PHALAGGION,Anthericum graecum
+gunther,row514,3.123,div-494,TRIPHULLON,Psoralea bituminosa
+gunther,row515,3.124,div-495,POLION,Teucrium Polium
+gunther,row516,3.125,div-496,SKORDION,Teucrium Scordioides
+gunther,row517,3.126,div-497,BECHION,Tussilago Farfara
+gunther,row518,3.127,div-498,ARTEMISIA MONOKLONOS,Artemisia campestris
+gunther,row519,3.129,div-499,AMBROSIA,Artemisia campestris
+gunther,row520,3.130,div-500,BOTRUS,°130. BOTRUS. Chenopodium Botrys
+gunther,row521,3.131,div-501,GERANION,Geranium tuberosum
+gunther,row522,3.132,div-502,GNAPHALION,Santolina maritima
+gunther,row523,3.133,div-503,TUPHE,"Typha latifolia, T. angustata"
+gunther,row524,3.136,div-504,KONUZA,(1) Inula viscosa
+gunther,row525,3.137,div-505,EMEROKALLIS,Lilium chalcedonicum
+gunther,row526,3.138,div-506,LEUKOION,"Cheiranthus Cheiri, Matthiola incana"
+gunther,row527,3.139,div-507,KRATAIOGONON,Polygonum Hydropiper
+gunther,row528,3.140,div-508,PHULLON,Mercurialis annua
+gunther,row529,3.141,div-509,ORCHIS,"°141. ORCHIS. Orchis rubra, O. papilionacea"
+gunther,row530,3.142,div-510,ORCHIS ETEROS,°142. ORCHIS ETEROS. Ophrys apifera?
+gunther,row531,3.143,div-511,SATURION,°143. SATURION. Ophrys sp.
+gunther,row532,3.144,div-512,SATURION ERUTHRONION,°144. SATURION ERUTHRONION. Erythronium Dens canis
+gunther,row533,3.145,div-513,ORMINON EMERON,Salvia Horminum
+gunther,row534,3.146,div-514,EDUSARON,°146. EDUSARON. Securigera coronilla
+gunther,row535,3.147,div-515,ONOSMA,Onosma sp. incert.
+gunther,row536,3.148,div-516,NUMPHAIA,Nymphaea alba
+gunther,row537,3.149,div-517,NUMPHAIA ALLE,Nuphar luteum
+gunther,row538,3.151,div-518,ASPLENON,Gymnogramma Ceterach
+gunther,row539,3.152,div-519,EMIONITIS,Scolopendrium Hemionitis
+gunther,row540,3.153,div-520,ANTHULLIS,(1) Cressa cretica
+gunther,row541,3.154,div-521,ANTHEMIS,°154. ANTHEMIS. (1) Anthemis chia
+gunther,row542,3.155,div-522,PARTHENION (AMARAKON),Pyrethrum Parthenium
+gunther,row543,3.156,div-523,BUPHTHALMON,Anthemis Valentina
+gunther,row544,3.157,div-524,PAIONIA ARREN,Paeonia corallina
+gunther,row545,3.158,div-525,LITHOSPERMON,Lithospermum officinale
+gunther,row546,3.159,div-526,PHALARIS,Phalaris canariensis
+gunther,row547,3.160,div-527,ERUTHRODANON,Rubia tinctorum
+gunther,row548,3.161,div-528,LOGCHITIS,Serapias lingua
+gunther,row549,3.162,div-529,LOGCHITIS ETERA,Aspidium Lonchitis
+gunther,row550,3.163,div-530,ALTHAIA,Althea officinalis
+gunther,row551,3.164,div-531,ALKEA,°164. ALKEA. Malva Alcea
+gunther,row552,3.165,div-532,KANNABIS EMEROS,Cannabis sativa
+gunther,row553,3.166,div-533,KANNABIS AGRIA,Althea cannabina
+gunther,row554,3.167,div-534,ANAGURIS,Anagyris foetida
+gunther,row555,3.168,div-535,KEPAIA,°168. KEPAIA. Sedum Cepaea
+gunther,row556,3.169,div-536,ALISMA,Alisma Plantago
+gunther,row557,3.170,div-537,ONOBRUCHIS,Vicia Onobrychis
+gunther,row558,3.171,div-538,UPERIKON,Hypericum crispum or H. barbatum
+gunther,row559,3.172,div-539,ASKURON,°172. ASKURON. Hypericum perforatum
+gunther,row560,3.173,div-540,ANDROSAIMON,°173. ANDROSAIMON. Hypericum perfoliatum or H. ciliatum Sibth
+gunther,row561,3.174,div-541,KORIS,°174. KORIS. Hypericum Coris
+gunther,row562,3.175,div-542,CHAMAIPITUS,°175. CHAMAIPITUS. Ajuga Chamaepitys
+gunther,row563,3.176,div-543,CHAMAIPITUS ETERA,°176. CHAMAIPITUS ETERA. Aiuga Chamaepitys
+gunther,row564,4.1,div-545,KESTRON,Betonica Alopecurus
+gunther,row565,4.2,div-546,BETTONIKE,Lythrum Salicaria?
+gunther,row566,4.3,div-547,LUSIMACHION,Lysimachia vulgaris
+gunther,row567,4.4,div-548,POLUGONON ARREN,Polygonum aviculare
+gunther,row568,4.5,div-549,POLUGONON THELU,Hippuris vulgaris
+gunther,row569,4.6,div-550,POLUGONATON,Convallaria Polygonatum
+gunther,row570,4.7,div-551,KLEMATIS,Vinca minor
+gunther,row571,4.8,div-552,POLEMONION,Polemonium coeruleum
+gunther,row572,4.9,div-553,SUMPHUTON PETRAION,Symphytum sp.
+gunther,row573,4.10,div-554,SUMPHUTON ALLO,Symphytum sp.
+gunther,row574,4.11,div-555,OLESTION,Holosteum sp.
+gunther,row575,4.12,div-556,STOIBE,Poterium spinosum
+gunther,row576,4.13,div-557,KLUMENON,Convolvulus Sepium
+gunther,row577,4.14,div-558,PERIKLUMENON,Convolvulus arvensis
+gunther,row578,4.15,div-559,TRIBOLOS ENUDROS,(1) Tribulus terrestris
+gunther,row579,4.16,div-560,LEIMONION,Beta sylvestris (Goodyer)
+gunther,row580,4.17,div-561,LAGOPOUS,Trifolium arvense
+gunther,row581,4.18,div-562,MEDION,Astragalus sesameus
+gunther,row582,4.19,div-563,EPIMEDION,Epimedium alpinum
+gunther,row583,4.20,div-564,XIPHION,Gladiolus communis
+gunther,row584,4.21,div-565,SPARGANION,Sparganium ramosum
+gunther,row585,4.22,div-566,XURIS,Iris foetidissima
+gunther,row586,4.23,div-567,ANCHOUSA,Anchusa tinctoria
+gunther,row587,4.24,div-568,ANCHOUSA ETERA,Echium creticum
+gunther,row588,4.25,div-569,ANCHOUSA ETERA,Lithospermum fruticosum
+gunther,row589,4.26,div-570,LUKOPSIS,Echium italicum
+gunther,row590,4.27,div-571,ECHION,Echium vulgare
+gunther,row591,4.28,div-572,OKIMOEIDES,Cerastium aquaticum?
+gunther,row592,4.30,div-573,AGROSTIS,Cynodon Dactylon
+gunther,row593,4.31,div-574,KALAMAGROSTIS,Cynosurus Egyptiaca
+gunther,row594,4.32,div-575,AGROSTIS EN PARNASSO,Parnassia palustris.
+gunther,row595,4.33,div-576,SIDERITIS,Sideritis remota
+gunther,row596,4.34,div-577,SIDERITIS ETERA,Sanguisorba officinalis
+gunther,row597,4.35,div-578,SIDERITIS TRITE,Scrophularia lucida?
+gunther,row598,4.36,div-579,ACHILLEIOS,Achillea sp.
+gunther,row599,4.37,div-580,BATOS,"Rubus fruticosus, R. ulmifolius"
+gunther,row600,4.38,div-581,BATOS IDAIA,Rubus Idaeus
+gunther,row601,4.39,div-582,ELXINE KUSSAMPELOS,Convolvulus arvensis
+gunther,row602,4.40,div-583,ELATINE,Linaria spurea
+gunther,row603,4.41,div-584,EUPATORION,Eupatorium cannabinum
+gunther,row604,4.42,div-585,PENTAPHULLON,Potentilla reptans
+gunther,row605,4.43,div-586,PHOINIX,Hordeum murinum
+gunther,row606,4.45,div-587,RHODIA RADIX,Sedum Rhodiola
+gunther,row607,4.46,div-588,IPPOURIS,Equisetum sylvaticum or fluviatile
+gunther,row608,4.47,div-589,IPPOURIS ETERA,Equisetum arvense or limosum
+gunther,row609,4.48,div-590,KOKKOS BAPHIKE,Quercus coccifera
+gunther,row610,4.49,div-591,TRAGION ALLO,Tragium columnae
+gunther,row611,4.52,div-592,SCHOINOS,Juncus acutus
+gunther,row612,4.53,div-593,LEICHEN,Lichen
+gunther,row613,4.54,div-594,PARONUCHIA,Illecebrum Paronychia
+gunther,row614,4.55,div-595,CHRUSOKOME,Chrysocome Linosyris
+gunther,row615,4.56,div-596,CHRUSOGONON,Leontice Leontopetalum
+gunther,row616,4.57,div-597,ELICHRUSON,Helichrysum siculum
+gunther,row617,4.58,div-598,CHRUSANTHEMON,Chrysanthemum Coronarium
+gunther,row618,4.59,div-599,AGERATON,Achillea viscosa
+gunther,row619,4.60,div-600,PERISTEREON ORTHOS,Verbena sp.
+gunther,row620,4.62,div-601,ASTRAGALOS,Astragalus Baeticus
+gunther,row621,4.63,div-602,UAKINTHOS,Scilla bifolia
+gunther,row622,4.64,div-603,MEKON ROIAS,Papaver Rhoeas
+gunther,row623,4.65,div-604,MEKON AGRIOS & EMEROS,Papaver somniferum
+gunther,row624,4.66,div-605,MEKON KERATITES,Glaucium luteum
+gunther,row625,4.67,div-606,MEKON APHRODES,Silene inflata
+gunther,row626,4.68,div-607,UPEKOON,Hypecoum procumbens
+gunther,row627,4.69,div-608,UOSKUAMOS MELAS,Hyoscyamus niger
+gunther,row628,4.70,div-609,PSULLION,Plantago Psyllium
+gunther,row629,4.71,div-610,STRUCHNOS KEPAIOS,Solanum nigrum
+gunther,row630,4.72,div-611,STRUCHNON ALIKAKABON,Physalis alkekengi?
+gunther,row631,4.73,div-612,STRUCHNON UPNOTIKON,Withania somnifera
+gunther,row632,4.74,div-613,STRUCHNON MANIKON,Datura Stramonium
+gunther,row633,4.76,div-614,MANDRAGORAS,Atropa Mandragora
+gunther,row634,4.77,div-615,AKONITON,Doronicum Pardalianches
+gunther,row635,4.78,div-616,AKONITON ETERON,Aconitum Lycoctonum
+gunther,row636,4.79,div-617,KONEION,Conium maculatum
+gunther,row637,4.80,div-618,SMILAX,Quercus Ilex typica
+gunther,row638,4.81,div-619,APOCUNON,Cynanche erectus
+gunther,row639,4.82,div-620,NERION,Nerium Oleander
+gunther,row640,4.83,div-621,MUKETES,Fungi sp.
+gunther,row641,4.84,div-622,KOLCHIKON,Colchicum autumnale
+gunther,row642,4.85,div-623,EPHEMERON,Colchicum parnassicum
+gunther,row643,4.86,div-624,ELXINE,Parietaria
+gunther,row644,4.87,div-625,ALSINE,"Parietaria cretica (Cf. Bk. ii, ch. 214)"
+gunther,row645,4.88,div-626,PHAKOS EPI TON TELMATON,Lemna sp.
+gunther,row646,4.89,div-627,AEIZOON TO MEGA,Sempervivum arboreum
+gunther,row647,4.90,div-628,AEIZOON TO MIKRON,Sedum ochroleucum
+gunther,row648,4.91,div-629,AEIZOON ETERON,Sedum stellatum
+gunther,row649,4.92,div-630,KOTULEDON,Cotyledon Umbelicus
+gunther,row650,4.93,div-631,KOTULEDON ETERON,Cotyledon serrata
+gunther,row651,4.94,div-632,AKALUPHE,Urtica pilulifera
+gunther,row652,4.95,div-633,GALIOPSIS,Scrophularia peregrina
+gunther,row653,4.96,div-634,GALLION,Galium verum
+gunther,row654,4.97,div-635,ERIGERON,Senecio vulgaris
+gunther,row655,4.98,div-636,THALIKTRON,Thalictrum minus
+gunther,row656,4.99,div-637,BRUON THALASSION,Ulva Lactuca
+gunther,row657,4.100,div-638,PHUKOS THALASSION,Fucoidearum sp. variae.
+gunther,row658,4.101,div-639,POTAMOGEITON,Potamogeton
+gunther,row659,4.102,div-640,STRATIOTES O EN TOIS UDASIN,Stratiotes aloides
+gunther,row660,4.103,div-641,STRATIOTES CHILIOPHULLOS,103. STRATIOTES CHILIOPHULLOS.
+gunther,row661,4.104,div-642,PHLOMOS,"Verbascum sp., B. sinuatum"
+gunther,row662,4.105,div-643,AITHIOPIS,Salvia Aethiopis
+gunther,row663,4.106,div-644,ARKTION,Conyza candida
+gunther,row664,4.108,div-645,PETASITES,Tussilago Farfara
+gunther,row665,4.109,div-646,EPIPAKTIS,Herniaria glabra
+gunther,row666,4.110,div-647,KAPNOS,Fumaria parvifolia
+gunther,row667,4.111,div-648,LOTOS EMEROS,Trifolium frugiferum
+gunther,row668,4.112,div-649,LOTOS AGRIOS,Trigonella elatior
+gunther,row669,4.113,div-650,KUTISOS,Laburnum vulgare
+gunther,row670,4.114,div-651,LOTOS AIGUPTIOS,Nymphaea stellata
+gunther,row671,4.115,div-652,MURIOPHULLON,Achillea Millefolium?
+gunther,row672,4.116,div-653,MURRIS,Myrrhis odorata
+gunther,row673,4.117,div-654,MUAGROS,Camelina sativa
+gunther,row674,4.118,div-655,ONAGRA,Oenothera biennis
+gunther,row675,4.119,div-656,KIRSION,Cirsium tenuiflorum
+gunther,row676,4.120,div-657,ASTER ASTIKOS,Aster Amellus
+gunther,row677,4.121,div-658,ISOPURON,Corydalis claviculata
+gunther,row678,4.122,div-659,ION,Viola odorata
+gunther,row679,4.123,div-660,KAKALIA,Inula candida
+gunther,row680,4.124,div-661,BOUNION,Pimpinella dissecta
+gunther,row681,4.125,div-662,PSEUDOBOUNION,Pimpinella dioecia
+gunther,row682,4.126,div-663,CHAMAIKISSOS,126. CHAMAIKISSOS.
+gunther,row683,4.128,div-664,BOUGLOSSON,Anchusa paniculata?
+gunther,row684,4.129,div-665,KUNOGLOSSON,Cynoglossum officinalis
+gunther,row685,4.130,div-666,PHUTEUMA,Silene sp.
+gunther,row686,4.131,div-667,LEONTOPODION,Micropus erectus
+gunther,row687,4.132,div-668,IPPOGLOSSON,Ruscus hypoglossum
+gunther,row688,4.133,div-669,ANTIRRINON (KUNOKEPHALON),Antirrhinum Orontium
+gunther,row689,4.135,div-670,TRIPOLION,Aster Tripolium
+gunther,row690,4.136,div-671,ADIANTON,Adiantum Capillus-Veneris
+gunther,row691,4.137,div-672,TRICHOMANES,Asplenium Trichomanes
+gunther,row692,4.138,div-673,XANTHION,Xanthium strumarium
+gunther,row693,4.139,div-674,AIGILOPS,Aegilops ovata
+gunther,row694,4.140,div-675,BROMOS,"Avena fatua, A. sativa"
+gunther,row695,4.141,div-676,GLAUX,Astragalus glaux
+gunther,row696,4.142,div-677,POLUGALON,Astragalus sp.
+gunther,row697,4.143,div-678,OSUROS,Osyris alba
+gunther,row698,4.144,div-679,SMILAX TRACHEIA,Smilax aspera
+gunther,row699,4.145,div-680,SMILAX LEIA,Convolvulus sepium
+gunther,row700,4.146,div-681,MURSINE AGRIA,Ruscus aculeatus
+gunther,row701,4.147,div-682,DAPHNE ALEXANDRINA,Ruscus Hypophyllum
+gunther,row702,4.148,div-683,DAPHNOIDES,Daphne Mezereon
+gunther,row703,4.149,div-684,CHAMAIDAPHNE,Ruscus hypophyllum
+gunther,row704,4.150,div-685,ELLEBOROS,Veratrum album
+gunther,row705,4.151,div-686,ELLEBOROS MELAS,Helleborus officinalis
+gunther,row706,4.152,div-687,SESAMOEIDES,Drug from Helleborus cyclophyllus
+gunther,row707,4.153,div-688,SESAMOEIDES MIKRON,Reseda canescens
+gunther,row708,4.154,div-689,SIKUS AGRIOS,Momordica Elaterium
+gunther,row709,4.155,div-690,ELATERION,Elaterium
+gunther,row710,4.156,div-691,STAPHISAGRIA,Delphinium Staphisagria
+gunther,row711,4.157,div-692,THAPSIA,Thapsia garganica (cf. Malabaila)
+gunther,row712,4.158,div-693,SPARTION,Spartium junceum
+gunther,row713,4.159,div-694,SILUBON,Silybum marianum
+gunther,row714,4.160,div-695,BALANOS AUREPSIKE,Fruit of tree like Tamarisk
+gunther,row715,4.161,div-696,NARKISSOS,Narcissus poeticus
+gunther,row716,4.162,div-697,IPPOPHAES,Hippophae rhamnoides
+gunther,row717,4.163,div-698,IPPOPHAISTON,Cirsium stellatum
+gunther,row718,4.164,div-699,KROTON E KIKI,Ricinus communis
+gunther,row719,4.165,div-700,TITHUMALOS CHARACHIAS,Euphorbia Characias
+gunther,row720,4.165,div-701,TITHUMALOS MURSINITES,Euphorbia Myrsinites
+gunther,row721,4.165,div-702,TITHUMALOS KUPARISSIOS,Euphorbia aleppica
+gunther,row722,4.165,div-703,TITHUMALOS ELIOSKOPIOS,Euphorbia helioscopia
+gunther,row723,4.165,div-704,TITHUMALOS PARALIOS,Euphorbia Paralias
+gunther,row724,4.165,div-705,TITHUMALOS DENDRITES,Euphorbia dendroidea
+gunther,row725,4.165,div-706,TITHUMALOS PLATUPHULLOS,Euphorbia pilosa
+gunther,row726,4.166,div-707,PITUOUSA,Pinus halepensis
+gunther,row727,4.167,div-708,LATHUROS,Euphorbia Lathyris
+gunther,row728,4.168,div-709,PEPLOS,Euphorbia falcata
+gunther,row729,4.169,div-710,PEPLION,Euphorbia Peplis
+gunther,row730,4.170,div-711,CHAMAISUKE,Euphorbia Chamaesyce
+gunther,row731,4.171,div-712,SKAMMONIA,"Convolvulus farinosus, C. Scammonia"
+gunther,row732,4.172,div-713,CHAMELAIA,Daphne oleoides
+gunther,row733,4.173,div-714,THUMELAIA,Daphne Gnidium
+gunther,row734,4.174,div-715,AKTE,Sambucus nigra
+gunther,row735,4.175,div-716,CHAMAIAKTE,Sambucus Ebulus
+gunther,row736,4.176,div-717,PUKNOKOMON,Leonurus Marrubiastrum
+gunther,row737,4.177,div-718,APIOS,Euphorbia Apios
+gunther,row738,4.178,div-719,KOLOKUNTHIS,"Cucumis colocynthis, Cucurbita maxima"
+gunther,row739,4.179,div-720,EPITHUMON,Cuscuta Epithymum
+gunther,row740,4.181,div-721,EMPETRON,Sedum anopetalum
+gunther,row741,4.182,div-722,KLEMATITIS,Clematis cirrhosa
+gunther,row742,4.185,div-723,AMPELOS MELAINA,Tamus comunis?
+gunther,row743,4.186,div-724,PTERIS,Aspidium aculeatum Nephrodium felix mas
+gunther,row744,4.187,div-725,THELUPTERIS,Pteris aquilina
+gunther,row745,4.188,div-726,POLUPODION,Polypodium vulgare
+gunther,row746,4.189,div-727,DRUOPOTERIS,Asplenium Adiantum nigrum?
+gunther,row747,4.190,div-728,KNIKOS,Cnicus sp. or Carthamus tinctorius
+gunther,row748,4.191,div-729,LINOZOSTIS,Mercurialis annua
+gunther,row749,4.192,div-730,KUNOKRAMBE,Thelygonum Cynocrambe
+gunther,row750,4.193,div-731,ELIOTROPION MEGA,Heliotropium europaeum
+gunther,row751,4.194,div-732,ELIOTROPION MIKRON,Heliotropium villosum
+gunther,row752,4.195,div-733,SKORPIOIDES,Calendula officinalis
+gunther,row753,5.1,div-735,AMPELOS OINOPHOROS,Vitis vinifera
+gunther,row754,5.2,div-736,AMPELOS AGRIA,Vitis sylvestris
+gunther,row755,5.3,div-737,STAPHULE,Grapes
+gunther,row756,5.4,div-738,STAPHIS,Dried Grapes or Raisins
+gunther,row757,5.5,div-739,OINANTHE,Fruit of Wild Vine
+gunther,row758,5.6,div-740,OMPHACION,Juice of Unripe Grapes
+gunther,row759,5.12,div-741,OMPHAKITES OINOS,Lesbian Wine
+gunther,row760,5.13,div-742,DEUTERIAS OINOS,‘Deuteria’ or Secondary Wine.
+gunther,row761,5.15,div-743,OINOS MELETITES,Wine of old Wine and Honey
+gunther,row762,5.16,div-744,OINOMELI,"Mulsum, Honey-wine or Mead"
+gunther,row763,5.17,div-745,MELIKRATON,"Melicrat, Water Mead"
+gunther,row764,5.18,div-746,UDOR,Water
+gunther,row765,5.19,div-747,UDOR THALASSION,Sea-water
+gunther,row766,5.20,div-748,THALASSOMELI,Sea-water sweetened with Honey
+gunther,row767,5.21,div-749,OXUS,Acetum or Vinegar
+gunther,row768,5.22,div-750,OXUMELI,Oxymel or Vinegar-honey
+gunther,row769,5.23,div-751,OXALME,Vinegar and Brine Sauce
+gunther,row770,5.24,div-752,THUMOXALME,Thymoxalme
+gunther,row771,5.25,div-753,SKILLETIKON OXUS,Squill Vinegar
+gunther,row772,5.26,div-754,OINOS SKILLETIKOS,Squill Wine
+gunther,row773,5.27,div-755,OINOS THALASSIKOS,Marinated Wine
+gunther,row774,5.28,div-756,OINOS KUDONITES,Quince Wine
+gunther,row775,5.29,div-757,MELOMELI,Quinces in Honey
+gunther,row776,5.30,div-758,UDROMELON,Hydromelon
+gunther,row777,5.32,div-759,OINOS APITES,Pear Wine
+gunther,row778,5.33,div-760,OINOS OINANTHINOS,Wine of Flowers of Wild Vine
+gunther,row779,5.34,div-761,OINOS ROITES,Pomegranate Wine
+gunther,row780,5.35,div-762,OINOS RODITES,Rose Wine
+gunther,row781,5.36,div-763,OINOS MURTITES,Myrtle Wine
+gunther,row782,5.37,div-764,OINOS MURSINITES,Myrtle Wine
+gunther,row783,5.38,div-765,OINOS SCHININOS,Lentiscus Wine
+gunther,row784,5.39,div-766,OINOS TERMINTHINOS,Terebinth Wine
+gunther,row785,5.40,div-767,OINOS PHOINIKITES,Date-palm Wine
+gunther,row786,5.41,div-768,OINOS KATORCHITES,Catorchites Wine
+gunther,row787,5.42,div-769,OINOS SUKOMORITES,Sycomore Wine
+gunther,row788,5.43,div-770,OINOS RETINITES,Rosin Wine
+gunther,row789,5.44,div-771,STROBILITES,Pine-cone Wine
+gunther,row790,5.45,div-772,OINOS KEDRINOS,Cedar Wine
+gunther,row791,5.46,div-773,OINOS ARKEUTHIDITES,Juniper Wine
+gunther,row792,5.48,div-774,OINOS PISSITES,Pitch Wine
+gunther,row793,5.49,div-775,OINOS APSINTHITES,Absinth
+gunther,row794,5.50,div-776,OINOS USSOPITES,Hyssop Wine
+gunther,row795,5.51,div-777,OINOS CHAMAIDRUITES,Germander Wine
+gunther,row796,5.52,div-778,OINOS STICHADITES,Lavender Wine
+gunther,row797,5.53,div-779,OXUS STICHADIKON,Lavender Vinegar
+gunther,row798,5.54,div-780,OINOS KESRITES,Betony Wine
+gunther,row799,5.61,div-781,OINOS ORIGANITES,61. OINOS ORIGANITES.
+gunther,row800,5.74,div-782,OINOS SELENITES,74. OINOS SELENITES.
+gunther,row801,5.77,div-783,OINOS PHTHORIOS EMBRUON,Abortion Wine
+gunther,row802,5.85,div-784,POMPHOLUX,Pompholyx: a deposit in smelting furnaces
+gunther,row803,5.86,div-785,ANTISPODA,Ashes used instead of Spodium
+gunther,row804,5.87,div-786,CHALKOS KEKUMENOS,Burnt Copper
+gunther,row805,5.88,div-787,CHALKOU ANTHOS,Flowers of Copper
+gunther,row806,5.89,div-788,LEPIS,Scales of Copper
+gunther,row807,5.90,div-789,LEPIS STOMOMATOS,Smithy scales
+gunther,row808,5.91,div-790,IOS XUSTOS,Verdigris
+gunther,row809,5.93,div-791,IOS SIDEROU,Iron-rust
+gunther,row810,5.94,div-792,SKORIA SIDEROU,Iron-slag
+gunther,row811,5.95,div-793,MOLUBDOS PEPLUMENOS,Washed Lead
+gunther,row812,5.96,div-794,MOLUBDOS KEKAUMENOS,Burnt Lead
+gunther,row813,5.97,div-795,SKORIA MOLUBDOU,Lead-dross
+gunther,row814,5.98,div-796,MOLUBDOEIDES LITHOS,Lead-stone
+gunther,row815,5.99,div-797,STIMMI,Antimony Sulphide
+gunther,row816,5.100,div-798,MOLUBDAINA,Galena or Lead Sulphide
+gunther,row817,5.101,div-799,SKORIA ARGUROU,Silver-dross
+gunther,row818,5.102,div-800,LITHARGUROS,Litharge
+gunther,row819,5.103,div-801,PSIMUTHIOS,White Lead
+gunther,row820,5.107,div-802,INDIKON,Indigo
+gunther,row821,5.108,div-803,OCHRA,Ochre
+gunther,row822,5.109,div-804,KINNABARI,Cinnabar
+gunther,row823,5.110,div-805,UDRAGUROS,Quicksilver
+gunther,row824,5.111,div-806,MILTOS SINOPIKE,Red earth of Sinope
+gunther,row825,5.112,div-807,TEKTONIKE,Red ochre
+gunther,row826,5.113,div-808,LEMNIA GE,Lemnian earth
+gunther,row827,5.114,div-809,CHALKANTHON,Copperas-water
+gunther,row828,5.115,div-810,CHALKITIS,Copper ore
+gunther,row829,5.118,div-811,MELANTHERIA,Blacking
+gunther,row830,5.119,div-812,SORU,Ink-stone (an ore)
+gunther,row831,5.120,div-813,DIPHRUGES,Tutty
+gunther,row832,5.121,div-814,ARSENIKON,Orpiment
+gunther,row833,5.122,div-815,SANDARACHE,Realgar
+gunther,row834,5.123,div-816,STUPTERIA,Alum
+gunther,row835,5.124,div-817,THEION,Sulphur
+gunther,row836,5.125,div-818,KISSERIS,Pumice
+gunther,row837,5.126,div-819,ALES,Salt
+gunther,row838,5.127,div-820,ALOS ACHNE,Sea-Foam
+gunther,row839,5.128,div-821,ALME,Saltpetre?
+gunther,row840,5.129,div-822,ALOS ANTHOS,Soda
+gunther,row841,5.130,div-823,NITRON,Native soda
+gunther,row842,5.132,div-824,TRUX,Lees of wine
+gunther,row843,5.133,div-825,ASBESTOS,Quick-lime
+gunther,row844,5.134,div-826,GUPSOS,Gypsum
+gunther,row845,5.135,div-827,TEPHRA KLEMATINE,Sarmentian ashes
+gunther,row846,5.136,div-828,ALKUONION,"Castings of King-fishers, etc."
+gunther,row847,5.137,div-829,ADARKES,Calcium Chloride and other salts
+gunther,row848,5.138,div-830,SPOGGOI,Sponges
+gunther,row849,5.139,div-831,KORALLION,Isis nobilis
+gunther,row850,5.140,div-832,ANTIPATHES,Antipathes formiculaceum
+gunther,row851,5.141,div-833,PHRUGIOS LITHOS,Pumice with alum
+gunther,row852,5.143,div-834,PURITES LITHOS,Copper pyrites
+gunther,row853,5.144,div-835,AIMATITES LITHOS,Haematite
+gunther,row854,5.145,div-836,SCHISTOS LITHOS,Haematite
+gunther,row855,5.146,div-837,GAGATES LITHOS,Fossil Bitumen
+gunther,row856,5.148,div-838,MAGNES,Load-stone
+gunther,row857,5.150,div-839,GALAKTITES LITHOS,Chalk
+gunther,row858,5.151,div-840,MELITITES LITHOS,Honey-stone
+gunther,row859,5.152,div-841,MOROCHTHOS LITHOS,"Soap-stone, French Chalk"
+gunther,row860,5.153,div-842,ALABASTRITES LITHOS,Gypsum
+gunther,row861,5.154,div-843,THUITES LITHOS,Turquoise
+gunther,row862,5.155,div-844,IOUDAIKOS LITHOS,Fossil Spines of Sea Urchins
+gunther,row863,5.156,div-845,AMIANTOS LITHOS,Asbestos
+gunther,row864,5.157,div-846,SAPHEIROS LITHOS,Lapis Lazuli
+gunther,row865,5.158,div-847,MEMPHITES LITHOS,Retinasphaltum
+gunther,row866,5.159,div-848,SELENITES LITHOS,Selenite
+gunther,row867,5.160,div-849,IASPIS LITHOS,Jasper
+gunther,row868,5.161,div-850,AETITES LITHOS,Eagle-stone
+gunther,row869,5.162,div-851,OPHITES LITHOS,Snake-stone
+gunther,row870,5.165,div-852,OSTRAKITES LITHOS,Fossil Oysters
+gunther,row871,5.166,div-853,SMURIS LITHOS,Emery
+gunther,row872,5.167,div-854,AMMOS,Sand
+gunther,row873,5.168,div-855,AKONE,Whetstone
+gunther,row874,5.170,div-856,GE,Earth
+gunther,row875,5.171,div-857,ERETRIAS,Terra Eretria
+gunther,row876,5.172,div-858,SAMIA,Terra Samia
+gunther,row877,5.174,div-859,CHIA,Chian earth
+gunther,row878,5.176,div-860,KIMOLIA,Cimolian earth
+gunther,row879,5.177,div-861,PNIGITIS,Potter’s clay
+gunther,row880,5.178,div-862,OSTRAKA,Tiles
+gunther,row881,5.181,div-863,GE AMPELITIS,A bituminous earth
+gunther,row882,5.182,div-864,ASBOLE,Soot
+gunther,row883,5.183,div-865,MELAN,Black Ink

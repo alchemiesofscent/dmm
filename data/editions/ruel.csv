@@ -1,0 +1,951 @@
+edition,edition_entry_id,ruel_page_scan,ruel_book,ruel_unknown_val,ruel_chapter,ruel_title_latin,ruel_folio
+ruel,row1,26,Liber primus,0,Cap I,De Iri.,
+ruel,row2,26,Liber primus,0,Cap II,De Acoro,
+ruel,row3,27,Liber primus,3,Cap III,De Meo,3r
+ruel,row4,27,Liber primus,3,Cap IIII,De Cypiro,3r
+ruel,row5,27,Liber primus,3,Cap V,De Cardamomo,3r
+ruel,row6,28,Liber primus,0,Cap VI,De Nardo,3v
+ruel,row7,28,Liber primus,0,Cap VII,De Nardo Celtico,3v
+ruel,row8,29,Liber primus,4,Cap VIII,De montano Nardo,4r
+ruel,row9,29,Liber primus,4,Cap IX,De Afaro,4r
+ruel,row10,29,Liber primus,4,Cap X,De Phu,4r
+ruel,row11,30,Liber primus,0,Cap XI,De Malabatro,4v
+ruel,row12,30,Liber primus,0,Cap XII,De Casia,4v
+ruel,row13,30,Liber primus,0,Cap XIII,De Pseudocasia,4v
+ruel,row14,31,Liber primus,5,Cap XIIII,De Cinnamomo,5r
+ruel,row15,31,Liber primus,5,Cap XV,De pseudocinnamo,5r
+ruel,row16,32,Liber primus,0,Cap XVI,De Amomo,5v
+ruel,row17,32,Liber primus,0,Cap XVII,De Costo,5v
+ruel,row18,33,Liber primus,6,Cap XVIII,De odorato Junco,6r
+ruel,row19,33,Liber primus,6,Cap XIX,De Calamo odorato,6r
+ruel,row20,33,Liber primus,6,Cap XX,De Balsamo,6r
+ruel,row21,33,Liber primus,6,Cap XXI,De opobalsamo,6r
+ruel,row22,34,Liber primus,0,Cap XXII,De Xylobalsamo,6v
+ruel,row23,34,Liber primus,0,Cap XXIII,De aspalatho,6v
+ruel,row24,35,Liber primus,7,Cap XXIIII,De musco,7r
+ruel,row25,35,Liber primus,7,Cap XXV,De agallocho,7r
+ruel,row26,35,Liber primus,7,Cap XXVI,De narcaphto,7r
+ruel,row27,35,Liber primus,7,Cap XXVII,De Cancamo,7r
+ruel,row28,35,Liber primus,7,Cap XXVIII,De Cyphi,7r
+ruel,row29,36,Liber primus,0,Cap XXIX,De croco,7v
+ruel,row30,36,Liber primus,0,Cap XXX,De Crocomagnate,7v
+ruel,row31,37,Liber primus,8,Cap XXXI,De Helenio,8r
+ruel,row32,37,Liber primus,8,Cap XXXII,De altero Helenio,8r
+ruel,row33,37,Liber primus,8,Cap XXXIII,De omphacino oleo,8r
+ruel,row34,38,Liber primus,0,Cap XXXIIII,De oleo sylvestris oliuae,8v
+ruel,row35,38,Liber primus,0,Cap XXXV,De Sicyonio,8v
+ruel,row36,38,Liber primus,0,Cap XXXVI,De strigmentis balnearum,8v
+ruel,row37,38,Liber primus,0,Cap XXXVII,De Elaeomelite,8v
+ruel,row38,39,Liber primus,9,Cap XXXVIII,De Cicino oleo,9r
+ruel,row39,39,Liber primus,9,Cap XXXIX,De amygdalino oleo,9r
+ruel,row40,39,Liber primus,9,Cap XL,De Balanino oleo,9r
+ruel,row41,39,Liber primus,9,Cap XLI,De Hyosciamnio oleo,9r
+ruel,row42,40,Liber primus,0,Cap XL,De oleo egrano cnidio,9v
+ruel,row43,40,Liber primus,0,Cap XLIII,De cnicino oleo,9v
+ruel,row44,40,Liber primus,0,Cap XLIIII,De rhaphanino,9v
+ruel,row45,40,Liber primus,0,Cap XLV,De melano,9v
+ruel,row46,40,Liber primus,0,Cap XLVI,De sinapino,9v
+ruel,row47,40,Liber primus,0,Cap XLVII,De Myrteo oleo,9v
+ruel,row48,40,Liber primus,0,Cap XLVIII,De laurino,9v
+ruel,row49,41,Liber primus,10,Cap XLIX,De lentiscino,10r
+ruel,row50,41,Liber primus,10,Cap L,De Mastichino oleo,10r
+ruel,row51,41,Liber primus,10,Cap LI,De unguentorum ratione,10r
+ruel,row52,41,Liber primus,10,Cap LII,De rosaceo,10r
+ruel,row53,42,Liber primus,0,Cap LIII,De elatino,10v
+ruel,row54,42,Liber primus,0,Cap LIIII,De Melino,10v
+ruel,row55,42,Liber primus,0,Cap LV,De oenanthini compositione,10v
+ruel,row56,42,Liber primus,0,Cap LVI,De Telini componendi ratione,10v
+ruel,row57,43,Liber primus,11,Cap LVII,De sampsuchino,11r
+ruel,row58,43,Liber primus,11,Cap LVIII,De Ocimini compositione,11r
+ruel,row59,43,Liber primus,11,Cap LIX,De Abrotonini compositione,11r
+ruel,row60,43,Liber primus,11,Cap LX,De Anethini compositione,11r
+ruel,row61,44,Liber primus,0,Cap LXI,De Susini compositione,11v
+ruel,row62,44,Liber primus,0,Cap LXII,De Narcissini compositione,11v
+ruel,row63,45,Liber primus,12,Cap LXIII,De Crocini olei compositione,12r
+ruel,row64,45,Liber primus,12,Cap LXIIII,De Cyprini pissameto et olei compositione,12r
+ruel,row65,46,Liber primus,0,Cap LXV,De Irini spissamento,12v
+ruel,row66,46,Liber primus,0,Cap LXVI,De Gleucini compositione,12v
+ruel,row67,46,Liber primus,0,Cap LXVII,De Amaracino,12v
+ruel,row68,47,Liber primus,13,Cap LXVIII,De Megalino,13r
+ruel,row69,47,Liber primus,13,Cap LXIX,De Hedycroo,13r
+ruel,row70,47,Liber primus,13,Cap LXX,De Metopio,13r
+ruel,row71,47,Liber primus,13,Cap LXXI,De Mendesio,13r
+ruel,row72,48,Liber primus,0,Cap LXXII,De Stacte,13v
+ruel,row73,48,Liber primus,0,Cap LXXIII,De Cinnamomino,13v
+ruel,row74,48,Liber primus,0,Cap LXXIIII,Denardino unguento,13v
+ruel,row75,48,Liber primus,0,Cap LXXV,De malabathrino,13v
+ruel,row76,48,Liber primus,0,Cap LXXVI,De Jasmino,13v
+ruel,row77,49,Liber primus,14,Cap LXXVII,De Myrrha,14r
+ruel,row78,50,Liber primus,0,Cap LXXVIII,De Boetiica myrrha,14v
+ruel,row79,50,Liber primus,0,Cap LXXIX,De Styrace,14v
+ruel,row80,50,Liber primus,0,Cap LXXX,De Bdelio,14v
+ruel,row81,51,Liber primus,15,Cap LXXXI,De Thure,15r
+ruel,row82,52,Liber primus,0,Cap LXXXII,De cortice thuris,15v
+ruel,row83,52,Liber primus,0,Cap LXXXIII,De manna thuris,15v
+ruel,row84,52,Liber primus,0,Cap LXXXIIII,De fuligine thuris,15v
+ruel,row85,52,Liber primus,0,Cap LXXXV,De fuliginis compositione,15v
+ruel,row86,52,Liber primus,0,Cap LXXXVI,De pinu et picea,15v
+ruel,row87,53,Liber primus,16,Cap LXXXVII,De pineis nucibus,16r
+ruel,row88,53,Liber primus,16,Cap LXXXVIII,De lentisco,16r
+ruel,row89,54,Liber primus,0,Cap LXXXIX,De resina lentiscina,16v
+ruel,row90,54,Liber primus,0,Cap XC,De Terebintho,16v
+ruel,row91,54,Liber primus,0,Cap XCI,De liquida resina e pinu et picea,16v
+ruel,row92,55,Liber primus,17,Cap XCII,De Pice liquida,17r
+ruel,row93,56,Liber primus,0,Cap XCIII,De picino oleo,17v
+ruel,row94,56,Liber primus,0,Cap XCIIII,De fuligine liquidae picis,17v
+ruel,row95,56,Liber primus,0,Cap XCV,De Sicca pice,17v
+ruel,row96,56,Liber primus,0,Cap XCVI,De zopissa,17v
+ruel,row97,57,Liber primus,18,Cap XCVII,De Bitumine,18r
+ruel,row98,57,Liber primus,18,Cap XCVIII,De Pissasphalto,18r
+ruel,row99,57,Liber primus,18,Cap XCIX,De Naphtha,18r
+ruel,row100,57,Liber primus,18,Cap C,De Cupresso,18r
+ruel,row101,58,Liber primus,0,Cap CI,De Junipero parua,18v
+ruel,row102,58,Liber primus,0,Cap CII,De Junipero magna,18v
+ruel,row103,58,Liber primus,0,Cap CIII,De Haerba Sabina,18v
+ruel,row104,58,Liber primus,0,Cap CIIII,De cedro,18v
+ruel,row105,58,Liber primus,0,Cap CV,De cedria,18v
+ruel,row106,59,Liber primus,19,Cap CVI,De Cedride,19r
+ruel,row107,59,Liber primus,19,Cap CVII,De Lauro,19r
+ruel,row108,59,Liber primus,19,Cap CVIII,De baccis lauri,19r
+ruel,row109,60,Liber primus,0,Cap CIX,De platano,19v
+ruel,row110,60,Liber primus,0,Cap CX,De fraxino,19v
+ruel,row111,60,Liber primus,0,Cap CXI,De populo alba,19v
+ruel,row112,60,Liber primus,0,Cap CXII,De macere,19v
+ruel,row113,60,Liber primus,0,Cap CXIII,De ulmo,19v
+ruel,row114,60,Liber primus,0,Cap CXIIII,De lignorum marcore,19v
+ruel,row115,61,Liber primus,20,Cap CXV,De populo nigra,20r
+ruel,row116,61,Liber primus,20,Cap CXVI,De Harundine,20r
+ruel,row117,61,Liber primus,20,Cap CXVII,De papyro,20r
+ruel,row118,61,Liber primus,20,Cap CXVIII,De myrica,20r
+ruel,row119,62,Liber primus,0,Cap CXIX,de erica,20v
+ruel,row120,62,Liber primus,0,Cap CXX,De acacalide,20v
+ruel,row121,62,Liber primus,0,Cap CXXI,De Rhamno,20v
+ruel,row122,62,Liber primus,0,Cap CXXII,De Halimo,20v
+ruel,row123,62,Liber primus,0,Cap CXXIII,De Paliuro,20v
+ruel,row124,63,Liber primus,21,Cap CXXIIII,De Acuta spina,21r
+ruel,row125,63,Liber primus,21,Cap CXXV,De Rubo canis,21r
+ruel,row126,63,Liber primus,21,Cap CXXVI,De ligustro,21r
+ruel,row127,63,Liber primus,21,Cap CXXVII,De Tilia,21r
+ruel,row128,63,Liber primus,21,Cap CXXVIII,De Cisto,21r
+ruel,row129,64,Liber primus,0,Cap CXXIX,De Hypocistide,21v
+ruel,row130,64,Liber primus,0,Cap CXXX,De Ladano,21v
+ruel,row131,64,Liber primus,0,Cap CXXXI,De hebeno,21v
+ruel,row132,65,Liber primus,22,Cap CXXXII,De rosa,22r
+ruel,row133,65,Liber primus,22,Cap CXXXIII,De roseis pastillis,22r
+ruel,row134,65,Liber primus,22,Cap CXXXIIII,De Lycio,22r
+ruel,row135,66,Liber primus,0,Cap CXXXV,De acacia,22v
+ruel,row136,67,Liber primus,23,Cap CXXXVI,De acacia altera,23r
+ruel,row137,67,Liber primus,23,Cap CXXXVII,De Amurca,23r
+ruel,row138,67,Liber primus,23,Cap CXXXVIII,De Vitice,23r
+ruel,row139,68,Liber primus,0,Cap CXXXIX,De salice,23v
+ruel,row140,68,Liber primus,0,Cap CLX,De Sylvestri olea,23v
+ruel,row141,69,Liber primus,24,Cap CXLI,De colymbadibus oliuis,24r
+ruel,row142,69,Liber primus,24,Cap CXLII,De oleo sylvestris oliuae,24r
+ruel,row143,69,Liber primus,24,Cap CXLIII,De Lachryma aethiopicae oleae,24r
+ruel,row144,69,Liber primus,24,Cap CXLIIII,De quaercu,24r
+ruel,row145,69,Liber primus,24,Cap CXLV,De Glande,24r
+ruel,row146,70,Liber primus,0,Cap CXLVI,De fago et ilice,24v
+ruel,row147,70,Liber primus,0,Cap CXLVII,De castaneis,24v
+ruel,row148,70,Liber primus,0,Cap CXLVIII,De Galla,24v
+ruel,row149,70,Liber primus,0,Cap CXLIX,De Rhoe,24v
+ruel,row150,71,Liber primus,25,Cap CL,De Palma,25r
+ruel,row151,71,Liber primus,25,Cap CLI,De thebaicis palmis,25r
+ruel,row152,71,Liber primus,25,Cap CLII,De Palma elate,25r
+ruel,row153,72,Liber primus,0,Cap CLIII,De malo punico,25v
+ruel,row154,72,Liber primus,0,Cap CLIIII,De Cytino id est flore punici,25v
+ruel,row155,72,Liber primus,0,Cap CLV,De mali corio,25v
+ruel,row156,72,Liber primus,0,Cap CLVI,De balaustio,25v
+ruel,row157,72,Liber primus,0,Cap CLVII,De myrto,25v
+ruel,row158,73,Liber primus,26,Cap CLVIII,De myrtidano,26r
+ruel,row159,73,Liber primus,26,Cap CLIX,De Gerasiis,26r
+ruel,row160,73,Liber primus,26,Cap CLX,De Siliquis,26r
+ruel,row161,73,Liber primus,26,Cap CLXI,De malo,26r
+ruel,row162,73,Liber primus,26,Cap CLXII,De cotoneo malo,26r
+ruel,row163,74,Liber primus,0,Cap CLXIII,De malis dulcibus,26v
+ruel,row164,74,Liber primus,0,Cap CLXIIII,De orbiculatis malis,26v
+ruel,row165,74,Liber primus,0,Cap CLXV,De sylvestribus malis,26v
+ruel,row166,74,Liber primus,0,Cap CLXVI,De persicis malis,26v
+ruel,row167,74,Liber primus,0,Cap CLXVII,De praecocibus,26v
+ruel,row168,74,Liber primus,0,Cap CLXVIII,De medico malo seu citreo,26v
+ruel,row169,74,Liber primus,0,Cap CLXIX,De pyro,26v
+ruel,row170,75,Liber primus,27,Cap CLXX,De pyrastro,27r
+ruel,row171,75,Liber primus,27,Cap CLXXI,De mespilis,27r
+ruel,row172,75,Liber primus,27,Cap CLXXII,De setaniis,27r
+ruel,row173,75,Liber primus,27,Cap CLXXIII,De loto arbore seu saba graeca.,27r
+ruel,row174,75,Liber primus,27,Cap CLXXIIII,De corno,27r
+ruel,row175,75,Liber primus,27,Cap CLXXV,De sorbis,27r
+ruel,row176,75,Liber primus,27,Cap CLXXVI,De prunis,27r
+ruel,row177,76,Liber primus,0,Cap CLXXVII,De arbuto,27v
+ruel,row178,76,Liber primus,0,Cap CLXXVIII,De amygdalis,27v
+ruel,row179,76,Liber primus,0,Cap CLXXIX,De pistaciis,27v
+ruel,row180,76,Liber primus,0,Cap CLXXX,De nuce juglande,27v
+ruel,row181,77,Liber primus,28,Cap CLXXXI,De nucibus avellanis,28r
+ruel,row182,77,Liber primus,28,Cap CLXXXII,De moro,28r
+ruel,row183,77,Liber primus,28,Cap CLXXXIII,De sycomoro,28r
+ruel,row184,78,Liber primus,0,Cap CLXXXIIII,De ficis,28v
+ruel,row185,79,Liber primus,29,Cap CLXXXV,De grossis,29r
+ruel,row186,79,Liber primus,29,Cap CLXXXVI,De persea,29r
+ruel,row187,80,Liber primus,0,Cap CLXXXVII,De iberide,29v
+ruel,row188,80,Liber primus,0,Cap CLXXXVIII,De Halicacabo,29v
+ruel,row189,81,Liber secundus,30,Cap I,De aquatili echino,30r
+ruel,row190,81,Liber secundus,30,Cap II,De terrestri herinaceo,30r
+ruel,row191,81,Liber secundus,30,Cap III,De hippocampo,30r
+ruel,row192,81,Liber secundus,30,Cap IIII,De purpura,30r
+ruel,row193,81,Liber secundus,30,Cap V,De buccinis,30r
+ruel,row194,82,Liber secundus,0,Cap VI,De Joniis,30v
+ruel,row195,82,Liber secundus,0,Cap VII,De myacibus,30v
+ruel,row196,82,Liber secundus,0,Cap VIII,De tellinis,30v
+ruel,row197,82,Liber secundus,0,Cap IX,De chamis,30v
+ruel,row198,82,Liber secundus,0,Cap X,De Onyche,30v
+ruel,row199,82,Liber secundus,0,Cap XI,De cochleis,30v
+ruel,row200,83,Liber secundus,31,Cap XII,De cancris,31r
+ruel,row201,83,Liber secundus,31,Cap XIII,De terrestri scorpione,31r
+ruel,row202,83,Liber secundus,31,Cap XIIII,De marino scorpione,31r
+ruel,row203,83,Liber secundus,31,Cap XV,De dracone marino,31r
+ruel,row204,83,Liber secundus,31,Cap XVI,De scolopendra,31r
+ruel,row205,83,Liber secundus,31,Cap XVII,De torpedine pisce,31r
+ruel,row206,84,Liber secundus,0,Cap XVIII,De viperinis carnibus,31v
+ruel,row207,84,Liber secundus,0,Cap XIX,De senecta angium,31v
+ruel,row208,84,Liber secundus,0,Cap XX,De lepore marino,31v
+ruel,row209,84,Liber secundus,0,Cap XXI,De lepore terrestri,31v
+ruel,row210,84,Liber secundus,0,Cap XXII,De pastinaca,31v
+ruel,row211,84,Liber secundus,0,Cap XXIII,De sepia,31v
+ruel,row212,85,Liber secundus,32,Cap XXIIII,De mulo pisce,32r
+ruel,row213,85,Liber secundus,32,Cap XXV,De testibus hippopotami,32r
+ruel,row214,85,Liber secundus,32,Cap XXVI,De fibrinis testibus,32r
+ruel,row215,85,Liber secundus,32,Cap XXVII,De vulgari mustella,32r
+ruel,row216,86,Liber secundus,0,Cap XXVIII,De ranis,32v
+ruel,row217,86,Liber secundus,0,Cap XXIX,De fele,32v
+ruel,row218,86,Liber secundus,0,Cap XXX,De cerro pisce,32v
+ruel,row219,86,Liber secundus,0,Cap XXXI,De menis,32v
+ruel,row220,86,Liber secundus,0,Cap XXXII,De gobio,32v
+ruel,row221,86,Liber secundus,0,Cap XXXIII,De thunno,32v
+ruel,row222,86,Liber secundus,0,Cap XXXIIII,De garro,32v
+ruel,row223,87,Liber secundus,33,Cap XXXV,De jure piscium,33r
+ruel,row224,87,Liber secundus,33,Cap XXXVI,De cimicibus lectulariis,33r
+ruel,row225,87,Liber secundus,33,Cap XXXVII,De millepeda,33r
+ruel,row226,87,Liber secundus,33,Cap XXXVIII,De blatta pistrinaria,33r
+ruel,row227,87,Liber secundus,33,Cap XXXIX,De pulmone marino,33r
+ruel,row228,87,Liber secundus,33,Cap XL,De suillo pulmone,33r
+ruel,row229,87,Liber secundus,33,Cap XLI,De Vulpino pulmone,33r
+ruel,row230,87,Liber secundus,33,Cap XLII,De ansinino .,33r
+ruel,row231,88,Liber secundus,0,Cap XLIIII,De ungula asini,33v
+ruel,row232,88,Liber secundus,0,Cap XLV,De lichenibus equorum,33v
+ruel,row233,88,Liber secundus,0,Cap XLVI,De ungula caprae,33v
+ruel,row234,88,Liber secundus,0,Cap XLVII,De caprino jonicere,33v
+ruel,row235,88,Liber secundus,0,Cap XLVIII,,33v
+ruel,row236,88,Liber secundus,0,Cap XLIX,,33v
+ruel,row237,88,Liber secundus,0,Cap L,,33v
+ruel,row238,88,Liber secundus,0,Cap LI,,33v
+ruel,row239,88,Liber secundus,0,Cap LII,,33v
+ruel,row240,88,Liber secundus,0,Cap LIII,,33v
+ruel,row241,89,Liber secundus,34,Cap LIIII,De ovorum natura,34r
+ruel,row242,89,Liber secundus,34,Cap LV,De candido ovi,34r
+ruel,row243,89,Liber secundus,34,Cap LVI,De cicadis,34r
+ruel,row244,89,Liber secundus,34,Cap LVII,De locustis,34r
+ruel,row245,89,Liber secundus,34,Cap LVIII,De ossifrago,34r
+ruel,row246,90,Liber secundus,0,Cap LIX,De galerita,34v
+ruel,row247,90,Liber secundus,0,Cap LX,De hirundinibus,34v
+ruel,row248,90,Liber secundus,0,Cap LXI,De ebore,34v
+ruel,row249,90,Liber secundus,0,Cap LXII,De suillo talo,34v
+ruel,row250,90,Liber secundus,0,Cap LXIII,De ceruino cornu,34v
+ruel,row251,90,Liber secundus,0,Cap LXIIII,De eruca,34v
+ruel,row252,90,Liber secundus,0,Cap LXV,De cantharidibus,34v
+ruel,row253,91,Liber secundus,35,Cap LXVI,De bupreste,35r
+ruel,row254,91,Liber secundus,35,Cap LXVII,De salamandra,35r
+ruel,row255,91,Liber secundus,35,Cap LXVIII,De araneo,35r
+ruel,row256,91,Liber secundus,35,Cap LXIX,De lacerta,35r
+ruel,row257,91,Liber secundus,35,Cap LXX,De sepe,35r
+ruel,row258,91,Liber secundus,35,Cap LXXI,De scinc,35r
+ruel,row259,92,Liber secundus,0,Cap LXXII,De terrenis vermibus,35v
+ruel,row260,92,Liber secundus,0,Cap LXXIII,De mure araneo,35v
+ruel,row261,92,Liber secundus,0,Cap LXXIIII,De muribus,35v
+ruel,row262,92,Liber secundus,0,Cap LXXV,De usu lactis,35v
+ruel,row263,92,Liber secundus,0,Cap LXXVI,De sero lactis,35v
+ruel,row264,93,Liber secundus,36,Cap LXXVII,De schisto ceuscissili lacte,36r
+ruel,row265,93,Liber secundus,36,Cap LXXVIII,De muliebri lacte,36r
+ruel,row266,93,Liber secundus,36,Cap LXXIX,De caseo,36r
+ruel,row267,94,Liber secundus,0,Cap LXXX,De hippace,36v
+ruel,row268,94,Liber secundus,0,Cap LXXXI,De butyro et ejus fuligine,36v
+ruel,row269,94,Liber secundus,0,Cap LXXXII,De medicina lanarum,36v
+ruel,row270,94,Liber secundus,0,Cap LXXIII,De lanis ustis,36v
+ruel,row271,95,Liber secundus,37,Cap LXXXIIII,De oesypo pecudum sorde,37r
+ruel,row272,96,Liber secundus,0,Cap LXXXV,De coagulo,37v
+ruel,row273,96,Liber secundus,0,Cap LXXXVI,De apidis ratione,37v
+ruel,row274,99,Liber secundus,39,Cap LXXVIII,De medullarum ratione,39r
+ruel,row275,100,Liber secundus,0,Cap LXXXVIII,De felle,39v
+ruel,row276,101,Liber secundus,40,Cap LXXXIX,De sanguine,40r
+ruel,row277,101,Liber secundus,40,Cap XC,De fimo,40r
+ruel,row278,102,Liber secundus,0,Cap XCI,De urina,40v
+ruel,row279,103,Liber secundus,41,Cap XCII,De melle,41r
+ruel,row280,104,Liber secundus,0,Cap XCIII,De caera,41v
+ruel,row281,104,Liber secundus,0,Cap XCIIII,De propoli,41v
+ruel,row282,104,Liber secundus,0,Cap XCV,De tritico,41v
+ruel,row283,105,Liber secundus,42,Cap XCVI,De hordeo,42r
+ruel,row284,106,Liber secundus,0,Cap XCVII,De zytho,42v
+ruel,row285,106,Liber secundus,0,Cap XCVIII,De courmite,42v
+ruel,row286,106,Liber secundus,0,Cap XCIX,,42v
+ruel,row287,106,Liber secundus,0,Cap C,,42v
+ruel,row288,106,Liber secundus,0,Cap CI,,42v
+ruel,row289,106,Liber secundus,0,Cap CII,,42v
+ruel,row290,106,Liber secundus,0,Cap CIII,,42v
+ruel,row291,106,Liber secundus,0,Cap CIIII,,42v
+ruel,row292,106,Liber secundus,0,Cap CV,,42v
+ruel,row293,106,Liber secundus,0,Cap CLVI,De halica,42v
+ruel,row294,107,Liber secundus,43,Cap CVII,De milio,43r
+ruel,row295,107,Liber secundus,43,Cap CVIII,De panico,43r
+ruel,row296,107,Liber secundus,43,Cap CIX,De sesama,43r
+ruel,row297,107,Liber secundus,43,Cap CX,De lolio,43r
+ruel,row298,107,Liber secundus,43,Cap CXI,De amylo,43r
+ruel,row299,108,Liber secundus,0,Cap CXII,De foeni graeci farina,43v
+ruel,row300,108,Liber secundus,0,Cap CXIII,De lino,43v
+ruel,row301,108,Liber secundus,0,Cap CXIIII,De cicere,43v
+ruel,row302,109,Liber secundus,44,Cap CXV,De faba,44r
+ruel,row303,109,Liber secundus,44,Cap CXVI,De faba aegyptia,44r
+ruel,row304,110,Liber secundus,0,Cap CXVII,De lente,44v
+ruel,row305,110,Liber secundus,0,Cap CXVIII,De phasiolis,44v
+ruel,row306,110,Liber secundus,0,Cap CXIX,De eruo,44v
+ruel,row307,111,Liber secundus,45,Cap CXX,De lupinis,45r
+ruel,row308,111,Liber secundus,45,Cap CXXI,De rapo,45r
+ruel,row309,112,Liber secundus,0,Cap CXXII,De buniade rapo,45v
+ruel,row310,112,Liber secundus,0,Cap CXXIII,De radice,45v
+ruel,row311,113,Liber secundus,46,Cap CXXIIII,De sylvestri raphano,46r
+ruel,row312,113,Liber secundus,46,Cap CXXV,De sifaro,46r
+ruel,row313,113,Liber secundus,46,Cap CXXVI,De lapatho et rumice,46r
+ruel,row314,113,Liber secundus,46,Cap CXXVII,De lampsana,46r
+ruel,row315,113,Liber secundus,46,Cap CXXVIII,De hyppolapatho,46r
+ruel,row316,113,Liber secundus,46,Cap CXXIX,De bunio napi genere,46r
+ruel,row317,114,Liber secundus,0,Cap CXXX,De blitto,46v
+ruel,row318,114,Liber secundus,0,Cap CXXXI,De malua,46v
+ruel,row319,114,Liber secundus,0,Cap CXXXII,De attriplice,46v
+ruel,row320,114,Liber secundus,0,Cap CXXXIII,De brassica,46v
+ruel,row321,115,Liber secundus,47,Cap CXXXIIII,De sylvestri brassica,47r
+ruel,row322,115,Liber secundus,47,Cap CXXXV,Ea brassica marina,47r
+ruel,row323,115,Liber secundus,47,Cap CXXXVI,De beta,47r
+ruel,row324,116,Liber secundus,0,Cap CXXXVII,De portulaca sylvestri,47v
+ruel,row325,116,Liber secundus,0,Cap CXXXVIII,De portulaca,47v
+ruel,row326,116,Liber secundus,0,Cap CXXXIX,De Asparagis,47v
+ruel,row327,117,Liber secundus,48,Cap CXL,De plantagine,48r
+ruel,row328,117,Liber secundus,48,Cap CXLI,De lavere seu sio,48r
+ruel,row329,118,Liber secundus,0,Cap CXLII,De sisymbrio,48v
+ruel,row330,118,Liber secundus,0,Cap CXLIII,De altero sisymbrio,48v
+ruel,row331,118,Liber secundus,0,Cap CXLIIII,De crithmo,48v
+ruel,row332,118,Liber secundus,0,Cap CXLV,De coronopo,48v
+ruel,row333,118,Liber secundus,0,Cap CXLVI,De cicerbita seu soncho,48v
+ruel,row334,119,Liber secundus,49,Cap CXLVII,De Intubo et feri,49r
+ruel,row335,119,Liber secundus,49,Cap CXLVIII,De condrilla,49r
+ruel,row336,120,Liber secundus,0,Cap CXLIX,De cucurbita,49v
+ruel,row337,120,Liber secundus,0,Cap CL,De cucumere sativo,49v
+ruel,row338,120,Liber secundus,0,Cap CLI,De pepone,49v
+ruel,row339,120,Liber secundus,0,Cap CLII,De lactucis,49v
+ruel,row340,120,Liber secundus,0,Cap CLIII,De lactuca sylvestri,49v
+ruel,row341,121,Liber secundus,50,Cap CLIIII,De Gingidio,50r
+ruel,row342,121,Liber secundus,50,Cap CLV,De scandice,50r
+ruel,row343,121,Liber secundus,50,Cap CLVI,De gallinaceo pede ceu caucalide,50r
+ruel,row344,121,Liber secundus,50,Cap CLVII,De eruca,50r
+ruel,row345,121,Liber secundus,50,Cap CLVIII,De ocimo,50r
+ruel,row346,122,Liber secundus,0,Cap CLIX,De orobanche,50v
+ruel,row347,122,Liber secundus,0,Cap CLX,De barbula hirci,50v
+ruel,row348,122,Liber secundus,0,Cap CLXI,,50v
+ruel,row349,122,Liber secundus,0,Cap CLXII,,50v
+ruel,row350,122,Liber secundus,0,Cap CLXIII,,50v
+ruel,row351,122,Liber secundus,0,Cap CLXIIII,De medica,50v
+ruel,row352,123,Liber secundus,51,Cap CLXV,De aphaca,51r
+ruel,row353,123,Liber secundus,51,Cap CLXVI,De porro capitato,51r
+ruel,row354,123,Liber secundus,51,Cap CLXVII,De ampeloprasso,51r
+ruel,row355,123,Liber secundus,51,Cap CLXVIII,De cepa,51r
+ruel,row356,124,Liber secundus,0,Cap CLXIX,De allio,51v
+ruel,row357,124,Liber secundus,0,Cap CLXX,De scordoprasso,51v
+ruel,row358,124,Liber secundus,0,Cap CLXXI,De sinapi,51v
+ruel,row359,125,Liber secundus,52,Cap CLXXII,De nasturcio,52r
+ruel,row360,125,Liber secundus,52,Cap CLXXIII,De thlaspe,52r
+ruel,row361,126,Liber secundus,0,Cap CLXXIIII,De arabide,52v
+ruel,row362,126,Liber secundus,0,Cap CLXXV,De irione,52v
+ruel,row363,126,Liber secundus,0,Cap CLXXVI,De pipere,52v
+ruel,row364,127,Liber secundus,53,Cap CLXXVII,De gingiberi,53r
+ruel,row365,127,Liber secundus,53,Cap CLXXVIII,De hydropipere,53r
+ruel,row366,127,Liber secundus,53,Cap CLXXIX,De ptarmica,53r
+ruel,row367,128,Liber secundus,0,Cap CLXXX,De radicula seu lanaria haerba,53v
+ruel,row368,128,Liber secundus,0,Cap CLXXXI,De cyclamino,53v
+ruel,row369,129,Liber secundus,54,Cap CLXXXII,De altera ciclamino,54r
+ruel,row370,129,Liber secundus,54,Cap CLXXXIII,De dracunculo,54r
+ruel,row371,130,Liber secundus,0,Cap CLXXXIIII,De dracunculo paruo,54v
+ruel,row372,130,Liber secundus,0,Cap CLXXXV,De aro,54v
+ruel,row373,130,Liber secundus,0,Cap CLXXXVI,De arisaro,54v
+ruel,row374,131,Liber secundus,55,Cap CLXXXVII,De hastula regia,55r
+ruel,row375,131,Liber secundus,55,Cap CLXXXVIII,De bulbo vomitorio,55r
+ruel,row376,131,Liber secundus,55,Cap CLXXXIX,De bulbo cibario,55r
+ruel,row377,132,Liber secundus,0,Cap CXC,De scilla,55v
+ruel,row378,132,Liber secundus,0,Cap CXCI,De pancratio,55v
+ruel,row379,133,Liber secundus,56,Cap CXCII,De cappari,56r
+ruel,row380,133,Liber secundus,56,Cap CXCIII,De lepidio,56r
+ruel,row381,134,Liber secundus,0,Cap CXCIIII,De ranunculo,56v
+ruel,row382,134,Liber secundus,0,Cap CXCV,De fremio,56v
+ruel,row383,135,Liber secundus,57,Cap CXCVI,De argemone,57r
+ruel,row384,135,Liber secundus,57,Cap CXCVII,De altera argemone,57r
+ruel,row385,135,Liber secundus,57,Cap CXCVIII,De anagallide,57r
+ruel,row386,136,Liber secundus,0,Cap CXCIX,De hedera,57v
+ruel,row387,136,Liber secundus,0,Cap CC,De chelidonia,57v
+ruel,row388,137,Liber secundus,58,Cap CCI,De chelidonia minore,58r
+ruel,row389,137,Liber secundus,58,Cap CCII,De othonna,58r
+ruel,row390,138,Liber secundus,0,Cap CCIII,De auricula muris,58v
+ruel,row391,138,Liber secundus,0,Cap CCIIII,De altera auricula muris,58v
+ruel,row392,138,Liber secundus,0,Cap CCV,De glasto fativo,58v
+ruel,row393,138,Liber secundus,0,Cap CCVI,De sylvestri glasto,58v
+ruel,row394,139,Liber secundus,59,Cap CCVII,De telephio,59r
+ruel,row395,140,Liber tertius,0,Cap I,De agarico,59v
+ruel,row396,141,Liber tertius,60,Cap II,De rapontico,60r
+ruel,row397,141,Liber tertius,60,Cap III,De gentiana,60r
+ruel,row398,142,Liber tertius,0,Cap IIII,De aristolochia rotunda,60v
+ruel,row399,142,Liber tertius,0,Cap V,De aristolochia longa,60v
+ruel,row400,143,Liber tertius,61,Cap VI,De dulci radice,61r
+ruel,row401,143,Liber tertius,61,Cap VII,De centaurio magno,61r
+ruel,row402,144,Liber tertius,0,Cap VIII,De centaurio minore,61v
+ruel,row403,144,Liber tertius,0,Cap IX,De chamaeleone albo,61v
+ruel,row404,145,Liber tertius,62,Cap X,De Chamaeleone nigro,62r
+ruel,row405,145,Liber tertius,62,Cap XI,De crocodilio,62r
+ruel,row406,145,Liber tertius,62,Cap XII,De labro veneris seu dipsaco,62r
+ruel,row407,146,Liber tertius,0,Cap XIII,De spina alba,62v
+ruel,row408,146,Liber tertius,0,Cap XIIII,De Spina arabica,62v
+ruel,row409,146,Liber tertius,0,Cap XV,De carduo,62v
+ruel,row410,146,Liber tertius,0,Cap XVI,De poterio,62v
+ruel,row411,147,Liber tertius,63,Cap XVII,De acanthio,63r
+ruel,row412,147,Liber tertius,63,Cap XVIII,De acantha,63r
+ruel,row413,147,Liber tertius,63,Cap XIX,De sylvestr spina,63r
+ruel,row414,147,Liber tertius,63,Cap XX,De anonide,63r
+ruel,row415,147,Liber tertius,63,Cap XXI,De leucacantha,63r
+ruel,row416,148,Liber tertius,0,Cap XXII,De tragacantha,63v
+ruel,row417,148,Liber tertius,0,Cap XXIII,De eryngio,63v
+ruel,row418,148,Liber tertius,0,Cap XXIIII,De aloe,63v
+ruel,row419,149,Liber tertius,64,Cap XXV,De absinthio,64r
+ruel,row420,150,Liber tertius,0,Cap XXVI,De marino Absinthio,64v
+ruel,row421,150,Liber tertius,0,Cap XXVII,De abrotono,64v
+ruel,row422,151,Liber tertius,65,Cap XXVIII,De hyssopo,65r
+ruel,row423,151,Liber tertius,65,Cap XXIX,De stichade,65r
+ruel,row424,152,Liber tertius,0,Cap XXX,De origano,65v
+ruel,row425,152,Liber tertius,0,Cap XXXI,De onitide,65v
+ruel,row426,152,Liber tertius,0,Cap XXXII,De sylvestri origano,65v
+ruel,row427,152,Liber tertius,0,Cap XXXIII,De tragorigano,65v
+ruel,row428,153,Liber tertius,66,Cap XXXIIII,De pulegio,66r
+ruel,row429,153,Liber tertius,66,Cap XXXV,De dictamo,66r
+ruel,row430,153,Liber tertius,66,Cap XXXVI,De psudodictamo,66r
+ruel,row431,154,Liber tertius,0,Cap XXXVII,De cretensi dictamo,66v
+ruel,row432,154,Liber tertius,0,Cap XXXVIII,De salvia,66v
+ruel,row433,154,Liber tertius,0,Cap XXXIX,De menta,66v
+ruel,row434,154,Liber tertius,0,Cap XL,De mentastro,66v
+ruel,row435,154,Liber tertius,0,Cap XLI,De calamintha,66v
+ruel,row436,155,Liber tertius,67,Cap XLII,De thymo,67r
+ruel,row437,155,Liber tertius,67,Cap XLIII,De satureia,67r
+ruel,row438,155,Liber tertius,67,Cap XLIIII,De serpyllo,67r
+ruel,row439,156,Liber tertius,0,Cap XLV,De sampsuco,67v
+ruel,row440,156,Liber tertius,0,Cap XLVI,De sertula campana,67v
+ruel,row441,157,Liber tertius,68,Cap XLVII,De maro,68r
+ruel,row442,157,Liber tertius,68,Cap XLVIII,De ocimastro,68r
+ruel,row443,157,Liber tertius,68,Cap XLIX,De bacchare,68r
+ruel,row444,157,Liber tertius,68,Cap L,De ruta,68r
+ruel,row445,158,Liber tertius,0,Cap LI,De sylvestri ruta,68v
+ruel,row446,159,Liber tertius,69,Cap LII,De moly,69r
+ruel,row447,159,Liber tertius,69,Cap LIII,De panace,69r
+ruel,row448,160,Liber tertius,0,Cap LIIII,De panace asclepii,69v
+ruel,row449,160,Liber tertius,0,Cap LV,De panace Chironio,69v
+ruel,row450,160,Liber tertius,0,Cap LVI,De liguistico,69v
+ruel,row451,161,Liber tertius,70,Cap LVII,De pastinaca,70r
+ruel,row452,161,Liber tertius,70,Cap LVIII,De seseli,70r
+ruel,row453,161,Liber tertius,70,Cap LIX,De aethiopico seseli,70r
+ruel,row454,161,Liber tertius,70,Cap LX,De peloponnesi seseli,70r
+ruel,row455,162,Liber tertius,0,Cap LXI,De cretico seseli,70v
+ruel,row456,162,Liber tertius,0,Cap LXII,De sisone,70v
+ruel,row457,162,Liber tertius,0,Cap LXIII,De aniso,70v
+ruel,row458,162,Liber tertius,0,Cap LXIIII,De caro,70v
+ruel,row459,162,Liber tertius,0,Cap LXV,De anetho,70v
+ruel,row460,163,Liber tertius,71,Cap LXVI,De cumino fativo,71r
+ruel,row461,163,Liber tertius,71,Cap LXVII,De sylvestri cumino,71r
+ruel,row462,163,Liber tertius,71,Cap LXVIII,De ammio,71r
+ruel,row463,164,Liber tertius,0,Cap LXIX,De coriano,71v
+ruel,row464,164,Liber tertius,0,Cap LXX,De Hieracia,71v
+ruel,row465,164,Liber tertius,0,Cap LXXI,De hieracia parua,71v
+ruel,row466,164,Liber tertius,0,Cap LXXII,De apio,71v
+ruel,row467,164,Liber tertius,0,Cap LXXIII,De eleoselino,71v
+ruel,row468,165,Liber tertius,72,Cap LXXIIII,De oreoselino,72r
+ruel,row469,165,Liber tertius,72,Cap LXXV,De petroselino,72r
+ruel,row470,165,Liber tertius,72,Cap LXXVI,De olusatro,72r
+ruel,row471,165,Liber tertius,72,Cap LXXVII,De Smyrnio,72r
+ruel,row472,166,Liber tertius,0,Cap LXXVIII,De elaphobosco,72v
+ruel,row473,166,Liber tertius,0,Cap LXXIX,De Eoeniculo,72v
+ruel,row474,166,Liber tertius,0,Cap LXXX,De erratico foeniculo,72v
+ruel,row475,167,Liber tertius,73,Cap LXXXI,De dauco,73r
+ruel,row476,167,Liber tertius,73,Cap LXXXII,De delphinio,73r
+ruel,row477,167,Liber tertius,73,Cap LXXXIII,De altero delphinio,73r
+ruel,row478,167,Liber tertius,73,Cap LXXXIIII,De pyrethro,73r
+ruel,row479,168,Liber tertius,0,Cap LXXXV,De rosmarino,73v
+ruel,row480,168,Liber tertius,0,Cap LXXXVI,De canchry,73v
+ruel,row481,169,Liber tertius,74,Cap LXXXVIII,De rosmarino coronario,74r
+ruel,row482,169,Liber tertius,74,Cap LXXXIX,De sphondylio,74r
+ruel,row483,169,Liber tertius,74,Cap XC,De ferula,74r
+ruel,row484,169,Liber tertius,74,Cap XCI,De peucedano,74r
+ruel,row485,170,Liber tertius,0,Cap XCII,De gith seu melanthio,74v
+ruel,row486,171,Liber tertius,75,Cap XCIII,De laserpitio et lasere,75r
+ruel,row487,172,Liber tertius,0,Cap XCIIII,De sagapenio,75v
+ruel,row488,172,Liber tertius,0,Cap XCV,De euphorbio,75v
+ruel,row489,173,Liber tertius,76,Cap XCVI,De galbano,76r
+ruel,row490,173,Liber tertius,76,Cap XCVII,De ammoniaco,76r
+ruel,row491,174,Liber tertius,0,Cap XCVIII,De sarcocolla,76v
+ruel,row492,174,Liber tertius,0,Cap XCIX,De glaucio,76v
+ruel,row493,174,Liber tertius,0,Cap C,De glutino,76v
+ruel,row494,174,Liber tertius,0,Cap CI,De glutino piscium,76v
+ruel,row495,174,Liber tertius,0,Cap CII,De visco,76v
+ruel,row496,175,Liber tertius,77,Cap CIII,De aparinae,77r
+ruel,row497,175,Liber tertius,77,Cap CIIII,De alysso,77r
+ruel,row498,175,Liber tertius,77,Cap CV,De asclepiade,77r
+ruel,row499,175,Liber tertius,77,Cap CVI,De atractylide,77r
+ruel,row500,176,Liber tertius,0,Cap CVII,De polycnemo,77v
+ruel,row501,176,Liber tertius,0,Cap CVIII,De clinopodio,77v
+ruel,row502,176,Liber tertius,0,Cap CIX,De leontopedalo,77v
+ruel,row503,176,Liber tertius,0,Cap CX,De teucrio,77v
+ruel,row504,177,Liber tertius,78,Cap CXI,De trisagine,78r
+ruel,row505,177,Liber tertius,78,Cap CXII,De leucade,78r
+ruel,row506,177,Liber tertius,78,Cap CXIII,De lychnide,78r
+ruel,row507,177,Liber tertius,78,Cap CXIIII,De sylvestri lychnide,78r
+ruel,row508,177,Liber tertius,78,Cap CXV,De lilio,78r
+ruel,row509,178,Liber tertius,0,Cap CXVI,De ballote seu marrubio nigro,78v
+ruel,row510,178,Liber tertius,0,Cap CXVII,De apiastro,78v
+ruel,row511,179,Liber tertius,79,Cap CXVIII,De marrubio,79r
+ruel,row512,179,Liber tertius,79,Cap CXIX,De stachye,79r
+ruel,row513,179,Liber tertius,79,Cap CXX,De phyllitide,79r
+ruel,row514,179,Liber tertius,79,Cap CXXI,De phalangia,79r
+ruel,row515,180,Liber tertius,0,Cap CXXII,De trisolio,79v
+ruel,row516,180,Liber tertius,0,Cap CXXIII,De polio,79v
+ruel,row517,180,Liber tertius,0,Cap CXXIIII,De scordio,79v
+ruel,row518,181,Liber tertius,80,Cap CXXIIII,De tussilagine,80r
+ruel,row519,181,Liber tertius,80,Cap CXXV,De artemisia,80r
+ruel,row520,182,Liber tertius,0,Cap CXXVI,De artemisia tenuiore,80v
+ruel,row521,182,Liber tertius,0,Cap CXXVII,,80v
+ruel,row522,182,Liber tertius,0,Cap CXXVIII,,80v
+ruel,row523,182,Liber tertius,0,Cap CXXIX,,80v
+ruel,row524,182,Liber tertius,0,Cap CXXX,,80v
+ruel,row525,182,Liber tertius,0,Cap CXXXI,De gnaphalio,80v
+ruel,row526,183,Liber tertius,81,Cap CXXXII,De typha,81r
+ruel,row527,183,Liber tertius,81,Cap CXXXIII,De circea,81r
+ruel,row528,183,Liber tertius,81,Cap CXXXIIII,De oenanthe,81r
+ruel,row529,183,Liber tertius,81,Cap CXXXV,De conyza magna,81r
+ruel,row530,183,Liber tertius,81,Cap CXXXVI,De conyza paru,81r
+ruel,row531,184,Liber tertius,0,Cap CXXXVII,De altera conyza,81v
+ruel,row532,184,Liber tertius,0,Cap CXXXVIII,,81v
+ruel,row533,184,Liber tertius,0,Cap CXXXIX,,81v
+ruel,row534,184,Liber tertius,0,Cap CXL,De crataegono,81v
+ruel,row535,184,Liber tertius,0,Cap CXLI,De phyllo,81v
+ruel,row536,185,Liber tertius,82,Cap CXLII,De testiculo canis,82r
+ruel,row537,185,Liber tertius,82,Cap CXLIII,De altero testiculo,82r
+ruel,row538,185,Liber tertius,82,Cap CXLIIII,De satyro,82r
+ruel,row539,185,Liber tertius,82,Cap XCLV,De satyro erythronio,82r
+ruel,row540,186,Liber tertius,0,Cap CXLVI,De hormino,82v
+ruel,row541,186,Liber tertius,0,Cap CXLVII,De securidaca,82v
+ruel,row542,186,Liber tertius,0,Cap CXLVIII,De onosmate,82v
+ruel,row543,186,Liber tertius,0,Cap CXLIX,De nymphaea,82v
+ruel,row544,187,Liber tertius,83,Cap CL,De altera nymphaea,83r
+ruel,row545,187,Liber tertius,83,Cap CLI,De androsace,83r
+ruel,row546,187,Liber tertius,83,Cap CLII,De asplenio,83r
+ruel,row547,187,Liber tertius,83,Cap CLIII,De hemionitide,83r
+ruel,row548,187,Liber tertius,83,Cap CLIIII,De anthyllide,83r
+ruel,row549,188,Liber tertius,0,Cap CLV,De anthemide,83v
+ruel,row550,188,Liber tertius,0,Cap CLVI,De parthenio,83v
+ruel,row551,188,Liber tertius,0,Cap CLVII,De buphthalmo,83v
+ruel,row552,189,Liber tertius,84,Cap CLVIII,De Paeonia,84r
+ruel,row553,189,Liber tertius,84,Cap CLIX,De lithospermo,84r
+ruel,row554,190,Liber tertius,0,Cap CLX,De phalaride,84v
+ruel,row555,190,Liber tertius,0,Cap CLXI,De rubia,84v
+ruel,row556,190,Liber tertius,0,Cap CLXII,De lonchitide,84v
+ruel,row557,190,Liber tertius,0,Cap CLXIII,De altera lonchitide,84v
+ruel,row558,191,Liber tertius,85,Cap CLXIIII,De althaea,85r
+ruel,row559,191,Liber tertius,85,Cap CLXV,De alcea,85r
+ruel,row560,191,Liber tertius,85,Cap CLXVI,De sylvestri cannabe,85r
+ruel,row561,191,Liber tertius,85,Cap CLXVII,De sativa cannabe,85r
+ruel,row562,192,Liber tertius,0,Cap CLXVIII,De anagyir,85v
+ruel,row563,192,Liber tertius,0,Cap CLXIX,,85v
+ruel,row564,192,Liber tertius,0,Cap CLXX,,85v
+ruel,row565,192,Liber tertius,0,Cap CLXXI,,85v
+ruel,row566,192,Liber tertius,0,Cap CLXXII,De hyperico,85v
+ruel,row567,193,Liber tertius,86,Cap CLXXIII,De ascyro,86r
+ruel,row568,193,Liber tertius,86,Cap CLXXIIII,,86r
+ruel,row569,193,Liber tertius,86,Cap CLXXV,,86r
+ruel,row570,193,Liber tertius,86,Cap CLXXVI,De aiuga,86r
+ruel,row571,194,Liber tertius,0,Cap CLXXVII,De altera aiuga,86v
+ruel,row572,195,Liber quartus,87,Cap I,De betonica,87r
+ruel,row573,196,Liber quartus,0,Cap II,De bretanica,87v
+ruel,row574,196,Liber quartus,0,Cap III,De vettonica,87v
+ruel,row575,196,Liber quartus,0,Cap IIII,De lysimachia,87v
+ruel,row576,196,Liber quartus,0,Cap V,De sanguinaria ceu polygono,87v
+ruel,row577,197,Liber quartus,88,Cap VI,De sanguinaria foemina,88r
+ruel,row578,197,Liber quartus,88,Cap VII,De polygonato,88r
+ruel,row579,197,Liber quartus,88,Cap VIII,De clematide,88r
+ruel,row580,197,Liber quartus,88,Cap IX,De altera clematide,88r
+ruel,row581,198,Liber quartus,0,Cap X,,88v
+ruel,row582,198,Liber quartus,0,Cap XI,,88v
+ruel,row583,198,Liber quartus,0,Cap XII,,88v
+ruel,row584,198,Liber quartus,0,Cap XIII - De holosteo,,88v
+ruel,row585,199,Liber quartus,89,Cap XIIII,De stoebe,89r
+ruel,row586,199,Liber quartus,89,Cap XV,,89r
+ruel,row587,199,Liber quartus,89,Cap XVI,,89r
+ruel,row588,199,Liber quartus,89,Cap XVII - De tribulo,,89r
+ruel,row589,200,Liber quartus,0,Cap XVIII,De sarxiphago,89v
+ruel,row590,200,Liber quartus,0,Cap XIX,,89v
+ruel,row591,200,Liber quartus,0,Cap XX,,89v
+ruel,row592,200,Liber quartus,0,Cap XXI,de medio,89v
+ruel,row593,201,Liber quartus,90,Cap XXII,De epimedio,90r
+ruel,row594,201,Liber quartus,90,Cap XXIII,,90r
+ruel,row595,201,Liber quartus,90,Cap XXIIII,,90r
+ruel,row596,201,Liber quartus,90,Cap XXV,De sylvestri iride,90r
+ruel,row597,202,Liber quartus,0,Cap XXVI,De anchusa,90v
+ruel,row598,202,Liber quartus,0,Cap XXVII,De alia anchusa,90v
+ruel,row599,202,Liber quartus,0,Cap XXVIII,De alia anchusa,90v
+ruel,row600,202,Liber quartus,0,Cap XXIX,De lycopsi,90v
+ruel,row601,203,Liber quartus,91,Cap XXX,De echio,91r
+ruel,row602,203,Liber quartus,91,Cap XXXI,De ocimastro,91r
+ruel,row603,203,Liber quartus,91,Cap XXXII,De erino,91r
+ruel,row604,203,Liber quartus,91,Cap XXXIII,De gramine,91r
+ruel,row605,203,Liber quartus,91,Cap XXXIIII,De arundinaceo gramine,91r
+ruel,row606,204,Liber quartus,0,Cap XXXV,,91v
+ruel,row607,204,Liber quartus,0,Cap XXXVI,,91v
+ruel,row608,204,Liber quartus,0,Cap XXXVII,,91v
+ruel,row609,204,Liber quartus,0,Cap XXXVIII,,91v
+ruel,row610,204,Liber quartus,0,Cap XXXIX,De achillea,91v
+ruel,row611,205,Liber quartus,92,Cap XL,De rubo,92r
+ruel,row612,205,Liber quartus,92,Cap XLI,De idaeo rubo,92r
+ruel,row613,205,Liber quartus,92,Cap XLII,De helxine id est murali haerba,92r
+ruel,row614,206,Liber quartus,0,Cap XLIII,De elatine,92v
+ruel,row615,206,Liber quartus,0,Cap XLIIII,De eupatorio,92v
+ruel,row616,206,Liber quartus,0,Cap XLV,De quinquefolio,92v
+ruel,row617,207,Liber quartus,93,Cap XLVI,De phoenice,93r
+ruel,row618,207,Liber quartus,93,Cap XLVII,De idaea radice,93r
+ruel,row619,207,Liber quartus,93,Cap XLVIII,De rhodia radice,93r
+ruel,row620,207,Liber quartus,93,Cap XLIX,De equiseto,93r
+ruel,row621,208,Liber quartus,0,Cap L,,93v
+ruel,row622,208,Liber quartus,0,Cap LI,,93v
+ruel,row623,208,Liber quartus,0,Cap LII,,93v
+ruel,row624,208,Liber quartus,0,Cap LIII,,93v
+ruel,row625,208,Liber quartus,0,Cap LIIII,De trago,93v
+ruel,row626,209,Liber quartus,94,Cap LV,De iunco,94r
+ruel,row627,209,Liber quartus,94,Cap LVI,,94r
+ruel,row628,209,Liber quartus,94,Cap LVII,,94r
+ruel,row629,209,Liber quartus,94,Cap LVIII,,94r
+ruel,row630,209,Liber quartus,94,Cap LIX,De chrysogono,94r
+ruel,row631,210,Liber quartus,0,Cap LX,De elichryso,94v
+ruel,row632,210,Liber quartus,0,Cap LXI,,94v
+ruel,row633,210,Liber quartus,0,Cap LXII,,94v
+ruel,row634,210,Liber quartus,0,Cap LXIII,De verbenaca,94v
+ruel,row635,211,Liber quartus,95,Cap LXIIII,De supina verbenaca,95r
+ruel,row636,211,Liber quartus,95,Cap LXV,De astragalo,95r
+ruel,row637,211,Liber quartus,95,Cap LXVI,De hyacyntho,95r
+ruel,row638,212,Liber quartus,0,Cap LXVII,De papauere erratico,95v
+ruel,row639,212,Liber quartus,0,Cap LXVIII,De papauere sativo,95v
+ruel,row640,213,Liber quartus,96,Cap LXIX,De corniculatio papauere,96r
+ruel,row641,214,Liber quartus,0,Cap LXX,De spumeo papauere,96v
+ruel,row642,214,Liber quartus,0,Cap LXXI,De hypecoo,96v
+ruel,row643,214,Liber quartus,0,Cap LXXII,De apollinari et hyoscyamo,96v
+ruel,row644,215,Liber quartus,97,Cap LXXIII,De psyllio,97r
+ruel,row645,216,Liber quartus,0,Cap LXXVII,De hortensi solano,97v
+ruel,row646,216,Liber quartus,0,Cap LXXV,De vesicaria,97v
+ruel,row647,216,Liber quartus,0,Cap LXXVI,De solano somnifero,97v
+ruel,row648,217,Liber quartus,98,Cap LXXVII,De manico solano,98r
+ruel,row649,217,Liber quartus,98,Cap LXXVIII,De dorycnio,98r
+ruel,row650,217,Liber quartus,98,Cap LXXIX,De mandragora,98r
+ruel,row651,219,Liber quartus,99,Cap LXXX,De aconito,99r
+ruel,row652,219,Liber quartus,99,Cap LXXXI,De altero aconito,99r
+ruel,row653,220,Liber quartus,0,Cap LXXXII,De cicuta,99v
+ruel,row654,220,Liber quartus,0,Cap LXXXIII,De taxo,99v
+ruel,row655,220,Liber quartus,0,Cap LXXXIIII,De apocyno,99v
+ruel,row656,221,Liber quartus,100,Cap LXXXV,De nerio seu rhodendro,100r
+ruel,row657,221,Liber quartus,100,Cap LXXXVI,De fungis,100r
+ruel,row658,221,Liber quartus,100,Cap LXXXVII,De colchico,100r
+ruel,row659,222,Liber quartus,0,Cap LXXXVIII,,100v
+ruel,row660,222,Liber quartus,0,Cap LXXXIX,,100v
+ruel,row661,222,Liber quartus,0,Cap XC,,100v
+ruel,row662,222,Liber quartus,0,Cap XCI,De semperuvino seu sedo magno,100v
+ruel,row663,223,Liber quartus,101,Cap XCII,De minore semperuvino,101r
+ruel,row664,223,Liber quartus,101,Cap XCIII,De veneris umbilico,101r
+ruel,row665,223,Liber quartus,101,Cap XCIIII,De altero veneris umbilico,101r
+ruel,row666,224,Liber quartus,0,Cap XCV,De urtica,101v
+ruel,row667,224,Liber quartus,0,Cap XCVI,De galiopsi,101v
+ruel,row668,224,Liber quartus,0,Cap XCVII,De gallio,101v
+ruel,row669,224,Liber quartus,0,Cap XCVIII,De senetione,101v
+ruel,row670,225,Liber quartus,102,Cap XCIX,De thalictro,102r
+ruel,row671,225,Liber quartus,102,Cap C,De marino bryo,102r
+ruel,row672,225,Liber quartus,102,Cap CI,De fuco marino,102r
+ruel,row673,225,Liber quartus,102,Cap CII,De potamogetone,102r
+ruel,row674,225,Liber quartus,102,Cap CIII,De stratiote,102r
+ruel,row675,226,Liber quartus,0,Cap CIIII,De stratiote chiliophyllo,102v
+ruel,row676,226,Liber quartus,0,Cap CV,De verbasco,102v
+ruel,row677,226,Liber quartus,0,Cap CVI,De aethiopide,102v
+ruel,row678,227,Liber quartus,103,Cap CVII,,103r
+ruel,row679,227,Liber quartus,103,Cap CVIII,,103r
+ruel,row680,227,Liber quartus,103,Cap CIX,,103r
+ruel,row681,227,Liber quartus,103,Cap CX,,103r
+ruel,row682,227,Liber quartus,103,Cap CXI,De capno seusumaria,103r
+ruel,row683,228,Liber quartus,0,Cap CXII,De loto urbana,103v
+ruel,row684,228,Liber quartus,0,Cap CXIII,,103v
+ruel,row685,228,Liber quartus,0,Cap CXIIII,,103v
+ruel,row686,228,Liber quartus,0,Cap CXV,,103v
+ruel,row687,228,Liber quartus,0,Cap CXVI,De millefolio,103v
+ruel,row688,229,Liber quartus,104,Cap CXVII,De myrrhide,104r
+ruel,row689,229,Liber quartus,104,Cap CXVIII,,104r
+ruel,row690,229,Liber quartus,104,Cap CXIX,,104r
+ruel,row691,229,Liber quartus,104,Cap CXX,,104r
+ruel,row692,229,Liber quartus,104,Cap CXXI,De altere seu inguinali,104r
+ruel,row693,230,Liber quartus,0,Cap CXXII,De Isopyro,104v
+ruel,row694,230,Liber quartus,0,Cap CXXIII,,104v
+ruel,row695,230,Liber quartus,0,Cap CXXIIII,,104v
+ruel,row696,230,Liber quartus,0,Cap CXXV,,104v
+ruel,row697,230,Liber quartus,0,Cap CXXVI,De psudobunio,104v
+ruel,row698,231,Liber quartus,105,Cap CXXVII,De chamaecisso,105r
+ruel,row699,231,Liber quartus,105,Cap CXXVIII,,105r
+ruel,row700,231,Liber quartus,105,Cap CXXIX,,105r
+ruel,row701,231,Liber quartus,105,Cap CXXX,,105r
+ruel,row702,231,Liber quartus,105,Cap CXXXI,,105r
+ruel,row703,231,Liber quartus,105,Cap CXXXII,De leontopodio,105r
+ruel,row704,232,Liber quartus,0,Cap CXXXIII,De hippoglosso,105v
+ruel,row705,232,Liber quartus,0,Cap CXXXIIII,,105v
+ruel,row706,232,Liber quartus,0,Cap CXXXV,,105v
+ruel,row707,232,Liber quartus,0,Cap CXXXVI,,105v
+ruel,row708,232,Liber quartus,0,Cap CXXXVII,De adianto,105v
+ruel,row709,233,Liber quartus,106,Cap CXXXVIII,De fidicula seu trichomane,106r
+ruel,row710,233,Liber quartus,106,Cap CXXXIX,De xanthio et lapa,106r
+ruel,row711,233,Liber quartus,106,Cap CXL,De Avena,106r
+ruel,row712,233,Liber quartus,106,Cap CXLI,De bromo avenae genere,106r
+ruel,row713,234,Liber quartus,0,Cap CXLII,,106v
+ruel,row714,234,Liber quartus,0,Cap CXLIII,,106v
+ruel,row715,234,Liber quartus,0,Cap CXLIIII,,106v
+ruel,row716,234,Liber quartus,0,Cap CXLV,,106v
+ruel,row717,234,Liber quartus,0,Cap CXLVI,,106v
+ruel,row718,234,Liber quartus,0,Cap CXLVII,De rusco,106v
+ruel,row719,235,Liber quartus,107,Cap CXLVIII,De lauro alexandrina,107r
+ruel,row720,235,Liber quartus,107,Cap CXLIX,De daphnoide,107r
+ruel,row721,235,Liber quartus,107,Cap CL,De camaedaphne,107r
+ruel,row722,236,Liber quartus,0,Cap CLI,De albo veratro,107v
+ruel,row723,236,Liber quartus,0,Cap CLII,De veratro nigro,107v
+ruel,row724,237,Liber quartus,108,Cap CLIII,De sesamoide magno,108r
+ruel,row725,237,Liber quartus,108,Cap CLIIII,De sesamoide paruo,108r
+ruel,row726,238,Liber quartus,0,Cap CLV,De sylvestri cucumere,108v
+ruel,row727,238,Liber quartus,0,Cap CLVI,De elaterio,108v
+ruel,row728,239,Liber quartus,109,Cap CLVII,De sativo cucumere,109r
+ruel,row729,239,Liber quartus,109,Cap CLVIII,De straphide agria,109r
+ruel,row730,240,Liber quartus,0,Cap CLIX,De thapsia,109v
+ruel,row731,240,Liber quartus,0,Cap CLX,De psartio,109v
+ruel,row732,241,Liber quartus,110,Cap CLXI,De silybo,110r
+ruel,row733,241,Liber quartus,110,Cap CLXII,De vomitorio bulbo,110r
+ruel,row734,241,Liber quartus,110,Cap CLXIII,De unguentaria glande,110r
+ruel,row735,241,Liber quartus,110,Cap CLXIIII,De narcisso,110r
+ruel,row736,242,Liber quartus,0,Cap CLXV,De Hippophae,110v
+ruel,row737,242,Liber quartus,0,Cap CLXVI,De hippophaesto,110v
+ruel,row738,242,Liber quartus,0,Cap CLXVII,De ricino,110v
+ruel,row739,243,Liber quartus,111,Cap CLXVIII,De tithymalorum generibus,111r
+ruel,row740,243,Liber quartus,111,Cap CLXIX,De characia appellato,111r
+ruel,row741,244,Liber quartus,0,Cap CLXX,De foemina,111v
+ruel,row742,244,Liber quartus,0,Cap CLXXI,,111v
+ruel,row743,244,Liber quartus,0,Cap CLXXII,,111v
+ruel,row744,244,Liber quartus,0,Cap CLXXIII,,111v
+ruel,row745,244,Liber quartus,0,Cap CLXXIIII,,111v
+ruel,row746,244,Liber quartus,0,Cap CLXXV,De platyphyllo,111v
+ruel,row747,245,Liber quartus,112,Cap CLXXVI,De pityusa,112r
+ruel,row748,245,Liber quartus,112,Cap CLXXVII,De lathyri,112r
+ruel,row749,245,Liber quartus,112,Cap CLXXIX,De peplo,112r
+ruel,row750,245,Liber quartus,112,Cap CLXXX,De peplide,112r
+ruel,row751,246,Liber quartus,0,Cap CLXXXI,De chamaesyce,112v
+ruel,row752,246,Liber quartus,0,Cap CLXXXII,De scammonia,112v
+ruel,row753,247,Liber quartus,113,Cap CLXXXII,De chamalaea,113r
+ruel,row754,247,Liber quartus,113,Cap CLXXXIII,De thymelaea,113r
+ruel,row755,248,Liber quartus,0,Cap CLXXXIIII,De sabuco,113v
+ruel,row756,248,Liber quartus,0,Cap CLXXXV,De ebulo,113v
+ruel,row757,248,Liber quartus,0,Cap CLXXXVI,De pygnocomo,113v
+ruel,row758,249,Liber quartus,114,Cap CLXXXVII,De apio ceu radice sylvertri,114r
+ruel,row759,249,Liber quartus,114,Cap CLXXXVIII,De colocyntha aegos aliys sicya picra,114r
+ruel,row760,249,Liber quartus,114,Cap CLXXXIX,De epithymo,114r
+ruel,row761,249,Liber quartus,114,Cap CXC,De alypo,114r
+ruel,row762,250,Liber quartus,0,Cap CXCI,,114v
+ruel,row763,250,Liber quartus,0,Cap CXCII,,114v
+ruel,row764,250,Liber quartus,0,Cap CXCIII,,114v
+ruel,row765,250,Liber quartus,0,Cap CXCIIII,De vite alba,114v
+ruel,row766,251,Liber quartus,115,Cap CXCV,De vite nigra,115r
+ruel,row767,251,Liber quartus,115,Cap CXCVI,De filice,115r
+ruel,row768,252,Liber quartus,0,Cap CXCVII,De filice foemina,115v
+ruel,row769,252,Liber quartus,0,Cap CXCVIII,De filicula,115v
+ruel,row770,252,Liber quartus,0,Cap CXCIX,De dryopteri,115v
+ruel,row771,252,Liber quartus,0,Cap CC,De cnico,115v
+ruel,row772,253,Liber quartus,116,Cap CCI,De mercuriali,116r
+ruel,row773,253,Liber quartus,116,Cap CCII,De cynocrambae,116r
+ruel,row774,253,Liber quartus,116,Cap CCIII,De heliotropio magno,116r
+ruel,row775,254,Liber quartus,0,Cap CCIIII,De heliotropio paruo,116v
+ruel,row776,254,Liber quartus,0,Cap CCV,De scorpioide,116v
+ruel,row777,255,Liber quintus,117,Cap I,De vinifera vitae,117r
+ruel,row778,255,Liber quintus,117,Cap II,De sylvestri vite,117r
+ruel,row779,255,Liber quintus,117,Cap III,De vua,117r
+ruel,row780,256,Liber quintus,0,Cap IIII,De vua passa,117v
+ruel,row781,256,Liber quintus,0,Cap V,De oenanthe,117v
+ruel,row782,256,Liber quintus,0,Cap VI,De omphacio,117v
+ruel,row783,257,Liber quintus,118,Cap VII,De vini natura,118r
+ruel,row784,260,Liber quintus,0,Cap VIII,De melitide vino,118v
+ruel,row785,260,Liber quintus,0,Cap IX,de mulso,118v
+ruel,row786,260,Liber quintus,0,Cap X,De aqua mulsa,118v
+ruel,row787,260,Liber quintus,0,Cap XI,De aqua,118v
+ruel,row788,261,Liber quintus,120,Cap XII,De aqua marina,120r
+ruel,row789,261,Liber quintus,120,Cap XIII,De thalasso melite,120r
+ruel,row790,261,Liber quintus,120,Cap XIIII,De aceto,120r
+ruel,row791,262,Liber quintus,0,Cap XV,De aceto mulso,120v
+ruel,row792,262,Liber quintus,0,Cap XVI,De acida muria,120v
+ruel,row793,262,Liber quintus,0,Cap XVII,De thymoxalme,120v
+ruel,row794,262,Liber quintus,0,Cap XVIII,De scyllino aceto,120v
+ruel,row795,263,Liber quintus,121,Cap XIX,De vino scyllino,121r
+ruel,row796,263,Liber quintus,121,Cap XX,De vinis marinis,121r
+ruel,row797,264,Liber quintus,0,Cap XXI,,121v
+ruel,row798,264,Liber quintus,0,Cap XXII,,121v
+ruel,row799,264,Liber quintus,0,Cap XXIII,,121v
+ruel,row800,264,Liber quintus,0,Cap XXIIII,,121v
+ruel,row801,264,Liber quintus,0,Cap XXV,,121v
+ruel,row802,264,Liber quintus,0,Cap XXVI,,121v
+ruel,row803,264,Liber quintus,0,Cap XXII,De vino rhoite,121v
+ruel,row804,265,Liber quintus,122,Cap XXVIII,De vino rhodite,122r
+ruel,row805,265,Liber quintus,122,Cap XXIX,,122r
+ruel,row806,265,Liber quintus,122,Cap XXX,,122r
+ruel,row807,265,Liber quintus,122,Cap XXXI,,122r
+ruel,row808,265,Liber quintus,122,Cap XXXII,,122r
+ruel,row809,265,Liber quintus,122,Cap XXXIII,De vino catorchite,122r
+ruel,row810,266,Liber quintus,0,Cap XXXIIII,De vino sycomorite,122v
+ruel,row811,266,Liber quintus,0,Cap XXXV,,122v
+ruel,row812,266,Liber quintus,0,Cap XXXVI,,122v
+ruel,row813,266,Liber quintus,0,Cap XXXVII,De vino cedrino,122v
+ruel,row814,267,Liber quintus,123,Cap XXXVIII,De vino juniperino,123r
+ruel,row815,267,Liber quintus,123,Cap XXXIX,De vino cedrite,123r
+ruel,row816,267,Liber quintus,123,Cap XL,De vino picato,123r
+ruel,row817,267,Liber quintus,123,Cap XLI,De vino absinthite,123r
+ruel,row818,268,Liber quintus,0,Cap XLII,De vino hyssopite,123v
+ruel,row819,268,Liber quintus,0,cap XLIII,De vino chamaedryte,123v
+ruel,row820,268,Liber quintus,0,Cap XLIIII,,123v
+ruel,row821,268,Liber quintus,0,Cap XLV,,123v
+ruel,row822,268,Liber quintus,0,Cap XLVI,,123v
+ruel,row823,268,Liber quintus,0,Cap XLVII,,123v
+ruel,row824,268,Liber quintus,0,Cap XLVIII,De vino bunite,123v
+ruel,row825,269,Liber quintus,124,Cap XLIX,De vino dictamnite,124r
+ruel,row826,269,Liber quintus,124,Cap L,,124r
+ruel,row827,269,Liber quintus,124,Cap LI,,124r
+ruel,row828,269,Liber quintus,124,Cap LII,,124r
+ruel,row829,269,Liber quintus,124,Cap LIII,,124r
+ruel,row830,269,Liber quintus,124,Cap LIII,,124r
+ruel,row831,269,Liber quintus,124,Cap LV,,124r
+ruel,row832,269,Liber quintus,124,Cap LV,De vino aromatite,124r
+ruel,row833,270,Liber quintus,0,Cap LVII,De vino e pipete myrrha et iride,124v
+ruel,row834,270,Liber quintus,0,Cap LVIII,,124v
+ruel,row835,270,Liber quintus,0,Cap LIX,,124v
+ruel,row836,270,Liber quintus,0,Cap LX,,124v
+ruel,row837,270,Liber quintus,0,Cap LXI,,124v
+ruel,row838,270,Liber quintus,0,Cap LXII,,124v
+ruel,row839,270,Liber quintus,0,Cap LXIII,De salviato vin,124v
+ruel,row840,271,Liber quintus,125,Cap LXIIII,De panacite vino,125r
+ruel,row841,271,Liber quintus,125,Cap LXV,,125r
+ruel,row842,271,Liber quintus,125,Cap LXVI,,125r
+ruel,row843,271,Liber quintus,125,Cap LXVII,,125r
+ruel,row844,271,Liber quintus,125,Cap LXVIII,,125r
+ruel,row845,271,Liber quintus,125,Cap LXIX,,125r
+ruel,row846,271,Liber quintus,125,Cap LXX,De vino e chamaelaea,125r
+ruel,row847,272,Liber quintus,0,Cap LXXI,De vino chamaepityino,125v
+ruel,row848,272,Liber quintus,0,Cap LXXII,De vino mandragorite,125v
+ruel,row849,272,Liber quintus,0,Cap LXXIII,De vino helleborite,125v
+ruel,row850,272,Liber quintus,0,Cap LXXIIII,De vino scammonite,125v
+ruel,row851,273,Liber quintus,126,Cap LXXV,De omnibus metallicis et primu de cadmia,126r
+ruel,row852,274,Liber quintus,0,Cap LXXVI,De pompholyge,126v
+ruel,row853,275,Liber quintus,127,Cap LXXVII,De antispodo,127r
+ruel,row854,276,Liber quintus,0,Cap LXXVIII,De aere vito,127v
+ruel,row855,276,Liber quintus,0,Cap LXXIX,De flore aeris,127v
+ruel,row856,277,Liber quintus,128,Cap LXXX,De squamma aeris,128r
+ruel,row857,277,Liber quintus,128,Cap LXXXI,De squamma ex acie decussa,128r
+ruel,row858,277,Liber quintus,128,Cap LXXXII,De erugine rasa,128r
+ruel,row859,278,Liber quintus,0,Cap LXXXIII,De aerugine scolecia,128v
+ruel,row860,279,Liber quintus,129,Cap LXXXIIII,De rubigine ferri,129r
+ruel,row861,279,Liber quintus,129,Cap LXXXV,De stercore ferri,129r
+ruel,row862,279,Liber quintus,129,Cap LXXXVI,De plumbo eloto,129r
+ruel,row863,280,Liber quintus,0,Cap LXXXVII,De plumbo vito,129v
+ruel,row864,280,Liber quintus,0,Cap LXXXVIII,,129v
+ruel,row865,280,Liber quintus,0,Cap LXXXIX,,129v
+ruel,row866,280,Liber quintus,0,Cap XC,De stibio,129v
+ruel,row867,281,Liber quintus,130,Cap XCXI,De molibdaena seu plumbagine,130r
+ruel,row868,281,Liber quintus,130,cap XCII,De recremento argenti,130r
+ruel,row869,281,Liber quintus,130,Cap XCIII,Di spuma argenti,130r
+ruel,row870,283,Liber quintus,131,Cap XCIIII,De cerusa,131r
+ruel,row871,283,Liber quintus,131,Cap XCV,De chrysocolla,131r
+ruel,row872,284,Liber quintus,0,Cap XCVI,De armenio lapide,131v
+ruel,row873,284,Liber quintus,0,Cap XCVII,,131v
+ruel,row874,284,Liber quintus,0,Cap XCVIII,,131v
+ruel,row875,284,Liber quintus,0,Cap XCIX,,131v
+ruel,row876,284,Liber quintus,0,Cap C,De cinnabari,131v
+ruel,row877,285,Liber quintus,132,Cap CI,De argento vino,132r
+ruel,row878,285,Liber quintus,132,Cap CII,De rubrica ceu minio sinopico,132r
+ruel,row879,285,Liber quintus,132,Cap CIII,De rubrica fabrili,132r
+ruel,row880,286,Liber quintus,0,Cap CIIII,De lemnia terra,132v
+ruel,row881,286,Liber quintus,0,Cap CV,De attramento futorio,132v
+ruel,row882,286,Liber quintus,0,Cap CVI,De chalcite,132v
+ruel,row883,287,Liber quintus,133,Cap CVII,De psorico,133r
+ruel,row884,287,Liber quintus,133,Cap CVIII,,133r
+ruel,row885,287,Liber quintus,133,Cap CIX,,133r
+ruel,row886,287,Liber quintus,133,cap CX,De sory,133r
+ruel,row887,288,Liber quintus,0,Cap CXI,De diphryge,133v
+ruel,row888,288,Liber quintus,0,Cap CXII,De auripigmento,133v
+ruel,row889,289,Liber quintus,134,Cap CXIII,De sandaracha,134r
+ruel,row890,289,Liber quintus,134,Cap CXIIII,De alumine,134r
+ruel,row891,290,Liber quintus,0,Cap CXV,De sulphure,134v
+ruel,row892,290,Liber quintus,0,Cap CXVI,De pumice,134v
+ruel,row893,290,Liber quintus,0,Cap CXVII,De sale,134v
+ruel,row894,291,Liber quintus,135,Cap CXVIII,De spuma salis,135r
+ruel,row895,291,Liber quintus,135,Cap CXIX,De muria,135r
+ruel,row896,292,Liber quintus,0,Cap CXX,De flore salis,135v
+ruel,row897,292,Liber quintus,0,Cap CXXI,De nitro,135v
+ruel,row898,292,Liber quintus,0,Cap CXXII,De spuma nitri,135v
+ruel,row899,292,Liber quintus,0,Cap CXXIII,De faece,135v
+ruel,row900,293,Liber quintus,136,Cap CXXIIII,De calce,136r
+ruel,row901,293,Liber quintus,136,Cap CXXV,De gypso,136r
+ruel,row902,293,Liber quintus,136,Cap CXXVI,De sarmenticio cinere,136r
+ruel,row903,293,Liber quintus,136,Cap CXXVII,De alcyonio,136r
+ruel,row904,294,Liber quintus,0,Cap CXXVIII,De adarche,136v
+ruel,row905,294,Liber quintus,0,Cap CXXIX,De spongiis,136v
+ruel,row906,295,Liber quintus,137,Cap CXXX,De corallio,137r
+ruel,row907,295,Liber quintus,137,Cap CXXXI,,137r
+ruel,row908,295,Liber quintus,137,Cap CXXXII,,137r
+ruel,row909,295,Liber quintus,137,Cap CXXXIII,De asio lapide,137r
+ruel,row910,296,Liber quintus,0,Cap CXXXIIII,De pyrite lapide,137v
+ruel,row911,296,Liber quintus,0,Cap CXXXV,De haematite lapide,137v
+ruel,row912,297,Liber quintus,138,Cap CXXXVI,De schisto lapide,138r
+ruel,row913,297,Liber quintus,138,Cap CXXXVII,,138r
+ruel,row914,297,Liber quintus,138,Cap CXXXVIII,,138r
+ruel,row915,297,Liber quintus,138,Cap CXXXIX,,138r
+ruel,row916,297,Liber quintus,138,Cap CXL,De arabo lapide,138r
+ruel,row917,298,Liber quintus,0,Cap CXLI,De galactite,138v
+ruel,row918,298,Liber quintus,0,Cap CXLII,,138v
+ruel,row919,298,Liber quintus,0,Cap CXLIII,,138v
+ruel,row920,298,Liber quintus,0,Cap CXLIIII,,138v
+ruel,row921,298,Liber quintus,0,Cap CXLV,,138v
+ruel,row922,298,Liber quintus,0,Cap CXLVI,,138v
+ruel,row923,298,Liber quintus,0,Cap CXLVII,De amianto,138v
+ruel,row924,299,Liber quintus,139,Cap CXLVIII,De sapphiro,139r
+ruel,row925,299,Liber quintus,139,Cap CXLIX,,139r
+ruel,row926,299,Liber quintus,139,Cap CL,,139r
+ruel,row927,299,Liber quintus,139,Cap CLI,,139r
+ruel,row928,299,Liber quintus,139,Cap CLII,De aetite lapide,139r
+ruel,row929,300,Liber quintus,0,Cap CLIII,De ophite lapide,139v
+ruel,row930,300,Liber quintus,0,Cap CLIIII,,139v
+ruel,row931,300,Liber quintus,0,Cap CLV,,139v
+ruel,row932,300,Liber quintus,0,Cap CLVI,,139v
+ruel,row933,300,Liber quintus,0,cap CLVII,,139v
+ruel,row934,300,Liber quintus,0,Cap CLVIII,,139v
+ruel,row935,300,Liber quintus,0,Cap CLIX,,139v
+ruel,row936,300,Liber quintus,0,Cap CLX,De lapide geode,139v
+ruel,row937,301,Liber quintus,140,Cap CLXI,De terra,140r
+ruel,row938,301,Liber quintus,140,Cap CLXII,,140r
+ruel,row939,301,Liber quintus,140,Cap CLXIII,,140r
+ruel,row940,301,Liber quintus,140,Cap CLXIIII,,140r
+ruel,row941,301,Liber quintus,140,Cap CLXV,De chia terra,140r
+ruel,row942,302,Liber quintus,0,Cap CLXVI,De selinusia terra,140v
+ruel,row943,302,Liber quintus,0,Cap CLXVII,,140v
+ruel,row944,302,Liber quintus,0,Cap CLXVIII,,140v
+ruel,row945,302,Liber quintus,0,Cap CLXIX,,140v
+ruel,row946,302,Liber quintus,0,Cap CLXX,,140v
+ruel,row947,302,Liber quintus,0,Cap CLXXI,,140v
+ruel,row948,302,Liber quintus,0,Cap CLXXII,De ampelitide terra,140v
+ruel,row949,303,Liber quintus,141,Cap CLXXIII,De fuligine pictoria,141r
+ruel,row950,303,Liber quintus,141,Cap LXXIIII,De attramento librario,141r

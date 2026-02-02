@@ -1,0 +1,51 @@
+Sample: 50 random beck_berendes_span_edges rows
+01 DMM5085 (μολύβδαινα) -> e-876 5.100 Molybdaina | offset=0 anchor=e-876 5.100
+02 DMM1036 (Κνιδίου κόκκου) -> e-52 1.44 Saflor?l | offset=1 anchor=e-51 1.43
+03 DMM1085 (κάλαμος) -> e-121 1.114 Rohr | offset=0 anchor=e-121 1.114
+04 DMM4178 (ἄλυπον) -> e-760 4.177 Alypon | offset=0 anchor=e-760 4.177
+05 DMM5003 (σταφυλή) -> e-779 5.3 Weintraube | offset=0 anchor=e-779 5.3
+06 DMM1119 (κρανία) -> e-179 1.172 Kornelkirsche | offset=0 anchor=e-179 1.172
+07 DMM1083 (αἴγειρος) -> e-117 1.110 Schwarzpappel | offset=0 anchor=e-117 1.110
+08 DMM2024 (καὶ ὁ τοῦ κάστορος ὄρχις) -> e-221 2.26 Hoden des Bibers | offset=0 anchor=e-221 2.26
+09 DMM4148 (ἐλλέβορος) -> e-731 4.149 Schwarze Nieswurz | offset=1 anchor=e-730 4.148
+10 DMM4011 (ὁλόστεον) -> e-591 4.11 Holosteon | offset=0 anchor=e-591 4.11
+11 DMM4117 (ὀνάγρα) -> e-698 4.116 Weidenr?schen | offset=0 anchor=e-698 4.116
+12 DMM5145 (λιθοκόλλα) -> e-940 5.163 Steinkitt | offset=0 anchor=e-940 5.163
+13 DMM2005 (μύακες Ποντικοί) -> e-202 2.7 Miesmuschel | offset=0 anchor=e-202 2.7
+14 DMM4164 (τιθύμαλλος) -> e-745 4.162 Wolfsmilcharten | offset=0 anchor=e-745 4.162
+15 DMM2124 (ἀνδράχνη) -> e-345 2.150 Portulak | offset=0 anchor=e-345 2.150
+16 DMM2156 (θλάσπι) -> e-380 2.185 Hirtent?schlein | offset=0 anchor=e-380 2.185
+17 DMM1111 (βαλαύστιον) -> e-159 1.152 Granatbl?the | offset=0 anchor=e-159 1.152
+18 DMM3063 (κόριον) -> e-479 3.65 Grosses Hierakion | offset=1 anchor=e-478 3.64
+19 DMM2137 (γιγγίδιον) -> e-361 2.166 Gingidion | offset=0 anchor=e-361 2.166
+20 DMM2113 (σίσαρον) -> e-334 2.139 Sisaron | offset=0 anchor=e-334 2.139
+21 DMM1127 (συκόμορον) -> e-188 1.181 Sykomore | offset=0 anchor=e-188 1.181
+22 DMM1068 (λίβανος) -> e-91 1.84 Weihrauchruss | offset=3 anchor=e-88 1.81
+23 DMM2162 (πταρμική) -> e-386 2.191 Niesgarbe | offset=0 anchor=e-386 2.191
+24 DMM2116 (λαμψάνη) -> e-337 2.142 Grauer Senf | offset=0 anchor=e-337 2.142
+25 DMM4141 (ἐχῖνος) -> e-723 4.141 Osyris | offset=0 anchor=e-723 4.141
+26 DMM5021 (μηλόμελι) -> e-805 5.29 Apfelhonig | offset=0 anchor=e-805 5.29
+27 DMM5084 (στίβι) -> e-875 5.99 Stimmi | offset=0 anchor=e-875 5.99
+28 DMM4094 (γαλήοψις) -> e-675 4.93 Galiopsis | offset=0 anchor=e-675 4.93
+29 DMM3023 (ἀψίνθιον) -> e-438 3.25 Santoninbeifuss | offset=2 anchor=e-436 3.23
+30 DMM2079 (αἷμα) -> e-292 2.97 Blut | offset=0 anchor=e-292 2.97
+31 DMM4065 (μήκων κερατῖτις) -> e-647 4.66 Hornmohn | offset=0 anchor=e-647 4.66
+32 DMM2093 (τράγος) -> e-310 2.115 Tragos | offset=0 anchor=e-310 2.115
+33 DMM5015 (ὀξάλμη) -> e-799 5.23 Salzessig | offset=0 anchor=e-799 5.23
+34 DMM5128 (Γαγάτης) -> e-922 5.145 Gagatstein | offset=0 anchor=e-922 5.145
+35 DMM5048 (ὁ διὰ πρασίου) -> e-834 5.58 Andornwein | offset=0 anchor=e-834 5.58
+36 DMM4174 (πυκνόκομον) -> e-756 4.173 Pyknokomon | offset=0 anchor=e-756 4.173
+37 DMM1105 (ἀγριελαία) -> e-145 1.138 In Salzlake eingemachte Oliven | offset=2 anchor=e-143 1.136
+38 DMM1030 (ἔλαιον) -> e-41 1.33 Sikyonisches Oel | offset=4 anchor=e-37 1.29
+39 DMM2125 (ἀσπάραγος πετραῖος ἢ μυάκανθος) -> e-346 2.151 Spargel | offset=0 anchor=e-346 2.151
+40 DMM5013 (ὄξος) -> e-797 5.21 Essig | offset=0 anchor=e-797 5.21
+41 DMM4120 (ἰσόπυρον) -> e-701 4.119 Isopyron | offset=0 anchor=e-701 4.119
+42 DMM2158 (ἐρύσιμον) -> e-382 2.187 Vielschotige Rauke | offset=0 anchor=e-382 2.187
+43 DMM3026 (στοιχάς) -> e-441 3.28 Stoichas | offset=0 anchor=e-441 3.28
+44 DMM2004 (πορφύρα) -> e-200 2.5 Trompetenschnecke | offset=1 anchor=e-199 2.4
+45 DMM3005 (γλυκύρριζα) -> e-418 3.5 S?ssholz | offset=0 anchor=e-418 3.5
+46 DMM3027 (ὀρίγανος Ἡρακλεωτική) -> e-442 3.29 Dosten | offset=0 anchor=e-442 3.29
+47 DMM2106 (Αἰγύπτιος κύαμος) -> e-323 2.128 Aegyptische Bohne | offset=0 anchor=e-323 2.128
+48 DMM1006 (καρδάμωμον) -> e-13 1.5 Kardamomon | offset=0 anchor=e-13 1.5
+49 DMM4127 (βούγλωσσον) -> e-708 4.126 Italienische Ochsenzunge | offset=0 anchor=e-708 4.126
+50 DMM5160 (ἀμπελῖτις γῆ) -> e-957 5.180 Weinstockerde | offset=0 anchor=e-957 5.180
