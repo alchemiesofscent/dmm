@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Materia Medica — Concordance Viewer</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css"
+    />
+
+    <style>
+      :root {
+        color-scheme: light dark;
+      }
+      body {
+        margin: 16px;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial,
+          "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+      }
+      h1 {
+        font-size: 18px;
+        margin: 0 0 8px;
+      }
+      .meta {
+        font-size: 12px;
+        opacity: 0.8;
+        margin-bottom: 12px;
+      }
+      .status {
+        font-size: 12px;
+        margin: 8px 0 12px;
+      }
+      table.dataTable tbody td {
+        vertical-align: top;
+        white-space: nowrap;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Materia Medica — Concordance Viewer</h1>
+    <div class="meta">
+      Source: <code>data/master_concordance_mm.csv</code> • Tip: use the built-in
+      search box to filter rows.
+    </div>
+    <div id="status" class="status">Loading…</div>
+
+    <table id="concordance" class="display compact stripe" style="width: 100%"></table>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+    <script>
+      const CSV_PATH = "data/master_concordance_mm.csv";
+
+      function normalizeGreekDropIotaSubscript(text) {
+        if (!text) return "";
+        const nfd = text.normalize("NFD");
+        return nfd
+          .replace(
+            /[\u0300-\u036f\u1ab0-\u1aff\u1dc0-\u1dff\u20d0-\u20ff\ufe20-\ufe2f]/g,
+            ""
+          )
+          .normalize("NFC");
+      }
+
+      function bookFromChapterKey(chapterKey) {
+        if (!chapterKey) return "";
+        const m = String(chapterKey).match(/^(\d+)/);
+        return m ? m[1] : "";
+      }
+
+      async function loadCsvText(path) {
+        const resp = await fetch(path, { cache: "no-store" });
+        if (!resp.ok) {
+          throw new Error(`Failed to fetch ${path}: ${resp.status} ${resp.statusText}`);
+        }
+        return await resp.text();
+      }
+
+      function buildTable(rows) {
+        const data = rows.map((row) => {
+          const chapterKey = row.chapter_key || "";
+          const beckGreek = row.beck_greek_lemma || "";
+          return {
+            book: bookFromChapterKey(chapterKey),
+            chapter_key: chapterKey,
+
+            beck_greek_lemma: beckGreek,
+            beck_greek_norm: normalizeGreekDropIotaSubscript(beckGreek),
+            beck_latin_lemma: row.beck_latin_lemma || "",
+
+            wellmann_book: row.wellmann_book || "",
+            wellmann_chapter: row.wellmann_chapter || "",
+            wellmann_greek_lemma: row.wellmann_greek_lemma || "",
+
+            berendes_term: row.berendes_term || "",
+
+            desmoulins_chapter: row.desmoulins_chapter || "",
+            desmoulins_term: row.desmoulins_term || "",
+
+            laguna_book: row.laguna_book || "",
+            laguna_chapter: row.laguna_chapter || "",
+            laguna_title: row.laguna_title || "",
+
+            wechel_book: row.wechel_book || "",
+            wechel_chapter: row.wechel_chapter || "",
+            wechel_title: row.wechel_title || "",
+
+            ruel_book: row.ruel_book || "",
+            ruel_chapter: row.ruel_chapter || "",
+            ruel_title_latin: row.ruel_title_latin || "",
+            ruel_title_vernacular: row.ruel_title_vernacular || "",
+
+            lusitanus_chapter: row.lusitanus_chapter || "",
+            lusitanus_title: row.lusitanus_title || "",
+
+            barbaro_book: row.barbaro_book || "",
+            barbaro_chapter: row.barbaro_chapter || "",
+            barbaro_term: row.barbaro_term || "",
+
+            matthiolo_book: row.matthiolo_book || "",
+            matthiolo_chapter: row.matthiolo_chapter || "",
+            matthiolo_greek: row.matthiolo_greek || "",
+            matthiolo_latin: row.matthiolo_latin || "",
+
+            gunther_chapter: row.gunther_chapter || "",
+            gunther_term: row.gunther_term || "",
+          };
+        });
+
+        $("#concordance").DataTable({
+          data,
+          deferRender: true,
+          pageLength: 50,
+          scrollX: true,
+          order: [
+            [0, "asc"],
+            [1, "asc"],
+          ],
+          columns: [
+            { title: "Book", data: "book" },
+            { title: "Chapter", data: "chapter_key" },
+
+            { title: "Beck Greek", data: "beck_greek_lemma" },
+            { title: "Beck Greek (normalized)", data: "beck_greek_norm" },
+            { title: "Beck (English)", data: "beck_latin_lemma" },
+
+            { title: "Wellmann Book", data: "wellmann_book" },
+            { title: "Wellmann Chapter", data: "wellmann_chapter" },
+            { title: "Wellmann Greek", data: "wellmann_greek_lemma" },
+
+            { title: "Berendes (DE)", data: "berendes_term" },
+
+            { title: "Desmoulins Chapter", data: "desmoulins_chapter" },
+            { title: "Desmoulins Title", data: "desmoulins_term" },
+
+            { title: "Laguna Book", data: "laguna_book" },
+            { title: "Laguna Chapter", data: "laguna_chapter" },
+            { title: "Laguna Title", data: "laguna_title" },
+
+            { title: "Wechel Book", data: "wechel_book" },
+            { title: "Wechel Chapter", data: "wechel_chapter" },
+            { title: "Wechel Title", data: "wechel_title" },
+
+            { title: "Ruel Book", data: "ruel_book" },
+            { title: "Ruel Chapter", data: "ruel_chapter" },
+            { title: "Ruel Title (Latin)", data: "ruel_title_latin" },
+            { title: "Ruel Title (Vern.)", data: "ruel_title_vernacular" },
+
+            { title: "Lusitanus Chapter", data: "lusitanus_chapter" },
+            { title: "Lusitanus Title", data: "lusitanus_title" },
+
+            { title: "Barbaro Book", data: "barbaro_book" },
+            { title: "Barbaro Chapter", data: "barbaro_chapter" },
+            { title: "Barbaro Term", data: "barbaro_term" },
+
+            { title: "Matthiolo Book", data: "matthiolo_book" },
+            { title: "Matthiolo Chapter", data: "matthiolo_chapter" },
+            { title: "Matthiolo Greek", data: "matthiolo_greek" },
+            { title: "Matthiolo Latin", data: "matthiolo_latin" },
+
+            { title: "Gunther Chapter", data: "gunther_chapter" },
+            { title: "Gunther Term", data: "gunther_term" },
+          ],
+        });
+      }
+
+      (async function main() {
+        const statusEl = document.getElementById("status");
+        try {
+          const csvText = await loadCsvText(CSV_PATH);
+          const parsed = Papa.parse(csvText, {
+            header: true,
+            skipEmptyLines: true,
+            dynamicTyping: false,
+          });
+          if (parsed.errors && parsed.errors.length) {
+            throw new Error(
+              `CSV parse error: ${parsed.errors[0].message || JSON.stringify(parsed.errors[0])}`
+            );
+          }
+
+          const rows = (parsed.data || []).filter((r) => r && r.chapter_key);
+          statusEl.textContent = `Loaded ${rows.length} rows.`;
+          buildTable(rows);
+        } catch (err) {
+          statusEl.textContent = String(err && err.message ? err.message : err);
+          console.error(err);
+        }
+      })();
+    </script>
+  </body>
+</html>
+
