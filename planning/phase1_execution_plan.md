@@ -1,6 +1,6 @@
 # Phase 1 Execution Plan (Citations + IIIF)
 
-Last updated: 2026-02-11
+Last updated: 2026-02-12
 
 Purpose: define exactly what Phase 1 will build, how it will be tested, how progress will be tracked, and what "done" means. This is a planning document only; no Phase 1 pipeline code is implemented here.
 
@@ -64,9 +64,13 @@ Milestone M3 -- Validation. Outputs (all under `data/vnext/`):
 - [x] IIIF manifest registry and citation->IIIF mapping formats defined.
 - [x] `data/vnext/iiif_manifests.csv` initialized with provisional rows.
 - [ ] Upgrade provisional editions to `manifest_backed` as manifests are found.
-- [ ] Define/implement validation checks + `needs_review_*` outputs.
-- [ ] Implement Phase 1 scripts (build citations, build IIIF map, validate).
-- [ ] Run Phase 1 verification pass (determinism + coverage).
+- [x] Define/implement validation checks + `needs_review_*` outputs.
+- [x] Implement Phase 1 scripts (build citations, build IIIF map, validate).
+- [x] Run Phase 1 verification pass (determinism + coverage).
+
+Run record:
+- Phase 1 run completed on 2026-02-12; see `planning/phase1_run_2026-02-12.md`.
+- All five non-TEI editions reached 100% citation-level IIIF coverage with provisional status.
 
 **Implementation outline (no code)**
 
@@ -125,8 +129,8 @@ Validation tests
 **Decision register (must resolve now)**
 
 1. CSV vs TSV for vNext outputs. Recommendation: use RFC4180 CSV for all Phase 1 `data/vnext/*` outputs. Rationale: existing stubs and specs already reference `.csv`; uniformity reduces drift. Status: **Decided**. See `planning/decisions.md` (2026-02-11).
-2. Strict vs bootstrap mode for IIIF coverage. Recommendation: strict for non-TEI in-scope editions, with provisional manifests allowed but **no missing citation targets**; gaps go to `needs_review_missing_iiif.csv` and fail validation. Rationale: Phase 1's primary deliverable is navigability for image-only editions. Status: **Pending**.
-3. `citation_ref` construction + collision policy. Recommendation: derive a deterministic `citation_ref` from the most specific available printed reference; on collision, append a stable suffix (e.g., `-r{source_row}`) and emit `needs_review_bad_rows.csv`. Rationale: collisions must be visible and stable without breaking determinism. Status: **Pending**.
+2. Strict vs bootstrap mode for IIIF coverage. Recommendation: strict for non-TEI in-scope editions, with provisional manifests allowed but **no missing citation targets**; gaps go to `needs_review_missing_iiif.csv` and fail validation. Rationale: Phase 1's primary deliverable is navigability for image-only editions. Status: **Decided** (strict coverage enforced in validation for the 2026-02-12 run).
+3. `citation_ref` construction + collision policy. Recommendation: derive a deterministic `citation_ref` from the most specific available printed reference; on collision, append a stable suffix (e.g., `-r{source_row}`) and emit `needs_review_bad_rows.csv`. Rationale: collisions must be visible and stable without breaking determinism. Status: **Decided** (see `planning/decisions.md`, 2026-02-11).
 4. Manifest cache layout on disk. Recommendation: `data/vnext/iiif/manifests/<edition_id>.json` with a sidecar checksum file if needed. Rationale: keeps cached assets local, deterministic, and edition-addressable without network access. Status: **Pending**.
-5. `iiif_key` semantics per edition. Recommendation: treat `iiif_key` as an opaque string and interpret it only via `iiif_source_rules.csv`. Rationale: avoids accidental numeric assumptions and makes rule changes explicit. Status: **Pending**.
-6. `page_label` sort key fallback. Recommendation: parse numeric and folio forms when possible; otherwise preserve deterministic lexical ordering with a documented fallback. Rationale: consistent ordering is required for deterministic outputs even when parsing fails. Status: **Pending**.
+5. `iiif_key` semantics per edition. Recommendation: treat `iiif_key` as an opaque string and interpret it only via `iiif_source_rules.csv`. Rationale: avoids accidental numeric assumptions and makes rule changes explicit. Status: **Implemented in Phase 1 run; formal decision pending**.
+6. `page_label` sort key fallback. Recommendation: parse numeric and folio forms when possible; otherwise preserve deterministic lexical ordering with a documented fallback. Rationale: consistent ordering is required for deterministic outputs even when parsing fails. Status: **Implemented in Phase 1 run; formal decision pending**.

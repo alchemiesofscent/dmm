@@ -1,6 +1,6 @@
 # Phase 1 handoff: citations + IIIF (implementation + test)
 
-Last updated: 2026-02-10
+Last updated: 2026-02-12
 
 This document is written to be handed to “agents”:
 - **Agent A (Implementer)**: implements Phase 1 pipeline and produces artifacts under `data/vnext/`.
@@ -11,6 +11,12 @@ Authoritative specs to follow:
 - IIIF registries + auto-linking: `docs/iiif_autolinking.md`
 - Validation expectations: `docs/validation.md`
 - Repo structure rules: `docs/repo_structure.md`
+
+## Current state (2026-02-12)
+
+- Phase 1 scripts are implemented: `scripts/vnext_build_citations.py`, `scripts/vnext_build_citation_iiif_map.py`, `scripts/vnext_validate_phase1.py`.
+- A real-data run completed; determinism verified. See `planning/phase1_run_2026-02-12.md`.
+- Non-TEI editions reached 100% citation-level IIIF coverage using provisional templates; all five remain provisional in `iiif_manifests.csv`.
 
 ## Scope (Phase 1)
 
@@ -130,6 +136,9 @@ Validation checks (minimum):
 - Status correctness:
   - `manifest_backed` rows have `manifest_url`
   - `provisional` rows have `why_provisional`
+
+Implementation status:
+- Completed in the 2026-02-12 run; see `planning/phase1_run_2026-02-12.md` for hashes and coverage.
 
 ### A4) Update docs only if needed
 
