@@ -1,0 +1,2 @@
+edition_id,iiif_kind,manifest_url,image_base_url,citation_key_field,target_rule,target_template,canvas_index_base,notes
+barbaro,presentation,https://example.org/manifest/barbaro.json,,iiif_key,canvas_index,,1,

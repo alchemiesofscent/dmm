@@ -1,0 +1,952 @@
+ruel_web	ruel_book	ruel_page	ruel_chapter	ruel_entry
+26	Liber primus	2v	Cap I	De iri
+26	Liber primus	2v	Cap II	De acoro
+27	Liber primus	3r	Cap III	De meo
+27	Liber primus	3r	Cap IIII	De cypiro
+27	Liber primus	3r	Cap V	De cardamomo
+28	Liber primus	3v	Cap VI	De nardo
+28	Liber primus	3v	Cap VII	De nardo celtico
+29	Liber primus	4r	Cap VIII	De montano nardo
+29	Liber primus	4r	Cap IX	De afaro
+29	Liber primus	4r	Cap X	De phu
+30	Liber primus	4v	Cap XI	De malabatro
+30	Liber primus	4v	Cap XII	De casia
+30	Liber primus	4v	Cap XIII	De pseudocasia
+31	Liber primus	5r	Cap XIIII	De cinnamomo
+31	Liber primus	5r	Cap XV	De pseudocinnamo
+32	Liber primus	5v	Cap XVI	De amomo
+32	Liber primus	5v	Cap XVII	De costo
+33	Liber primus	6r	Cap XVIII	De odorato junco
+33	Liber primus	6r	Cap XIX	De calamo odorato
+33	Liber primus	6r	Cap XX	De balsamo
+33	Liber primus	6r	Cap XXI	De opobalsamo
+34	Liber primus	6v	Cap XXII	De xylobalsamo
+34	Liber primus	6v	Cap XXIII	De aspalatho
+35	Liber primus	7r	Cap XXIIII	De musco
+35	Liber primus	7r	Cap XXV	De agallocho
+35	Liber primus	7r	Cap XXVI	De narcaphto
+35	Liber primus	7r	Cap XXVII	De cancamo
+35	Liber primus	7r	Cap XXVIII	De cyphi
+36	Liber primus	7v	Cap XXIX	De croco
+36	Liber primus	7v	Cap XXX	De crocomagnate
+37	Liber primus	8r	Cap XXXI	De helenio
+37	Liber primus	8r	Cap XXXII	De altero helenio
+37	Liber primus	8r	Cap XXXIII	De omphacino oleo
+38	Liber primus	8v	Cap XXXIIII	De oleo sylvestris oliuae
+38	Liber primus	8v	Cap XXXV	De sicyonio
+38	Liber primus	8v	Cap XXXVI	De strigmentis balnearum
+38	Liber primus	8v	Cap XXXVII	De elaeomelite
+39	Liber primus	9r	Cap XXXVIII	De cicino oleo
+39	Liber primus	9r	Cap XXXIX	De amygdalino oleo
+39	Liber primus	9r	Cap XL	De balanino oleo
+39	Liber primus	9r	Cap XLI	De hyosciamnio oleo
+40	Liber primus	9v	Cap XL	De oleo egrano cnidio
+40	Liber primus	9v	Cap XLIII	De cnicino oleo
+40	Liber primus	9v	Cap XLIIII	De rhaphanino
+40	Liber primus	9v	Cap XLV	De melano
+40	Liber primus	9v	Cap XLVI	De sinapino
+40	Liber primus	9v	Cap XLVII	De myrteo oleo
+40	Liber primus	9v	Cap XLVIII	De laurino
+41	Liber primus	10r	Cap XLIX	De lentiscino
+41	Liber primus	10r	Cap L	De mastichino oleo
+41	Liber primus	10r	Cap LI	De unguentorum ratione
+41	Liber primus	10r	Cap LII	De rosaceo
+42	Liber primus	10v	Cap LIII	De elatino
+42	Liber primus	10v	Cap LIIII	De melino
+42	Liber primus	10v	Cap LV	De oenanthini compositione
+42	Liber primus	10v	Cap LVI	De telini componendi ratione
+43	Liber primus	11r	Cap LVII	De sampsuchino
+43	Liber primus	11r	Cap LVIII	De ocimini compositione
+43	Liber primus	11r	Cap LIX	De abrotonini compositione
+43	Liber primus	11r	Cap LX	De anethini compositione
+44	Liber primus	11v	Cap LXI	De susini compositione
+44	Liber primus	11v	Cap LXII	De narcissini compositione
+45	Liber primus	12r	Cap LXIII	De crocini olei compositione
+45	Liber primus	12r	Cap LXIIII	De cyprini pissameto et olei compositione
+46	Liber primus	12v	Cap LXV	De irini spissamento
+46	Liber primus	12v	Cap LXVI	De gleucini compositione
+46	Liber primus	12v	Cap LXVII	De amaracino
+47	Liber primus	13r	Cap LXVIII	De megalino
+47	Liber primus	13r	Cap LXIX	De hedycroo
+47	Liber primus	13r	Cap LXX	De metopio
+47	Liber primus	13r	Cap LXXI	De mendesio
+48	Liber primus	13v	Cap LXXII	De stacte
+48	Liber primus	13v	Cap LXXIII	De cinnamomino
+48	Liber primus	13v	Cap LXXIIII	Denardino unguento
+48	Liber primus	13v	Cap LXXV	De malabathrino
+48	Liber primus	13v	Cap LXXVI	De jasmino
+49	Liber primus	14r	Cap LXXVII	De myrrha
+50	Liber primus	14v	Cap LXXVIII	De boetiica myrrha
+50	Liber primus	14v	Cap LXXIX	De styrace
+50	Liber primus	14v	Cap LXXX	De bdelio
+51	Liber primus	15r	Cap LXXXI	De thure
+52	Liber primus	15v	Cap LXXXII	De cortice thuris
+52	Liber primus	15v	Cap LXXXIII	De manna thuris
+52	Liber primus	15v	Cap LXXXIIII	De fuligine thuris
+52	Liber primus	15v	Cap LXXXV	De fuliginis compositione
+52	Liber primus	15v	Cap LXXXVI	De pinu et picea
+53	Liber primus	16r	Cap LXXXVII	De pineis nucibus
+53	Liber primus	16r	Cap LXXXVIII	De lentisco
+54	Liber primus	16v	Cap LXXXIX	De resina lentiscina
+54	Liber primus	16v	Cap XC	De terebintho
+54	Liber primus	16v	Cap XCI	De liquida resina e pinu et picea
+55	Liber primus	17r	Cap XCII	De pice liquida
+56	Liber primus	17v	Cap XCIII	De picino oleo
+56	Liber primus	17v	Cap XCIIII	De fuligine liquidae picis
+56	Liber primus	17v	Cap XCV	De sicca pice
+56	Liber primus	17v	Cap XCVI	De zopissa
+57	Liber primus	18r	Cap XCVII	De bitumine
+57	Liber primus	18r	Cap XCVIII	De pissasphalto
+57	Liber primus	18r	Cap XCIX	De naphtha
+57	Liber primus	18r	Cap C	De cupresso
+58	Liber primus	18v	Cap CI	De junipero parua
+58	Liber primus	18v	Cap CII	De junipero magna
+58	Liber primus	18v	Cap CIII	De haerba sabina
+58	Liber primus	18v	Cap CIIII	De cedro
+58	Liber primus	18v	Cap CV	De cedria
+59	Liber primus	19r	Cap CVI	De cedride
+59	Liber primus	19r	Cap CVII	De lauro
+59	Liber primus	19r	Cap CVIII	De baccis lauri
+60	Liber primus	19v	Cap CIX	De platano
+60	Liber primus	19v	Cap CX	De fraxino
+60	Liber primus	19v	Cap CXI	De populo alba
+60	Liber primus	19v	Cap CXII	De macere
+60	Liber primus	19v	Cap CXIII	De ulmo
+60	Liber primus	19v	Cap CXIIII	De lignorum marcore
+61	Liber primus	20r	Cap CXV	De populo nigra
+61	Liber primus	20r	Cap CXVI	De harundine
+61	Liber primus	20r	Cap CXVII	De papyro
+61	Liber primus	20r	Cap CXVIII	De myrica
+62	Liber primus	20v	Cap CXIX	De erica
+62	Liber primus	20v	Cap CXX	De acacalide
+62	Liber primus	20v	Cap CXXI	De rhamno
+62	Liber primus	20v	Cap CXXII	De halimo
+62	Liber primus	20v	Cap CXXIII	De paliuro
+63	Liber primus	21r	Cap CXXIIII	De acuta spina
+63	Liber primus	21r	Cap CXXV	De rubo canis
+63	Liber primus	21r	Cap CXXVI	De ligustro
+63	Liber primus	21r	Cap CXXVII	De tilia
+63	Liber primus	21r	Cap CXXVIII	De cisto
+64	Liber primus	21v	Cap CXXIX	De hypocistide
+64	Liber primus	21v	Cap CXXX	De ladano
+64	Liber primus	21v	Cap CXXXI	De hebeno
+65	Liber primus	22r	Cap CXXXII	De rosa
+65	Liber primus	22r	Cap CXXXIII	De roseis pastillis
+65	Liber primus	22r	Cap CXXXIIII	De lycio
+66	Liber primus	22v	Cap CXXXV	De acacia
+67	Liber primus	23r	Cap CXXXVI	De acacia altera
+67	Liber primus	23r	Cap CXXXVII	De amurca
+67	Liber primus	23r	Cap CXXXVIII	De vitice
+68	Liber primus	23v	Cap CXXXIX	De salice
+68	Liber primus	23v	Cap CLX	De sylvestri olea
+69	Liber primus	24r	Cap CXLI	De colymbadibus oliuis
+69	Liber primus	24r	Cap CXLII	De oleo sylvestris oliuae
+69	Liber primus	24r	Cap CXLIII	De lachryma aethiopicae oleae
+69	Liber primus	24r	Cap CXLIIII	De quaercu
+69	Liber primus	24r	Cap CXLV	De glande
+70	Liber primus	24v	Cap CXLVI	De fago et ilice
+70	Liber primus	24v	Cap CXLVII	De castaneis
+70	Liber primus	24v	Cap CXLVIII	De galla
+70	Liber primus	24v	Cap CXLIX	De rhoe
+71	Liber primus	25r	Cap CL	De palma
+71	Liber primus	25r	Cap CLI	De thebaicis palmis
+71	Liber primus	25r	Cap CLII	De palma elate
+72	Liber primus	25v	Cap CLIII	De malo punico
+72	Liber primus	25v	Cap CLIIII	De cytino id est flore punici
+72	Liber primus	25v	Cap CLV	De mali corio
+72	Liber primus	25v	Cap CLVI	De balaustio
+72	Liber primus	25v	Cap CLVII	De myrto
+73	Liber primus	26r	Cap CLVIII	De myrtidano
+73	Liber primus	26r	Cap CLIX	De gerasiis
+73	Liber primus	26r	Cap CLX	De siliquis
+73	Liber primus	26r	Cap CLXI	De malo
+73	Liber primus	26r	Cap CLXII	De cotoneo malo
+74	Liber primus	26v	Cap CLXIII	De malis dulcibus
+74	Liber primus	26v	Cap CLXIIII	De orbiculatis malis
+74	Liber primus	26v	Cap CLXV	De sylvestribus malis
+74	Liber primus	26v	Cap CLXVI	De persicis malis
+74	Liber primus	26v	Cap CLXVII	De praecocibus
+74	Liber primus	26v	Cap CLXVIII	De medico malo seu citreo
+74	Liber primus	26v	Cap CLXIX	De pyro
+75	Liber primus	27r	Cap CLXX	De pyrastro
+75	Liber primus	27r	Cap CLXXI	De mespilis
+75	Liber primus	27r	Cap CLXXII	De setaniis
+75	Liber primus	27r	Cap CLXXIII	De loto arbore seu saba graeca.
+75	Liber primus	27r	Cap CLXXIIII	De corno
+75	Liber primus	27r	Cap CLXXV	De sorbis
+75	Liber primus	27r	Cap CLXXVI	De prunis
+76	Liber primus	27v	Cap CLXXVII	De arbuto
+76	Liber primus	27v	Cap CLXXVIII	De amygdalis
+76	Liber primus	27v	Cap CLXXIX	De pistaciis
+76	Liber primus	27v	Cap CLXXX	De nuce juglande
+77	Liber primus	28r	Cap CLXXXI	De nucibus avellanis
+77	Liber primus	28r	Cap CLXXXII	De moro
+77	Liber primus	28r	Cap CLXXXIII	De sycomoro
+78	Liber primus	28v	Cap CLXXXIIII	De ficis
+79	Liber primus	29r	Cap CLXXXV	De grossis
+79	Liber primus	29r	Cap CLXXXVI	De persea
+80	Liber primus	29v	Cap CLXXXVII	De iberide
+80	Liber primus	29v	Cap CLXXXVIII	De halicacabo
+81	Liber secundus	30r	Cap I	De aquatili echino
+81	Liber secundus	30r	Cap II	De terrestri herinaceo
+81	Liber secundus	30r	Cap III	De hippocampo
+81	Liber secundus	30r	Cap IIII	De purpura
+81	Liber secundus	30r	Cap V	De buccinis
+82	Liber secundus	30v	Cap VI	De joniis
+82	Liber secundus	30v	Cap VII	De myacibus
+82	Liber secundus	30v	Cap VIII	De tellinis
+82	Liber secundus	30v	Cap IX	De chamis
+82	Liber secundus	30v	Cap X	De onyche
+82	Liber secundus	30v	Cap XI	De cochleis
+83	Liber secundus	31r	Cap XII	De cancris
+83	Liber secundus	31r	Cap XIII	De terrestri scorpione
+83	Liber secundus	31r	Cap XIIII	De marino scorpione
+83	Liber secundus	31r	Cap XV	De dracone marino
+83	Liber secundus	31r	Cap XVI	De scolopendra
+83	Liber secundus	31r	Cap XVII	De torpedine pisce
+84	Liber secundus	31v	Cap XVIII	De viperinis carnibus
+84	Liber secundus	31v	Cap XIX	De senecta angium
+84	Liber secundus	31v	Cap XX	De lepore marino
+84	Liber secundus	31v	Cap XXI	De lepore terrestri
+84	Liber secundus	31v	Cap XXII	De pastinaca
+84	Liber secundus	31v	Cap XXIII	De sepia
+85	Liber secundus	32r	Cap XXIIII	De mulo pisce
+85	Liber secundus	32r	Cap XXV	De testibus hippopotami
+85	Liber secundus	32r	Cap XXVI	De fibrinis testibus
+85	Liber secundus	32r	Cap XXVII	De vulgari mustella
+86	Liber secundus	32v	Cap XXVIII	De ranis
+86	Liber secundus	32v	Cap XXIX	De fele
+86	Liber secundus	32v	Cap XXX	De cerro pisce
+86	Liber secundus	32v	Cap XXXI	De menis
+86	Liber secundus	32v	Cap XXXII	De gobio
+86	Liber secundus	32v	Cap XXXIII	De thunno
+86	Liber secundus	32v	Cap XXXIIII	De garro
+87	Liber secundus	33r	Cap XXXV	De jure piscium
+87	Liber secundus	33r	Cap XXXVI	De cimicibus lectulariis
+87	Liber secundus	33r	Cap XXXVII	De millepeda
+87	Liber secundus	33r	Cap XXXVIII	De blatta pistrinaria
+87	Liber secundus	33r	Cap XXXIX	De pulmone marino
+87	Liber secundus	33r	Cap XL	De suillo pulmone
+87	Liber secundus	33r	Cap XLI	De vulpino pulmone
+87	Liber secundus	33r	Cap XLII	De ansinino .
+87	Liber secundus	33r	Cap XLIII	De genitali cerui maris
+88	Liber secundus	33v	Cap XLIIII	De ungula asini
+88	Liber secundus	33v	Cap XLV	De lichenibus equorum
+88	Liber secundus	33v	Cap XLVI	De ungula caprae
+88	Liber secundus	33v	Cap XLVII	De caprino jonicere
+88	Liber secundus	33v	Cap XLVIII	De apri iocinere
+88	Liber secundus	33v	Cap XLIX	De cane rabioso
+88	Liber secundus	33v	Cap L	De soleis veteramentariis
+88	Liber secundus	33v	Cap LI	De mergi iocinere
+88	Liber secundus	33v	Cap LII	De gallina
+88	Liber secundus	33v	Cap LIII	De gallinaceo cerebello
+89	Liber secundus	34r	Cap LIIII	De ovorum natura
+89	Liber secundus	34r	Cap LV	De candido ovi
+89	Liber secundus	34r	Cap LVI	De cicadis
+89	Liber secundus	34r	Cap LVII	De locustis
+89	Liber secundus	34r	Cap LVIII	De ossifrago
+90	Liber secundus	34v	Cap LIX	De galerita
+90	Liber secundus	34v	Cap LX	De hirundinibus
+90	Liber secundus	34v	Cap LXI	De ebore
+90	Liber secundus	34v	Cap LXII	De suillo talo
+90	Liber secundus	34v	Cap LXIII	De ceruino cornu
+90	Liber secundus	34v	Cap LXIIII	De eruca
+90	Liber secundus	34v	Cap LXV	De cantharidibus
+91	Liber secundus	35r	Cap LXVI	De bupreste
+91	Liber secundus	35r	Cap LXVII	De salamandra
+91	Liber secundus	35r	Cap LXVIII	De araneo
+91	Liber secundus	35r	Cap LXIX	De lacerta
+91	Liber secundus	35r	Cap LXX	De sepe
+91	Liber secundus	35r	Cap LXXI	De scinc
+92	Liber secundus	35v	Cap LXXII	De terrenis vermibus
+92	Liber secundus	35v	Cap LXXIII	De mure araneo
+92	Liber secundus	35v	Cap LXXIIII	De muribus
+92	Liber secundus	35v	Cap LXXV	De usu lactis
+92	Liber secundus	35v	Cap LXXVI	De sero lactis
+93	Liber secundus	36r	Cap LXXVII	De schisto ceuscissili lacte
+93	Liber secundus	36r	Cap LXXVIII	De muliebri lacte
+93	Liber secundus	36r	Cap LXXIX	De caseo
+94	Liber secundus	36v	Cap LXXX	De hippace
+94	Liber secundus	36v	Cap LXXXI	De butyro et ejus fuligine
+94	Liber secundus	36v	Cap LXXXII	De medicina lanarum
+94	Liber secundus	36v	Cap LXXIII	De lanis ustis
+95	Liber secundus	37r	Cap LXXXIIII	De oesypo pecudum sorde
+96	Liber secundus	37v	Cap LXXXV	De coagulo
+96	Liber secundus	37v	Cap LXXXVI	De apidis ratione
+99	Liber secundus	39r	Cap LXXVIII	De medullarum ratione
+100	Liber secundus	39v	Cap LXXXVIII	De felle
+101	Liber secundus	40r	Cap LXXXIX	De sanguine
+101	Liber secundus	40r	Cap XC	De fimo
+102	Liber secundus	40v	Cap XCI	De urina
+103	Liber secundus	41r	Cap XCII	De melle
+104	Liber secundus	41v	Cap XCIII	De caera
+104	Liber secundus	41v	Cap XCIIII	De propoli
+104	Liber secundus	41v	Cap XCV	De tritico
+105	Liber secundus	42r	Cap XCVI	De hordeo
+106	Liber secundus	42v	Cap XCVII	De zytho
+106	Liber secundus	42v	Cap XCVIII	De courmite
+106	Liber secundus	42v	Cap XCIX	De zea seu semine
+106	Liber secundus	42v	Cap C	De crassiore farina
+106	Liber secundus	42v	Cap CI	De siligine
+106	Liber secundus	42v	Cap CII	De athera idest tenui pulticula
+106	Liber secundus	42v	Cap CIII	De trago
+106	Liber secundus	42v	Cap CIIII	De bromo
+106	Liber secundus	42v	Cap CV	De oryza
+106	Liber secundus	42v	Cap CLVI	De halica
+107	Liber secundus	43r	Cap CVII	De milio
+107	Liber secundus	43r	Cap CVIII	De panico
+107	Liber secundus	43r	Cap CIX	De sesama
+107	Liber secundus	43r	Cap CX	De lolio
+107	Liber secundus	43r	Cap CXI	De amylo
+108	Liber secundus	43v	Cap CXII	De foeni graeci farina
+108	Liber secundus	43v	Cap CXIII	De lino
+108	Liber secundus	43v	Cap CXIIII	De cicere
+109	Liber secundus	44r	Cap CXV	De faba
+109	Liber secundus	44r	Cap CXVI	De faba aegyptia
+110	Liber secundus	44v	Cap CXVII	De lente
+110	Liber secundus	44v	Cap CXVIII	De phasiolis
+110	Liber secundus	44v	Cap CXIX	De eruo
+111	Liber secundus	45r	Cap CXX	De lupinis
+111	Liber secundus	45r	Cap CXXI	De rapo
+112	Liber secundus	45v	Cap CXXII	De buniade rapo
+112	Liber secundus	45v	Cap CXXIII	De radice
+113	Liber secundus	46r	Cap CXXIIII	De sylvestri raphano
+113	Liber secundus	46r	Cap CXXV	De sifaro
+113	Liber secundus	46r	Cap CXXVI	De lapatho et rumice
+113	Liber secundus	46r	Cap CXXVII	De lampsana
+113	Liber secundus	46r	Cap CXXVIII	De hyppolapatho
+113	Liber secundus	46r	Cap CXXIX	De bunio napi genere
+114	Liber secundus	46v	Cap CXXX	De blitto
+114	Liber secundus	46v	Cap CXXXI	De malua
+114	Liber secundus	46v	Cap CXXXII	De attriplice
+114	Liber secundus	46v	Cap CXXXIII	De brassica
+115	Liber secundus	47r	Cap CXXXIIII	De sylvestri brassica
+115	Liber secundus	47r	Cap CXXXV	Ea brassica marina
+115	Liber secundus	47r	Cap CXXXVI	De beta
+116	Liber secundus	47v	Cap CXXXVII	De portulaca sylvestri
+116	Liber secundus	47v	Cap CXXXVIII	De portulaca
+116	Liber secundus	47v	Cap CXXXIX	De asparagis
+117	Liber secundus	48r	Cap CXL	De plantagine
+117	Liber secundus	48r	Cap CXLI	De lavere seu sio
+118	Liber secundus	48v	Cap CXLII	De sisymbrio
+118	Liber secundus	48v	Cap CXLIII	De altero sisymbrio
+118	Liber secundus	48v	Cap CXLIIII	De crithmo
+118	Liber secundus	48v	Cap CXLV	De coronopo
+118	Liber secundus	48v	Cap CXLVI	De cicerbita seu soncho
+119	Liber secundus	49r	Cap CXLVII	De intubo et feri
+119	Liber secundus	49r	Cap CXLVIII	De condrilla
+120	Liber secundus	49v	Cap CXLIX	De cucurbita
+120	Liber secundus	49v	Cap CL	De cucumere sativo
+120	Liber secundus	49v	Cap CLI	De pepone
+120	Liber secundus	49v	Cap CLII	De lactucis
+120	Liber secundus	49v	Cap CLIII	De lactuca sylvestri
+121	Liber secundus	50r	Cap CLIIII	De gingidio
+121	Liber secundus	50r	Cap CLV	De scandice
+121	Liber secundus	50r	Cap CLVI	De gallinaceo pede ceu caucalide
+121	Liber secundus	50r	Cap CLVII	De eruca
+121	Liber secundus	50r	Cap CLVIII	De ocimo
+122	Liber secundus	50v	Cap CLIX	De orobanche
+122	Liber secundus	50v	Cap CLX	De barbula hirci
+122	Liber secundus	50v	Cap CLXI	De ornithogalo
+122	Liber secundus	50v	Cap CLXII	De tuberibus
+122	Liber secundus	50v	Cap CLXIII	De smilace
+122	Liber secundus	50v	Cap CLXIIII	De medica
+123	Liber secundus	51r	Cap CLXV	De aphaca
+123	Liber secundus	51r	Cap CLXVI	De porro capitato
+123	Liber secundus	51r	Cap CLXVII	De ampeloprasso
+123	Liber secundus	51r	Cap CLXVIII	De cepa
+124	Liber secundus	51v	Cap CLXIX	De allio
+124	Liber secundus	51v	Cap CLXX	De scordoprasso
+124	Liber secundus	51v	Cap CLXXI	De sinapi
+125	Liber secundus	52r	Cap CLXXII	De nasturcio
+125	Liber secundus	52r	Cap CLXXIII	De thlaspe
+126	Liber secundus	52v	Cap CLXXIIII	De arabide
+126	Liber secundus	52v	Cap CLXXV	De irione
+126	Liber secundus	52v	Cap CLXXVI	De pipere
+127	Liber secundus	53r	Cap CLXXVII	De gingiberi
+127	Liber secundus	53r	Cap CLXXVIII	De hydropipere
+127	Liber secundus	53r	Cap CLXXIX	De ptarmica
+128	Liber secundus	53v	Cap CLXXX	De radicula seu lanaria haerba
+128	Liber secundus	53v	Cap CLXXXI	De cyclamino
+129	Liber secundus	54r	Cap CLXXXII	De altera ciclamino
+129	Liber secundus	54r	Cap CLXXXIII	De dracunculo
+130	Liber secundus	54v	Cap CLXXXIIII	De dracunculo paruo
+130	Liber secundus	54v	Cap CLXXXV	De aro
+130	Liber secundus	54v	Cap CLXXXVI	De arisaro
+131	Liber secundus	55r	Cap CLXXXVII	De hastula regia
+131	Liber secundus	55r	Cap CLXXXVIII	De bulbo vomitorio
+131	Liber secundus	55r	Cap CLXXXIX	De bulbo cibario
+132	Liber secundus	55v	Cap CXC	De scilla
+132	Liber secundus	55v	Cap CXCI	De pancratio
+133	Liber secundus	56r	Cap CXCII	De cappari
+133	Liber secundus	56r	Cap CXCIII	De lepidio
+134	Liber secundus	56v	Cap CXCIIII	De ranunculo
+134	Liber secundus	56v	Cap CXCV	De fremio
+135	Liber secundus	57r	Cap CXCVI	De argemone
+135	Liber secundus	57r	Cap CXCVII	De altera argemone
+135	Liber secundus	57r	Cap CXCVIII	De anagallide
+136	Liber secundus	57v	Cap CXCIX	De hedera
+136	Liber secundus	57v	Cap CC	De chelidonia
+137	Liber secundus	58r	Cap CCI	De chelidonia minore
+137	Liber secundus	58r	Cap CCII	De othonna
+138	Liber secundus	58v	Cap CCIII	De auricula muris
+138	Liber secundus	58v	Cap CCIIII	De altera auricula muris
+138	Liber secundus	58v	Cap CCV	De glasto fativo
+138	Liber secundus	58v	Cap CCVI	De sylvestri glasto
+139	Liber secundus	59r	Cap CCVII	De telephio
+140	Liber tertius	59v	Cap I	De agarico
+141	Liber tertius	60r	Cap II	De rapontico
+141	Liber tertius	60r	Cap III	De gentiana
+142	Liber tertius	60v	Cap IIII	De aristolochia rotunda
+142	Liber tertius	60v	Cap V	De aristolochia longa
+143	Liber tertius	61r	Cap VI	De dulci radice
+143	Liber tertius	61r	Cap VII	De centaurio magno
+144	Liber tertius	61v	Cap VIII	De centaurio minore
+144	Liber tertius	61v	Cap IX	De chamaeleone albo
+145	Liber tertius	62r	Cap X	De chamaeleone nigro
+145	Liber tertius	62r	Cap XI	De crocodilio
+145	Liber tertius	62r	Cap XII	De labro veneris seu dipsaco
+146	Liber tertius	62v	Cap XIII	De spina alba
+146	Liber tertius	62v	Cap XIIII	De spina arabica
+146	Liber tertius	62v	Cap XV	De carduo
+146	Liber tertius	62v	Cap XVI	De poterio
+147	Liber tertius	63r	Cap XVII	De acanthio
+147	Liber tertius	63r	Cap XVIII	De acantha
+147	Liber tertius	63r	Cap XIX	De sylvestra spina
+147	Liber tertius	63r	Cap XX	De anonide
+147	Liber tertius	63r	Cap XXI	De leucacantha
+148	Liber tertius	63v	Cap XXII	De tragacantha
+148	Liber tertius	63v	Cap XXIII	De eryngio
+148	Liber tertius	63v	Cap XXIIII	De aloe
+149	Liber tertius	64r	Cap XXV	De absinthio
+150	Liber tertius	64v	Cap XXVI	De marino absinthio
+150	Liber tertius	64v	Cap XXVII	De abrotono
+151	Liber tertius	65r	Cap XXVIII	De hyssopo
+151	Liber tertius	65r	Cap XXIX	De stichade
+152	Liber tertius	65v	Cap XXX	De origano
+152	Liber tertius	65v	Cap XXXI	De onitide
+152	Liber tertius	65v	Cap XXXII	De sylvestri origano
+152	Liber tertius	65v	Cap XXXIII	De tragorigano
+153	Liber tertius	66r	Cap XXXIIII	De pulegio
+153	Liber tertius	66r	Cap XXXV	De dictamo
+153	Liber tertius	66r	Cap XXXVI	De psudodictamo
+154	Liber tertius	66v	Cap XXXVII	De cretensi dictamo
+154	Liber tertius	66v	Cap XXXVIII	De salvia
+154	Liber tertius	66v	Cap XXXIX	De menta
+154	Liber tertius	66v	Cap XL	De mentastro
+154	Liber tertius	66v	Cap XLI	De calamintha
+155	Liber tertius	67r	Cap XLII	De thymo
+155	Liber tertius	67r	Cap XLIII	De satureia
+155	Liber tertius	67r	Cap XLIIII	De serpyllo
+156	Liber tertius	67v	Cap XLV	De sampsuco
+156	Liber tertius	67v	Cap XLVI	De sertula campana
+157	Liber tertius	68r	Cap XLVII	De maro
+157	Liber tertius	68r	Cap XLVIII	De ocimastro
+157	Liber tertius	68r	Cap XLIX	De bacchare
+157	Liber tertius	68r	Cap L	De ruta
+158	Liber tertius	68v	Cap LI	De sylvestri ruta
+159	Liber tertius	69r	Cap LII	De moly
+159	Liber tertius	69r	Cap LIII	De panace
+160	Liber tertius	69v	Cap LIIII	De panace asclepii
+160	Liber tertius	69v	Cap LV	De panace chironio
+160	Liber tertius	69v	Cap LVI	De liguistico
+161	Liber tertius	70r	Cap LVII	De pastinaca
+161	Liber tertius	70r	Cap LVIII	De seseli
+161	Liber tertius	70r	Cap LIX	De aethiopico seseli
+161	Liber tertius	70r	Cap LX	De peloponnesi seseli
+162	Liber tertius	70v	Cap LXI	De cretico seseli
+162	Liber tertius	70v	Cap LXII	De sisone
+162	Liber tertius	70v	Cap LXIII	De aniso
+162	Liber tertius	70v	Cap LXIIII	De caro
+162	Liber tertius	70v	Cap LXV	De anetho
+163	Liber tertius	71r	Cap LXVI	De cumino fativo
+163	Liber tertius	71r	Cap LXVII	De sylvestri cumino
+163	Liber tertius	71r	Cap LXVIII	De ammio
+164	Liber tertius	71v	Cap LXIX	De coriano
+164	Liber tertius	71v	Cap LXX	De hieracia
+164	Liber tertius	71v	Cap LXXI	De hieracia parua
+164	Liber tertius	71v	Cap LXXII	De apio
+164	Liber tertius	71v	Cap LXXIII	De eleoselino
+165	Liber tertius	72r	Cap LXXIIII	De oreoselino
+165	Liber tertius	72r	Cap LXXV	De petroselino
+165	Liber tertius	72r	Cap LXXVI	De olusatro
+165	Liber tertius	72r	Cap LXXVII	De smyrnio
+166	Liber tertius	72v	Cap LXXVIII	De elaphobosco
+166	Liber tertius	72v	Cap LXXIX	De eoeniculo
+166	Liber tertius	72v	Cap LXXX	De erratico foeniculo
+167	Liber tertius	73r	Cap LXXXI	De dauco
+167	Liber tertius	73r	Cap LXXXII	De delphinio
+167	Liber tertius	73r	Cap LXXXIII	De altero delphinio
+167	Liber tertius	73r	Cap LXXXIIII	De pyrethro
+168	Liber tertius	73v	Cap LXXXV	De rosmarino
+168	Liber tertius	73v	Cap LXXXVI	De canchry
+169	Liber tertius	74r	Cap LXXXVIII	De rosmarino coronario
+169	Liber tertius	74r	Cap LXXXIX	De sphondylio
+169	Liber tertius	74r	Cap XC	De ferula
+169	Liber tertius	74r	Cap XCI	De peucedano
+170	Liber tertius	74v	Cap XCII	De gith seu melanthio
+171	Liber tertius	75r	Cap XCIII	De laserpitio et lasere
+172	Liber tertius	75v	Cap XCIIII	De sagapenio
+172	Liber tertius	75v	Cap XCV	De euphorbio
+173	Liber tertius	76r	Cap XCVI	De galbano
+173	Liber tertius	76r	Cap XCVII	De ammoniaco
+174	Liber tertius	76v	Cap XCVIII	De sarcocolla
+174	Liber tertius	76v	Cap XCIX	De glaucio
+174	Liber tertius	76v	Cap C	De glutino
+174	Liber tertius	76v	Cap CI	De glutino piscium
+174	Liber tertius	76v	Cap CII	De visco
+175	Liber tertius	77r	Cap CIII	De aparinae
+175	Liber tertius	77r	Cap CIIII	De alysso
+175	Liber tertius	77r	Cap CV	De asclepiade
+175	Liber tertius	77r	Cap CVI	De atractylide
+176	Liber tertius	77v	Cap CVII	De polycnemo
+176	Liber tertius	77v	Cap CVIII	De clinopodio
+176	Liber tertius	77v	Cap CIX	De leontopedalo
+176	Liber tertius	77v	Cap CX	De teucrio
+177	Liber tertius	78r	Cap CXI	De trisagine
+177	Liber tertius	78r	Cap CXII	De leucade
+177	Liber tertius	78r	Cap CXIII	De lychnide
+177	Liber tertius	78r	Cap CXIIII	De sylvestri lychnide
+177	Liber tertius	78r	Cap CXV	De lilio
+178	Liber tertius	78v	Cap CXVI	De ballote seu marrubio nigro
+178	Liber tertius	78v	Cap CXVII	De apiastro
+179	Liber tertius	79r	Cap CXVIII	De marrubio
+179	Liber tertius	79r	Cap CXIX	De stachye
+179	Liber tertius	79r	Cap CXX	De phyllitide
+179	Liber tertius	79r	Cap CXXI	De phalangia
+180	Liber tertius	79v	Cap CXXII	De trisolio
+180	Liber tertius	79v	Cap CXXIII	De polio
+180	Liber tertius	79v	Cap CXXIIII	De scordio
+181	Liber tertius	80r	Cap CXXIIII	De tussilagine
+181	Liber tertius	80r	Cap CXXV	De artemisia
+182	Liber tertius	80v	Cap CXXVI	De artemisia tenuiore
+182	Liber tertius	80v	Cap CXXVII	De ambrosia
+182	Liber tertius	80v	Cap CXXVIII	De botrye
+182	Liber tertius	80v	Cap CXXIX	De geranio
+182	Liber tertius	80v	Cap CXXX	De altero geranio
+182	Liber tertius	80v	Cap CXXXI	De gnaphalio
+183	Liber tertius	81r	Cap CXXXII	De typha
+183	Liber tertius	81r	Cap CXXXIII	De circea
+183	Liber tertius	81r	Cap CXXXIIII	De oenanthe
+183	Liber tertius	81r	Cap CXXXV	De conyza magna
+183	Liber tertius	81r	Cap CXXXVI	De conyza paru
+184	Liber tertius	81v	Cap CXXXVII	De altera conyza
+184	Liber tertius	81v	Cap CXXXVIII	De lilio sylvestri
+184	Liber tertius	81v	Cap CXXXIX	De viola alba
+184	Liber tertius	81v	Cap CXL	De crataegono
+184	Liber tertius	81v	Cap CXLI	De phyllo
+185	Liber tertius	82r	Cap CXLII	De testiculo canis
+185	Liber tertius	82r	Cap CXLIII	De altero testiculo
+185	Liber tertius	82r	Cap CXLIIII	De satyro
+185	Liber tertius	82r	Cap XCLV	De satyro erythronio
+186	Liber tertius	82v	Cap CXLVI	De hormino
+186	Liber tertius	82v	Cap CXLVII	De securidaca
+186	Liber tertius	82v	Cap CXLVIII	De onosmate
+186	Liber tertius	82v	Cap CXLIX	De nymphaea
+187	Liber tertius	83r	Cap CL	De altera nymphaea
+187	Liber tertius	83r	Cap CLI	De androsace
+187	Liber tertius	83r	Cap CLII	De asplenio
+187	Liber tertius	83r	Cap CLIII	De hemionitide
+187	Liber tertius	83r	Cap CLIIII	De anthyllide
+188	Liber tertius	83v	Cap CLV	De anthemide
+188	Liber tertius	83v	Cap CLVI	De parthenio
+188	Liber tertius	83v	Cap CLVII	De buphthalmo
+189	Liber tertius	84r	Cap CLVIII	De paeonia
+189	Liber tertius	84r	Cap CLIX	De lithospermo
+190	Liber tertius	84v	Cap CLX	De phalaride
+190	Liber tertius	84v	Cap CLXI	De rubia
+190	Liber tertius	84v	Cap CLXII	De lonchitide
+190	Liber tertius	84v	Cap CLXIII	De altera lonchitide
+191	Liber tertius	85r	Cap CLXIIII	De althaea
+191	Liber tertius	85r	Cap CLXV	De alcea
+191	Liber tertius	85r	Cap CLXVI	De sylvestri cannabe
+191	Liber tertius	85r	Cap CLXVII	De sativa cannabe
+192	Liber tertius	85v	Cap CLXVIII	De anagyir
+192	Liber tertius	85v	Cap CLXIX	De cepaea
+192	Liber tertius	85v	Cap CLXX	De alimate
+192	Liber tertius	85v	Cap CLXXI	De onobrychide
+192	Liber tertius	85v	Cap CLXXII	De hyperico
+193	Liber tertius	86r	Cap CLXXIII	De ascyro
+193	Liber tertius	86r	Cap CLXXIIII	De ascyro
+193	Liber tertius	86r	Cap CLXXV	De androsaemo
+193	Liber tertius	86r	Cap CLXXVI	De aiuga
+194	Liber tertius	86v	Cap CLXXVII	De altera aiuga
+195	Liber quartus	87r	Cap I	De betonica
+196	Liber quartus	87v	Cap II	De bretanica
+196	Liber quartus	87v	Cap III	De vettonica
+196	Liber quartus	87v	Cap IIII	De lysimachia
+196	Liber quartus	87v	Cap V	De sanguinaria ceu polygono
+197	Liber quartus	88r	Cap VI	De sanguinaria foemina
+197	Liber quartus	88r	Cap VII	De polygonato
+197	Liber quartus	88r	Cap VIII	De clematide
+197	Liber quartus	88r	Cap IX	De altera clematide
+198	Liber quartus	88v	Cap X	De polemonia
+198	Liber quartus	88v	Cap XI	De alo
+198	Liber quartus	88v	Cap XII	De altero symphyto
+198	Liber quartus	88v	Cap XIII - De holosteo	De holosteo
+199	Liber quartus	89r	Cap XIIII	De stoebe
+199	Liber quartus	89r	Cap XV	De volucro
+199	Liber quartus	89r	Cap XVI	De periclymeno
+199	Liber quartus	89r	Cap XVII - De tribulo	De tribulo
+200	Liber quartus	89v	Cap XVIII	De sarxiphago
+200	Liber quartus	89v	Cap XIX	De limonio
+200	Liber quartus	89v	Cap XX	De lagopo
+200	Liber quartus	89v	Cap XXI	De medio
+201	Liber quartus	90r	Cap XXII	De epimedio
+201	Liber quartus	90r	Cap XXIII	De gladiola
+201	Liber quartus	90r	Cap XXIIII	De sparganio
+201	Liber quartus	90r	Cap XXV	De sylvestri iride
+202	Liber quartus	90v	Cap XXVI	De anchusa
+202	Liber quartus	90v	Cap XXVII	De alia anchusa
+202	Liber quartus	90v	Cap XXVIII	De alia anchusa
+202	Liber quartus	90v	Cap XXIX	De lycopsi
+203	Liber quartus	91r	Cap XXX	De echio
+203	Liber quartus	91r	Cap XXXI	De ocimastro
+203	Liber quartus	91r	Cap XXXII	De erino
+203	Liber quartus	91r	Cap XXXIII	De gramine
+203	Liber quartus	91r	Cap XXXIIII	De arundinaceo gramine
+204	Liber quartus	91v	Cap XXXV	De gramine parnasi
+204	Liber quartus	91v	Cap XXXVI	De siderite
+204	Liber quartus	91v	Cap XXXVII	De alia siderite
+204	Liber quartus	91v	Cap XXXVIII	De alia siderite
+204	Liber quartus	91v	Cap XXXIX	De achillea
+205	Liber quartus	92r	Cap XL	De rubo
+205	Liber quartus	92r	Cap XLI	De idaeo rubo
+205	Liber quartus	92r	Cap XLII	De helxine id est murali haerba
+206	Liber quartus	92v	Cap XLIII	De elatine
+206	Liber quartus	92v	Cap XLIIII	De eupatorio
+206	Liber quartus	92v	Cap XLV	De quinquefolio
+207	Liber quartus	93r	Cap XLVI	De phoenice
+207	Liber quartus	93r	Cap XLVII	De idaea radice
+207	Liber quartus	93r	Cap XLVIII	De rhodia radice
+207	Liber quartus	93r	Cap XLIX	De equiseto
+208	Liber quartus	93v	Cap L	De altero equiseto
+208	Liber quartus	93v	Cap LI	De cocco set infectorio
+208	Liber quartus	93v	Cap LII	De tragio
+208	Liber quartus	93v	Cap LIII	De alio tragio
+208	Liber quartus	93v	Cap LIIII	De trago
+209	Liber quartus	94r	Cap LV	De iunco
+209	Liber quartus	94r	Cap LVI	De lichenae
+209	Liber quartus	94r	Cap LVII	De parrhonychia
+209	Liber quartus	94r	Cap LVIII	De chrysocomae
+209	Liber quartus	94r	Cap LIX	De chrysogono
+210	Liber quartus	94v	Cap LX	De elichryso
+210	Liber quartus	94v	Cap LXI	De chrysanthemo
+210	Liber quartus	94v	Cap LXII	De agerato
+210	Liber quartus	94v	Cap LXIII	De verbenaca
+211	Liber quartus	95r	Cap LXIIII	De supina verbenaca
+211	Liber quartus	95r	Cap LXV	De astragalo
+211	Liber quartus	95r	Cap LXVI	De hyacyntho
+212	Liber quartus	95v	Cap LXVII	De papauere erratico
+212	Liber quartus	95v	Cap LXVIII	De papauere sativo
+213	Liber quartus	96r	Cap LXIX	De corniculatio papauere
+214	Liber quartus	96v	Cap LXX	De spumeo papauere
+214	Liber quartus	96v	Cap LXXI	De hypecoo
+214	Liber quartus	96v	Cap LXXII	De apollinari et hyoscyamo
+215	Liber quartus	97r	Cap LXXIII	De psyllio
+216	Liber quartus	97v	Cap LXXVII	De hortensi solano
+216	Liber quartus	97v	Cap LXXV	De vesicaria
+216	Liber quartus	97v	Cap LXXVI	De solano somnifero
+217	Liber quartus	98r	Cap LXXVII	De manico solano
+217	Liber quartus	98r	Cap LXXVIII	De dorycnio
+217	Liber quartus	98r	Cap LXXIX	De mandragora
+219	Liber quartus	99r	Cap LXXX	De aconito
+219	Liber quartus	99r	Cap LXXXI	De altero aconito
+220	Liber quartus	99v	Cap LXXXII	De cicuta
+220	Liber quartus	99v	Cap LXXXIII	De taxo
+220	Liber quartus	99v	Cap LXXXIIII	De apocyno
+221	Liber quartus	100r	Cap LXXXV	De nerio seu rhodendro
+221	Liber quartus	100r	Cap LXXXVI	De fungis
+221	Liber quartus	100r	Cap LXXXVII	De colchico
+222	Liber quartus	100v	Cap LXXXVIII	De ephemero
+222	Liber quartus	100v	Cap LXXXIX	De alsinae
+222	Liber quartus	100v	Cap XC	De palustri lente
+222	Liber quartus	100v	Cap XCI	De semperuvino seu sedo magno
+223	Liber quartus	101r	Cap XCII	De minore semperuvino
+223	Liber quartus	101r	Cap XCIII	De veneris umbilico
+223	Liber quartus	101r	Cap XCIIII	De altero veneris umbilico
+224	Liber quartus	101v	Cap XCV	De urtica
+224	Liber quartus	101v	Cap XCVI	De galiopsi
+224	Liber quartus	101v	Cap XCVII	De gallio
+224	Liber quartus	101v	Cap XCVIII	De senetione
+225	Liber quartus	102r	Cap XCIX	De thalictro
+225	Liber quartus	102r	Cap C	De marino bryo
+225	Liber quartus	102r	Cap CI	De fuco marino
+225	Liber quartus	102r	Cap CII	De potamogetone
+225	Liber quartus	102r	Cap CIII	De stratiote
+226	Liber quartus	102v	Cap CIIII	De stratiote chiliophyllo
+226	Liber quartus	102v	Cap CV	De verbasco
+226	Liber quartus	102v	Cap CVI	De aethiopide
+227	Liber quartus	103r	Cap CVII	De arctio
+227	Liber quartus	103r	Cap CVIII	De personata
+227	Liber quartus	103r	Cap CIX	De petasite
+227	Liber quartus	103r	Cap CX	De episactide
+227	Liber quartus	103r	Cap CXI	De capno seusumaria
+228	Liber quartus	103v	Cap CXII	De loto urbana
+228	Liber quartus	103v	Cap CXIII	De sylvestri loto
+228	Liber quartus	103v	Cap CXIIII	De cytisso
+228	Liber quartus	103v	Cap CXV	De aegyptia loto
+228	Liber quartus	103v	Cap CXVI	De millefolio
+229	Liber quartus	104r	Cap CXVII	De myrrhide
+229	Liber quartus	104r	Cap CXVIII	De myagro
+229	Liber quartus	104r	Cap CXIX	De onagra
+229	Liber quartus	104r	Cap CXX	De crissio
+229	Liber quartus	104r	Cap CXXI	De altere seu inguinali
+230	Liber quartus	104v	Cap CXXII	De isopyro
+230	Liber quartus	104v	Cap CXXIII	De viola purpurea
+230	Liber quartus	104v	Cap CXXIIII	De caucalia
+230	Liber quartus	104v	Cap CXXV	De bunio napi genere
+230	Liber quartus	104v	Cap CXXVI	De psudobunio
+231	Liber quartus	105r	Cap CXXVII	De chamaecisso
+231	Liber quartus	105r	Cap CXXVIII	De chamaeleuce
+231	Liber quartus	105r	Cap CXXIX	De buglosso ser lingua bubula
+231	Liber quartus	105r	Cap CXXX	De cynoglosso
+231	Liber quartus	105r	Cap CXXXI	De phyteumate
+231	Liber quartus	105r	Cap CXXXII	De leontopodio
+232	Liber quartus	105v	Cap CXXXIII	De hippoglosso
+232	Liber quartus	105v	Cap CXXXIIII	De antirrhino
+232	Liber quartus	105v	Cap CXXXV	De catanace
+232	Liber quartus	105v	Cap CXXXVI	De tripolo
+232	Liber quartus	105v	Cap CXXXVII	De adianto
+233	Liber quartus	106r	Cap CXXXVIII	De fidicula seu trichomane
+233	Liber quartus	106r	Cap CXXXIX	De xanthio et lapa
+233	Liber quartus	106r	Cap CXL	De avena
+233	Liber quartus	106r	Cap CXLI	De bromo avenae genere
+234	Liber quartus	106v	Cap CXLII	De glauce
+234	Liber quartus	106v	Cap CXLIII	De polygala
+234	Liber quartus	106v	Cap CXLIIII	De osyri
+234	Liber quartus	106v	Cap CXLV	De aspera smilace
+234	Liber quartus	106v	Cap CXLVI	De laevi smilace
+234	Liber quartus	106v	Cap CXLVII	De rusco
+235	Liber quartus	107r	Cap CXLVIII	De lauro alexandrina
+235	Liber quartus	107r	Cap CXLIX	De daphnoide
+235	Liber quartus	107r	Cap CL	De camaedaphne
+236	Liber quartus	107v	Cap CLI	De albo veratro
+236	Liber quartus	107v	Cap CLII	De veratro nigro
+237	Liber quartus	108r	Cap CLIII	De sesamoide magno
+237	Liber quartus	108r	Cap CLIIII	De sesamoide paruo
+238	Liber quartus	108v	Cap CLV	De sylvestri cucumere
+238	Liber quartus	108v	Cap CLVI	De elaterio
+239	Liber quartus	109r	Cap CLVII	De sativo cucumere
+239	Liber quartus	109r	Cap CLVIII	De straphide agria
+240	Liber quartus	109v	Cap CLIX	De thapsia
+240	Liber quartus	109v	Cap CLX	De psartio
+241	Liber quartus	110r	Cap CLXI	De silybo
+241	Liber quartus	110r	Cap CLXII	De vomitorio bulbo
+241	Liber quartus	110r	Cap CLXIII	De unguentaria glande
+241	Liber quartus	110r	Cap CLXIIII	De narcisso
+242	Liber quartus	110v	Cap CLXV	De hippophae
+242	Liber quartus	110v	Cap CLXVI	De hippophaesto
+242	Liber quartus	110v	Cap CLXVII	De ricino
+243	Liber quartus	111r	Cap CLXVIII	De tithymalorum generibus
+243	Liber quartus	111r	Cap CLXIX	De characia appellato
+244	Liber quartus	111v	Cap CLXX	De foemina
+244	Liber quartus	111v	Cap CLXXI	De paralio
+244	Liber quartus	111v	Cap CLXXII	De helioscopo
+244	Liber quartus	111v	Cap CLXXIII	De cyparissia
+244	Liber quartus	111v	Cap CLXXIIII	De petraeo tithymalo
+244	Liber quartus	111v	Cap CLXXV	De platyphyllo
+245	Liber quartus	112r	Cap CLXXVI	De pityusa
+245	Liber quartus	112r	Cap CLXXVII	De lathyri
+245	Liber quartus	112r	Cap CLXXIX	De peplo
+245	Liber quartus	112r	Cap CLXXX	De peplide
+246	Liber quartus	112v	Cap CLXXXI	De chamaesyce
+246	Liber quartus	112v	Cap CLXXXII	De scammonia
+247	Liber quartus	113r	Cap CLXXXII	De chamalaea
+247	Liber quartus	113r	Cap CLXXXIII	De thymelaea
+248	Liber quartus	113v	Cap CLXXXIIII	De sabuco
+248	Liber quartus	113v	Cap CLXXXV	De ebulo
+248	Liber quartus	113v	Cap CLXXXVI	De pygnocomo
+249	Liber quartus	114r	Cap CLXXXVII	De apio ceu radice sylvertri
+249	Liber quartus	114r	Cap CLXXXVIII	De colocyntha aegos aliys sicya picra
+249	Liber quartus	114r	Cap CLXXXIX	De epithymo
+249	Liber quartus	114r	Cap CXC	De alypo
+250	Liber quartus	114v	Cap CXCI	De empetro seu calcifraga
+250	Liber quartus	114v	Cap CXCII	De clematide
+250	Liber quartus	114v	Cap CXCIII	De labrusca
+250	Liber quartus	114v	Cap CXCIIII	De vite alba
+251	Liber quartus	115r	Cap CXCV	De vite nigra
+251	Liber quartus	115r	Cap CXCVI	De filice
+252	Liber quartus	115v	Cap CXCVII	De filice foemina
+252	Liber quartus	115v	Cap CXCVIII	De filicula
+252	Liber quartus	115v	Cap CXCIX	De dryopteri
+252	Liber quartus	115v	Cap CC	De cnico
+253	Liber quartus	116r	Cap CCI	De mercuriali
+253	Liber quartus	116r	Cap CCII	De cynocrambae
+253	Liber quartus	116r	Cap CCIII	De heliotropio magno
+254	Liber quartus	116v	Cap CCIIII	De heliotropio paruo
+254	Liber quartus	116v	Cap CCV	De scorpioide
+255	Liber quintus	117r	Cap I	De vinifera vitae
+255	Liber quintus	117r	Cap II	De sylvestri vite
+255	Liber quintus	117r	Cap III	De vua
+256	Liber quintus	117v	Cap IIII	De vua passa
+256	Liber quintus	117v	Cap V	De oenanthe
+256	Liber quintus	117v	Cap VI	De omphacio
+257	Liber quintus	118r	Cap VII	De vini natura
+260	Liber quintus	118v	Cap VIII	De melitide vino
+260	Liber quintus	118v	Cap IX	De mulso
+260	Liber quintus	118v	Cap X	De aqua mulsa
+260	Liber quintus	118v	Cap XI	De aqua
+261	Liber quintus	120r	Cap XII	De aqua marina
+261	Liber quintus	120r	Cap XIII	De thalasso melite
+261	Liber quintus	120r	Cap XIIII	De aceto
+262	Liber quintus	120v	Cap XV	De aceto mulso
+262	Liber quintus	120v	Cap XVI	De acida muria
+262	Liber quintus	120v	Cap XVII	De thymoxalme
+262	Liber quintus	120v	Cap XVIII	De scyllino aceto
+263	Liber quintus	121r	Cap XIX	De vino scyllino
+263	Liber quintus	121r	Cap XX	De vinis marinis
+264	Liber quintus	121v	Cap XXI	De vino cydonite
+264	Liber quintus	121v	Cap XXII	De melomelite
+264	Liber quintus	121v	Cap XXIII	De hydromelo
+264	Liber quintus	121v	Cap XXIIII	De omphacomelite
+264	Liber quintus	121v	Cap XXV	De vino apijte
+264	Liber quintus	121v	Cap XXVI	De oenanthino
+264	Liber quintus	121v	Cap XXVII	De vino rhoite
+265	Liber quintus	122r	Cap XXVIII	De vino rhodite
+265	Liber quintus	122r	Cap XXIX	De vino myrtite
+265	Liber quintus	122r	Cap XXX	De vino myrsinite
+265	Liber quintus	122r	Cap XXXI	De vino lentiscino et terebinthino
+265	Liber quintus	122r	Cap XXXII	De vino palmeo
+265	Liber quintus	122r	Cap XXXIII	De vino catorchite
+266	Liber quintus	122v	Cap XXXIIII	De vino sycomorite
+266	Liber quintus	122v	Cap XXXV	De vino resinato
+266	Liber quintus	122v	Cap XXXVI	De vino strobilite
+266	Liber quintus	122v	Cap XXXVII	De vino cedrino
+267	Liber quintus	123r	Cap XXXVIII	De vino juniperino
+267	Liber quintus	123r	Cap XXXIX	De vino cedrite
+267	Liber quintus	123r	Cap XL	De vino picato
+267	Liber quintus	123r	Cap XLI	De vino absinthite
+268	Liber quintus	123v	Cap XLII	De vino hyssopite
+268	Liber quintus	123v	cap XLIII	De vino chamaedryte
+268	Liber quintus	123v	Cap XLIIII	De vino stichadite
+268	Liber quintus	123v	Cap XLV	De aceto stichadico
+268	Liber quintus	123v	Cap XLVI	De vino cestritre
+268	Liber quintus	123v	Cap XLVII	De tragoriganite vino
+268	Liber quintus	123v	Cap XLVIII	De vino bunite
+269	Liber quintus	124r	Cap XLIX	De vino dictamnite
+269	Liber quintus	124r	Cap L	De vino prasijte
+269	Liber quintus	124r	Cap LI	De vino thymite
+269	Liber quintus	124r	Cap LII	De vino thymbrite
+269	Liber quintus	124r	Cap LIII	De vino origanite
+269	Liber quintus	124r	Cap LIII	De calaminthite & abrotonite vinis
+269	Liber quintus	124r	Cap LV	De vino conyzite
+269	Liber quintus	124r	Cap LV	De vino aromatite
+270	Liber quintus	124v	Cap LVII	De vino e pipete myrrha et iride
+270	Liber quintus	124v	Cap LVIII	De necttarite vino
+270	Liber quintus	124v	Cap LIX	De vino syriaca nardo celtica et malabathro
+270	Liber quintus	124v	Cap LX	De asarite vino
+270	Liber quintus	124v	Cap LXI	De vino e sylvestri nardo
+270	Liber quintus	124v	Cap LXII	De daucite vino
+270	Liber quintus	124v	Cap LXIII	De salviato vino
+271	Liber quintus	125r	Cap LXIIII	De panacite vino
+271	Liber quintus	125r	Cap LXV	De acorite vino
+271	Liber quintus	125r	Cap LXVI	De selenite vino
+271	Liber quintus	125r	Cap LXVII	De marathrite & anethino vino
+271	Liber quintus	125r	Cap LXVIII	De vino e flore salis
+271	Liber quintus	125r	Cap LXIX	De vino e ethmeleaea
+271	Liber quintus	125r	Cap LXX	De vino e chamaelaea
+272	Liber quintus	125v	Cap LXXI	De vino chamaepityino
+272	Liber quintus	125v	Cap LXXII	De vino mandragorite
+272	Liber quintus	125v	Cap LXXIII	De vino helleborite
+272	Liber quintus	125v	Cap LXXIIII	De vino scammonite
+273	Liber quintus	126r	Cap LXXV	De cadmia
+274	Liber quintus	126v	Cap LXXVI	De pompholyge
+275	Liber quintus	127r	Cap LXXVII	De antispodo
+276	Liber quintus	127v	Cap LXXVIII	De aere vito
+276	Liber quintus	127v	Cap LXXIX	De flore aeris
+277	Liber quintus	128r	Cap LXXX	De squamma aeris
+277	Liber quintus	128r	Cap LXXXI	De squamma ex acie decussa
+277	Liber quintus	128r	Cap LXXXII	De erugine rasa
+278	Liber quintus	128v	Cap LXXXIII	De aerugine scolecia
+279	Liber quintus	129r	Cap LXXXIIII	De rubigine ferri
+279	Liber quintus	129r	Cap LXXXV	De stercore ferri
+279	Liber quintus	129r	Cap LXXXVI	De plumbo eloto
+280	Liber quintus	129v	Cap LXXXVII	De plumbo vito
+280	Liber quintus	129v	Cap LXXXVIII	De recremento plumbi
+280	Liber quintus	129v	Cap LXXXIX	De molibdoide lapide
+280	Liber quintus	129v	Cap XC	De stibio
+281	Liber quintus	130r	Cap XCXI	De molibdaena seu plumbagine
+281	Liber quintus	130r	cap XCII	De recremento argenti
+281	Liber quintus	130r	Cap XCIII	Di spuma argenti
+283	Liber quintus	131r	Cap XCIIII	De cerusa
+283	Liber quintus	131r	Cap XCV	De chrysocolla
+284	Liber quintus	131v	Cap XCVI	De armenio lapide
+284	Liber quintus	131v	Cap XCVII	De caeruleo
+284	Liber quintus	131v	Cap XCVIII	De indico
+284	Liber quintus	131v	Cap XCIX	De ochra
+284	Liber quintus	131v	Cap C	De cinnabari
+285	Liber quintus	132r	Cap CI	De argento vino
+285	Liber quintus	132r	Cap CII	De rubrica ceu minio sinopico
+285	Liber quintus	132r	Cap CIII	De rubrica fabrili
+286	Liber quintus	132v	Cap CIIII	De lemnia terra
+286	Liber quintus	132v	Cap CV	De attramento futorio
+286	Liber quintus	132v	Cap CVI	De chalcite
+287	Liber quintus	133r	Cap CVII	De psorico
+287	Liber quintus	133r	Cap CVIII	De misy
+287	Liber quintus	133r	Cap CIX	De melanteria
+287	Liber quintus	133r	cap CX	De sory
+288	Liber quintus	133v	Cap CXI	De diphryge
+288	Liber quintus	133v	Cap CXII	De auripigmento
+289	Liber quintus	134r	Cap CXIII	De sandaracha
+289	Liber quintus	134r	Cap CXIIII	De alumine
+290	Liber quintus	134v	Cap CXV	De sulphure
+290	Liber quintus	134v	Cap CXVI	De pumice
+290	Liber quintus	134v	Cap CXVII	De sale
+291	Liber quintus	135r	Cap CXVIII	De spuma salis
+291	Liber quintus	135r	Cap CXIX	De muria
+292	Liber quintus	135v	Cap CXX	De flore salis
+292	Liber quintus	135v	Cap CXXI	De nitro
+292	Liber quintus	135v	Cap CXXII	De spuma nitri
+292	Liber quintus	135v	Cap CXXIII	De faece
+293	Liber quintus	136r	Cap CXXIIII	De calce
+293	Liber quintus	136r	Cap CXXV	De gypso
+293	Liber quintus	136r	Cap CXXVI	De sarmenticio cinere
+293	Liber quintus	136r	Cap CXXVII	De alcyonio
+294	Liber quintus	136v	Cap CXXVIII	De adarche
+294	Liber quintus	136v	Cap CXXIX	De spongiis
+295	Liber quintus	137r	Cap CXXX	De corallio
+295	Liber quintus	137r	Cap CXXXI	De antipahte
+295	Liber quintus	137r	Cap CXXXII	De phrygio lapide
+295	Liber quintus	137r	Cap CXXXIII	De asio lapide
+296	Liber quintus	137v	Cap CXXXIIII	De pyrite lapide
+296	Liber quintus	137v	Cap CXXXV	De haematite lapide
+297	Liber quintus	138r	Cap CXXXVI	De schisto lapide
+297	Liber quintus	138r	Cap CXXXVII	De gagate lapide
+297	Liber quintus	138r	Cap CXXXVIII	De lapide thracia
+297	Liber quintus	138r	Cap CXXXIX	De magnete lapide
+297	Liber quintus	138r	Cap CXL	De arabo lapide
+298	Liber quintus	138v	Cap CXLI	De galactite
+298	Liber quintus	138v	Cap CXLII	De melitite
+298	Liber quintus	138v	Cap CXLIII	De morochtho lapide
+298	Liber quintus	138v	Cap CXLIIII	De alabastrite lapide
+298	Liber quintus	138v	Cap CXLV	De thyite lapillo
+298	Liber quintus	138v	Cap CXLVI	De iudaico lapide
+298	Liber quintus	138v	Cap CXLVII	De amianto
+299	Liber quintus	139r	Cap CXLVIII	De sapphiro
+299	Liber quintus	139r	Cap CXLIX	De memphite
+299	Liber quintus	139r	Cap CL	De selenite lapide
+299	Liber quintus	139r	Cap CLI	De iaspide lapide
+299	Liber quintus	139r	Cap CLII	De aetite lapide
+300	Liber quintus	139v	Cap CLIII	De ophite lapide
+300	Liber quintus	139v	Cap CLIIII	De lapidus spongiarum
+300	Liber quintus	139v	Cap CLV	De lithocolla
+300	Liber quintus	139v	Cap CLVI	De ostracite
+300	Liber quintus	139v	cap CLVII	De smyride
+300	Liber quintus	139v	Cap CLVIII	De harena
+300	Liber quintus	139v	Cap CLIX	De cote
+300	Liber quintus	139v	Cap CLX	De lapide geode
+301	Liber quintus	140r	Cap CLXI	De terra
+301	Liber quintus	140r	Cap CLXII	De erethriade
+301	Liber quintus	140r	Cap CLXIII	De terra samia
+301	Liber quintus	140r	Cap CLXIIII	De samio lapide
+301	Liber quintus	140r	Cap CLXV	De chia terra
+302	Liber quintus	140v	Cap CLXVI	De selinusia terra
+302	Liber quintus	140v	Cap CLXVII	De cimolia
+302	Liber quintus	140v	Cap CLXVIII	De pnigite terra
+302	Liber quintus	140v	Cap CLXIX	De testis
+302	Liber quintus	140v	Cap CLXX	De terra fornacum
+302	Liber quintus	140v	Cap CLXXI	De melia terra
+302	Liber quintus	140v	Cap CLXXII	De ampelitide terra
+303	Liber quintus	141r	Cap CLXXIII	De fuligine pictoria
+303	Liber quintus	141r	Cap LXXIIII	De attramento librario

@@ -1,0 +1,147 @@
+<def>
+<defaults shows="br_id,wm_name,ws_name,sp_name,br_name,bk_name" edits="" lists="wm_name,br_id,br_name,bk_id,bk_name" mainname="ws_name"/>
+<items>
+<item id="id" display="ID (DMM)"/>
+<item id="book" display="Book"/>
+<item id="br_id" display="ID (Berendes)"/>
+<item id="br_pag" display="Page in Berendes"/>
+<item id="br_name" display="German term (Berendes)"/>
+<item id="br_grk" display="Greek term (Berendes)"/>
+<item id="br_spec" display="Species (Berendes)"/>
+<item id="br_tt" display="TEITOK ID (Berendes)" admin="1"/>
+<item id="sl_pag" display="Number in Salamanca"/>
+<item id="sl_id" display="ID (Salamanca)"/>
+<item id="sl_tt" display="TEITOK ID (Salamanca Grk)" admin="1"/>
+<item id="sl_tt_esp" display="TEITOK ID (Salamanca Esp)" admin="1"/>
+<item id="sl_name" display="Spanish term (Salamanca)"/>
+<item id="sl_grk" display="Greek term (Salamanca)"/>
+<item id="sl_spec" display="Species (Salamanca)"/>
+<item id="sp_id" display="ID (Sprengel)"/>
+<item id="sp_pag" display="Page in Sprengel"/>
+<item id="sp_url" display="URL to Sprengel"/>
+<item id="sp_name" display="Greek term (Sprengel)"/>
+<item id="sp_lat" display="Latin term (Sprengel)"/>
+<item id="sp_spec" display="Species (Sprengel)"/>
+<item id="gn_id" display="ID (Gunther)"/>
+<item id="gn_name" display="English term (Gunther)"/>
+<item id="gn_grk" display="Greek term (Gunther)"/>
+<item id="gn_spec" display="Species (Gunther)"/>
+<item id="gn_tt" display="TEITOK ID (Gunther)" admin="1"/>
+<item id="bk_id" display="ID (Beck)"/>
+<item id="bk_name" display="English term (Beck)"/>
+<item id="bk_tt" display="TEITOK ID (Beck)" admin="1"/>
+<item id="bk_name" display="English term (Beck)"/>
+<item id="bk_grk" display="Greek term (Beck)"/>
+<item id="wm_id" display="ID (Wellman)"/>
+<item id="wm_tt" display="TEITOK ID (Wellman)" admin="1"/>
+<item id="wm_pag" display="Page in Wellman"/>
+<item id="wm_name" display="Greek term (Wellman)"/>
+<item id="ma_id" display="ID (Matthiolo)"/>
+<item id="ma_pag" display="Page in Matthiolo"/>
+<item id="ma_name" display="Latin term (Matthiolo)"/>
+<item id="ma_grk" display="Greek term (Matthiolo)"/>
+<item id="ma_tt" display="TEITOK ID (Matthiolo)" admin="1"/>
+<item id="mh_id" display="ID (Matthe)"/>
+<item id="mh_pag" display="Page in Matthe"/>
+<item id="mh_name" display="French term (Matthe)"/>
+<item id="mo_id" display="ID (Desmoulins)"/>
+<item id="mo_pag" display="Page in Desmoulins"/>
+<item id="mo_name" display="French term (Desmoulins)"/>
+<item id="ba_id" display="ID (Barbaro)"/>
+<item id="ba_img" display="Image in Barbaro"/>
+<item id="ba_pag" display="Page in Barbaro"/>
+<item id="ba_name" display="Latin term (Barbaro)"/>
+<item id="va_pag" display="Page in Valdes"/>
+<item id="va_name" display="Spanish term (Valdes)"/>
+<item id="hu_pag" display="Page in Huber"/>
+<item id="hu_name" display="Czech term (Huber)"/>
+<item id="lu_id" display="ID (Lusitanus)"/>
+<item id="lu_name" display="Latin term (Lusitanus)"/>
+<item id="lu_other" display="Other terms (Lusitanus)"/>
+<item id="lu_pag" display="Page (Lusitanus)" admin="1"/>
+<item id="ws_id" display="ID (WikiSource)"/>
+<item id="ws_name" display="Term (WikiSource)"/>
+<item id="ws_br" display="Term (Berendes/WikiSource)" admin="1"/>
+<item id="ws_sl" display="Term (Salamanca/WikiSource)" admin="1"/>
+<item id="lsj_bk" display="Book (LSJ)" admin="1"/>
+<item id="lsj_id" display="Sense ID (LSJ)" admin="1"/>
+<item id="lsj_grk" display="Greek term (LSJ)" admin="1"/>
+<item id="lsj_eng" display="English term (LSJ)" admin="1"/>
+<item id="lsj_spec" display="Species (LSJ)" admin="1"/>
+<item id="nerid" display="NER ID (Beck)" admin="1"/>
+<item id="tuid" display="Translation Unit ID" admin="1"/>
+<item id="notes" display="Notes (fld:txt)" admin="1"/>
+</items>
+<links>
+<link req="nerid" source="NER (Beck)" display="{{nerid}}" href="index.php?action=ner&amp;nerid={{nerid}}"/>
+<link req="tuid" source="Translation Unit" display="{{tuid}}" href="index.php?action=tualign&amp;type=xml&amp;tuid={{tuid}}"/>";
+<link type="sep"/>
+<link req="bk_tt" ref="#bk" source="Beck" display="{{bk_id}} - {{bk_name}} / {{bk_grk}}" href="index.php?action=file&amp;cid=beck&amp;jmp={{bk_tt}}"/>
+<link req="br_tt" ref="#br" source="Berendes" display="{{br_id}} - {{br_name}} / {{br_grk}}" href="index.php?action=file&amp;cid=berendes&amp;jmp={{br_tt}}"/>
+<link req="wm_tt" ref="#wm" source="Wellman" display="{{wm_id}} - {{wm_name}}" href="index.php?action=file&amp;cid=wellman&amp;jmp={{wm_tt}}"/>
+<link req="gn_tt" ref="#gn" source="Gunther" display="{{gn_id}} - {{gn_name}}" href="index.php?action=file&amp;cid=gunther&amp;jmp={{gn_tt}}"/>
+<link req="ma_tt" ref="#ma" source="Matthioli" display="{{ma_id}} - {{ma_name}} / {{ma_grk}}" href="index.php?action=file&amp;cid=matthioli&amp;jmp={{ma_tt}}"/>
+<link req="sl_tt" source="Salamanca Grk" display="{{sl_id}} - {{sl_grk}}" href="index.php?action=file&amp;cid=sl-grk&amp;jmp={{sl_tt}}"/>
+<link req="sl_tt_esp" source="Salamanca Esp" display="{{sl_id}} - {{sl_name}}" href="index.php?action=file&amp;cid=sl-esp&amp;jmp={{sl_tt_esp}}"/>
+<link type="sep"/>
+<link req="sp_url" ref="#sp" source="Sprengel" display="p. {{sp_pag}} - {{sp_name}} / {{sp_lat}}" href="{{sp_url}}"/>
+<link req="ma_pag" ref="#ma" source="Matthiolo" display="p. {{ma_pag}} - {{ma_name}}" href="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10139451_0{{4%0%ma_pag}}/full/full/0/default.jpg"/>
+<link req="va_pag" ref="#va" source="Valdes" display="p. {{va_pag}} - {{va_name}}" href="https://ia801200.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/DioscoridesPlantasYRemediosMedicinalesLibrosIIIIGredos/Dioscorides%20-%20Plantas%20Y%20Remedios%20Medicinales%20-%20Libros%20I%20-%20III%20%28Gredos%29_jp2.zip&amp;file=Dioscorides%20-%20Plantas%20Y%20Remedios%20Medicinales%20-%20Libros%20I%20-%20III%20%28Gredos%29_jp2/Dioscorides%20-%20Plantas%20Y%20Remedios%20Medicinales%20-%20Libros%20I%20-%20III%20%28Gredos%29_{{4%-5%va_pag}}.jp2&amp;id=DioscoridesPlantasYRemediosMedicinalesLibrosIIIIGredos&amp;scale=2&amp;rotate=0"/>
+<link req="mh_pag" ref="#mh" source="Mathee" display="p. {{mh_pag}} - {{mh_name}}" href="https://ia600509.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/lessixlivresdepe00dios/lessixlivresdepe00dios_jp2.zip&amp;file=lessixlivresdepe00dios_jp2/lessixlivresdepe00dios_{{4%12%mh_pag}}.jp2&amp;id=lessixlivresdepe00dios&amp;scale=2&amp;rotate=0"/>
+<link req="mo_pag" ref="#mo" source="Desmoulins" display="p. {{mo_pag}} - {{mo_id}}. {{mo_name}}" href="https://www.biusante.parisdescartes.fr/images/livres/00824_z/{{4%135%mo_pag}}.jpg"/>
+<link req="ba_pag" ref="#ba" source="Barbaro" display="p. {{ba_pag}} - {{ba_id}}. {{ba_name}}" href="https://www.biusante.parisdescartes.fr/images/livres/00816x02/{{4%0%ba_img}}.jpg"/>
+<link req="lu_pag" ref="#lu" source="Lusitanus" display="p. {{lu_pag}} - {{lu_id}}. {{lu_name}}" href="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=page&amp;cote=07759&amp;p={{0%12%lu_pag}}" img="https://www.biusante.parisdescartes.fr/images/livres/07759/{{4%12%lu_pag}}.jpg"/>
+<link req="sl_pag" ref="#sl" source="Salamanca" display="{{sl_pag}} - {{sl_name}}" href="http://dioscorides.usal.es/p2.php?numero={{sl_pag}}" img=""/>
+<link req="hu_pag" ref="#hu" source="Huber z Rizenpachu" display="p. {{hu_pag}} - {{hu_name}}" href="https://ia601200.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/herbanebbylinwys00matt/herbanebbylinwys00matt_jp2.zip&amp;file=herbanebbylinwys00matt_jp2/herbanebbylinwys00matt_{{4%0%hu_pag}}.jp2&amp;id=herbanebbylinwys00matt&amp;scale=2&amp;rotate=0"/>
+<link type="sep"/>
+<link req="ws_name" source="Wikisource"  display="{{ws_name}}" href="https://en.wikisource.org/wiki/De_Materia_Medica/Book_{{book}}#{{ws_name}}"/>
+<link req="lsj_id" source="Liddell-Scott"  display="{{lsj_grk}} / {{lsj_eng}}" href="index.php?action=file&amp;id=lsj/grc.lsj.perseus-eng{{lsj_bk}}.xml&amp;jmp={{lsj_id}}"/>
+</links>
+<listBibl>
+    <bibl id="br" ref="https://hexengarten.miraheze.org/wiki/Materia_Medica">
+        <title>Des Pedanios Dioskurides aus Anazarbos Arzneimittellehre</title>
+        <author>J. Berendes</author>
+        <publisher>F. Enke</publisher>
+        <place>Stuttgart</place>
+        <date>1902</date>
+    </bibl>
+    <bibl id="lu" ref="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=07759">
+        <title>Medici ac philosophi celeberrimi In Dioscoridis Anazarbei de medica materia</title>
+        <author>Amatus Lusitanus</author>
+        <publisher>Venetiis : ex officina Iordani Zilleti</publisher>
+        <place>Venice</place>
+        <date>1557</date>
+    </bibl>
+    <bibl id="ba" ref="https://www.biusante.parisdescartes.fr/histoire/medica/resultats/index.php?do=chapitre&amp;cote=07759">
+        <title>Dioscoridem corollarioru[m] libri quinque</title>
+        <author>Barbaro, Ermolao</author>
+        <publisher>apud Ioan. Soterem</publisher>
+        <place>Coloniae</place>
+        <date>1530</date>
+    </bibl>
+    <bibl id="wm" ref="https://gitup.uni-potsdam.de/x_stockhausen_2348/First1KGreek/-/blob/tlg0544.tlg001.opp-lat1_cts.xml/data/tlg0656/tlg001/tlg0656.tlg001.1st1K-grc1.xml">
+        <title>Pedanii Dioscuridis Anazarbei de materia medica libri quinque</title>
+        <editor>
+            <persName>
+                <name>Max Wellmann</name>
+            </persName>
+        </editor>
+        <author ref="urn:cts:greekLit:tlg0656" xml:lang="lat">Dioscurides Pedianus</author>
+        <publisher>Weidmann</publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date year="1907">1907, 1907, 1914</date>
+    </bibl>
+    <bibl id="gn">
+        <title>THE GREEK HERBAL OF DIOSCORIDES</title>
+        <author>ROBERT T. GUNTHER</author>
+        <publisher>Oxford University Press</publisher>
+        <place>Oxford</place>
+        <date>1902</date>
+    </bibl>
+    <bibl id="ma" ref="https://www.summagallicana.it/Dioscoride%20Mattioli/index%20di%20Dioscoride%20Mattioli.htm">
+        <title>Commentarii in libros sex Pedacii Dioscoridis de materia medica</title>
+        <author>Petri Andreae Matthioli</author>
+        <date>1554</date>
+    </bibl>
+</listBibl>
+</def>

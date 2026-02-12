@@ -1,0 +1,6 @@
+edition_id,iiif_kind,manifest_url,image_base_url,citation_key_field,target_rule,target_template,canvas_index_base,notes
+barbaro,image,,https://www.biusante.parisdescartes.fr/images/livres/00816x02/,iiif_key,target_url_template,https://www.biusante.parisdescartes.fr/images/livres/00816x02/{{4%0%iiif_key}}.jpg,,Template from src/dmm-defs.xml (ba_img/ba_pag).
+desmoulins,image,,https://www.biusante.parisdescartes.fr/images/livres/00824_z/,page_label,target_url_template,https://www.biusante.parisdescartes.fr/images/livres/00824_z/{{4%135%page_label}}.jpg,,Template from src/dmm-defs.xml (mo_pag).
+lusitanus,image,,https://www.biusante.parisdescartes.fr/images/livres/07759/,iiif_key,target_url_template,https://www.biusante.parisdescartes.fr/images/livres/07759/{{4%12%iiif_key}}.jpg,,Template from src/dmm-defs.xml (lu_pag img).
+ruellius,presentation,,,extra_json.ruel_web,target_url_template,https://archive.org/details/BIUSante_00815/page/n{citation_key_value}/mode/2up,,Base from revised_ed/editions_table.tsv; uses ruel_web page index.
+wechel,presentation,,,scan_id,target_url_template,wechel:scan/{scan_id},,No in-repo viewer URL or manifest found; placeholder scheme using scan_id.

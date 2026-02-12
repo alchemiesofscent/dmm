@@ -1,0 +1,887 @@
+laguna_scan_id	laguna_book	laguna_page	laguna_chapter	laguna_title	laguna_iiif
+23	Libro primero	11	Cap I	De la Iris	26
+24	Libro primero	12	Cap II	Del Acoro	
+25	Libro primero	13	Cap III	Del Meu	
+26	Libro primero	14	Cap IIII	Del Cypero	
+27	Libro primero	15	Cap V	Del Cardamomo	
+28	Libro primero	16	Cap VI	Del Nardo	
+29	Libro primero	17	Cap VII	Del Nardo Gallico, o Celtico	
+30	Libro primero	18	Cap VIII	Del Nardo Montano	
+30	Libro primero	18	Cap IX	Del Afaro	
+31	Libro primero	19	Cap X	Del Phu	
+32	Libro primero	20	Cap XI	Del Malabathro	
+33	Libro primero	21	Cap XII	De la Cassia	
+34	Libro primero	22	Cap XIII	Del Cinnamomo	
+35	Libro primero	23	Cap XIIII	Del Amomo	
+36	Libro primero	24	Cap XV	Del Costo	
+36	Libro primero	24	Cap XVI	Del Junco Oloroso	
+37	Libro primero	25	Cap XVII	Del Calamo Aromatico	
+38	Libro primero	26	Cap XVIII	Del Balsamo	
+40	Libro primero	28	Cap XIX	Del Aspalato	
+40	Libro primero	28	Cap XX	Del Musco de los Arboles	
+42	Libro primero	30	Cap XXI	Del Agaloco	
+42	Libro primero	30	Cap XXII	Del Nascaphto	
+42	Libro primero	30	Cap XXIII	Del Cancamo	
+43	Libro primero	31	Cap XXIIII	Del Cyphi	
+43	Libro primero	31	Cap XXV	Del Açafran	
+44	Libro primero	32	Cap XXVI	Del Crocomagma	
+44	Libro primero	32	Cap XXVII	Del Helenio	
+45	Libro primero	33	Cap XXVIII	Del Azeyte	
+47	Libro primero	35	Cap XXIX	Del Oleomiel	
+47	Libro primero	35	Cap XXX	Del Oleo Ricino, o Cicino	
+48	Libro primero	36	Cap XXXI	Del Azeyte de Almendras	
+48	Libro primero	36	Cap XXXII	Del Oleo Balanino, Sesamino, y de Nuezes	
+49	Libro primero	37	Cap XXXIII	De Oleo de Hyoscyamo, de Grano Gnidio, de Cartamo	
+49	Libro primero	37	Cap XXXIIII	Del Oleo Myrtino	
+50	Libro primero	38	Cap XXXV	Del Oleo Laurino	
+50	Libro primero	38	Cap XXXVI	De Oleo de Lentisco, y de Terebinto	
+50	Libro primero	38	Cap XXXVII	Del oleo Mastichino	
+50	Libro primero	38	Cap XXXVIII	Como se han de preparar los unguentos	
+50	Libro primero	38	Cap XXXIX	Del Unguento rosado	
+51	Libro primero	39	Cap XL	Del Unguento Elatino	
+51	Libro primero	39	Cap XLI	Del Melino	
+52	Libro primero	40	Cap XLII	Del Unguento Enantino	
+52	Libro primero	40	Cap XLIII	Del Unguento Telino	
+52	Libro primero	40	Cap XLIIII	Del Unguento sampsuchino	
+53	Libro primero	41	Cap XLV	Del Unguento Ocimino, que quiere dezir de Albahaca	
+53	Libro primero	41	Cap XLVI	Del unguento de Abrotano	
+53	Libro primero	41	Cap XLVII	Del unguento Anetino	
+53	Libro primero	41	Cap XLVIII	Del Unguento de Lirio Ilamado Susino	
+54	Libro primero	42	Cap XLIX	Del Unguento del Narcisso	
+54	Libro primero	42	Cap L	Del Unguento Crocino, que quiere dezir de Açafran	
+55	Libro primero	43	Cap LI	Del Unguento Cyprino	
+55	Libro primero	43	Cap LII	Del Unguento Irino	
+56	Libro primero	44	Cap LIII	Del Gleucino Unguento	
+56	Libro primero	44	Cap LIIII	Del Amaracino Unguento	
+56	Libro primero	44	Cap LV	Del Unguento Megalino	
+57	Libro primero	45	Cap LV	Del Unguento Hedycroo	
+57	Libro primero	45	Cap LVI	Del Metopio	
+57	Libro primero	45	Cap LVII	Del unvuento Mendesio	
+57	Libro primero	45	Cap LVIII	De la Stacte	
+58	Libro primero	46	Cap LIX	Del Unguento Cinnamomino	
+58	Libro primero	46	Cap LX	Del Nardino Unguento	
+58	Libro primero	46	Cap LXI	Del Malabathrino	
+58	Libro primero	46	Cap LXII	Del Unguento Jasmino	
+59	Libro primero	47	Cap LXIII	De la Myrra	
+60	Libro primero	48	Cap LXIIII	Del Estoraque	
+61	Libro primero	49	Cap LXV	Del Bdelio	
+61	Libro primero	49	Cap LXVI	Del Encienso	
+62	Libro primero	50	Cap LXVII	De la Corteza del Encienso	
+62	Libro primero	50	Cap LXVIII	De la Manna de Encienso	
+62	Libro primero	50	Cap LXIX	Del hollin del Encienso	
+63	Libro primero	51	Cap LXX	Del Pino y de la Picea	
+66	Libro primero	54	Cap LXXI	Del Lentisco	
+68	Libro primero	56	Cap LXXII	Del Terebinto	
+69	Libro primero	57	Cap LXXIIII	De la Pez Liquida	
+70	Libro primero	58	Cap LXXV	Del Azeyte de Pez	
+70	Libro primero	58	Cap LXXVI	Del hollin de la Pez	
+70	Libro primero	58	Cap LXXVII	De la Pez seca	
+70	Libro primero	58	Cap LXXVIII	De la Zopissa	
+71	Libro primero	61	Cap LXXIX	Del Betun que los Griegos Ilaman asphalto	
+71	Libro primero	61	Cap LXXX	Del Pissasphalto	
+71	Libro primero	61	Cap LXXXI	Del Betun Ilamado Naphta	
+73	Libro primero	61	Cap LXXXII	Del Cypres	
+74	Libro primero	62	Cap LXXXIII	Del Enebro	
+74	Libro primero	62	Cap LXXXIIII	De la sabina	
+75	Libro primero	63	Cap LXXXV	Del Cedro	
+76	Libro primero	64	Cap LXXXVI	Del Laurel	
+77	Libro primero	65	Cap LXXXVII	Del Platano	
+78	Libro primero	66	Cap LXXXVIII	Del fresno	
+79	Libro primero	67	Cap LXXXIX	Del populo blanco	
+79	Libro primero	67	Cap XC	Del populo negro	
+81	Libro primero	69	Cap XCI	Del Macer	
+81	Libro primero	69	cap XCII	Del Olmo	
+81	Libro primero	69	Cap XCIII	De la carcoma de los Maderos	
+82	Libro primero	70	Cap XCIIII	De la Cana	
+83	Libro primero	71	Cap XCV	Del papyro	
+83	Libro primero	71	Cap XCVI	Del Tamarisco	
+84	Libro primero	72	Cap XCVII	De la Erica	
+84	Libro primero	72	Cap XCVIII	Del Ramno	
+85	Libro primero	73	Cap XCVIX	Del Acacalis	
+85	Libro primero	73	Cap C	Del Halimo	
+86	Libro primero	74	Cap CI	Del Paliuro	
+87	Libro primero	75	Cap CII	De la Oxyacanta	
+88	Libro primero	76	Cap CIII	De la Carça Perruna	
+89	Libro primero	77	Cap CIIII	Del Ligustro	
+89	Libro primero	77	Cap CV	De la Philyrea	
+90	Libro primero	78	Cap CVI	Del Cisto	
+91	Libro primero	79	Cap CVII	De la Hypocistide	
+92	Libro primero	80	Cap CVIII	Del Ladano	
+93	Libro primero	81	Cap CIX	Del Ebano	
+95	Libro primero	83	Cap CX	De la Rosa	
+96	Libro primero	84	Cap CXI	De las Pastillas de Rosas	
+97	Libro primero	85	Cap CXII	Del Lycio	
+98	Libro primero	86	Cap CXIII	De la Acacia	
+100	Libro primero	88	Cap CXIIII	Del Agno	
+101	Libro primero	89	Cap CXV	Del Sauz	
+101	Libro primero	89	Cap CXVI	Del Olivo faluage, y domestico	
+102	Libro primero	90	Cap CXVII	De las Azeytunas faladas, y conseruadas en escaueche a adobo	
+103	Libro primero	91	Cap CXVIII	Del Azeyte de las Azeytunas saluages	
+103	Libro primero	91	Cap CXIX	De la Goma del Olivo Ethiopico	
+103	Libro primero	91	Cap CXX	De l'Amurca de las Azeytunas	
+103	Libro primero	91	Cap CXXI	Del Roble, de la Bellota, de la Haya, y dela Enzina	
+105	Libro primero	93	Cap CXXII	Delas Castanas	
+106	Libro primero	94	Cap CXXIII	Del Agalla	
+107	Libro primero	95	Cap CXXIIII	Del Rhu	
+108	Libro primero	96	Cap CXXV	De la palma	
+108	Libro primero	96	Cap CXXVI	De la Palma Ilamada Elate	
+109	Libro primero	97	Cap CXXVII	De la Granada	
+111	Libro primero	99	Cap CXXVIII	Del Arrayhan, y myrtidano	
+112	Libro primero	100	Cap CXXIX	De las Cerezas	
+113	Libro primero	101	Cap CXXX	De las Algarrouas	
+113	Libro primero	101	Cap CXXXI	De todo genero de Mançanos	
+119	Libro primero	107	Cap CXXXII	De las Peras	
+119	Libro primero	107	Cap CXXXIII	Del Mespero	
+120	Libro primero	108	Cap CXXXIIII	Del Arbol Ilamado Loto	
+121	Libro primero	109	Cap CXXXV	Del Corno	
+122	Libro primero	110	Cap CXXXVII	Del Ciruelo	
+123	Libro primero	111	Cap CXXXVIII	Del Madrono	
+124	Libro primero	112	Cap CXXXIX	De las almendras	
+125	Libro primero	113	Cap CXL	Del Alhocigo	
+125	Libro primero	113	Cap CXLI	De las Nuezes	
+127	Libro primero	115	Cap CXLII	De las Auellanas	
+128	Libro primero	116	Cap CXLIII	Del Moral	
+129	Libro primero	117	Cap CXLIIII	De la higuera Egyptia, Ilamada Sycomoro en Grigo	
+130	Libro primero	118	Cap CXLV	De los Higos, y de la leche de la higueras, y de la lexia de fu ceniza	
+133	Libro primero	121	Cap CXLVI	De la persea	
+133	Libro primero	121	Cap CXLVII	De la Iberide	
+135	Libro secundo	123	Cap I	Del Erizo marino	
+135	Libro secundo	123	Cap II	Del Erizo terrestre	
+136	Libro secundo	124	Cap III	Del Hippocampo	
+137	Libro secundo	125	Cap IIII	De la Purpura, y de la Bozina	
+138	Libro secundo	126	Cap V	De los Mitulos	
+138	Libro secundo	126	Cap VI	De la Telinas	
+138	Libro secundo	126	Cap VII	De las Camas	
+139	Libro secundo	127	Cap VIII	De la Una Olorosa	
+139	Libro secundo	127	Cap IX	De los Caracoles	
+141	Libro secundo	129	Cap X	Del Cangrejo	
+141	Libro secundo	129	Cap XI	Del Alacran Terrestre	
+143	Libro secundo	131	Cap XII	Del Alacran Marino	
+143	Libro secundo	131	Cap XIII	Del dragon Marino	
+143	Libro secundo	131	Cap XIIII	De la Scolopendra	
+144	Libro secundo	132	Cap XV	De la Torpedo	
+144	Libro secundo	132	Cap XVI	De la Biuora	
+146	Libro secundo	134	Cap XVII	Del despojo de las serpientes	
+146	Libro secundo	134	Cap XVIII	De la liebre marina, y de la terrestre	
+147	Libro secundo	135	Cap XIX	De la Pastinaca marina	
+148	Libro secundo	136	Cap XX	De la Xibia	
+148	Libro secundo	136	Cap XXI	Del pescado Ilamado Mulo	
+149	Libro secundo	137	Cap XXII	Del Hippopotamo	
+149	Libro secundo	137	Cap XXIII	Del castoreo	
+150	Libro secundo	138	Cap XXIIII	De la Comadreja Casera	
+151	Libro secundo	139	Cap XXV	De las ranas	
+152	Libro secundo	140	Cap XXVI	Del pece Syluro	
+153	Libro secundo	141	Cap XXVII	De las Menas	
+153	Libro secundo	141	cap XXVIII	Del Gobio	
+154	Libro secundo	142	Cap XXIX	Del Atun	
+154	Libro secundo	142	cap XXX	Del Garo	
+154	Libro secundo	142	Cap XXXI	Del Caldo de los peces	
+155	Libro secundo	143	Cap XXXIIII	Del Animalejo Ilamado en Latin Milepeda	
+156	Libro secundo	144	Cap XXXVII	De los Pulmones de Algunos Animales	
+157	Libro secundo	145	Cap XXXVIII	De los higados de algunos animales	
+157	Libro secundo	145	Cap XXXIX	Del Vergajo del Cieruo	
+157	Libro secundo	145	Cap XL	De las unas de los Asnos, y de las Cabras	
+158	Libro secundo	146	Cap XLI	De los empeynes de los cavallos, en griego dichos Lichenes	
+159	Libro secundo	147	Cap XLII	De las suelas de los ça patos viejos	
+159	Libro secundo	147	Cap XLIII	De los Gallos de las Gallinas	
+160	Libro secundo	148	Cap XLIIII	De los Huevos	
+162	Libro secundo	150	Cap XLV	De las Cigarras	
+162	Libro secundo	150	Cap XLVI	De las langostas	
+162	Libro secundo	150	Cap XLVII	Del paxaro Ilamado Ofsifrago	
+163	Libro secundo	151	Cap XLVIII	De la Cugujada	
+163	Libro secundo	151	Cap XLIX	De las Golondrinas	
+164	Libro secundo	152	Cap L	Del Marfil	
+165	Libro secundo	153	Cap LI	Del Carnicol del puerco, Ilamado Astragalo	
+166	Libro secundo	154	Cap LII	Del Cuerno del Ciervo	
+166	Libro secundo	154	Cap LIII	De las Orugas	
+167	Libro secundo	155	Cap LIIII	De las Cantharides, Buprestes, y Orugas de Pino	
+168	Libro secundo	156	Cap LV	De la Salamandra	
+168	Libro secundo	156	Cap LVI	De la Arana	
+169	Libro secundo	157	Cap LVII	De la Lagartija	
+170	Libro secundo	158	Cap LVIII	De la sepa	
+171	Libro secundo	159	Cap LIX	Del Scinco	
+172	Libro secundo	160	Cap LX	De los gufanos de tierra	
+172	Libro secundo	160	Cap LXI	Del Mufgano Ilamado mufarana por otro nombre	
+173	Libro secundo	161	Cap LXII	De los ratones	
+173	Libro secundo	161	Cap LXIII	De la leche	
+174	Libro secundo	162	Cap LXIIII	Del Queso	
+175	Libro secundo	163	Cap LXV	de la Manteca, y de su hollin	
+177	Libro secundo	165	Cap LXVI	De las Lanas, y de la graffa que tienen, Ilamada de los Griegos Oefypo	
+179	Libro secundo	167	Cap LXVII	Del Cuajo de algunos animales	
+179	Libro secundo	167	Cap LXVIII	De la graffa	
+183	Libro secundo	171	Cap LXIX	De la medula, o tuetano de los hueffos	
+183	Libro secundo	171	Cap LXX	De la hiel de los animales	
+184	Libro secundo	172	Cap LXXI	De la Sangre	
+185	Libro secundo	173	Cap LXXII	Del estiercol	
+186	Libro secundo	174	Cap LXXIII	De la Orina	
+187	Libro secundo	175	Cap LXXIIII	De la Miel	
+190	Libro secundo	178	Cap LXXV	De la Cera	
+190	Libro secundo	178	Cap LXXVI	Del Betun de las colmenas Ilamado propolis	
+192	Libro secundo	180	Cap LXXVII	Del Trigo	
+193	Libro secundo	181	Cap LXXVIII	De la Ceuada	
+194	Libro secundo	182	Cap LXXIX	Del Zytho, y del Curmi	
+195	Libro secundo	183	Cap LXXX	De la Zea	
+196	Libro secundo	184	Cap LXXXI	Del Crimno	
+196	Libro secundo	184	Cap LXXXII	De la Olyra	
+196	Libro secundo	184	Cap LXXXIII	De la Athera	
+196	Libro secundo	184	Cap LXXXIIII	Del Trago	
+196	Libro secundo	184	Cap LXXXV	De la Aven	
+197	Libro secundo	185	Cap LXXXVI	Del Arroz	
+197	Libro secundo	185	Cap LXXXVII	Del Condro	
+198	Libro secundo	186	Cap LXXXVIII	Del Mijo	
+198	Libro secundo	186	Cap LXXXIX	Del Panizo	
+199	Libro secundo	187	Cap XC	Del Alegria	
+199	Libro secundo	187	Cap XCI	De la Zizania	
+200	Libro secundo	188	Cap XCII	Del Almidon, o Amydon	
+200	Libro secundo	188	Cap XCIII	De las Alholuas	
+201	Libro secundo	189	Cap XCIIII	Del Lino	
+202	Libro secundo	190	Cap XCV	De los Garuanços	
+203	Libro secundo	191	Cap XCVI	De las Huaus	
+203	Libro secundo	191	Cap XCVII	De la haua de Egypto	
+204	Libro secundo	192	Cap XCVIII	De las Lentejas	
+205	Libro secundo	193	Cap XCIX	De los Phasiolos	
+206	Libro secundo	194	Cap C	Del Yeruo	
+207	Libro secundo	159	Cap CI	De los Altramuzes	
+208	Libro secundo	196	Cap CII	De los Nabos redondos y gressos, y de los nabos saluages	
+209	Libro secundo	197	Cap CIII	Del Rauano	
+211	Libro secundo	199	Cap CV	Del Sifaro	
+211	Libro secundo	199	Cap CVI	Del lapato	
+213	Libro secundo	201	Cap CVII	De la lampsana	
+213	Libro secundo	201	Cap CVIII	De los bledos	
+213	Libro secundo	201	Cap CIX	De las Maluas	
+215	Libro secundo	203	Cap CX	De los Armuelles	
+215	Libro secundo	203	Cap CXI	De las Verças	
+217	Libro secundo	205	Cap CXII	De las Acelgas	
+218	Libro secundo	206	Cap CXIII	De las Verdolagas	
+219	Libro secundo	207	Cap CXIIII	De los Esparragos	
+220	Libro secundo	208	Cap CXV	Del Llanten	
+222	Libro secundo	210	Cap CXVI	Del sio	
+222	Libro secundo	210	Cap CXVII	Del sysimbrio	
+224	Libro secundo	212	Cap CXVIII	Del Crithmo	
+224	Libro secundo	212	Cap CXIX	Del Coronopode	
+225	Libro secundo	213	Cap CXX	Del sonco	
+226	Libro secundo	214	Cap CXXI	De la endivia	
+228	Libro secundo	216	Cap CXXII	De la Condrila	
+229	Libro secundo	217	Cap CXXIII	De la Calabaça	
+229	Libro secundo	217	Cap CXXIIII	Del pepino domestico y de las Badeas	
+232	Libro secundo	220	Cap CXXV	De la Lechuga	
+234	Libro secundo	222	Cap CXXVI	Del Gingidio	
+234	Libro secundo	222	Cap CXXVII	De la Scandice	
+235	Libro secundo	223	Cap CXXVIII	De la Caucalide	
+235	Libro secundo	223	Cap CXXIX	De la Oruga	
+236	Libro secundo	224	Cap CXXX	Del Ocimo	
+237	Libro secundo	225	Cap CXXXI	De la Orobanca	
+238	Libro secundo	226	Cap CXXXII	De la Barba Cabruna	
+238	Libro secundo	226	Cap CXXXIII	Del Ornithogalo	
+239	Libro secundo	227	Cap CXXXIIII	De las Turmas de tierra	
+239	Libro secundo	227	Cap CXXXV	De la Smilace hortense	
+240	Libro secundo	228	Cap CXXXVI	De la medica	
+241	Libro secundo	229	Cap CXXXVII	De la Aphaca	
+241	Libro secundo	229	Cap CXXXVIII	Del puerro Cabeçudo	
+242	Libro secundo	230	Cap CXXXIX	Del puerro saluage, quelos Griegos Ilama ampeloprason	
+242	Libro secundo	230	Cap CXL	De la cebolla	
+243	Libro secundo	231	Cap CXLI	Del Ajo	
+245	Libro secundo	233	Cap CXLII	Del Scorodopraso	
+245	Libro secundo	233	Cap CXLIII	De la Mostaza	
+246	Libro secundo	234	Cap CXLIIII	Del Mastuerço	
+247	Libro secundo	235	Cap CXLV	Del Thlaspi	
+248	Libro secundo	236	Cap CXLVII	Del Irion, o erysimo	
+249	Libro secundo	237	Cap CXLIII	De la pimienta	
+250	Libro secundo	238	Cap CXLIX	Del gengibre	
+251	Libro secundo	239	Cap CL	De la pimienta aquatica, Ilamada hydropiper	
+251	Libro secundo	239	Cap CLI	De la ptarmica	
+252	Libro secundo	240	Cap CLII	De la Yerua Lanaria, en griego Ilamada Struthio	
+252	Libro secundo	240	Cap CLIII	Del Cyclamino	
+253	Libro secundo	241	Cap CLIIII	Del Otro cyclamino	
+254	Libro secundo	242	Cap CLV	De la Dragontea mayor	
+255	Libro secundo	243	Cap CLVI	De la Dragontea menor	
+255	Libro secundo	243	Cap CLVII	Del Aro	
+256	Libro secundo	244	Cap CLVIII	Del Arisaro	
+256	Libro secundo	244	Cap CLIX	Del Alphodelo	
+258	Libro secundo	246	Cap CLX	Del bulbo bueno comer	
+258	Libro secundo	246	Cap CLXI	Del bulbo vomitorio	
+259	Libro secundo	247	Cap CLXII	De la scila o cebolla albarrana	
+259	Libro secundo	247	Cap CLXIII	Del pancratio o scila menor	
+260	Libro secundo	248	Cap CLXIIII	De las Alcaparras	
+262	Libro secundo	250	Cap CLXV	Del lepidio	
+262	Libro secundo	250	Cap CLXVI	Del Ranunculo	
+264	Libro secundo	252	Cap CLVII	De la Anemone	
+265	Libro secundo	253	Cap CLXVIII	De la Argemone	
+265	Libro secundo	253	Cap CLXIX	De la Anagalide	
+267	Libro secundo	255	Cap CLXX	De la yedra	
+268	Libro secundo	256	Cap CLXXI	De la Celidonia mayor	
+269	Libro secundo	257	Cap CLXXII	De la Celidonia menor	
+269	Libro secundo	257	Cap CLXXIII	De la Othona	
+270	Libro secundo	258	Cap CLXXIIII	De la Oreja del raton, Ilamada Myos otis	
+271	Libro secundo	259	Cap CLXXV	Del glasto domestico	
+271	Libro secundo	259	Cap CLXXVI	Del glasto saluage	
+272	Libro secundo	260	Cap CLXXVII	Del telephio	
+273	Libro tercero	261	Cap I	Del agarico	
+274	Libro tercero	262	Cap II	Del Reopontico	
+276	Libro tercero	264	Cap III	De la gentiana	
+277	Libro tercero	265	Cap IIII	De la Aristoloquia	
+278	Libro tercero	266	Cap V	De la Regaliza	
+280	Libro tercero	268	Cap VI	De la Centaurea mayor	
+280	Libro tercero	268	Cap VII	De la Centaurea menor	
+281	Libro tercero	269	Cap VIII	Del camaleon blanco	
+282	Libro tercero	270	Cap IX	Del camaleon negro	
+283	Libro tercero	271	Cap X	Del crocodilio	
+284	Libro tercero	272	Cap XI	Del dipsaco	
+284	Libro tercero	272	Cap XII	De la espina blanca	
+285	Libro tercero	273	Cap XIII	De la espina arabica	
+285	Libro tercero	273	Cap XIIII	Del Cardo	
+287	Libro tercero	275	Cap XV	Del Poterio	
+287	Libro tercero	275	Cap XVI	Del Acanthio	
+288	Libro tercero	276	Cap XVII	Del  Acantho	
+288	Libro tercero	276	Cap XVIII	Del Acatho saluage	
+288	Libro tercero	276	cap XIX	De la Ononide	
+289	Libro tercero	277	Cap XX	De la Leucacanta o blanca espina	
+290	Libro tercero	278	Cap XXI	De la tragacanta	
+290	Libro tercero	278	Cap XXII	Del Eryngio	
+291	Libro tercero	279	Cap XXIII	Del Aloe	
+292	Libro tercero	280	Cap XXIIII	Del absinthio	
+293	Libro tercero	281	Cap XXV	Del Absinthio marino, Ilamada tambien seriphio	
+294	Libro tercero	282	Cap XXVI	Del Absinthio santonico	
+294	Libro tercero	282	Cap XXVII	Del Abrotano	
+295	Libro tercero	283	Cap XXVIII	Del Hyffopo	
+296	Libro tercero	284	Cap XXIX	Del Cantuesso	
+297	Libro tercero	285	Cap XXX	Del Oregano	
+298	Libro tercero	286	Cap XXXI	Del Oregano cabruno, Ilamado tragorigano e Griego	
+299	Libro tercero	287	Cap XXXII	Del Poleo	
+299	Libro tercero	287	Cap XXXIII	Del dictamno	
+300	Libro tercero	288	Cap XXXIIII	Del dictamno salso, Ilamado speudodisctamno	
+300	Libro tercero	288	Cap XXXV	Del otro dictamno candioto	
+301	Libro tercero	289	Cap XXXVI	De la Savia	
+302	Libro tercero	290	Cap XXXVII	De la yerua buena	
+302	Libro tercero	290	Cap XXXVIII	Del Mastranto, Ilamado Mentrasto	
+303	Libro tercero	291	Cap XXXIX	De la Calaminta	
+304	Libro tercero	292	Cap XL	Del Thymo	
+305	Libro tercero	293	Cap XLI	De la Thymbra, Ilamada  en espagnol Axedrea	
+306	Libro tercero	294	Cap XLII	Del Serpol	
+307	Libro tercero	295	Cap XLIII	De la Maiorana	
+307	Libro tercero	295	Cap XLIIII	Del Meliloto	
+308	Libro tercero	296	Cap XLV	Del Maro	
+308	Libro tercero	296	Cap XLVI	Del Acino	
+309	Libro tercero	297	Cap XLVII	De la Bacara	
+310	Libro tercero	298	Cap XLVIII	De la ruda	
+311	Libro tercero	299	Cap XLIX	De la ruda saluage	
+312	Libro tercero	300	Cap L	Del Moly	
+312	Libro tercero	300	Cap LI	Del Panace Heraclio	
+313	Libro tercero	301	Cap LII	Del Panace Asclepio	
+313	Libro tercero	301	cap LIII	Del panace Chironio	
+314	Libro tercero	302	Cap LIIII	Del Ligustico	
+314	Libro tercero	302	Cap LV	De la Pastinaca	
+316	Libro tercero	304	Cap LVI	Del Seseli massiliense	
+316	Libro tercero	304	Cap LVII	Del seseli ethiopico	
+317	Libro tercero	305	Cap LVIII	Del Seseli peloposense	
+317	Libro tercero	305	Cap LIX	Del seseli cretico, Ilamado tordylio	
+317	Libro tercero	305	Cap LX	Del sifon	
+317	Libro tercero	305	Cap LXI	Del Anis	
+318	Libro tercero	306	Cap LXII	Del Alcarouea	
+319	Libro tercero	307	Cap LXIII	Del Eneldo	
+319	Libro tercero	307	Cap LXIII	Del Comino hortense	
+320	Libro tercero	308	Cap LXV	Del comino saluage	
+321	Libro tercero	309	Cap LXVI	Del Ammi	
+321	Libro tercero	309	Cap LXVII	Del Culantro	
+322	Libro tercero	310	Cap LXVIII	Del Hieracio mayor	
+322	Libro tercero	310	Cap LXIX	Del Hieracio menor	
+323	Libro tercero	311	Cap LXX	Del Apio	
+323	Libro tercero	311	Cap LXXI	Del Eleoselino	
+323	Libro tercero	311	Cap LXXII	Del apio montano, Ilamado Oreoselino	
+324	Libro tercero	312	Cap LXXIII	Del apio que nace en las piedras, Ilamado petroselino	
+324	Libro tercero	312	Cap LXXIIII	Del apio cavallar, Ilamado Hipposelino en Griego	
+325	Libro tercero	313	Cap LXXV	Del Smyrnio	
+327	Libro tercero	315	Cap LXXVI	Del Elaphobosco	
+328	Libro tercero	316	Cap LXXVII	Del Hinojo. Del Hinojo saluage, Ilamado Hippomoarathro	
+329	Libro tercero	317	Cap LXXVIII	Del Dauco	
+330	Libro tercero	318	Cap LXXIX	Del delphinio	
+331	Libro tercero	319	Cap LXXX	Del pelitre, Ilamado Pyrethro en Griego	
+332	Libro tercero	320	Cap LXXXI	Del Romero	
+333	Libro tercero	321	Cap LXXXII	Del Cachry	
+333	Libro tercero	321	Cap LXXXIII	Del Romero Coronario	
+333	Libro tercero	321	Cap LXXXIIII	Del Sphondylio	
+334	Libro tercero	322	Cap LXXXV	De la ferula	
+335	Libro tercero	323	Cap LXXXVI	Del Peucedano	
+336	Libro tercero	324	Cap LXXXVII	De la Nigela	
+337	Libro tercero	325	Cap LXXXVIII	Del Laserpitio	
+339	Libro tercero	327	Cap LXXXIX	Del Sagapeno	
+339	Libro tercero	327	Cap XC	Del euphorbio	
+340	Libro tercero	328	Cap XCI	Del Galbano	
+341	Libro tercero	329	Cap XCII	Del Ammoniaco	
+341	Libro tercero	329	Cap XCIII	De la Sarcocola	
+341	Libro tercero	329	Cap XCIIII	Del Glaucio	
+342	Libro tercero	330	Cap XCV	De la Cola	
+342	Libro tercero	330	Cap XCVI	De la cola de pescado, Ilamada ichtycola	
+342	Libro tercero	330	Cap XCVII	De la liga	
+343	Libro tercero	331	Cap XCVIII	Del aparine	
+344	Libro tercero	332	Cap XCIX	Del Alysso	
+344	Libro tercero	332	Cap C	Del asclepiade	
+345	Libro tercero	333	Cap CI	Del Atractyl	
+346	Libro tercero	334	Cap CII	Del Polycnemon	
+346	Libro tercero	334	Cap CIII	del Clinopodio	
+346	Libro tercero	334	Cap CIIII	Del Leontopetalo	
+347	Libro tercero	335	Cap CXV	Del Teucrio	
+347	Libro tercero	335	Cap CVI	De la Camedrys	
+348	Libro tercero	336	Cap CVII	De la Leucada	
+348	Libro tercero	336	Cap CVIII	De la lychnide coronaria	
+348	Libro tercero	336	Cap CIX	De la lychnide saluage	
+349	Libro tercero	337	Cap CX	Del Lirio	
+349	Libro tercero	337	Cap CXI	De la Balot	
+350	Libro tercero	338	Cap CXII	Del Torongil	
+351	Libro tercero	339	Cap CXIII	Del Marrubio	
+351	Libro tercero	339	Cap CXIIII	Del Stachy	
+352	Libro tercero	340	Cap CXV	De la Phylitide	
+353	Libro tercero	341	Cap CXVI	Del Phalangio	
+353	Libro tercero	341	Cap CXVII	Del Trabol	
+355	Libro tercero	343	Cap CXVIII	Del Polio	
+355	Libro tercero	343	Cap CXIX	Del scordio	
+356	Libro tercero	344	Cap CXX	De la tussilago	
+357	Libro tercero	345	Cap CXXII	De la Artemisia	
+357	Libro tercero	345	Cap CXXII	De la Artemissia de hojas subtiles	
+358	Libro tercero	346	Cap CXXIII	De la Ambrosia	
+359	Libro tercero	347	Cap CXXIIII	Del Botry	
+359	Libro tercero	347	Cap CXXV	Del Geranio	
+360	Libro tercero	348	Cap CXXVI	Del Gnaphalio	
+360	Libro tercero	348	Cap CXXVII	De la Typha	
+361	Libro tercero	349	Cap CXXVIII	De la Circea	
+361	Libro tercero	349	Cap CXXIX	De la Enanthe	
+362	Libro tercero	350	Cap CXXX	De la Conyza	
+363	Libro tercero	351	Cap CXXXI	Del Hemerocalles, o lirio saluage	
+364	Libro tercero	352	Cap CXXXII	Del Leucoio, que es el Ilamado Alhelys	
+365	Libro tercero	353	Cap CXXXIII	Del Crateogono	
+365	Libro tercero	353	Cap CXXXIIII	Del Folio	
+365	Libro tercero	353	Cap CXXXV	Del Compagnon del perron	
+366	Libro tercero	354	Cap CXXXVI	De otra fuerte de compagnon	
+366	Libro tercero	354	Cap CXXXVII	Del satyrion	
+367	Libro tercero	355	Cap CXXXVII	Del Satyrion	
+368	Libro tercero	356	Cap CXXXVIII	Del Ormino	
+368	Libro tercero	356	Cap CXXXIX	Del Hedyfaro	
+369	Libro tercero	357	cap CXLI	De la Onosma	
+369	Libro tercero	357	Cap CXLII	De la Nymphea	
+370	Libro tercero	358	Cap CXLIII	De otra espiece nymphea	
+370	Libro tercero	358	Cap CXLIIII	Del Androsace	
+370	Libro tercero	358	Cap CXLV	Del Aspleno	
+371	Libro tercero	359	Cap CXLVI	De la Hemionite	
+372	Libro tercero	360	Cap CXLVII	De la Anthylide	
+372	Libro tercero	360	Cap CXLVIII	De la mancanilla	
+374	Libro tercero	362	Cap CXLIX	Del parthenio	
+375	Libro tercero	363	Cap CL	Del Buphtalmo	
+376	Libro tercero	364	Cap CLI	De la poenia	
+377	Libro tercero	365	Cap CLII	Del Lithospermo	
+378	Libro tercero	366	Cap CLIII	De la phalaride	
+378	Libro tercero	366	Cap CLIIII	De la rubia	
+379	Libro tercero	367	Cap CLV	De la Lonchite	
+379	Libro tercero	367	Cap CLVI	De otra Lonchite	
+379	Libro tercero	367	Cap CLVII	De la althea	
+380	Libro tercero	368	Cap CLVIII	De la Alcea	
+381	Libro tercero	369	Cap CLIX	Del Canamo domestico	
+381	Libro tercero	369	Cap CLX	Del Canamo Saluage	
+381	Libro tercero	369	cap CLXI	Del Anagyris	
+382	Libro tercero	370	Cap CLXII	De la Cepea	
+382	Libro tercero	370	Cap CLXIII	Del Alisma	
+383	Libro tercero	371	Cap CLXIIII	Del Onobryche	
+383	Libro tercero	371	Cap CLXV	Del Hyperico	
+384	Libro tercero	372	Cap CLXVI	Del Ascyro	
+384	Libro tercero	372	Cap CLXVII	Del Androsemo	
+384	Libro tercero	372	Cap CLXVIII	Del Cori	
+385	Libro tercero	373	Cap CLXIX	De la Aiuga o camepitys	
+386	Libro tercero	374	Cap CLXX	De otra especie de Aiuga	
+387	Libro quarto	375	Cap I	Del Cestro	
+388	Libro quarto	376	Cap II	De la Britanica	
+389	Libro quarto	377	Cap III	De la Lysimachia	
+390	Libro quarto	378	Cap IIII	Del polygono macho	
+391	Libro quarto	379	Cap V	Del polygono hembra	
+391	Libro quarto	379	Cap VI	Del Polygonato	
+392	Libro quarto	380	Cap VIII	De otra clematide, Ilamada Clematitide en Griego	
+393	Libro quarto	381	Cap IX	De la polemonia	
+393	Libro quarto	381	Cap X	Del Symphyto petreo	
+394	Libro quarto	382	Cap XI	Del otro symphyto	
+395	Libro quarto	383	Cap XII	Del Holostio	
+395	Libro quarto	383	Cap XIII	De la steba	
+396	Libro quarto	384	Cap XIIII	Del Clymeno	
+396	Libro quarto	384	Cap XV	Del periclimeno	
+397	Libro quarto	385	Cap XVI	Del Tribulo	
+398	Libro quarto	386	Cap XVII	Del limonio	
+398	Libro quarto	386	cap XVIII	Del Sarxiphago	
+399	Libro quarto	387	Cap XIX	Del Lagopode o pie de liebre	
+399	Libro quarto	387	Cap XX	Del Medio	
+399	Libro quarto	387	Cap XXI	Del Epimedio	
+400	Libro quarto	388	cap XXII	Del Xiphio, Ilamado en latin Gladiolo	
+400	Libro quarto	388	Cap XXIII	Del Sparganio	
+401	Libro quarto	389	Cap XXIIII	De la Xyride	
+401	Libro quarto	389	Cap XXV	De la Ancusa	
+402	Libro quarto	390	Cap XXVI	De la segunda ancusa	
+402	Libro quarto	390	Cap XXVII	De la tercera ancusa	
+403	Libro quarto	391	Cap XXVIII	De la Lycopside	
+404	Libro quarto	392	cap XXIX	Del Echio	
+404	Libro quarto	392	Cap XXX	Del Ocymoide	
+405	Libro quarto	393	Cap XXXI	Del Erino	
+405	Libro quarto	393	Cap XXXII	De la Grama	
+406	Libro quarto	394	Cap XXXIII	De la Grama semejante a la Cana	
+406	Libro quarto	394	Cap XXXIIII	de la Grama que nace en el monte parnaso	
+407	Libro quarto	395	Cap XXXV	De la Sideritide	
+407	Libro quarto	395	Cap XXXVI	De la tercera especie de Sideritide	
+408	Libro quarto	396	Cap XXXVII	De la Achilea	
+409	Libro quarto	397	Cap XXXVIII	De la garça	
+409	Libro quarto	397	Cap XXXIX	De la garça Ilamada Idea	
+410	Libro quarto	398	Cap XL	De la Helxine Hederecea	
+410	Libro quarto	398	Cap XLI	De la Elatine	
+411	Libro quarto	399	Cap XLII	Del Eupatorio	
+412	Libro quarto	400	Cap XLIII	Del Quinquefolio	
+413	Libro quarto	401	Cap XLIIII	De la Pheniz	
+414	Libro quarto	402	Cap XLV	De la Rays Idea	
+414	Libro quarto	402	Cap XLVI	De la Rays Rodia	
+414	Libro quarto	402	Cap XLVII	De la Hippuris	
+415	Libro quarto	403	Cap XLVIII	De la otra hippuris	
+415	Libro quarto	403	Cap XLIX	De la Granade Tintoreros	
+417	Libro quarto	405	Cap L	Del Tragio	
+417	Libro quarto	405	Cap LI	De otra fuerte de tragio	
+417	Libro quarto	405	Cap LII	Del trago	
+418	Libro quarto	406	Cap LIII	Del Iunco	
+419	Libro quarto	407	Cap LIIII	Del Lichen	
+419	Libro quarto	407	Cap LV	De la Paronychia	
+420	Libro quarto	408	Cap LVI	De la Chrysocoma	
+420	Libro quarto	408	Cap LVII	Del Chrysfogono	
+420	Libro quarto	408	Cap LVIII	Del Elichryso	
+421	Libro quarto	409	Cap LIX	Del Chrysanthemo	
+421	Libro quarto	409	Cap LX	Del Agerato	
+422	Libro quarto	410	Cap LXI	De la verbena	
+422	Libro quarto	410	Cap LXII	De la yerua fagrada	
+423	Libro quarto	411	Cap LXIII	Del Astragalo	
+423	Libro quarto	411	Cap LXIIII	Del Hyacinto	
+424	Libro quarto	412	Cap LXV	Del papauer erratico	
+425	Libro quarto	413	Cap LXVI	Del papauer domestico	
+427	Libro quarto	415	Cap LXVII	Del papauer cornudo	
+428	Libro quarto	416	Cap LXVIII	Del espumoso papauer	
+428	Libro quarto	416	Cap LXIX	Del Hypecoo	
+428	Libro quarto	416	Cap LXX	Del Hyoscyamo	
+430	Libro quarto	418	Cap LXXI	Del Psylio	
+431	Libro quarto	419	Cap LXXII	Del Solano Hortense	
+431	Libro quarto	419	Cap LXXIII	Del Solano Illamado Halicacabo	
+432	Libro quarto	420	Cap LXXIIII	Del solano acarreador de fueno	
+432	Libro quarto	420	Cap LXXV	Del solano que engendra locura	
+434	Libro quarto	422	Cap LXXVI	Del Dorycnio	
+434	Libro quarto	422	Cap LXXVII	De la Mandragora	
+437	Libro quarto	425	Cap LXXVIII	Del Aconito	
+437	Libro quarto	425	Cap LXXIX	De otra especie de Aconito	
+439	Libro quarto	427	Cap LXXX	De la Cicuta	
+439	Libro quarto	427	Cap LXXXI	Del arbol Ilamado smylace	
+440	Libro quarto	428	Cap LXXXII	Del apocyno	
+441	Libro quarto	429	Cap LXXXIII	Del Nerio	
+441	Libro quarto	429	Cap LXXXIIII	De los Hongos	
+442	Libro quarto	430	Cap LXXXV	Del colchico	
+443	Libro quarto	431	Cap LXXXVI	Del ephemero	
+443	Libro quarto	431	Cap LXXXVII	De la Helxine	
+444	Libro quarto	432	Cap LXXXVIII	De la Alfine	
+445	Libro quarto	433	Cap LXXXIX	De la Lenteja aquatica	
+445	Libro quarto	433	Cap XC	De la Siepre viva mayor	
+446	Libro quarto	434	Cap XCI	De la siempre viva menor	
+446	Libro quarto	434	Cap XCII	De otra especie de siempre viva	
+447	Libro quarto	435	Cap XCIII	Del ombligo de venus	
+448	Libro quarto	436	Cap XCIIII	De otro ombligo de Venus	
+448	Libro quarto	436	Cap XCV	De la hortiga	
+449	Libro quarto	437	Cap XCVI	De la Galiopsis	
+450	Libro quarto	438	Cap XCVII	Del Galio	
+451	Libro quarto	439	Cap XCVIII	Del Senecio	
+451	Libro quarto	439	Cap XCIX	Del Thalietro	
+452	Libro quarto	440	Cap C	Del musgo marino	
+452	Libro quarto	440	Cap CI	Del alga Marina	
+452	Libro quarto	440	Cap CII	Del potamogeton	
+453	Libro quarto	441	Cap CIII	Cel Stratiote aquatico	
+453	Libro quarto	441	Cap CIIII	Del stratiote milefolio	
+453	Libro quarto	441	Cap CV	Del Gordolobo	
+455	Libro quarto	443	Cap CVI	De la Ethiopide	
+456	Libro quarto	444	Cap CVII	Del Arctio	
+456	Libro quarto	444	Cap CVIII	Del Arcio	
+457	Libro quarto	445	Cap CIX	Del Petasite	
+458	Libro quarto	446	Cap CX	De la Epipactide	
+458	Libro quarto	446	Cap CXI	De la fumaria	
+459	Libro quarto	447	Cap CXII	Del loto domestico	
+459	Libro quarto	447	Cap CXIII	Del loto saluage	
+460	Libro quarto	448	Cap CXIIII	Del Cytifo	
+460	Libro quarto	448	Cap CXV	Del loto egyptiaco	
+460	Libro quarto	448	Cap CXVI	Del myriophylo	
+461	Libro quarto	449	Cap CXVII	De la myrride	
+462	Libro quarto	450	Cap CXVIII	Del Myagro	
+462	Libro quarto	450	Cap CXIX	De la Onagra	
+462	Libro quarto	450	Cap CXX	Del Cirfio	
+463	Libro quarto	451	Cap CXXI	Del aster attico	
+464	Libro quarto	452	Cap CXXII	De la violeta purpurea	
+465	Libro quarto	453	Cap CXXIII	Del Isopyro	
+465	Libro quarto	453	Cap CXXIIII	De la Cacalia	
+466	Libro quarto	454	Cap CXXV	Del bunio	
+466	Libro quarto	454	Cap CXXVI	Del salso bunio	
+466	Libro quarto	454	Cap CXXVII	Del Camecisso	
+466	Libro quarto	454	Cap CXXVIII	De la Cameleuca	
+467	Libro quarto	455	Cap CXXIX	De la Buglossa	
+468	Libro quarto	456	Cap CXXX	De la cynoglossa	
+468	Libro quarto	456	Cap CXXXI	De la Phyteuma	
+468	Libro quarto	456	Cap CXXXII	De leontopodio	
+469	Libro quarto	457	Cap CXXXIII	Del hippoglosso	
+469	Libro quarto	457	Cap CXXXIIII	Del Antirrino	
+470	Libro quarto	458	Cap CXXXV	De la Catanance	
+470	Libro quarto	458	Cap CXXXVI	Del tripolio	
+470	Libro quarto	458	Cap CXXXVII	Del Adianto	
+471	Libro quarto	459	Cap CXXXVIII	Del Tricomanes	
+472	Libro quarto	460	Cap CXXXIX	Del Xanthio	
+472	Libro quarto	460	Cap CXL	De la egilope	
+472	Libro quarto	460	Cap CXLI	Del bromo	
+473	Libro quarto	461	Cap CXLII	Del Glauce	
+473	Libro quarto	461	Cap CXLIII	Del polygalo	
+473	Libro quarto	461	Cap CXLIIII	De la osyride	
+474	Libro quarto	462	Cap CXLV	De la Smilace aspera	
+474	Libro quarto	462	Cap CXLVI	De la smilace lisa	
+475	Libro quarto	463	Cap CXLVII	Del rusco vulgarmente Ilamado brusco	
+476	Libro quarto	464	Cap CXLVIII	Del laurel alexandrino	
+477	Libro quarto	465	Cap CL	De la Camedaphne	
+477	Libro quarto	465	Cap CLI	Del Veratro blanco	
+478	Libro quarto	466	Cap CLII	Del veratro negro	
+480	Libro quarto	468	Cap CLIII	Del sesomoide mayor	
+480	Libro quarto	468	Cap CLIIII	Del Sesamoide menor	
+480	Libro quarto	468	Cap CLV	Del cogombrillo saluage, o amargo	
+480	Libro quarto	468	Cap CLVI	Del elaterio	
+483	Libro quarto	471	Cap CLVII	De la Staphis agria	
+483	Libro quarto	471	Cap CLVIII	De la thapsi	
+485	Libro quarto	473	Cap CLIX	Del Spartio	
+486	Libro quarto	474	Cap CLX	Del silybo	
+486	Libro quarto	474	Cap CLXI	De la nuez unguentaria	
+487	Libro quarto	475	Cap CLXII	Del narcisso	
+488	Libro quarto	476	Cap CLXIII	Del hippophae	
+488	Libro quarto	476	Cap CLXIIII	Del hippophesto	
+489	Libro quarto	477	Cap CLXV	Del ricino	
+489	Libro quarto	477	Cap CLXVI	De los titymalos	
+493	Libro quarto	481	Cap CLXVII	De la Pityusa	
+494	Libro quarto	482	Cap CLXVIII	De la lathyris	
+495	Libro quarto	483	Cap CLXIX	De peplo	
+495	Libro quarto	483	Cap CLXX	De la peplide	
+496	Libro quarto	484	Cap CLXXI	De la camesyce	
+496	Libro quarto	484	Cap CLXXII	De la escamonea	
+498	Libro quarto	486	Cap CLXXIIII	De la thymelea	
+500	Libro quarto	488	Cap CLXXVI	Del pycnocomo	
+500	Libro quarto	488	Cap CLXXVII	De la planta Ilamada Apios	
+501	Libro quarto	489	cap CLXXVIII	De la Coloquintida	
+502	Libro quarto	490	Cap CLXXIX	Del epithymo	
+503	Libro quarto	491	Cap CLXXX	Del alypo	
+503	Libro quarto	491	Cap CLXXXI	Del empetro	
+504	Libro quarto	492	Cap CLXXXII	De la vid saluage	
+505	Libro quarto	493	Cap CLXXXIII	De la vid blanca Ilamada vulgarmete Bryonia	
+505	Libro quarto	493	Cap CLXXXIIII	De la vid Negra	
+506	Libro quarto	494	Cap CLXXXV	Del helecho	
+507	Libro quarto	495	Cap CLXXXVI	Del helecho hembra	
+507	Libro quarto	495	Cap CLXXXVII	Del polypodio	
+508	Libro quarto	496	Cap CLXXXVIII	De la dryopteride	
+509	Libro quarto	497	Cap CLXXXIX	Del cartamo	
+509	Libro quarto	497	Cap CXC	De la mercurial	
+511	Libro quarto	499	Cap CXCI	De la cynocrambe	
+511	Libro quarto	499	Cap CXCII	Del heliotropio mayor	
+512	Libro quarto	500	Cap CXCIII	Del heliotropio menor	
+513	Libro quarto	501	Cap CXCIIII	Del scorpioide	
+514	Libro quinto	502	Cap I	De la vid	
+517	Libro quinto	505	Cap II	De la vid saluage o labrusca	
+518	Libro quinto	506	Cap III	De las Vuas	
+518	Libro quinto	506	Cap IIII	De las vuas passas	
+519	Libro quinto	507	Cap V	De la Enanthe	
+519	Libro quinto	507	Cap VI	Del omphacio Ilamado agrazen en castilla	
+520	Libro quinto	508	Cap VII	De la natura del vino	
+523	Libro quinto	511	Cap VIII	Del vino melitite	
+523	Libro quinto	511	Cap IX	Del vino mulso	
+524	Libro quinto	512	Cap X	Del Aguamiel	
+524	Libro quinto	512	Cap XI	Del agua	
+524	Libro quinto	512	Cap XII	Del agua marina	
+526	Libro quinto	514	Cap XIII	Del thalassomeli	
+526	Libro quinto	514	Cap XIIII	Del vinagre	
+528	Libro quinto	516	Cap XV	Del Oxymel	
+528	Libro quinto	516	Cap XVI	De la Salmuera azeda, llamada Oxalme	
+528	Libro quinto	516	Cap XVII	De la Thymoxalme	
+528	Libro quinto	516	Cap XVIII	Del Vinagre Scillitico, llamado comunmente Aceto Squilitico	
+528	Libro quinto	516	Cap XIX	Del vino scillitico	
+529	Libro quinto	517	Cap XX	De los vinos marinos	
+529	Libro quinto	517	Cap XXI	Del Vino Cydonite	533
+529	Libro quinto	517	Cap XXII	Del Melomeli	
+529	Libro quinto	517	Cap XXIII	Del Hydromelo	
+529	Libro quinto	517	Cap XXIIII	Del omphacomeli	
+530	Libro quinto	518	Cap XXV	Del Apijte	
+530	Libro quinto	518	Cap XXVI	Del Enanthino	534
+530	Libro quinto	518	Cap XXVII	Del Roete, que es el vina de las Granadas	
+530	Libro quinto	518	Cap XXVIII	Del vino Rosado	
+530	Libro quinto	518	Cap XXIX	Del vino hecho con la grana del Arrayhan, llamado Myrtite	
+530	Libro quinto	518	Cap XXX	De Myrsinite	
+530	Libro quinto	518	Cap XXXI	Del Lentiscino, y Terebintino	
+530	Libro quinto	518	Cap XXXII	Del Vino de Datiles	
+531	Libro quinto	519	Cap XXXIII	Del vino de Higos secos	
+531	Libro quinto	519	Cap XXXIIII	Del vino resinoso	
+531	Libro quinto	519	Cap XXXV	Del vino preparado con pinas Ilamado Strobilite	
+531	Libro quinto	519	Cap XXXVI	Del vino cedrino, y de algunos otros	
+532	Libro quinto	520	Cap XXXVII	Del vino empegado	
+532	Libro quinto	520	Cap XXXVIII	Del vino de axenxios	
+532	Libro quinto	520	Cap XXXIX	Del vino de Hyssopo	
+532	Libro quinto	520	Cap XL	De muchas fuertes de vinos preparados con plantas diversas	
+533	Libro quinto	521	Cap XLI	Del vino aromatico	
+533	Libro quinto	521	Cap XLII	De otros vinos aromaticos y olorosos	
+534	Libro quinto	522	Cap XLIII	De otros vinos hechos de muchas fuertes de yeruas	
+535	Libro quinto	523	Cap XLIIII	De toda fuerte de mineral et primero de la ilamada cadmia	
+538	Libro quinto	526	Cap XLV	De la pompholyge y del spodio	
+539	Libro quinto	527	Cap XLVI	De los antispodios	
+540	Libro quinto	528	Cap XLVII	Del cobre quemado	
+540	Libro quinto	528	Cap XLVIII	De la flor del cobre	
+541	Libro quinto	529	Cap XLIX	De la escama del cobre	
+541	Libro quinto	529	Cap XLIX	De la Escama del stomoma	
+542	Libro quinto	530	Cap L	Del cardenillo raydo	
+542	Libro quinto	530	Cap LI	Del cardenillo dicho vermicular Ilamado scolecio	
+543	Libro quinto	531	Cap LII	Del Orin del hierro	
+543	Libro quinto	531	Cap LIII	De la escoria del hierro	
+544	Libro quinto	532	Cap LIIII	Del plomo lauado	
+544	Libro quinto	532	Cap LV	Del plomo quemado	
+544	Libro quinto	532	Cap LVI	De la escoria del plomo	
+545	Libro quinto	533	Cap LVII	De la piedra molibdoide o plomera	
+545	Libro quinto	533	Cap LVIII	Del stibio	
+546	Libro quinto	534	Cap LIX	De la molibdena	
+546	Libro quinto	534	Cap LX	De la escoria de la plata	
+546	Libro quinto	534	Cap LXI	Del lithargyrio	
+548	Libro quinto	536	Cap LXII	De la Cerusa	
+549	Libro quinto	537	Cap LXIII	De la chrysocola	
+550	Libro quinto	538	Cap LXIIII	De la piedra Ilamada armenia	
+550	Libro quinto	538	Cap LXV	De la piedra cerulea, o azul en griego Ilamada cyano	
+551	Libro quinto	539	Cap LXVI	De la piedra indica	
+551	Libro quinto	539	Cap LXVII	Dela ocra	
+551	Libro quinto	539	Cap LXVIII	Del Cinabrio	
+552	Libro quinto	540	Cap LXIX	Del azogue	
+554	Libro quinto	542	Cap LXX	De la rubrica sinopica	
+555	Libro quinto	543	Cap LXXI	De la rubrica fabril, o de carpinteros	
+555	Libro quinto	543	Cap LXXII	De la tierra Lemnia	
+556	Libro quinto	544	Cap LXXIII	Del Calcanto	
+557	Libro quinto	545	Cap LXXIIII	De la calcitide	
+557	Libro quinto	545	Cap LXXV	Del misy	
+557	Libro quinto	545	Cap LXXVI	De la melanteria	
+557	Libro quinto	545	Cap LXXVII	Del Sory	
+558	Libro quinto	546	Cap LXXIII	Del Diphryge	
+559	Libro quinto	547	Cap LXXIX	Del Oropimente	
+559	Libro quinto	547	Cap LXXX	De la sandaraca	
+560	Libro quinto	548	Cap LXXXI	Del Alumbre	
+561	Libro quinto	549	Cap LXXXII	Del Açufre	
+562	Libro quinto	550	Cap LXXXIII	De la piedra pomez, o espongia	
+563	Libro quinto	551	Cap LXXXIIII	De la sal	
+563	Libro quinto	551	Cap LXXXV	De la espuma de la sal	
+564	Libro quinto	552	Cap LXXXVI	De la salmuera	
+564	Libro quinto	552	Cap LXXXVII	De la flor de la sal	
+565	Libro quinto	553	Cap LXXXVIII	Del nitro	
+565	Libro quinto	553	Cap LXXXIX	De la espuma del nitro	
+566	Libro quinto	554	Cap XC	De la hez del vino	
+566	Libro quinto	554	Cap XCI	De la cal viva	
+567	Libro quinto	555	Cap XCII	Del Yeffo	
+567	Libro quinto	555	Cap XCIII	De la ceniza de los sarmientos	
+567	Libro quinto	555	Cap XCIIII	Del alcyonio	
+568	Libro quinto	556	Cap XCV	Del Adarce	
+568	Libro quinto	556	Cap XCVI	De las espongias	
+569	Libro quinto	557	Cap XCVII	Del Coral, y del antipate	
+570	Libro quinto	558	Cap XCVIII	De la piedra phrygia	
+570	Libro quinto	558	Cap XCIX	De la piedra asia	
+570	Libro quinto	558	Cap C	De la piedra pyrite	
+571	Libro quinto	559	Cap CI	De la piedra Ilamada Hematite	
+572	Libro quinto	560	Cap CII	De la piedra Ilamada schista	
+572	Libro quinto	560	cap CIII	De la piedra Ilamada gagate	
+572	Libro quinto	560	Cap CIIII	De la piedra Ilamada Thracia	
+572	Libro quinto	560	Cap CV	De la piedra Iman	
+573	Libro quinto	561	Cap CVI	De la piedra arabica	
+573	Libro quinto	561	Cap CVII	De la galactite o lechera	
+573	Libro quinto	561	Cap CVIII	De la melitite	
+573	Libro quinto	561	Cap CIX	De la piedra ilamada Morochtho	
+574	Libro quinto	562	Cap CX	De la piedra alabastrite	
+574	Libro quinto	562	Cap CXI	De la piedra thyite	
+574	Libro quinto	562	Cap CXII	De la piedra Iudaica	
+574	Libro quinto	562	Cap CXIII	De la piedra ilamada amianta	
+575	Libro quinto	563	Cap CXIIII	Del saphir	
+575	Libro quinto	563	Cap CXV	De la piedra memphite	
+575	Libro quinto	563	Cap CXVI	De la selenite	
+576	Libro quinto	564	Cap CXVII	Del diaspero	
+576	Libro quinto	564	Cap CXVIII	De la piedra del aguila, Ilamada Aetite	
+577	Libro quinto	565	Cap CXIX	De la piedra Ophite	
+577	Libro quinto	565	Cap CXX	De las piedras de las espongias	
+577	Libro quinto	565	Cap CXXI	De la Lithocola, ò Cola de piedras	
+577	Libro quinto	565	Cap CXXII	De la piedra Ostracite	
+577	Libro quinto	565	Cap CXXIII	Del Esmeril	
+577	Libro quinto	565	Cap CXXIIII	Del arena del mar	
+578	Libro quinto	566	Cap CXXV	De la piedra Naxia	
+578	Libro quinto	566	Cap CXXVI	De la piedra Geode, ò terrosa	582
+578	Libro quinto	566	Cap CXXVII	De toda fuerte de tierra	
+578	Libro quinto	566	Cap CXXVIII	De la tierra Eretriade	
+578	Libro quinto	566	Cap CXXIX	De la tierra Samia	
+578	Libro quinto	566	Cap CXXX	De la piedra Samia	
+579	Libro quinto	567	Cap CXXXI	De la tierra chia	
+579	Libro quinto	567	Cap CXXXII	De la tierra Cimolia	
+579	Libro quinto	567	Cap CXXXIII	De la Pnigitide	
+579	Libro quinto	567	Cap CXXXIIII	De los tiestos de las hornazas	
+579	Libro quinto	567	Cap CXXXV	De la tierra de las hornazas	
+579	Libro quinto	567	Cap CXXXVI	De la tierra llamada Melia	
+579	Libro quinto	567	Cap CXXXVII	De la tierra Ampelitide	
+579	Libro quinto	567	Cap CXXXVIII	D ela tierra ampelitide	
+580	Libro quinto	568	Cap CXXXIX	Del hollin de los pintores	
+580	Libro quinto	568	Cap CXL	De la tinta para escrivir	
+592	Libro sexto	580	Cap I	De las Cantaridas	
+593	Libro sexto	581	Cap II	De las Orugas del pino	
+594	Libro sexto	582	Cap III	De los buprestes	
+594	Libro sexto	582	Cap IIII	De la salamandra	
+594	Libro sexto	582	Cap V	Del ephemero	
+595	Libro sexto	583	Cap VI	Del Dorycnio	
+595	Libro sexto	583	Cap VII	Del Aconito	
+596	Libro sexto	584	Cap VIII	De la miel Heracleotica	
+596	Libro sexto	584	Cap IX	Del Culantro	
+596	Libro sexto	584	Cap X	Del Psylio	
+596	Libro sexto	584	Cap XI	De la cicuta	
+597	Libro sexto	585	Cap XII	Del texo	
+597	Libro sexto	585	Cap XIII	Del liquor del Carpaso	
+597	Libro sexto	585	Cap XIIII	De la yerua Sardonia	
+597	Libro sexto	585	Cap XV	Del Hyocyamo, Ilamado en castilla veleno	
+598	Libro sexto	586	Cap XVI	De la mandragora	
+598	Libro sexto	586	Cap XVII	Del liquor del papauer, o dormideras Ilamado meconio y opio	
+598	Libro sexto	586	Cap XVIII	Del papauer cornudo	
+599	Libro sexto	587	Cap XIX	Del pharico	
+599	Libro sexto	587	Cap XX	Del toxico	
+600	Libro sexto	588	Cap XXI	De la Ixia	
+600	Libro sexto	588	Cap XXII	De la Cerusa	
+601	Libro sexto	589	Cap XXIII	De los hongos	
+601	Libro sexto	589	Cap XXIIII	Del Yesso	
+601	Libro sexto	589	Cap XXV	De la sangre de toro fresca	
+603	Libro sexto	591	Cap XXVI	De la leche que tiene mezcla de cuajo	
+603	Libro sexto	591	Cap XXVII	Del lithargyrio	
+604	Libro sexto	592	Cap XXVIII	Del azogue	
+604	Libro sexto	592	Cap XXIX	De la Cal, de la Sandaraca, y del Oropimente	
+604	Libro sexto	592	Cap XXX	De la liebre marina	
+605	Libro sexto	593	Cap XXXI	De la rana ilamada rubeta, y de aqualla de las lagunas	
+605	Libro sexto	593	Cap XXXII	De las fanguijuelas	
+607	Libro sexto	595	Cap XXXIII	Del eleboro y de otras algunas cosas, que se dan para cobrar salud	
+608	Libro sexto	596	Cap XXXIIII	De las cosas que quotidianamete siruen al uso	
+612	Libro sexto	600	Cap XXXVI	De las senales del perro ravioso y de aquellos que son del morbidos	
+615	Libro sexto	603	Cap XXXVII	De los remedios contra las mordeduras de perros raviosos	
+616	Libro sexto	604	Cap XXVIII	Del regimiento conveniente a los mordibos de algun perro ravioso	
+617	Libro sexto	605	Cap XXXIX	De las senales que acompagnana las heridas de los animales emponçonados	
+617	Libro sexto	605	Cap XL	De la Scolopendra	
+617	Libro sexto	605	Cap XLI	Del Alacran	
+617	Libro sexto	605	cap XLII	De la pastinaca marina	
+618	Libro sexto	606	Cap XLIII	Del musgano o mufarana	
+618	Libro sexto	606	Cap XLIIII	De la Biuora	
+618	Libro sexto	606	Cap XLV	De la Amphisbena	
+618	Libro sexto	606	Cap XLVI	Del Dryino	
+618	Libro sexto	606	Cap XLVII	Del Hemorroo	
+618	Libro sexto	606	Cap XLVIII	De la Dipsada	
+618	Libro sexto	606	Cap XLIX	Del Hydro	
+618	Libro sexto	606	Cap L	Del Cencro	
+618	Libro sexto	606	Cap LI	Del Ceraste	
+619	Libro sexto	607	Cap LII	Del aspide	
+619	Libro sexto	607	Cap LIII	Del Basilico	
+621	Libro sexto	609	Cap LIIII	De la cura commun a las heridas de las fieras que arrojan de si ponçona	
+624	Libro sexto	612	Cap LV	De los remedios particulares que a la herida de qualquier enconado animal administrar se deuen : y primero de aquellos que convienen a las de las abispas, y abejas	
+625	Libro sexto	613	cap LVI	De la cura conviente a las mordeduras de los phalagios	
+625	Libro sexto	613	Cap LVII	De los mordidos de las Escolopendras	
+625	Libro sexto	613	Cap LVIII	De la puncturas del escorpion	
+626	Libro sexto	614	Cap LIX	De los heridos de la Pastinaca marina, y del escorpion, y dragon marino	
+626	Libro sexto	614	Cap LX	De los mordidnos de algun Musgano	
+626	Libro sexto	614	Cap LXI	De los mordidos de alguna bivora	
+627	Libro sexto	615	Cap LXII	De las mordeduras de la scytala, y de la amphisbena	
+627	Libro sexto	615	Cap LXIII	De los mordidos de algun Dryino	
+627	Libro sexto	615	Cap LXIIII	De los mordidos del Hemorroo, y de la Dipsada	
+627	Libro sexto	615	Cap LXV	De los mordidos del hydro	
+628	Libro sexto	616	Cap LXVI	De los mordidos del cencro, o cencridio	
+628	Libro sexto	616	Cap LXVII	De los mordidos de algun Ceraste	
+628	Libro sexto	616	Cap LXVIII	De los mordidos del Aspide	
+628	Libro sexto	616	Cap LXIX	De los mordidos del basilisco	

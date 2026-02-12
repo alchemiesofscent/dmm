@@ -1,0 +1,6 @@
+edition_id,reason,manifest_url,status
+barbaro,No manifest URL in repo; biusante image template in src/dmm-defs.xml (ba_img/ba_pag).,,provisional
+desmoulins,No manifest URL in repo; biusante image template in src/dmm-defs.xml (mo_pag).,,provisional
+lusitanus,No manifest URL in repo; biusante image template in src/dmm-defs.xml (lu_pag).,,provisional
+ruellius,Archive.org item BIUSante_00815 in revised_ed/editions_table.tsv; manifest URL not identified.,,provisional
+wechel,No in-repo manifest or viewer URL identified.,,provisional

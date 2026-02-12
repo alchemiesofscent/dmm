@@ -1,284 +1,101 @@
-# DMM Database Normalization Plan (Revised)
+# DMM Plan (current)
 
-## 1. Key Conceptual Model
+Last updated: 2026-02-10
 
-### Entries vs. Entities
-The distinction between text and reality is critical because different scholars may identify the same Greek term differently.
+This is the current, living plan for greenfielding the repo **with archiving**. Superseded planning docs are preserved in `archive/2026-02-10/`.
 
-*   **Entry:** A textual reference in a specific edition (e.g., "ἶρις" in Wellmann 1.1, "iris" in Beck 1.1).
-*   **Entity:** A botanical/natural object in the real world (e.g., *Iris germanica* L., the plant iris).
-*   **Identification:** A scholarly attribution linking an **Entry** → **Entity** (e.g., "Beck identifies ἶρις as *Iris germanica* L.").
+## 1) Objective
 
-### The Granularity Problem
-Different editions utilize different structural granularity.
-*   *Example:* Beck 1.29 ("Olive oil") is a single chapter covering multiple oils, whereas Berendes 1.29–1.36 splits this into 8 separate chapters.
+Build a stable, reproducible data model and workflow for aligning multiple editions/translations of *Dioscorides, De Materia Medica* at **sub-chapter segment** granularity, while supporting:
+- citation-stable global IDs,
+- edition-local TEI anchoring,
+- IIIF-based navigation for image-only sources,
+- deterministic derived exports (wide/QC tables, alignment views),
+- and long-term maintainability of repo structure and documentation.
 
-**Solution:**
-1.  Use **textual segments** as the finest unit (sub-chapter).
-2.  The ID system is determined **after** comparing all editions.
-3.  Segments within chapters are marked with TEI `<seg>` elements.
-4.  Alignments can be **chapter-to-chapter** OR **segment-to-chapter**.
+## 2) Core decisions (locked for this iteration)
 
----
+- **Standoff-first TEI**: do not edit `src/*.xml` until segmentation stabilizes; store mappings in separate files.
+- **Hybrid identifiers**:
+  - `segment_id` = edition-local textual segment (anchored to an edition’s TEI via `xml:id` / pointer).
+  - `unit_id` = global *work unit* ID (`DMMU000001`, citation-stable).
+  - optional `topic_id` = concept/substance grouping across units (many-to-many).
 
-## 2. Editions (Standardized IDs)
+## 3) Definitions (what we mean)
 
-| ID | Name | Language | Type |
-| :--- | :--- | :--- | :--- |
-| `wellmann` | Wellmann (1907-1914) | grc | Critical edition |
-| `sprengel` | Sprengel | grc | Critical edition |
-| `desmoulins` | Desmoulins | fra | Translation |
-| `matthioli` | Matthioli | lat | Commentary |
-| `laguna` | Laguna | spa | Translation |
-| `wechel` | Wechel | lat | Edition |
-| `ruellius` | Ruellius | lat | Translation |
-| `lusitanus` | Lusitanus | lat | Commentary |
-| `berendes` | Berendes | deu | Translation |
-| `barbaro` | Barbaro | lat | Translation |
-| `beck` | Beck | eng | Translation |
-| `gunther` | Gunther | eng | Translation |
+- **Citation**: edition-local printed structure (book/chapter/etc.) used for human reference.
+- **Segment**: the smallest edition-local chunk we will align 1:1 where possible (sub-chapter granularity).
+- **Work unit** (`unit_id`): the smallest cross-edition chunk intended to represent “the same textual unit” across witnesses; the global alignment atom.
+- **Alignment**: mapping between edition-local segments and global work units; during refinement it may be 1:N / N:1, but the goal is 1:1 at segment granularity.
 
----
+## 4) Repo structure (target)
 
-## 3. Target Database Schema
+- `planning/` — living plan/WBS/decision log.
+- `docs/` — stable-ish specs (IDs, schemas, standoff mapping conventions, repo structure).
+- `archive/` — immutable snapshots of superseded docs/experiments.
+- `revised_ed/` — current TSV exports/edits (treated as working inputs until normalized).
+- `data/` — canonical derived outputs (CSV/DB) produced by scripts.
 
-> **Architectural Note:** There is no `substances` table. The concept of a "substance" (like iris) emerges dynamically from the alignment graph of entries across editions.
+See `docs/repo_structure.md` for the authoritative “what goes where” rules (to be written).
 
-### Table 1: `editions` (Static Reference)
-```sql
-CREATE TABLE editions (
-    id TEXT PRIMARY KEY,        -- wellmann, laguna, beck...
-    name TEXT,                  -- "Wellmann (1907-1914)"
-    language TEXT,              -- grc, lat, deu, eng, spa, fra
-    type TEXT,                  -- critical, translation, ms, commentary
-    tei_file TEXT,              -- path to TEI XML if available
-    base_url TEXT               -- for external links
-);
-```
+## 5) Execution phases (high level)
 
-### Table 2: `entries` (Textual References)
-```sql
-CREATE TABLE entries (
-    id TEXT PRIMARY KEY,        -- Format: "edition:ref[:segment]" (e.g. "berendes:1.29" or "beck:1.29:seg2")
-    edition_id TEXT REFERENCES editions(id),
-    ref TEXT,                   -- chapter/section ref (1.1, 1.59, 1.72...)
-    segment TEXT,               -- NULL for whole chapter, or "seg1", "seg2" for sub-units
-    term TEXT,                  -- the word/phrase as it appears
-    term_greek TEXT,            -- Greek form if applicable
-    term_latin TEXT,            -- Latin form if applicable
-    page TEXT,                  -- page number in edition
-    div_id TEXT,                -- div-13 etc. for TEI anchor
-    seg_id TEXT,                -- seg-1 etc. for TEI segment anchor
-    url TEXT,                   -- external link (Google Books, etc.)
-    notes TEXT
-);
-```
+### Phase 0 — Evaluate & reset planning (docs-only)
 
-### Table 3: `alignments` (The Graph)
-```sql
-CREATE TABLE alignments (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    entry_a TEXT REFERENCES entries(id),  -- e.g. "beck:1.29:seg1"
-    entry_b TEXT REFERENCES entries(id),  -- e.g. "berendes:1.29"
-    alignment_type TEXT,                  -- "equivalent", "contains", "part_of", "related"
-    confidence TEXT,                      -- "certain", "probable", "uncertain"
-    notes TEXT,
-    UNIQUE(entry_a, entry_b)
-);
-```
+Deliverables:
+- `planning/decisions.md` with the decisions above recorded + any new ones.
+- `planning/wbs.md` as the living checklist that we update every session.
+- `docs/` specs drafted (IDs, data model, standoff mapping format).
 
-### Table 4: `entities` (Botanical/Natural Objects)
-```sql
-CREATE TABLE entities (
-    id TEXT PRIMARY KEY,        -- auto-generated or Wikidata Q-number
-    type TEXT,                  -- plant, animal, mineral, preparation
-    modern_name TEXT,           -- "Iris germanica L."
-    wikidata_id TEXT,           -- Q12345
-    wikipedia_url TEXT,
-    notes TEXT
-);
-```
+Exit criteria:
+- We agree on terminology and the minimum canonical tables/files.
+- We agree on `unit_id` stability rules (including split/merge handling).
 
-### Table 5: `identifications` (Scholarly Attributions)
-*Note: The `attributed_by` field is implicit; the edition is encoded in `entry_id` (e.g., "berendes:1.29" means Berendes made this identification).*
-```sql
-CREATE TABLE identifications (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    entry_id TEXT REFERENCES entries(id),   -- the entry being identified
-    entity_id TEXT REFERENCES entities(id), -- the botanical entity
-    confidence TEXT,                        -- certain, probable, uncertain
-    notes TEXT,
-    UNIQUE(entry_id, entity_id)
-);
-```
+### Phase 1 — Normalize `revised_ed/*.tsv` into a canonical citation layer
 
-### Table 6: `manuscripts` (Physical Witnesses)
-```sql
-CREATE TABLE manuscripts (
-    id TEXT PRIMARY KEY,        -- vindob_gr_1, paris_gr_2179...
-    name TEXT,                  -- "Codex Vindobonensis med. gr. 1"
-    siglum TEXT,                -- V, P, N (critical apparatus sigla)
-    repository TEXT,            -- "Österreichische Nationalbibliothek"
-    shelfmark TEXT,             -- "Cod. med. gr. 1"
-    date_century INTEGER,       -- 6 (for 6th century)
-    iiif_manifest TEXT,         -- IIIF manifest URL
-    digitization_url TEXT,      -- Link to digital facsimile
-    notes TEXT
-);
-```
+Deliverables (draft names):
+- a single canonical `citations` table/file with per-edition printed refs + provenance
+- normalization rules for inconsistent headings across TSVs
+- **validation checks + reports** for coverage and navigability (TEI vs IIIF)
+- citation-level IIIF mapping (`citation_ref → IIIF target`) for non-TEI editions (segment-level comes later)
+- an IIIF manifest auto-linking procedure (spec-first; then implement)
 
-### Table 7: `witnesses` (Readings)
-```sql
-CREATE TABLE witnesses (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    entry_id TEXT REFERENCES entries(id),           -- links to critical edition entry (e.g., "wellmann:1.1")
-    manuscript_id TEXT REFERENCES manuscripts(id),
-    folio TEXT,                 -- "113r", "f.45v"
-    line TEXT,                  -- line number if applicable
-    reading TEXT,               -- the text as it appears in this ms
-    iiif_canvas TEXT,           -- direct link to IIIF canvas
-    iiif_region TEXT,           -- xywh coordinates for the passage
-    apparatus_note TEXT,        -- critical apparatus info
-    UNIQUE(entry_id, manuscript_id)
-);
-```
+Exit criteria:
+- every edition has a consistent, queryable citation reference system.
+- for editions/chapters without TEI transcription, we have **complete IIIF manifest + page/canvas coverage** (so every citation/segment can be opened in images).
 
----
+Implementation note:
+- During transition, Phase 1 artifacts are written to `data/vnext/` (see `docs/repo_structure.md`).
 
-## 4. Relationships Diagram
+### Phase 2 — Define segments and start standoff mappings
 
-```mermaid
-graph TD
-    subgraph "ENTRIES (The Core Unit)"
-        W[wellmann:1.1] <-->|alignment| B[beck:1.1]
-    end
+Deliverables:
+- an edition-local `segments` table/file (initially derived from citations; later TEI-anchored)
+- a `segment_unit_map` linking segments → `unit_id` (goal: converge to 1:1)
 
-    subgraph "WITNESSES"
-        W -->|witness| V[Vindob. gr. 1<br>f.12r 'ιρις']
-        W -->|witness| P[Paris gr. 2179<br>f.8v 'ἶρις']
-        W -->|witness| N[Naples gr. 1<br>f.15r 'ηρις']
-    end
+Exit criteria:
+- for the “core” editions, we can fetch all aligned witnesses for any `unit_id`.
 
-    subgraph "ENTITIES"
-        B -->|identification| I[Iris germanica L.]
-        I -.-> WD[Wikidata/IPNI]
-    end
+### Phase 3 — TEI anchoring (still standoff; inline later only if desired)
 
-    subgraph "GRANULARITY EXAMPLE"
-        BK[beck:1.29<br>'Olive oil'] -->|contains| BR1[berendes:1.29<br>Unripe oil]
-        BK -->|contains| BR2[berendes:1.30<br>Common oil]
-        BK -->|contains| BR3[berendes:1.31<br>Wild olive oil]
-        
-        seg1[beck:1.29:seg1] <-->|equivalent| BR1
-        seg2[beck:1.29:seg2] <-->|equivalent| BR2
-    end
-```
+Deliverables:
+- standoff pointers from `segment_id` → TEI `xml:id` / XPath / other robust selectors
+- validation checks (missing anchors, duplicates, out-of-order anchors)
 
----
+Exit criteria:
+- segments are navigable back to the TEI sources with stable pointers.
 
-## 5. CSV Data Templates
+### Phase 4 — QC outputs and stability freeze
 
-### 1. `entries.csv`
-Please export page tables in this format.
-*   **id:** `edition_id:ref[:segment]` (auto-generated if blank).
-*   **ref:** Chapter.section as it appears in *that* edition.
+Deliverables:
+- wide/QC tables keyed by `unit_id`
+- a process for freezing `unit_id` assignments (citation stability)
 
-```csv
-id,edition_id,ref,segment,term,term_greek,page,notes
-wellmann:1.1,wellmann,1.1,,ἶρις Ἰλλυρική,ἶρις Ἰλλυρική,5,
-beck:1.1,beck,1.1,,iris,ἶρις,,
-laguna:1.1,laguna,1.1,,lirio,ἶρις,1,
-beck:1.29,beck,1.29,,Olive oil,ἔλαιον,,covers multiple oils
-beck:1.29:seg1,beck,1.29,seg1,oil from unripe olives,ἔλαιον ὠμοτρίβες,,
-berendes:1.29,berendes,1.29,,Öl aus unreifen Oliven,ἔλαιον ὠμοτρίβες,e-37,
-```
+Exit criteria:
+- `unit_id` is considered citation-stable for the frozen scope/version.
 
-### 2. `alignments.csv`
-Types: `equivalent`, `contains` (coarse → granular), `part_of` (granular → coarse), `related`.
+## 6) Where to track work
 
-```csv
-entry_a,entry_b,alignment_type,confidence,notes
-wellmann:1.1,beck:1.1,equivalent,certain,
-wellmann:1.1,laguna:1.1,equivalent,certain,
-beck:1.29,berendes:1.29,contains,certain,Beck covers 1.29-1.36 in one chapter
-beck:1.29:seg1,berendes:1.29,equivalent,certain,segmented alignment
-```
-
-### 3. `identifications.csv`
-Maps an entry (and thus a scholar) to a botanical entity.
-
-```csv
-entry_id,entity_name,confidence,notes
-beck:1.1,Iris germanica L.,certain,
-berendes:1.1,Iris germanica,certain,
-gunther:1.1,Iris florentina,probable,
-berendes:1.29,Olea europaea (immature fruit oil),certain,
-```
-
-### 4. `witnesses.csv`
-Links manuscript readings to the critical edition entry (usually Wellmann).
-
-```csv
-entry_id,manuscript_id,folio,reading,iiif_canvas,apparatus_note
-wellmann:1.1,vindob_gr_1,12r,ιρις,https://iiif.onb.ac.at/.../canvas/p12,
-wellmann:1.1,paris_gr_2179,8v,ἶρις,https://gallica.bnf.fr/.../f8,
-wellmann:1.1,naples_gr_1,15r,ηρις,,variant spelling
-```
-
-### 5. `manuscripts.csv`
-
-```csv
-id,name,siglum,repository,shelfmark,date_century,iiif_manifest
-vindob_gr_1,Codex Vindobonensis,V,Österreichische Nationalbibliothek,Cod. med. gr. 1,6,https://iiif.onb.ac.at/...
-paris_gr_2179,Paris Dioscorides,P,Bibliothèque nationale de France,grec 2179,9,https://gallica.bnf.fr/...
-```
-
----
-
-## 6. Migration Process
-
-### Phase 1: Extraction
-1.  Parse `dioscmatmad_db.xml`.
-2.  Create `entries.csv` from edition-prefixed attributes (`wm_*`, `br_*`, `bk_*`).
-3.  Create initial `alignments.csv` by linking entries that share the same row in the XML.
-4.  Create initial `identifications.csv` from botanical fields (`br_spec`, `gn_spec`).
-5.  Create `editions.csv` with standardized metadata.
-
-### Phase 2: Reconciliation
-1.  Export manual page equivalence tables to the CSV format defined above.
-2.  Merge/reconcile with extracted data.
-3.  **Resolve Granularity:** Identify mismatches (e.g., Beck 1.29 vs Berendes 1.29-1.36) and decide between segmentation or one-to-many alignments.
-
-### Phase 3: Database Generation
-1.  Import all CSVs to SQLite.
-2.  Validate foreign keys.
-3.  Build a "Substance Cluster" view derived from the alignment graph.
-
----
-
-## 7. Operational Examples
-
-### Bulk Edit: "Shift all Laguna refs in book 1 by +13"
-1.  Filter: `edition_id = laguna` AND `ref LIKE '1.%'`
-2.  Apply formula: `="1." & (VALUE(MID(C2,3,10)) + 13)`
-3.  Re-import CSV.
-
-### Adding New Edition (e.g., Barbaro)
-1.  Add 1 row to `editions.csv`.
-2.  Add rows to `entries.csv` for every substance/chapter.
-3.  Re-import.
-
----
-
-## 8. Files & Dependencies
-
-**Required Files:**
-*   `scripts/migrate_db.py` (XML → CSV)
-*   `scripts/import_csv.py` (CSV → SQLite)
-*   `scripts/export_csv.py` (SQLite → CSV)
-*   `data/*.csv` (The 6 CSV files defined above)
-*   `data/dmm.db` (Final SQLite output)
-
-**Dependencies:**
-*   Python 3.8+
-*   Standard Library only (`xml.etree`, `csv`, `sqlite3`). No external pip packages required.
+- Work checklist: `planning/wbs.md`
+- Decision log: `planning/decisions.md`
+- Clarifying Q/A: `plan_questions.md`

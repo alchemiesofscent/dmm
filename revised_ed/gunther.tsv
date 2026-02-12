@@ -1,0 +1,944 @@
+book	chapter	chapter_title	chapter_description
+1	1	IRIS	Iris Germanica or I. florentina
+1	2	AKORON	Iris Pseudacorus
+1	3	MEON	Meum Athamanticum
+1	4	KUPEIROS	Cyperus rotundus
+1	5	KARDAMOMON	Elettaria Cardamomum
+1	6	NARDOS	(I) Nardostachys Jatamansi (‘Indian’)
+1	7	NARDOS KELTIKE	Valeriana celtica
+1	8	NARDOS OREINE	Valeriana tuberosa
+1	9	ASARON	Asarum europaeum
+1	10	PHOU	Valeriana Dioscoridis not V. officinalis
+1	11	MALABATHRON	Malabathrum
+1	12	KASSIA	Cinnamomum iners
+1	13	KINAMOMON	Cinnamomum Cassia
+1	14	AMOMON	Amomum subulatum or Cissus vitiginea
+1	15	KOSTOS	Saussurea Lappa
+1	16	SCHOINOS	Cymbopogon Schoenanthus
+1	17	KALAMOS EUODES	Acorus Calamus
+1	18	BALSAMON	Balsamodendron Opobalsamum
+1	19	ASPALATHOS	Cytisus lanigerus or Genista acanthoclada
+1	20	BRUON	Usnea sp.
+1	21	AGALLOCHON	Aloexylon Agallochon
+1	22	NASKAPHTHON	Nascaphthum
+1	23	KANKAMON	Amyris sp.
+1	24	KUPHI	Cyphi
+1	25	KROKOS	Crocus sativus
+1	26	KROKOMAGMA	Crocomagma
+1	27	ELENION	Inula Helenium. Elecampane
+1	28	ELENION AIGUPTION	Calamintha incana Calamint
+1	29	ELAION OMOTRIBES	Oil of Unripe Olives
+1	30	ELAION KOINON	Olive Oil
+1	31	ELAION AGRIAS ELAIAS	Wild Olive Oil
+1	32	ELAION LEUKON	To whiten Oil
+1	33	ELAION SIKUONION	Sicyonian Oil
+1	34	RUPOS	Grime from Baths
+1	35	RUPOS PALAISTRA	Grime from the Wrestling School
+1	36	RUPOS GYMNASION	Grime from the Gymnasium Walls
+1	37	ELAIOMELI	Elaeomeli
+1	38	KIKINON ELAION	Castor Oil or Croton Oil
+1	39	ELAION AMYGDALINON	Almond Oil
+1	40	BALANINON ELAION	Oil of Balanites aegyptiaca
+1	41	ELAION SESAMINON KAI KARUINON	Oil of Sesame and Walnut Oil
+1	42	YOSKUAMINON ELAION	Oil of Henbane
+1	43	KNIDELAION	Oil of Daphne
+1	44	KNIKELAION	Oil of Bastard Saffron (Carthamus tinctorius)
+1	45	RAPHANELAION	Oil of Radish Seed
+1	46	MELANTHELAION	Oil of Chamomile
+1	47	SINAPELAION	Oil of Mustard
+1	48	MURSINELAION	Oil of Myrtle
+1	49	DAPHNELAION	Oil of Laurel
+1	50	SCHINELAION	Lentiscinum and Terebinthinum
+1	51	MASTICHELAION	Mastich
+1	52	MURON SUNTHESIS	Medicinal Ointments
+1	53	RHODINON	Preparation of Rosaceum
+1	54	ELATINON	Preparation of Elatine
+1	55	MELINON	Preparation of Oil of Quince
+1	56	OINANTHINON	Preparation of Oil of Wild Grapes
+1	57	TELINON	Oil of Fenugreek
+1	58	SAMPSUCHINON	Oil of Marjoram
+1	59	OKIMINON	Oil of Basil
+1	60	ABROTONINON	Oil of Southernwood
+1	61	ANETHINON	Oil of Dill
+1	62	SUSINON	Oil of Lilies
+1	63	NARCISSINON	Oil of Narcissus
+1	65	KUPRINON	Oil of Cuperos
+1	66	IRINON	Iris Oil
+1	67	GLEUCINON	Oil of Must
+1	68	AMARAKINON	Oil of Sweet Marjoram
+1	69	MEGALEION	Megalium
+1	70	HEDYCHROON	Hedychroon
+1	71	METOPION	Metopium
+1	72	MENDESION	Mendesium
+1	73	STACTE	Stacte
+1	74	KINNAMOMINON	Cinnamominum
+1	75	NARDINON MURON	Nard Ointment
+1	76	MALABATHRINON	Malabathrinum
+1	77	SMURNA	Amyris Hafal. Myrrh
+1	78	BOIOTIKE SMURNA	Boeotian Myrrh
+1	79	STURAX	Styrax officinalis
+1	80	BDELLION	Gum of Doum Palm, Hyphaene thebaica
+1	81	LIBANON THUS	Frankincense. Gum of Boswellia Carteri
+1	82	PHILOIOS LIBANOU	Bark of Frankincense tree
+1	83	LIBANOU MANNA	Manna of Frankincense
+1	84	LIBANOU AITHALIE	Fuligo of Frankincense
+1	85	LIGNUOS SKEUASIA	
+1	86	PITUS	Pinus halepensis
+1	87	PITUIDES	Pine-seeds
+1	88	STOBILOI	Pine-cones
+1	89	SCHINOS	Pistacia Lentiscus
+1	90	SCHININE RETINE	Mastick
+1	91	TERMINTHOS	Pistacia Terebinthus
+1	92	RETINA ALLAS	Resins of various Conifers
+1	93	LIGNUOS RETINES	Soot from Resin
+1	94	PISSA UGRA	Liquid Pitch or Stockholm Tar
+1	95	PISSELAION	Pitch Oil
+1	96	LINGUOS UGRAS PISSES	Soot from burning Pitch
+1	97	PISSA XERA	Dry Pitch
+1	98	ZOPISSA	Rosin
+1	99	ASPHALTOS	Judaicum Bitumen
+1	100	PISSASPHALTOS	Pissasphaltos
+1	101	NAPHTHA	Naptha
+1	102	KUPARISSOS	Cupressus sumpervirens
+1	103	ARKEOTHOS MEGALE	Juniperus phoenicea?
+1	104	BRATHUS	Juniperus sabina
+1	105	KEDROS	Juniperus phoenicea
+1	106	DAPHNE	Laurus nobilis
+1	107	PLATANOS	Platanus orientalis
+1	108	MELIA	Fraxinus Ornus
+1	109	LEUKE	Populus alba
+1	110	MAKER	Mace
+1	111	PTELEA	Ulmus campestris
+1	112	SAPROTES XYLON	Dry rot
+1	113	AIGEIROS	Populus nigra. Black Poplar
+1	114	KALAMOS NASTOS	Cenchrus frutescens
+1	115	PAPUROS	Papyrus antiquorum. Papyrus
+1	116	MURIKE	Tamarix Gallica
+1	117	EREIKA	Erica herbacea or E. arborea
+1	118	AKAKALIS	Tamarix orientalis
+1	119	RAMNOS TRISSUS	Paliurus aculeatus
+1	120	ALIMOS	Atriplex hortensis
+1	121	PALIOUROS	Zizyphus vulgaris
+1	122	OXUAKANTHA	Crataegus Pyracantha
+1	123	KUNOSBATON	Rosa sempervirens
+1	124	KUPROS	Lawsonia alba. Henna
+1	125	PHILLUREA	Phillyrea latifolia
+1	126	KUSTOS ARREN	Cistus villosus
+1	127	UPOKUSTIS	Cytinus Hypocistis
+1	128	LADANON	Cistus creticus. Gum Cistus
+1	129	EBENOS	Diospyrus melanoxylon or Ebenoxylon verum
+1	130	RHODON	Rosa lutea
+1	131	RHODIDES	Pomanders of Roses
+1	132	LUKION	Rhammus infectorius, Sibth.
+1	133	AKAKIA	Acacia vera
+1	134	AMORGE	Amurca
+1	135	AGNOS	Vitex Agnus-castus. Chaste-tree
+1	136	ITEA	Salix sp. Cynodon dactylon Pers.
+1	137	AGRIELAIA	Olea Oleaster. Wild Olive
+1	138	ELAIA	Olea Europaea. Olive
+1	139	ELAIA KOLUMBADES	Pickled Olives
+1	141	DAKRUON ELAIAS AITHIOPIKES	Elaeagnus spinosa
+1	142	DRUS	Quercus Aegilops. Dyer’s Oak
+1	143	BALANOI	Acorns
+1	144	PHEGOS	Quercus Aesculus
+1	145	KASTANA	Castanea vesca
+1	146	KEKIDES	Oak Galls
+1	147	ROUS	Rhus Coriaria. Tanning Sumach
+1	148	PHOINIX	Phoenix dactylifera
+1	149	PHOINIKES THEBAIKAI	Hyphaene coriacea
+1	150	PHOINIX ELATE	
+1	151	RHOA	Punica granatum
+1	152	KUTINOI	Pomegranate Flowers
+1	153	SIDIA	Pomegranate Rinds
+1	154	BALAUSTION	Wild Pomegranate Flowers
+1	155	MURSINE	Myrtus communis
+1	156	MURTIDANON	Myrtidanum
+1	157	KERASIA	Prunus Cerasus. Cherry
+1	158	KERATIA	Ceratonia Siliqua. Carob
+1	159	MELEA	Pyrus Malus. Apple
+1	160	KUDONIA	Cydonia vulgaris. Quince
+1	161	MELIMELA	Pyrus malus grafted on Quince
+1	162	MELA EPEIROTIKA	Apples of Epirus
+1	163	AGRIOMELA	Pyrus malus
+1	164	PERSICA MELA	Citrus medica
+1	165	ARMENIACA	The lesser, which are called Armeniaca, & in Latin, Praecoqua, are better for ye stomach than ye former.
+1	166	MEDIKA	Citrus
+1	167	APION	Pyrus communis. Pear
+1	168	ACHRAS	Pyrus amygdaliformis
+1	169	MESPILON	Crataegus tanacetifolius
+1	170	MESPILON ETERON	Mespilus Germanica. Medlar
+1	171	LOTOS	Celtis australis
+1	172	KRANIA	Cornus mascula. Dog-wood
+1	173	OUA	Sorbus domestica. Service-tree
+1	174	KOKKUMELIA	Prunus domestica. Damson
+1	175	KOMAROS	Arbutus Andrachne
+1	176	AMUGDALE	Amygdalus communis. Almond
+1	177	PISTAKIA	Pistacia Lentiscus. Lentiscus
+1	178	KARUA BASILIKA	Juglans regia. Walnut
+1	179	KARUA PONTIKA	Corylus Avellana
+1	180	MOREA	Morus nigra
+1	181	SUKOMORON	Sycomorum
+1	182	SUKON EN KUPRO	Ficus Sycomorus var.
+1	183	SUKA	Ficus Carica
+1	184	SUKE AGRIA	Ficus Carica
+1	185	OLUNTHOI	Unripe Figs
+1	186	KONIA SUKES	Extract of Figs
+1	187	PERSEA	Mimusops Schimperi
+1	188	IBERIS	Lepidium graminifolium or L. Iberis
+2	1	ECHINOS THALASSIOS	Perhaps Echinus esculentus and E. melo
+2	2	ECHINOS CHERSAIOS	Hystrix cristata
+2	3	HIPPOKAMPOS	Syngnathus Hippocampus
+2	4	PORPHURA	Murex brandaris, &c.
+2	5	KUREKES	Buccinum sp. Whelks
+2	6	IONIA	The columella of molluscs
+2	7	MUAKES	Pontic Mussels
+2	8	TELLINAI	Tellinae
+2	9	CHAMAI	Soup made from Bivalves
+2	10	ONUX	Operculum of Strombus lentiginosus
+2	11	KOCHLIAS	Helix pomatia
+2	12	KARKINOI	Thelphusa sp.
+2	13	SKORPIOS CHERSAIOS	The earthly Scorpion
+2	14	SKORPIOS THALASSIOS	Scorpaena Scrofa
+2	15	DRAKON THALASSIOS	Trachinus Draco
+2	16	SKOLOPENDRA	Nereis or other Polychaet Worms
+2	17	NARKE	Raja Torpedo
+2	18	ECHIDNE	Coluber aegyptius, C. Ammodyles, C. Bero
+2	19	OPHEOS GERAS	The Slough of Snakes
+2	20	LAGOOS THALASSIOS	Aplysia depilans
+2	21	LAGOOS CHERSAIOS	Lepus timidus
+2	22	TRUGON THALASSIA	Raja Pastinaca
+2	23	SEPIA	Sepia officinalis
+2	24	TRIGLA	Mullus barbatus
+2	25	ORCHIS HIPPOPOTAMOU	Hippopotamus
+2	26	KASTOROS ORCHIS	Castoreum of Beaver
+2	27	GALE KATOIKIDIOS	Mustela Putorii?
+2	28	BATRACHOI	Frogs
+2	29	AILOUROS	Silurus glanis
+2	30	SMARIS	Smaris vulgaris
+2	31	MAINIS	Sparus Maena
+2	32	KOBIOS	Gobius niger
+2	33	OMOTARICHOS	Tunny-flesh
+2	34	GARRON	Garum from Salt Fish
+2	35	ZOMOS NEARON ICHTHUON	Fish Soup
+2	36	KOREIS	Bed Bugs
+2	37	KOUBARIDES	Millepedae
+2	38	SILPHE	Blatta orientalis
+2	39	PNEUMON THALASSIOS	Jelly-fish
+2	40	PNEUMON CHOIRIOS	Lungs of Swine, Lamb or Bear
+2	41	PNEUMON ALOPEKOS	Lungs of Fox
+2	42	HEPAR ONEIRON	Ass’s Liver
+2	43	AIDOION ARRENOS ELAPHOU	Testes of Deer
+2	44	ONUCHES ONON	Ass’s Hoofs
+2	45	LEICHENES HIPPON	Spavins of Horses
+2	46	ONUCHES AIGON	Goats’ Hoofs
+2	47	HEPAR AIGOS	Goat’s Liver
+2	48	HEPAR KAPROU	Boar’s Liver
+2	49	HEPAR KUNOS LUSSONTOS	Liver of Mad Dog
+2	50	HEPAR AITHUAS	Liver of the Diver
+2	51	KATTUMATA	Old Leather
+2	52	ALEKTORIDES	Parts of Fowls
+2	53	ENKEPHALOS ALEKTORIDOS	Parts of Fowls
+2	54	OON	Eggs and their Yolk
+2	55	LEUKON TOU OOU	White of Egg
+2	56	TETTIGES	Grasshoppers
+2	57	AKRIDES	Locusts
+2	58	PHINIS	Falco Ossifragus. Ossifrage
+2	59	KORUDALLOS	Alauda cristata
+2	60	CHELIDON	Stones of Swallows
+2	61	ELEPHANTOS ODONTOS RINISMA	Elephant’s Tooth
+2	62	ASTRAGALOS UOS	Knuckle-bone of Pig
+2	63	ELAPHOU KERAS	Burnt Hartshorn
+2	64	KAMPAI	Caterpillars
+2	65	KANTHARIDES	(1) Meloë Proscarabaeus
+2	66	BOUPRESTEIS	Buprestes
+2	67	SALAMANDRA	Salamandra terrestris
+2	68	ARACHNE	(1) Aranea retiaria
+2	69	SAURA	The Head of the Lizard
+2	70	SEPS	Seps chalcides or Zygnis tridactyla
+2	71	SKINKOS	Scincus officinalis
+2	72	ENTERA GES	Earth-worms
+2	73	MUOGALE	Sorex araneus. Shrew-mouse
+2	74	MUES	House-mouse
+2	75	GALA	Milk
+2	76	ORROS GALAKTOS	Whey
+2	77	GALA SCHISTON	Junket
+2	78	GALA GUNAIKOS	Woman’s milk
+2	79	TUROS NEAROS	New Cheese
+2	80	HIPPACE	Horse-cheese
+2	81	BUTURON	Butter
+2	82	ERIA	Wool
+2	83	ERIA KEKAUMENA	Burnt Wool
+2	84	OISUPON	Wool Fat or Lanolin
+2	85	PITUA	Rennet
+2	86	STEAR	Goose-grease
+2	87	STEAR HUEION KAI ARNEION	Lard and Bears Grease
+2	88	STEAR TRAGEION, KAI PROBATEION, KAI ELAPHEION	Mutton Suet, &c.
+2	89	STEAR BOEION	Beef Suet
+2	90	STEAR TAUREION, PARDALEION KAI LEONTEION	Bulls Suet, &c.
+2	91	STEAR POS AROMATISTEON	The Blending of Fats with Scent
+2	92	STEAR POS SAMPSUCHITETAI	To Perfume Fat with Sampsuchum
+2	93	STEAR CHENEION KAI ORNITHEION	To preserve Fat of Geese and Poultry
+2	94	STEATON DUNAMIS	The medicinal Power of Fats.
+2	95	MUELOI	Marrows
+2	96	CHOLE PASA	Gall of various Animals
+2	97	PERI HAIMATON	Blood
+2	98	APOPATOS	Dung
+2	100	LUNGOURION	Lyncurium and Amber
+2	101	MELI	Honey
+2	102	MELI SARDOON	Sardinian Honey
+2	103	MELI PONTIKON	Heraclean Honey
+2	104	SAKCHARON	Sugar
+2	105	KEROS	Bees-wax
+2	106	PROPOLIS	Bee-glue
+2	107	PUROI	Triticum vulgare. Wheat
+2	108	KRITHE	Hordeum sativum. Barley
+2	109	ZUTHOS	Soured Barley Water
+2	110	KOURMI	Fermented Drink
+2	111	ZEIA	Triticum dicoccum
+2	112	KRIMNON	
+2	113	OLURA	Tritici dicocci varietas
+2	114	ATHERA	Meal from Rye or from Triticum monococcus
+2	115	TRAGOS	Ephedra distachya
+2	116	BROMOS	Avena sativa
+2	117	ORUZA	Oryza sativa
+2	118	CHONDROS	Hordeum?
+2	119	KENCHROS	Panicum miliaceum
+2	120	ELUMOS	Setaria Italicum
+2	121	SESAMON	Sesamum indicum
+2	122	AIRA	Lolium temulentum
+2	123	AMULON	Starch
+2	124	TELEOS ALEURON	Flour of Fenugreek
+2	125	LINON	Linum usitatissimum
+2	126	EREBINTHOS	Cicer arietinum
+2	127	KUAMOS HELLENIKOS	Vicia Faba
+2	128	KUAMOS AIGUPTIOS	Nelumbium speciosum
+2	129	PHAKOS	Ervum Lens Lentil
+2	130	PHASIOLOS	Phaseolus nanus
+2	131	OROBOS	Ervum Ervillia
+2	132	THERMOS EMEROS	Lupinus pilosus?
+2	133	THERMOS AGRIOS	Lupinus angustifolius; L. alba
+2	134	GONGULIS	Brassica Rapa
+2	135	GONGOLE AGRIOE	Condylocarpus laevigata
+2	136	BOUNIAS	Bunias Erucago or Brassica
+2	137	RAPHANIS	Raphanus sativus
+2	138	RAPHANOS AGRIA	Raphanus Raphanistrum
+2	139	SISARON	Pastinaca sativa
+2	140	LAPATHON	Rumex patientia. Dock
+2	141	HIPPOLAPATHON	Rumex aquaticus
+2	142	LAMPSANE	Sinapis arvensis
+2	143	BLITON	Amaranthus Blitum
+2	144	MALACHE AGRIA	Malva sylvestris
+2	145	ATRAPHAXIS	Atriplex rosea
+2	146	KRAMBE EMEROS	Brassica oleracea
+2	147	KRAMBE AGRIA	Brassica cretica
+2	148	KRAMBE THALASSIA	Crithmum maritimum
+2	149	TEUTLON MELAN AGRION	Beta vulgaris
+2	150	ANDRACHNE	Portulaca
+2	151	ANDRACHNE AGRIA	Portulaca oleracea
+2	152	ASPHARAGOS	Asparagus acutifolius
+2	153	ARNOGLOSSON	Plantago major
+2	154	SION TO EN ODASIN	Sium nodiflorum
+2	155	SISUMBRION	Stachys germanica
+2	156	SISUMBRION ETERON	Sisymbrium nasturtium
+2	157	KRITHMON	Crithmum maritimum
+2	158	KORONOPOUS	Lotus ornithopodioides
+2	159	SONCHOS AKANTHODESTEROS	Helminthia echioides
+2	160	SERIS	Chicorium Endivia
+2	161	KONDRILLE	Chondrilla ramosissima or C. juncea
+2	162	KOLOKUNTHA	Cucumis sativus
+2	163	SIKUOS EMEROS	Cucumis Melo
+2	164	PEPON	Cucurbita Pepo
+2	165	THRIDAX EMEROS	Lactuca sativa
+2	166	THRIDAX AGRIA	Lactuca Scariola
+2	167	GINGIDION	Gingidium
+2	168	SKANDUX	Scandix Pecten Veneris
+2	169	KAUKALIS	Handquistia Aegyptiaca
+2	170	EUZOMON	Eruca sativa
+2	171	OKIMON	Ocymum basilicum
+2	172	OROBANKE	Cuscuta europaea
+2	173	TRAGOPOGON	Tragopogon villosum (T. porrifolius)
+2	174	ORNITHOGALON	Ornithogalum umbellatum
+2	175	HUDNON	Tuber cibarium
+2	176	SMILAX	Smilax aspera
+2	177	MEDICE	Medicago sativa
+2	178	APHAKE	Lathyrus Aphaca
+2	179	PRASON	Allium Porrum
+2	180	AMPELOPRASON	Ampeloprasum
+2	181	KROMUON	Allium Cepa
+2	182	SKORODON	Allium sativum
+2	183	SKORODOPRASON	Allium descendens
+2	184	SINEPI	Brassica alba
+2	185	KARDAMON	Lepidium sativum
+2	186	THLASPI	Thlaspi Bursa-pastoris
+2	187	DRABA	Lepidium Draba
+2	188	ERUSIMON	Sisymbrium polyceratium
+2	190	ZINGIBERI	Zingiber officinale
+2	191	UNDROPEPERI	Polygonum Hydropiper
+2	192	PTARMIKE	Beranthemum annuum
+2	193	STROUTHION	Saponaria officinalis
+2	194	KUKLAMINOS	Cyclamen graecum
+2	195	KUKLAMINOS ETERA	Cyclamen hederifolium
+2	196	DRAKONTION MEGA	Arum dracunculus
+2	197	ARON	Arum dioscoridis
+2	198	ARISARON	Arum arisarum
+2	199	ASPHODELOS	Asphodelus ramosus
+2	200	BOLBOS EDODIMOS	Hyacinthus comosus
+2	201	BOLBOS EMETIKOS	Ornithogalum stachyoides
+2	202	SKILLA	Scilla maritima.
+2	203	PANKRATION	Scilla Pancratium or Pancratium maritimum
+2	204	KAPPARIS	Capparis spinosa
+2	205	LEPIDION	Lepidium latifolim
+2	206	BATRACHION	Ranunculus acris
+2	207	ANEMONE	Anemone coronaria
+2	208	ARGEMONE	Thalictrum flavum
+2	209	ANAGALLIS	Anagallis arvensis
+2	210	KISSOS	Hedera Helix
+2	211	CHELIDONION	Chelidonium maius
+2	212	CHELIDONION MIKRON	Ranunculus Ficaria
+2	213	OTHONNA	Othonna
+2	214	MUOS OTON	Lithospermum purpureo-coeruleum
+2	215	ISATIS EMEROS	Isatis tinctoria
+2	216	ISATIS AGRIA	Isatis Lusitanica
+2	217	TELEPHION	Cerinthe minor
+3	1	AGARICON	Agaricus or Boletus sp.
+3	2	RA	Rheum Rhaponticum
+3	3	GENTIANE	Gentiana lutea
+3	4	ARISTOLOCHIA STROGGOLE	Aristolochia pallida
+3	5	ARISTOLOCHIA MAKRA	Aristolochia parvifolia, A. sempervirens (Singer)
+3	6	ARISTOLOCHIA KLEMATITIS	Aristolochia boetica
+3	7	GLUKORIZA	Glycyrrhiza glabra
+3	8	KENTAURION MAKRON	Centaurea Centaurium
+3	9	KENTAURION MIKRON	Erythraea Centaurium
+3	10	CHAMAILEON LEUKOS	Atractylis gummifera
+3	11	CHAMAILEON MELAS	Cardopatium corymborum
+3	12	KROKODEILION	Echinops sphaerocephalus
+3	13	DIPSAKON	Dipsacus sylvestris
+3	14	AKANTHA LEUKE	Echinops lanuginosus,
+3	15	AKANTHA ARABIKE	Onopordon arabicum
+3	16	SKOLUMOS	Scolymus hispanicus
+3	17	POTERION	Astragalus creticus
+3	18	AKANTHION	Onopordon illyricum
+3	19	AKANTHA ERPEKANTHA	Acanthus spinosus
+3	20	AKANTHA AGRIA	Silybum syriacum
+3	21	ANONIS	Ononis arvensis, O. antiquorum
+3	22	LEUKAKANTHA	Cirsium tuberosum
+3	23	TRAGAKANTHE	Astragalus aristatus
+3	24	ERUNGION	Eryngium planum, &c.
+3	25	ALOE	Aloe vulgaris
+3	26	APSINTHION	Artemisia pontica, A. Absinthium
+3	27	APSINTHION THALASSION	Artemisia maritima
+3	28	APSINTHION TRITON SANTONION	Artemisia palmata
+3	29	ABROTONON	Artemisia Abrotanum
+3	30	USSOPOS	Thymbra spicata
+3	31	STOICHAS	Lavandula Stoechas
+3	32	ORIGANOS ERAKLEOTIKE	Origanum vulgare var. megastachyum (A.J.W.)
+3	33	ORIGANOS ONITIS	Origanum onitis
+3	34	AGRIORIGANOS	Origanum vulgare
+3	35	TRAGORIGANOS	Thymus graveolens
+3	36	GLECHON	Mentha Pulegium var. erecta
+3	37	DIKTAMNON	Origanum Dictamnus
+3	38	PSEUDODIKTAMNOS	Marrubium Pseudo-dictamnus
+3	39	DIKTAMNOS ALLO	Ballota Pseudo-dictamnus
+3	40	ELELISPHAKON	Salvia officinalis
+3	41	EDUOSMOS EMEROS	Mentha sativa
+3	42	EDUOSMOS AGRIOS	Mentha aquatica
+3	43	KALAMINTHE	Mentha Sylvestris
+3	44	THUMOS	Thymbra capitata
+3	45	THUMBRA	Satureia Thymbra
+3	46	ERPULLOS	Thymus Sibthorpii
+3	47	SAMPSUCHON	Origanum Marjorana
+3	48	MELILOTOS	Trifolium officinale or T. italicum or Trigonella graeca
+3	49	MARON	Trifolium sipyleum
+3	50	AKINOS	Ocimum pilosum
+3	51	BAKCHARIS	Conyza squarrosa or Gnaphalium sanguineum
+3	52	PEGANON TO KEPAION	Ruta graveolens. Rue
+3	53	PEGANON AGRION	Peganum Harmala
+3	54	MOLU	Allium Dioscoridis
+3	55	PANAKES HERAKLEION	Ferula Opopanax or Opopoanax hispidus
+3	56	PANAKES ASKLEPION	Echinophora tenuifolia
+3	57	PANAKES CHEIRONION	Hypericum origanifoliis
+3	58	LIGUSTIKON	Laserpitium Siler
+3	59	STAPHULINOS AGRIOS	Daucus guttatus
+3	60	SESELI MASSALEOTIKON	Echinophora tenuifolia
+3	61	SESELI AITHIOPIKON	Bupleurum fruticosum
+3	62	SESELI PELOPONNESIAKON	Angelica sylvestris or Myrrhis odorata
+3	63	TORDULION	Tordylium officinale
+3	64	SISON	Sison Amomum
+3	65	ANISON	Pimpinella Anisum
+3	66	KAROS	Carum Carui. Carroway
+3	67	ANETHON	Anethum graveolens
+3	68	KUMINON AGRION	Lagoecia cuminoides
+3	69	KUMINON EMERON	Cuminum Cyminum
+3	70	AMMI	Ammi visnaga
+3	71	KORIANNON	Coriandrum sativum
+3	72	IERAKION MEGA	Arnopogon picroides
+3	73	IERAKION MIKRON	Scorzonera elongata
+3	74	SELINON AGRION	Ranunculus repens (Penzig)
+3	75	ELEIOSELINON	Apium graveolens
+3	76	OREOSELINON	Petroselinum sativum. Parsley
+3	77	PETROSELINON	Athamanta macedonica
+3	78	IPPOSELINON	Smyrnium Olusatrum
+3	79	SMURNION	Smyrnium Dioscoridis
+3	80	ELAPHOBOSKON	Pastinaca Graeca
+3	81	MARATHRON	Foeniculum vulgare
+3	82	IPPOMARATHRON	Prangos ferulacea
+3	83	DAUKOS	(1) Athamanta Cretensis? or Daucus Carota
+3	84	DELPHINION	Delphinium peregrinum
+3	85	DELPHINION ETERON	Delphinium consolida
+3	86	PURETHRON	Anthemis Pyrethrum
+3	87	LIBANOTIS	(1) Cachrys Libanotis
+3	88	KAGCHRU	Figure perhaps Seseli tortuosum
+3	89	LIBANOTIS	Rosmarinus officinalis
+3	90	SPHONDULION	Heracleum Sphondylium
+3	91	NARTHEX	Ferula communis
+3	92	PEUKEDANON	Peucedanum officinale
+3	93	MELANTHION	Nigella sativa
+3	94	SILPHION	Ferula tingitana
+3	95	SAGAPENON	Ferula persica
+3	96	EUPHORBION	Euphorbia sp.
+3	97	CHALBANE	Ferula Ferulago or Selinum Galbanum
+3	98	AMMONIAKON	Ferula orientalis or F. tingitana
+3	99	SARKOKOLLA	Penaea sp.
+3	100	GLAUKION	Glaucium corniculatum
+3	101	KOLLA	Glutinum
+3	102	ICHTHUOKOLLA	Accipenser Huso
+3	103	IXOS	Viscum album? or Loranthus Europaeus
+3	104	APARINE	Galium verrucosum or G. Aparine
+3	105	ALUSSON	Alyssum clypeatum
+3	160	ASKLEPIAS	Cynanchum Vincetoxicum
+3	107	ATRAKTULIS	Atriplex hortensis, Sprengel, Carthamus lanatus
+3	108	POLUKNEMON	Mentha arvensis
+3	109	KLINOPODION	Melissa Clinopodium
+3	110	LEONTOPETALON	Leontice Chrysogonum
+3	111	TEUKRION	Teucrium flavum or Veronica Teucrium
+3	112	CHAMAIDRUS	Teucrium Chamaedrys
+3	113	LEUKAS	Lamium maculatum
+3	114	LUCHNIS STEPHANOMATIKE	Lychnis Coronaria
+3	115	LUCHNIS AGRIA	Agrostemma Githago
+3	116	KRINON BASILIKON	Lilium candidum
+3	117	BALLOTE	Lamium striatum?
+3	118	MELISSOPHULLON	Melissa officinalis
+3	119	PRASION	Marrubium vulgare
+3	120	STACHUS	Stachys Palaestina (Fig. fictitious)
+3	121	PHULLITIS	Scolopendrium vulgare
+3	122	PHALAGGION	Anthericum graecum
+3	123	TRIPHULLON	Psoralea bituminosa
+3	124	POLION	Teucrium Polium
+3	125	SKORDION	Teucrium Scordioides
+3	126	BECHION	Tussilago Farfara
+3	127	ARTEMISIA MONOKLONOS	Artemisia campestris
+3	128	ARTEMISIA LEPTOPHULLOS	Artemisia arborescens
+3	129	AMBROSIA	Artemisia campestris
+3	130	BOTRUS	Chenopodium Botrys
+3	131	GERANION	Geranium tuberosum
+3	132	GNAPHALION	Santolina maritima
+3	133	TUPHE	Typha latifolia, T. angustata
+3	136	KONUZA	(1) Inula viscosa
+3	137	EMEROKALLIS	Lilium chalcedonicum
+3	138	LEUKOION	Cheiranthus Cheiri, Matthiola incana
+3	139	KRATAIOGONON	Polygonum Hydropiper
+3	140	PHULLON	Mercurialis annua
+3	141	ORCHIS	Orchis rubra, O. papilionacea
+3	142	ORCHIS ETEROS	Ophrys apifera?
+3	143	SATURION	Ophrys sp.
+3	144	SATURION ERUTHRONION	Erythronium Dens canis
+3	145	ORMINON EMERON	Salvia Horminum
+3	146	EDUSARON	Securigera coronilla
+3	147	ONOSMA	Onosma sp. incert.
+3	148	NUMPHAIA	Nymphaea alba
+3	149	NUMPHAIA ALLE	Nuphar luteum
+3	150	ANDROSACES	Androsaces
+3	151	ASPLENON	Gymnogramma Ceterach
+3	152	EMIONITIS	Scolopendrium Hemionitis
+3	153	ANTHULLIS	(1) Cressa cretica
+3	154	ANTHEMIS	(1) Anthemis chia
+3	155	PARTHENION (AMARAKON)	Pyrethrum Parthenium
+3	156	BUPHTHALMON	Anthemis Valentina
+3	157	PAIONIA ARREN	Paeonia corallina
+3	158	LITHOSPERMON	Lithospermum officinale
+3	159	PHALARIS	Phalaris canariensis
+3	161	LOGCHITIS	Serapias lingua
+3	162	LOGCHITIS ETERA	Aspidium Lonchitis
+3	163	ALTHAIA	Althea officinalis
+3	164	ALKEA	Malva Alcea
+3	165	KANNABIS EMEROS	Cannabis sativa
+3	166	KANNABIS AGRIA	Althea cannabina
+3	167	ANAGURIS	Anagyris foetida
+3	168	KEPAIA	Sedum Cepaea
+3	169	ALISMA	Alisma Plantago
+3	170	ONOBRUCHIS	Vicia Onobrychis
+3	171	UPERIKON	Hypericum crispum or H. barbatum
+3	172	ASKURON	Hypericum perforatum
+3	173	ANDROSAIMON	Hypericum perfoliatum or H. ciliatum Sibth
+3	174	KORIS	Hypericum Coris
+3	175	CHAMAIPITUS	Ajuga Chamaepitys
+3	176	CHAMAIPITUS ETERA	Aiuga Chamaepitys
+4	1	KESTRON	Betonica Alopecurus
+4	2	BETTONIKE	Lythrum Salicaria?
+4	3	LUSIMACHION	Lysimachia vulgaris
+4	4	POLUGONON ARREN	Polygonum aviculare
+4	5	POLUGONON THELU	Hippuris vulgaris
+4	6	POLUGONATON	Convallaria Polygonatum
+4	7	KLEMATIS	Vinca minor
+4	8	POLEMONION	Polemonium coeruleum
+4	9	SUMPHUTON PETRAION	Symphytum sp.
+4	10	SUMPHUTON ALLO	Symphytum sp.
+4	11	OLESTION	Holosteum sp.
+4	12	STOIBE	Poterium spinosum
+4	13	KLUMENON	Convolvulus Sepium
+4	14	PERIKLUMENON	Convolvulus arvensis
+4	15	TRIBOLOS ENUDROS	(1) Tribulus terrestris
+4	16	LEIMONION	Beta sylvestris (Goodyer)
+4	17	LAGOPOUS	Trifolium arvense
+4	18	MEDION	Astragalus sesameus
+4	19	EPIMEDION	Epimedium alpinum
+4	20	XIPHION	Gladiolus communis
+4	21	SPARGANION	Sparganium ramosum
+4	22	XURIS	Iris foetidissima
+4	23	ANCHOUSA	Anchusa tinctoria
+4	24	ANCHOUSA ETERA	Echium creticum
+4	25	ANCHOUSA ETERA	Lithospermum fruticosum
+4	26	LUKOPSIS	Echium italicum
+4	27	ECHION	Echium vulgare
+4	28	OKIMOEIDES	Cerastium aquaticum?
+4	29	ERINOS	Erinus
+4	30	AGROSTIS	Cynodon Dactylon
+4	31	KALAMAGROSTIS	Cynosurus Egyptiaca
+4	32	AGROSTIS EN PARNASSO	Parnassia palustris.
+4	33	SIDERITIS	Sideritis remota
+4	34	SIDERITIS ETERA	Sanguisorba officinalis
+4	35	SIDERITIS TRITE	Scrophularia lucida?
+4	36	ACHILLEIOS	Achillea sp.
+4	37	BATOS	Rubus fruticosus, R. ulmifolius
+4	38	BATOS IDAIA	Rubus Idaeus
+4	39	ELXINE KUSSAMPELOS	Convolvulus arvensis
+4	40	ELATINE	Linaria spurea
+4	41	EUPATORION	Eupatorium cannabinum
+4	42	PENTAPHULLON	Potentilla reptans
+4	43	PHOINIX	Hordeum murinum
+4	44	IDAIA RHIZA	Idaea radix
+4	45	RHODIA RADIX	Sedum Rhodiola
+4	46	IPPOURIS	Equisetum sylvaticum or fluviatile
+4	47	IPPOURIS ETERA	Equisetum arvense or limosum
+4	48	KOKKOS BAPHIKE	Quercus coccifera
+4	49	TRAGION ALLO	Tragium columnae
+4	51	TRAGOS	Tragium alterum
+4	52	SCHOINOS	Juncus acutus
+4	53	LEICHEN	Lichen
+4	54	PARONUCHIA	Illecebrum Paronychia
+4	55	CHRUSOKOME	Chrysocome Linosyris
+4	56	CHRUSOGONON	Leontice Leontopetalum
+4	57	ELICHRUSON	Helichrysum siculum
+4	58	CHRUSANTHEMON	Chrysanthemum Coronarium
+4	59	AGERATON	Achillea viscosa
+4	60	PERISTEREON ORTHOS	Verbena sp.
+4	62	ASTRAGALOS	Astragalus Baeticus
+4	63	UAKINTHOS	Scilla bifolia
+4	64	MEKON ROIAS	Papaver Rhoeas
+4	65	MEKON AGRIOS & EMEROS	Papaver somniferum
+4	66	MEKON KERATITES	Glaucium luteum
+4	67	MEKON APHRODES	Silene inflata
+4	68	UPEKOON	Hypecoum procumbens
+4	69	UOSKUAMOS MELAS	Hyoscyamus niger
+4	70	PSULLION	Plantago Psyllium
+4	71	STRUCHNOS KEPAIOS	Solanum nigrum
+4	72	STRUCHNON ALIKAKABON	Physalis alkekengi?
+4	73	STRUCHNON UPNOTIKON	Withania somnifera
+4	74	STRUCHNON MANIKON	Datura Stramonium
+4	75	DORUKNION	Dorcynium
+4	76	MANDRAGORAS	Atropa Mandragora
+4	77	AKONITON	Doronicum Pardalianches
+4	78	AKONITON ETERON	Aconitum Lycoctonum
+4	79	KONEION	Conium maculatum
+4	80	SMILAX	Quercus Ilex typica
+4	81	APOCUNON	Cynanche erectus
+4	82	NERION	Nerium Oleander
+4	83	MUKETES	Fungi sp.
+4	84	KOLCHIKON	Colchicum autumnale
+4	85	EPHEMERON	Colchicum parnassicum
+4	86	ELXINE	Parietaria
+4	87	ALSINE	Parietaria cretica (Cf. Bk. ii, ch. 214)
+4	88	PHAKOS EPI TON TELMATON	Lemna sp.
+4	89	AEIZOON TO MEGA	Sempervivum arboreum
+4	90	AEIZOON TO MIKRON	Sedum ochroleucum
+4	91	AEIZOON ETERON	Sedum stellatum
+4	92	KOTULEDON	Cotyledon Umbelicus
+4	93	KOTULEDON ETERON	Cotyledon serrata
+4	94	AKALUPHE	Urtica pilulifera
+4	95	GALIOPSIS	Scrophularia peregrina
+4	96	GALLION	Galium verum
+4	97	ERIGERON	Senecio vulgaris
+4	98	THALIKTRON	Thalictrum minus
+4	99	BRUON THALASSION	Ulva Lactuca
+4	100	PHUKOS THALASSION	Fucoidearum sp. variae.
+4	101	POTAMOGEITON	Potamogeton
+4	102	STRATIOTES O EN TOIS UDASIN	Stratiotes aloides
+4	103	STRATIOTES CHILIOPHULLOS	
+4	104	PHLOMOS	Verbascum sp., B. sinuatum
+4	105	AITHIOPIS	Salvia Aethiopis
+4	106	ARKTION	Conyza candida
+4	107	ARKEION	Arcion
+4	108	PETASITES	Tussilago Farfara
+4	109	EPIPAKTIS	Herniaria glabra
+4	110	KAPNOS	Fumaria parvifolia
+4	111	LOTOS EMEROS	Trifolium frugiferum
+4	112	LOTOS AGRIOS	Trigonella elatior
+4	113	KUTISOS	Laburnum vulgare
+4	114	LOTOS AIGUPTIOS	Nymphaea stellata
+4	115	MURIOPHULLON	Achillea Millefolium?
+4	116	MURRIS	Myrrhis odorata
+4	117	MUAGROS	Camelina sativa
+4	118	ONAGRA	Oenothera biennis
+4	119	KIRSION	Cirsium tenuiflorum
+4	120	ASTER ASTIKOS	Aster Amellus
+4	121	ISOPURON	Corydalis claviculata
+4	122	ION	Viola odorata
+4	123	KAKALIA	Inula candida
+4	124	BOUNION	Pimpinella dissecta
+4	125	PSEUDOBOUNION	Pimpinella dioecia
+4	126	CHAMAIKISSOS	Figure of a Cruciferous Plant
+4	127	CHAMAIPEUKE	Chamoepeuce
+4	128	BOUGLOSSON	Anchusa paniculata?
+4	129	KUNOGLOSSON	Cynoglossum officinalis
+4	130	PHUTEUMA	Silene sp.
+4	131	LEONTOPODION	Micropus erectus
+4	132	IPPOGLOSSON	Ruscus hypoglossum
+4	133	ANTIRRINON (KUNOKEPHALON)	Antirrhinum Orontium
+4	134	KATANANKE	Catanance
+4	135	TRIPOLION	Aster Tripolium
+4	136	ADIANTON	Adiantum Capillus-Veneris
+4	137	TRICHOMANES	Asplenium Trichomanes
+4	138	XANTHION	Xanthium strumarium
+4	139	AIGILOPS	Aegilops ovata
+4	140	BROMOS	Avena fatua, A. sativa
+4	141	GLAUX	Astragalus glaux
+4	142	POLUGALON	Astragalus sp.
+4	143	OSUROS	Osyris alba
+4	144	SMILAX TRACHEIA	Smilax aspera
+4	145	SMILAX LEIA	Convolvulus sepium
+4	146	MURSINE AGRIA	Ruscus aculeatus
+4	147	DAPHNE ALEXANDRINA	Ruscus Hypophyllum
+4	148	DAPHNOIDES	Daphne Mezereon
+4	149	CHAMAIDAPHNE	Ruscus hypophyllum
+4	150	ELLEBOROS	Veratrum album
+4	151	ELLEBOROS MELAS	Helleborus officinalis
+4	152	SESAMOEIDES	Drug from Helleborus cyclophyllus
+4	153	SESAMOEIDES MIKRON	Reseda canescens
+4	154	SIKUS AGRIOS	Momordica Elaterium
+4	155	ELATERION	Elaterium
+4	156	STAPHISAGRIA	Delphinium Staphisagria
+4	157	THAPSIA	Thapsia garganica (cf. Malabaila)
+4	158	SPARTION	Spartium junceum
+4	159	SILUBON	Silybum marianum
+4	160	BALANOS AUREPSIKE	Fruit of tree like Tamarisk
+4	161	NARKISSOS	Narcissus poeticus
+4	162	IPPOPHAES	Hippophae rhamnoides
+4	163	IPPOPHAISTON	Cirsium stellatum
+4	164	KROTON E KIKI	Ricinus communis
+4	165	TITHUMALOS CHARACHIAS	Euphorbia Characias
+4	166	PITUOUSA	Pinus halepensis
+4	167	LATHUROS	Euphorbia Lathyris
+4	168	PEPLOS	Euphorbia falcata
+4	169	PEPLION	Euphorbia Peplis
+4	170	CHAMAISUKE	Euphorbia Chamaesyce
+4	171	SKAMMONIA	Convolvulus farinosus, C. Scammonia
+4	172	CHAMELAIA	Daphne oleoides
+4	173	THUMELAIA	Daphne Gnidium
+4	174	AKTE	Sambucus nigra
+4	175	CHAMAIAKTE	Sambucus Ebulus
+4	176	PUKNOKOMON	Leonurus Marrubiastrum
+4	177	APIOS	Euphorbia Apios
+4	178	KOLOKUNTHIS	Cucumis colocynthis, Cucurbita maxima
+4	179	EPITHUMON	Cuscuta Epithymum
+4	180	ALUPON	Alypum
+4	181	EMPETRON	Sedum anopetalum
+4	182	KLEMATITIS	Clematis cirrhosa
+4	183	AMPELOS AGRIA	wild Vine
+4	184	AMPELOS LEUKE	Vitis alba
+4	185	AMPELOS MELAINA	Tamus comunis?
+4	186	PTERIS	Aspidium aculeatum Nephrodium felix mas
+4	187	THELUPTERIS	Pteris aquilina
+4	188	POLUPODION	Polypodium vulgare
+4	189	DRUOPOTERIS	Asplenium Adiantum nigrum?
+4	190	KNIKOS	Cnicus sp. or Carthamus tinctorius
+4	191	LINOZOSTIS	Mercurialis annua
+4	192	KUNOKRAMBE	Thelygonum Cynocrambe
+4	193	ELIOTROPION MEGA	Heliotropium europaeum
+4	194	ELIOTROPION MIKRON	Heliotropium villosum
+4	195	SKORPIOIDES	Calendula officinalis
+5	1	AMPELOS OINOPHOROS	Vitis vinifera
+5	2	AMPELOS AGRIA	Vitis sylvestris
+5	3	STAPHULE	Grapes
+5	4	STAPHIS	Dried Grapes or Raisins
+5	5	OINANTHE	Fruit of Wild Vine
+5	6	OMPHACION	Juice of Unripe Grapes
+5	12	OMPHAKITES OINOS	Lesbian Wine
+5	13	DEUTERIAS OINOS	‘Deuteria’ or Secondary Wine.
+5	15	OINOS MELETITES	Wine of old Wine and Honey
+5	16	OINOMELI	Mulsum, Honey-wine or Mead
+5	17	MELIKRATON	Melicrat, Water Mead
+5	18	UDOR	Water
+5	19	UDOR THALASSION	Sea-water
+5	20	THALASSOMELI	Sea-water sweetened with Honey
+5	21	OXUS	Acetum or Vinegar
+5	22	OXUMELI	Oxymel or Vinegar-honey
+5	23	OXALME	Vinegar and Brine Sauce
+5	24	THUMOXALME	Thymoxalme
+5	25	SKILLETIKON OXUS	Squill Vinegar
+5	26	OINOS SKILLETIKOS	Squill Wine
+5	27	OINOS THALASSIKOS	Marinated Wine
+5	28	OINOS KUDONITES	Quince Wine
+5	29	MELOMELI	Quinces in Honey
+5	30	UDROMELON	Hydromelon
+5	31	OMPHACOMELITIS	Omphacomelitis
+5	32	OINOS APITES	Pear Wine
+5	33	OINOS OINANTHINOS	Wine of Flowers of Wild Vine
+5	34	OINOS ROITES	Pomegranate Wine
+5	35	OINOS RODITES	Rose Wine
+5	36	OINOS MURTITES	Myrtle Wine
+5	37	OINOS MURSINITES	Myrtle Wine
+5	38	OINOS SCHININOS	Lentiscus Wine
+5	39	OINOS TERMINTHINOS	Terebinth Wine
+5	40	OINOS PHOINIKITES	Date-palm Wine
+5	41	OINOS KATORCHITES	Catorchites Wine
+5	42	OINOS SUKOMORITES	Sycomore Wine
+5	43	OINOS RETINITES	Rosin Wine
+5	44	STROBILITES	Pine-cone Wine
+5	45	OINOS KEDRINOS	Cedar Wine
+5	46	OINOS ARKEUTHIDITES	Juniper Wine
+5	47	KEDRITES	Cedrites
+5	48	OINOS PISSITES	Pitch Wine
+5	49	OINOS APSINTHITES	Absinth
+5	50	OINOS USSOPITES	Hyssop Wine
+5	51	OINOS CHAMAIDRUITES	Germander Wine
+5	52	OINOS STICHADITES	Lavender Wine
+5	53	OXUS STICHADIKON	Lavender Vinegar
+5	54	OINOS KESRITES	Betony Wine
+5	55	OINOS TRAGORIGANITES	Tragoriganites
+5	56	OINOS BOUNITES	Wine of Bunium
+5	57	OINOS DIKTAMNITES	Dictamnites
+5	58	OINOS PRASITES	Wine of Marrubium
+5	59	OINOS THUMITES	Thymites
+5	60	OINOS THUMBRITES	Thymbrites
+5	61	OINOS ORIGANITES	But Origanites is made of Heracleoticall Origanum, after ye same fashion as Thymites, being good for ye same things.
+5	62	OINOS KALAMINTHITES, GLECHONITES, ABROTONITES	Wine of Calaminth, Pennyroyall, Southernwood
+5	63	OINOS KONUZITES	Wine of Conyza
+5	64	OINOS AROMATITES	Vinum Aromatites
+5	65	OINOS EK SMURNES, PEPEREOS, IRIDOS	Wine of Myrrh, Pepper, and Iris
+5	66	OINOS NEKTARITES	Nectarites
+5	67	OINOS DIA NARDOU KAI MALABATHROU	Wine of Nard and Malabathrum
+5	68	OINOS ASARITES	Asarites
+5	69	OINOS AGRIAS NARDOU	Wine of wild Nard
+5	70	OINOS DAUKITES	Daucites
+5	71	OINOS ELELISPHAKITES	Wine of Sage
+5	72	OINOS PANAKITES	Panacites
+5	73	OINOS AKORITES	Wine of Acorus
+5	74	OINOS SELENITES	
+5	75	OINOS MARATHRITES KAI ANETHINOS	Wine of Fenill, Dill, and Parsley
+5	76	OINOS ALOS ANTHINOS	Wine of the flower of salt
+5	77	OINOS PHTHORIOS EMBRUON	Abortion Wine
+5	78	OINOS THUMELAITES	Thymelaeites
+5	79	OINOS CHAMAILAITES	Chamailaeites
+5	80	OINOS CHAMAIPITUINOS	Chamaepityinum
+5	81	OINOS MANDRAGORITES	Mandragorites
+5	82	OINOS ELLEBORITES	Elleborites
+5	83	SKAMMONITES	Scammonites
+5	85	POMPHOLUX	Pompholyx: a deposit in smelting furnaces
+5	86	ANTISPODA	Ashes used instead of Spodium
+5	87	CHALKOS KEKUMENOS	Burnt Copper
+5	88	CHALKOU ANTHOS	Flowers of Copper
+5	89	LEPIS	Scales of Copper
+5	90	LEPIS STOMOMATOS	Smithy scales
+5	91	IOS XUSTOS	Verdigris
+5	92	IOS SKOLEX	rust called Scolecia
+5	93	IOS SIDEROU	Iron-rust
+5	94	SKORIA SIDEROU	Iron-slag
+5	95	MOLUBDOS PEPLUMENOS	Washed Lead
+5	96	MOLUBDOS KEKAUMENOS	Burnt Lead
+5	97	SKORIA MOLUBDOU	Lead-dross
+5	98	MOLUBDOEIDES LITHOS	Lead-stone
+5	99	STIMMI	Antimony Sulphide
+5	100	MOLUBDAINA	Galena or Lead Sulphide
+5	101	SKORIA ARGUROU	Silver-dross
+5	102	LITHARGUROS	Litharge
+5	103	PSIMUTHIOS	White Lead
+5	104	CHRUSOKOLLA	Malachite
+5	105	ARMENION	Copper Carbonate
+5	106	KUANOS	Cyanus
+5	107	INDIKON	Indigo
+5	108	OCHRA	Ochre
+5	109	KINNABARI	Cinnabar
+5	110	UDRAGUROS	Quicksilver
+5	111	MILTOS SINOPIKE	Red earth of Sinope
+5	112	TEKTONIKE	Red ochre
+5	113	LEMNIA GE	Lemnian earth
+5	114	CHALKANTHON	Copperas-water
+5	115	CHALKITIS	Copper ore
+5	116	PSORIKON	Psoricum
+5	117	MISU	Copperas
+5	118	MELANTHERIA	Blacking
+5	119	SORU	Ink-stone (an ore)
+5	120	DIPHRUGES	Tutty
+5	121	ARSENIKON	Orpiment
+5	122	SANDARACHE	Realgar
+5	123	STUPTERIA	Alum
+5	124	THEION	Sulphur
+5	125	KISSERIS	Pumice
+5	126	ALES	Salt
+5	127	ALOS ACHNE	Sea-Foam
+5	128	ALME	Saltpetre?
+5	129	ALOS ANTHOS	Soda
+5	130	NITRON	Native soda
+5	131	NITROU APHROS	Spuma Nitri
+5	132	TRUX	Lees of wine
+5	133	ASBESTOS	Quick-lime
+5	134	GUPSOS	Gypsum
+5	135	TEPHRA KLEMATINE	Sarmentian ashes
+5	136	ALKUONION	Castings of King-fishers, etc.
+5	137	ADARKES	Calcium Chloride and other salts
+5	138	SPOGGOI	Sponges
+5	139	KORALLION	Isis nobilis
+5	140	ANTIPATHES	Antipathes formiculaceum
+5	141	PHRUGIOS LITHOS	Pumice with alum
+5	142	ASIOS LITHOS	Asian stone
+5	143	PURITES LITHOS	Copper pyrites
+5	144	AIMATITES LITHOS	Haematite
+5	145	SCHISTOS LITHOS	Haematite
+5	146	GAGATES LITHOS	Fossil Bitumen
+5	147	THRAKIAS LITHOS	Thracius Stone
+5	148	MAGNES	Load-stone
+5	149	ARABIKOS LITHOS	stone called Arabicus
+5	150	GALAKTITES LITHOS	Chalk
+5	151	MELITITES LITHOS	Honey-stone
+5	152	MOROCHTHOS LITHOS	Soap-stone, French Chalk
+5	153	ALABASTRITES LITHOS	Gypsum
+5	154	THUITES LITHOS	Turquoise
+5	155	IOUDAIKOS LITHOS	Fossil Spines of Sea Urchins
+5	156	AMIANTOS LITHOS	Asbestos
+5	157	SAPHEIROS LITHOS	Lapis Lazuli
+5	158	MEMPHITES LITHOS	Retinasphaltum
+5	159	SELENITES LITHOS	Selenite
+5	160	IASPIS LITHOS	Jasper
+5	161	AETITES LITHOS	Eagle-stone
+5	162	OPHITES LITHOS	Snake-stone
+5	163	LITHOI SPOGGON	Stones which are found in the sponges
+5	164	LITHOKOLLA	Lithocolla
+5	165	OSTRAKITES LITHOS	Fossil Oysters
+5	166	SMURIS LITHOS	Emery
+5	167	AMMOS	Sand
+5	168	AKONE	Whetstone
+5	169	GEODES LITHOS	Geodes stone
+5	170	GE	Earth
+5	171	ERETRIAS	Terra Eretria
+5	172	SAMIA	Terra Samia
+5	173	LITHOS SAMIOS	Samian Stone
+5	174	CHIA	Chian earth
+5	175	SELINOUSIA	Selinusian
+5	176	KIMOLIA	Cimolian earth
+5	177	PNIGITIS	Potter’s clay
+5	178	OSTRAKA	Tiles
+5	179	GE KAMINON	And ye red earth of the Furnaces that is well burnt hath the same quality that ye shells have.
+5	180	GE MELIA	Melia
+5	181	GE AMPELITIS	A bituminous earth
+5	182	ASBOLE	Soot
+5	183	MELAN	Black Ink

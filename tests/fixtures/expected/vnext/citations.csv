@@ -1,0 +1,9 @@
+edition_id,citation_ref,source_file,source_row,book_label,book_num,chapter_label,chapter_num,page_label,scan_id,iiif_key,headword,headword_greek,headword_latin,headword_english,notes,extra_json
+barbaro,c4|p1r|i3,revised_ed/barbaro.tsv,2,,,IIII,4,1r,,3,Iris,,,,,
+barbaro,c5|p2v|i4,revised_ed/barbaro.tsv,3,,,V,5,2v,,4,Acorus,,,,,
+beck,DMM1001,revised_ed/beck.tsv,2,,,,,,,,,iris_greek,,Iris,,
+beck,DMM1002,revised_ed/beck.tsv,3,,,,,,,,,acoron_greek,,Yellow flag,,
+gunther,b1|c1,revised_ed/gunther.tsv,2,,1,,1,,,,IRIS,,,,Iris desc,
+gunther,b1|c2,revised_ed/gunther.tsv,3,,1,,2,,,,AKORON,,,,Akoron desc,
+wellmann,b1|c1-r1,revised_ed/wellmann.tsv,1,,1,,1,,,,,iris_greek,,,,"{""citation_ref_collision"":{""base"":""b1|c1"",""resolved"":""b1|c1-r1""}}"
+wellmann,b1|c1-r2,revised_ed/wellmann.tsv,2,,1,,1,,,,,iris_alt,,,,"{""citation_ref_collision"":{""base"":""b1|c1"",""resolved"":""b1|c1-r2""}}"

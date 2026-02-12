@@ -1,0 +1,8 @@
+{
+  "items": [
+    {"id": "https://example.org/canvas/1"},
+    {"id": "https://example.org/canvas/2"},
+    {"id": "https://example.org/canvas/3"},
+    {"id": "https://example.org/canvas/4"}
+  ]
+}
